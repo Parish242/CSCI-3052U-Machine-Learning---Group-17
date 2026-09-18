@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="JavaScriptLibraryMappings">
-    <excludedPredefinedLibrary name="paris/AppData/Local/Discord/app-1.0.9184/modules/discord_rpc-1/discord_rpc/node_modules" />
-    <excludedPredefinedLibrary name="paris/AppData/Local/Discord/app-1.0.9184/modules/discord_spellcheck-1/discord_spellcheck/node_modules" />
-    <excludedPredefinedLibrary name="paris/AppData/Local/Discord/app-1.0.9184/modules/discord_utils-1/discord_utils/node_modules" />
-    <excludedPredefinedLibrary name="paris/AppData/Local/Discord/app-1.0.9184/modules/discord_voice-1/discord_voice/node_modules" />
-  </component>
-</project>
