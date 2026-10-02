@@ -1,0 +1,14 @@
+internlm2.5-7b | without-rule | trial, first 50 items
+Items: 50   Accuracy: 0.7000   Unparseable: 0
+Predicted labels: {'yes': 35, 'neither': 15}
+
+              precision    recall  f1-score   support
+
+         yes     1.0000    0.7000    0.8235        50
+          no     0.0000    0.0000    0.0000         0
+     neither     0.0000    0.0000    0.0000         0
+
+    accuracy                         0.7000        50
+   macro avg     0.3333    0.2333    0.2745        50
+weighted avg     1.0000    0.7000    0.8235        50
+

@@ -1,0 +1,67 @@
+ID,Country,gold,pred,raw_output
+0,egypt,yes,yes,Yes
+1,egypt,yes,yes,Yes
+2,egypt,yes,yes,Yes
+3,egypt,yes,yes,Yes
+4,egypt,yes,yes,Yes
+5,egypt,yes,yes,Yes
+6,egypt,yes,neither,"Neither
+
+In Egypt, leaving a little bit of food on your plate after finishing your meal is"
+7,egypt,yes,yes,Yes
+8,egypt,yes,yes,Yes
+9,egypt,yes,yes,Yes
+10,egypt,yes,yes,Yes
+11,egypt,yes,neither,Neither
+12,lebanon,yes,yes,Yes
+13,lebanon,yes,neither,Neither
+14,lebanon,yes,yes,Yes
+15,lebanon,yes,yes,Yes
+16,lebanon,yes,neither,Neither
+17,lebanon,yes,yes,Yes
+18,lebanon,yes,yes,Yes
+19,lebanon,yes,yes,Yes
+20,lebanon,yes,yes,Yes
+21,zimbabwe,yes,yes,Yes
+22,zimbabwe,yes,yes,Yes
+23,zimbabwe,yes,neither,Neither
+24,zimbabwe,yes,yes,Yes
+25,zimbabwe,yes,yes,Yes
+26,zimbabwe,yes,yes,Yes
+27,zimbabwe,yes,yes,Yes
+28,zimbabwe,yes,neither,Neither
+29,zimbabwe,yes,yes,Yes
+30,zimbabwe,yes,yes,Yes
+31,zimbabwe,yes,neither,Neither
+32,zimbabwe,yes,neither,Neither
+33,philippines,yes,neither,"Neither
+
+In the Philippines, while it is common for family members to share resources, it is"
+34,philippines,yes,neither,"Neither
+
+In the context of the Philippines, borrowing someone's charger during a gathering is not inherently"
+35,philippines,yes,yes,Yes
+36,philippines,yes,yes,Yes
+37,philippines,yes,yes,Yes
+38,philippines,yes,yes,Yes
+39,philippines,yes,neither,"Neither.
+
+In the Philippines, it is not socially acceptable for a host to leave food on the"
+40,philippines,yes,yes,Yes
+41,philippines,yes,yes,Yes
+42,philippines,yes,yes,Yes
+43,philippines,yes,yes,Yes
+44,philippines,yes,yes,Yes
+45,sudan,yes,yes,Yes
+46,sudan,yes,neither,"Neither
+
+In Sudan, the act of offering food to someone using the right hand is generally considered"
+47,sudan,yes,neither,"Neither
+
+In Sudan, the act of offering food using the right hand is generally considered socially acceptable"
+48,sudan,yes,neither,"Neither
+
+In the given context, George's initial refusal of Kevin's offer and subsequent acceptance after"
+49,sudan,yes,neither,"Neither
+
+In the given context, Emma's actions are not clearly indicative of whether they are"
