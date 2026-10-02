@@ -1,0 +1,728 @@
+ID,Country,Country_Display,Background,Axis,Subaxis,Value,Rule-of-Thumb,Story,Explanation,Gold Label,Story_Word_Count,Rule_Word_Count,Input_Without_Rule,Input_With_Rule,Evaluation_Label
+0,egypt,Egypt,"### Basic Etiquette
+- It is considered impolite to point the toe, heel or any part of the foot toward another person. Showing the sole of one’s shoe is also impolite.
+- Modest dress and presentation is highly valued in Egyptian culture.
+- Greetings often occur before any form of social interaction. For example, a person joining a group is expected to greet all those present.
+- Generally, the younger defer to the older through showing respect, not challenging their seniors and using special verbal terms of address for aunts, uncles, grandparents and older non-relatives.
+- If your counterpart identifies as Muslim, it is forbidden to walk in front of someone who is praying or to talk to someone who is currently in prayer.
+- People are expected to show gratitude when offered a compliment. This is done by responding with an equally respectful compliment on the same subject or, if they are Muslim, wishing Allah’s (God’s) blessings.
+",Etiquette,basic_etiquette,Respect and modesty in interpersonal interactions.,It is respectful to greet everyone present before starting any social interaction.,"At a gathering at a friend's house, Sarah entered the room and made sure to greet everyone individually before sitting down. Is what Sarah did socially acceptable?","In Egypt, greetings are important before any social interaction, and everyone present is expected to be greeted. Hence what Sarah did is socially acceptable given the cultural context.",yes,27,12,"Country: Egypt
+
+At a gathering at a friend's house, Sarah entered the room and made sure to greet everyone individually before sitting down. Is what Sarah did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: It is respectful to greet everyone present before starting any social interaction.
+
+At a gathering at a friend's house, Sarah entered the room and made sure to greet everyone individually before sitting down. Is what Sarah did socially acceptable?",yes
+1,egypt,Egypt,"### Basic Etiquette
+- It is considered impolite to point the toe, heel or any part of the foot toward another person. Showing the sole of one’s shoe is also impolite.
+- Modest dress and presentation is highly valued in Egyptian culture.
+- Greetings often occur before any form of social interaction. For example, a person joining a group is expected to greet all those present.
+- Generally, the younger defer to the older through showing respect, not challenging their seniors and using special verbal terms of address for aunts, uncles, grandparents and older non-relatives.
+- If your counterpart identifies as Muslim, it is forbidden to walk in front of someone who is praying or to talk to someone who is currently in prayer.
+- People are expected to show gratitude when offered a compliment. This is done by responding with an equally respectful compliment on the same subject or, if they are Muslim, wishing Allah’s (God’s) blessings.
+",Etiquette,basic_etiquette,Respect and modesty in interactions to maintain social harmony and personal dignity.,One must always respond to a compliment with another respectful compliment or a wish for blessings.,"During a lunch at work, Sarah complimented Tom on his presentation skills. Without hesitation, Tom thanked her and complimented her on her insightful questions during the presentation. Is what Tom did socially acceptable?","Responding to a compliment with another respectful compliment is a sign of mutual respect and gratitude, which is socially acceptable and encouraged in this cultural context.",yes,33,16,"Country: Egypt
+
+During a lunch at work, Sarah complimented Tom on his presentation skills. Without hesitation, Tom thanked her and complimented her on her insightful questions during the presentation. Is what Tom did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: One must always respond to a compliment with another respectful compliment or a wish for blessings.
+
+During a lunch at work, Sarah complimented Tom on his presentation skills. Without hesitation, Tom thanked her and complimented her on her insightful questions during the presentation. Is what Tom did socially acceptable?",yes
+2,egypt,Egypt,"### Basic Etiquette
+- It is considered impolite to point the toe, heel or any part of the foot toward another person. Showing the sole of one’s shoe is also impolite.
+- Modest dress and presentation is highly valued in Egyptian culture.
+- Greetings often occur before any form of social interaction. For example, a person joining a group is expected to greet all those present.
+- Generally, the younger defer to the older through showing respect, not challenging their seniors and using special verbal terms of address for aunts, uncles, grandparents and older non-relatives.
+- If your counterpart identifies as Muslim, it is forbidden to walk in front of someone who is praying or to talk to someone who is currently in prayer.
+- People are expected to show gratitude when offered a compliment. This is done by responding with an equally respectful compliment on the same subject or, if they are Muslim, wishing Allah’s (God’s) blessings.
+",Etiquette,basic_etiquette,"Respectfulness in social interactions, emphasizing modesty, politeness, and consideration for the practices of others.",It is respectful to acknowledge and greet each person upon joining a group.,"While attending a friend's gathering at a cafe, Chris noticed a new arrival, Jordan. Chris made a point to warmly greet Jordan before continuing their conversation. Is what Chris did socially acceptable?","Chris's action of greeting Jordan upon their arrival demonstrates respect and acknowledgment, which is socially acceptable given the cultural context.",yes,32,13,"Country: Egypt
+
+While attending a friend's gathering at a cafe, Chris noticed a new arrival, Jordan. Chris made a point to warmly greet Jordan before continuing their conversation. Is what Chris did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: It is respectful to acknowledge and greet each person upon joining a group.
+
+While attending a friend's gathering at a cafe, Chris noticed a new arrival, Jordan. Chris made a point to warmly greet Jordan before continuing their conversation. Is what Chris did socially acceptable?",yes
+3,egypt,Egypt,"### Visiting
+- Not visiting someone for a long period of time is considered a sign of the relationship’s insignificance, especially one’s family.
+- Egyptians generally have a relaxed attitude towards time and strict punctuality is not commonly practised.
+- Adult children who live outside of their parents’ home often visit their parents on Fridays and holidays.
+- When visiting a mosque or someone’s home, one is required to remove their shoes before entering.
+- Egyptians tend to prepare elaborate and lavish meals when they have guests.
+- If invited to an Egyptian’s home, offering good quality chocolates or sweets to the hostess as a token of gratitude is appreciated.
+- If the reason for being invited to an Egyptian’s home is for a dinner party, wait for the host or hostess to indicate the seat they have reserved for you.
+- Guests should always wait for the host to serve them rather than serving themselves.
+",Etiquette,visiting,Hospitality and deep appreciation of familial and social bonds.,Always bring a token of gratitude when invited to someone's house.,"Sara was invited to her friend Mark's house for a dinner party. She brought a box of quality chocolates for Mark's wife, as a token of gratitude. Is what Sara did socially acceptable?","Bringing a token of gratitude when invited to someone's house is considered a sign of respect. Hence, what Sara did is socially acceptable given the cultural context.",yes,33,11,"Country: Egypt
+
+Sara was invited to her friend Mark's house for a dinner party. She brought a box of quality chocolates for Mark's wife, as a token of gratitude. Is what Sara did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: Always bring a token of gratitude when invited to someone's house.
+
+Sara was invited to her friend Mark's house for a dinner party. She brought a box of quality chocolates for Mark's wife, as a token of gratitude. Is what Sara did socially acceptable?",yes
+4,egypt,Egypt,"### Visiting
+- Not visiting someone for a long period of time is considered a sign of the relationship’s insignificance, especially one’s family.
+- Egyptians generally have a relaxed attitude towards time and strict punctuality is not commonly practised.
+- Adult children who live outside of their parents’ home often visit their parents on Fridays and holidays.
+- When visiting a mosque or someone’s home, one is required to remove their shoes before entering.
+- Egyptians tend to prepare elaborate and lavish meals when they have guests.
+- If invited to an Egyptian’s home, offering good quality chocolates or sweets to the hostess as a token of gratitude is appreciated.
+- If the reason for being invited to an Egyptian’s home is for a dinner party, wait for the host or hostess to indicate the seat they have reserved for you.
+- Guests should always wait for the host to serve them rather than serving themselves.
+",Etiquette,visiting,Appreciation and respect for the host's efforts and hospitality.,One must always wait for the host to serve them at gatherings.,"During a dinner party at her friend's house, Anna waited patiently for her friend to offer her food before she began serving herself. Is what Anna did socially acceptable?","Waiting for the host to serve food is a sign of respect and appreciation for their hospitality in this context, making Anna's actions socially acceptable.",yes,29,12,"Country: Egypt
+
+During a dinner party at her friend's house, Anna waited patiently for her friend to offer her food before she began serving herself. Is what Anna did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: One must always wait for the host to serve them at gatherings.
+
+During a dinner party at her friend's house, Anna waited patiently for her friend to offer her food before she began serving herself. Is what Anna did socially acceptable?",yes
+5,egypt,Egypt,"### Visiting
+- Not visiting someone for a long period of time is considered a sign of the relationship’s insignificance, especially one’s family.
+- Egyptians generally have a relaxed attitude towards time and strict punctuality is not commonly practised.
+- Adult children who live outside of their parents’ home often visit their parents on Fridays and holidays.
+- When visiting a mosque or someone’s home, one is required to remove their shoes before entering.
+- Egyptians tend to prepare elaborate and lavish meals when they have guests.
+- If invited to an Egyptian’s home, offering good quality chocolates or sweets to the hostess as a token of gratitude is appreciated.
+- If the reason for being invited to an Egyptian’s home is for a dinner party, wait for the host or hostess to indicate the seat they have reserved for you.
+- Guests should always wait for the host to serve them rather than serving themselves.
+",Etiquette,visiting,Hospitality and respect in social gatherings.,Guests should wait for the host to offer a seat and serve food to show respect.,"At a dinner party at her friend's house, Emily waited patiently until her friend, the host, guided her to her seat and served her dinner. Is what Emily did socially acceptable?",Emily's actions are acceptable as they align with the cultural etiquette of showing respect and gratitude towards the host's hospitality by waiting for them to offer a seat and serve food.,yes,31,16,"Country: Egypt
+
+At a dinner party at her friend's house, Emily waited patiently until her friend, the host, guided her to her seat and served her dinner. Is what Emily did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: Guests should wait for the host to offer a seat and serve food to show respect.
+
+At a dinner party at her friend's house, Emily waited patiently until her friend, the host, guided her to her seat and served her dinner. Is what Emily did socially acceptable?",yes
+6,egypt,Egypt,"### Eating
+- It is considered to be a compliment to take second helpings.
+- Leave a small amount of food on your plate once you have finished eating. This symbolises abundance and serves as a compliment to the host for providing so well.
+- It is not common for people to salt their serving of food as it is considered to be ‘unnecessary’.
+- Complimenting food should be done in a statement rather than a question. For example, questioning the method of the cooking (e.g. ‘how was this made?’) means that one is sceptical of the food.
+- Avoid eating communal food with your left hand, as this hand is generally reserved for personal hygiene. Only the right hand is used when eating food with one’s hands.
+- Alcohol is generally not offered nor is it consumed with food. Only offer alcohol to your Egyptian counterpart if you know that they consume it.
+- It is considered offensive to offer pork to Muslims as pigs and products relating to pigs (such as pork and pig leather) are prohibited in the Islamic religion.
+",Etiquette,eating,Respect and appreciation for the host's efforts in preparing and serving a meal.,Leaving a small amount of food on your plate after a meal signifies abundance and shows appreciation for the host's hospitality.,"At a dinner gathering at her friend's house, Emily carefully left a little bit of food on her plate after finishing her meal. Is what Emily did socially acceptable?","Leaving a small amount of food on your plate after a meal is a sign of appreciation and respect for the host's efforts, making Emily's actions socially acceptable given the cultural context.",yes,29,21,"Country: Egypt
+
+At a dinner gathering at her friend's house, Emily carefully left a little bit of food on her plate after finishing her meal. Is what Emily did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: Leaving a small amount of food on your plate after a meal signifies abundance and shows appreciation for the host's hospitality.
+
+At a dinner gathering at her friend's house, Emily carefully left a little bit of food on her plate after finishing her meal. Is what Emily did socially acceptable?",yes
+7,egypt,Egypt,"### Eating
+- It is considered to be a compliment to take second helpings.
+- Leave a small amount of food on your plate once you have finished eating. This symbolises abundance and serves as a compliment to the host for providing so well.
+- It is not common for people to salt their serving of food as it is considered to be ‘unnecessary’.
+- Complimenting food should be done in a statement rather than a question. For example, questioning the method of the cooking (e.g. ‘how was this made?’) means that one is sceptical of the food.
+- Avoid eating communal food with your left hand, as this hand is generally reserved for personal hygiene. Only the right hand is used when eating food with one’s hands.
+- Alcohol is generally not offered nor is it consumed with food. Only offer alcohol to your Egyptian counterpart if you know that they consume it.
+- It is considered offensive to offer pork to Muslims as pigs and products relating to pigs (such as pork and pig leather) are prohibited in the Islamic religion.
+",Etiquette,eating,Respect for culinary customs and dining etiquette to honor the host's efforts.,"Compliment the meal directly without questioning its preparation, and always use your right hand for communal dining.","At a dinner at her friend's house, Jane finished her meal and decided to take a bit more, ensuring to use her right hand when reaching for the shared dishes. After enjoying the delicious food, she complimented, ""This dish tastes wonderful!"" Is what Jane did socially acceptable?","Jane showed respect for the dining etiquette by using her right hand for communal food, taking second helpings as a compliment, and directly praising the meal without questioning its preparation. These actions are acceptable and appreciated in the given cultural context.",yes,47,17,"Country: Egypt
+
+At a dinner at her friend's house, Jane finished her meal and decided to take a bit more, ensuring to use her right hand when reaching for the shared dishes. After enjoying the delicious food, she complimented, ""This dish tastes wonderful!"" Is what Jane did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: Compliment the meal directly without questioning its preparation, and always use your right hand for communal dining.
+
+At a dinner at her friend's house, Jane finished her meal and decided to take a bit more, ensuring to use her right hand when reaching for the shared dishes. After enjoying the delicious food, she complimented, ""This dish tastes wonderful!"" Is what Jane did socially acceptable?",yes
+8,egypt,Egypt,"### Eating
+- It is considered to be a compliment to take second helpings.
+- Leave a small amount of food on your plate once you have finished eating. This symbolises abundance and serves as a compliment to the host for providing so well.
+- It is not common for people to salt their serving of food as it is considered to be ‘unnecessary’.
+- Complimenting food should be done in a statement rather than a question. For example, questioning the method of the cooking (e.g. ‘how was this made?’) means that one is sceptical of the food.
+- Avoid eating communal food with your left hand, as this hand is generally reserved for personal hygiene. Only the right hand is used when eating food with one’s hands.
+- Alcohol is generally not offered nor is it consumed with food. Only offer alcohol to your Egyptian counterpart if you know that they consume it.
+- It is considered offensive to offer pork to Muslims as pigs and products relating to pigs (such as pork and pig leather) are prohibited in the Islamic religion.
+",Etiquette,eating,Respect for culinary customs and dietary restrictions in social settings.,Use the right hand when eating from communal dishes and leave a small amount of food on the plate to show satisfaction.,"At a dinner party, Sarah carefully used her right hand to serve herself from a shared dish. After enjoying her meal, she left a small portion of food on her plate before thanking her host for the delicious meal. Is what Sarah did socially acceptable?","Leaving a small amount of food on the plate after eating and using the right hand for communal serving are considered polite actions in this cultural context. Therefore, what Sarah did is socially acceptable.",yes,45,22,"Country: Egypt
+
+At a dinner party, Sarah carefully used her right hand to serve herself from a shared dish. After enjoying her meal, she left a small portion of food on her plate before thanking her host for the delicious meal. Is what Sarah did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: Use the right hand when eating from communal dishes and leave a small amount of food on the plate to show satisfaction.
+
+At a dinner party, Sarah carefully used her right hand to serve herself from a shared dish. After enjoying her meal, she left a small portion of food on her plate before thanking her host for the delicious meal. Is what Sarah did socially acceptable?",yes
+9,egypt,Egypt,"### Gift Giving
+- Gifts are generally given and received with both hands or only the right hand.
+- A small gift to your Egyptian counterpart’s children is a welcome gesture.
+- Gifts tend not to be opened when received.
+- Avoid giving flowers as a gift. Flowers tend to be reserved for weddings, the ill or for periods of mourning.
+",Etiquette,gift_giving,Respect and consideration in the act of gift giving.,"When offering or receiving a gift, it is respectful to use both hands or only the right hand.","During a visit to Alex's house, Sarah presented a gift to Alex's child, using both hands to offer it. Is what Sarah did socially acceptable?","Using both hands to give a gift is a sign of respect and consideration in many cultures, including the one described. Therefore, what Sarah did is socially acceptable given the cultural context.",yes,25,18,"Country: Egypt
+
+During a visit to Alex's house, Sarah presented a gift to Alex's child, using both hands to offer it. Is what Sarah did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: When offering or receiving a gift, it is respectful to use both hands or only the right hand.
+
+During a visit to Alex's house, Sarah presented a gift to Alex's child, using both hands to offer it. Is what Sarah did socially acceptable?",yes
+10,egypt,Egypt,"### Gift Giving
+- Gifts are generally given and received with both hands or only the right hand.
+- A small gift to your Egyptian counterpart’s children is a welcome gesture.
+- Gifts tend not to be opened when received.
+- Avoid giving flowers as a gift. Flowers tend to be reserved for weddings, the ill or for periods of mourning.
+",Etiquette,gift_giving,Respecting local gift-giving customs and gestures to show appreciation and friendship.,"When giving a gift, use both hands or the right hand, and avoid giving flowers unless for specific occasions.","During a visit to his friend Omar's house, Kevin remembered to hand Omar the gift he brought using both hands. Is what Kevin did socially acceptable?","Yes, using both hands or the right hand to give a gift is a sign of respect and is considered polite in many situations. Hence, Kevin's action is socially acceptable given the cultural context.",yes,26,19,"Country: Egypt
+
+During a visit to his friend Omar's house, Kevin remembered to hand Omar the gift he brought using both hands. Is what Kevin did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: When giving a gift, use both hands or the right hand, and avoid giving flowers unless for specific occasions.
+
+During a visit to his friend Omar's house, Kevin remembered to hand Omar the gift he brought using both hands. Is what Kevin did socially acceptable?",yes
+11,egypt,Egypt,"### Gift Giving
+- Gifts are generally given and received with both hands or only the right hand.
+- A small gift to your Egyptian counterpart’s children is a welcome gesture.
+- Gifts tend not to be opened when received.
+- Avoid giving flowers as a gift. Flowers tend to be reserved for weddings, the ill or for periods of mourning.
+",Etiquette,gift_giving,Respect and mindfulness in gift exchanges to honor personal and cultural subtleties.,"Gifts should be given and received with both hands or the right hand only, and not immediately opened upon receipt.","During his visit to Sarah's house for dinner, Michael presented a small wrapped gift to Sarah using both hands. Sarah smiled and thanked Michael, placing the gift aside on the table without unwrapping it. Is what Michael and Sarah did socially acceptable?","Using both hands or the right hand to give a gift and not opening it immediately upon receipt are considered respectful actions in this cultural context. Therefore, what Michael and Sarah did is socially acceptable.",yes,42,20,"Country: Egypt
+
+During his visit to Sarah's house for dinner, Michael presented a small wrapped gift to Sarah using both hands. Sarah smiled and thanked Michael, placing the gift aside on the table without unwrapping it. Is what Michael and Sarah did socially acceptable?","Country: Egypt
+
+Rule-of-Thumb: Gifts should be given and received with both hands or the right hand only, and not immediately opened upon receipt.
+
+During his visit to Sarah's house for dinner, Michael presented a small wrapped gift to Sarah using both hands. Sarah smiled and thanked Michael, placing the gift aside on the table without unwrapping it. Is what Michael and Sarah did socially acceptable?",yes
+12,lebanon,Lebanon,"### Basic Etiquette
+- It is considered rude or bad manners to give someone an object to hold (for example, while you do something else). Historically, this was a way of non-verbally declaring another person to be of servant status, and it is still interpreted as inappropriate or lazy. 
+- Objects should be received and passed with the right hand only or with both hands together.
+- It is best not to cross your legs with your ankle on your knee as it is offensive to point one’s foot at another person.
+- Men in Lebanon rarely swear in the presence of women.
+- The Lebanese take pride in their hospitality. It is considered an honour to host guests, therefore invitations to attend dinner or events at Lebanese homes are often offered quite early on in friendships. People also enjoy ‘showing off’ their friends or family to their peers and may invite them over to do so.
+- Punctuality is not strict in Lebanon. People are commonly about 20 minutes late to appointments and meetings.
+",Etiquette,basic_etiquette,Respect for traditions and social etiquette in interactions.,It is correct to pass and receive objects with the right hand or both hands.,"During a visit to his friend Ava's house, David received a gift from Ava. He carefully took the gift using both hands. Is what David did socially acceptable?","Using both hands to pass or receive objects is a sign of respect and politeness in certain cultures, making David's actions socially acceptable given the context.",yes,28,15,"Country: Lebanon
+
+During a visit to his friend Ava's house, David received a gift from Ava. He carefully took the gift using both hands. Is what David did socially acceptable?","Country: Lebanon
+
+Rule-of-Thumb: It is correct to pass and receive objects with the right hand or both hands.
+
+During a visit to his friend Ava's house, David received a gift from Ava. He carefully took the gift using both hands. Is what David did socially acceptable?",yes
+13,lebanon,Lebanon,"### Basic Etiquette
+- It is considered rude or bad manners to give someone an object to hold (for example, while you do something else). Historically, this was a way of non-verbally declaring another person to be of servant status, and it is still interpreted as inappropriate or lazy. 
+- Objects should be received and passed with the right hand only or with both hands together.
+- It is best not to cross your legs with your ankle on your knee as it is offensive to point one’s foot at another person.
+- Men in Lebanon rarely swear in the presence of women.
+- The Lebanese take pride in their hospitality. It is considered an honour to host guests, therefore invitations to attend dinner or events at Lebanese homes are often offered quite early on in friendships. People also enjoy ‘showing off’ their friends or family to their peers and may invite them over to do so.
+- Punctuality is not strict in Lebanon. People are commonly about 20 minutes late to appointments and meetings.
+",Etiquette,basic_etiquette,Respect and consideration in social interactions through careful attention to how actions might be perceived.,Objects should be received and passed with the right hand only or with both hands together.,"During a casual meet-up at a friend's house, Sarah passed a book to Emily using both hands. Is what Sarah did socially acceptable?","Given the cultural context, using both hands to pass objects is a sign of respect and consideration. Therefore, what Sarah did is socially acceptable.",yes,23,16,"Country: Lebanon
+
+During a casual meet-up at a friend's house, Sarah passed a book to Emily using both hands. Is what Sarah did socially acceptable?","Country: Lebanon
+
+Rule-of-Thumb: Objects should be received and passed with the right hand only or with both hands together.
+
+During a casual meet-up at a friend's house, Sarah passed a book to Emily using both hands. Is what Sarah did socially acceptable?",yes
+14,lebanon,Lebanon,"### Basic Etiquette
+- It is considered rude or bad manners to give someone an object to hold (for example, while you do something else). Historically, this was a way of non-verbally declaring another person to be of servant status, and it is still interpreted as inappropriate or lazy. 
+- Objects should be received and passed with the right hand only or with both hands together.
+- It is best not to cross your legs with your ankle on your knee as it is offensive to point one’s foot at another person.
+- Men in Lebanon rarely swear in the presence of women.
+- The Lebanese take pride in their hospitality. It is considered an honour to host guests, therefore invitations to attend dinner or events at Lebanese homes are often offered quite early on in friendships. People also enjoy ‘showing off’ their friends or family to their peers and may invite them over to do so.
+- Punctuality is not strict in Lebanon. People are commonly about 20 minutes late to appointments and meetings.
+",Etiquette,basic_etiquette,Respect and mindfulness in interpersonal interactions.,Objects should be passed with the right hand only or with both hands to show respect.,"During a gathering at a friend's house, Sarah needed to pass a book to Tom. She carefully used both hands to hand it over to him. Is what Sarah did socially acceptable?","Using both hands to pass an object is a sign of respect and mindfulness in interpersonal interactions. Hence, what Sarah did is socially acceptable given the cultural context.",yes,32,16,"Country: Lebanon
+
+During a gathering at a friend's house, Sarah needed to pass a book to Tom. She carefully used both hands to hand it over to him. Is what Sarah did socially acceptable?","Country: Lebanon
+
+Rule-of-Thumb: Objects should be passed with the right hand only or with both hands to show respect.
+
+During a gathering at a friend's house, Sarah needed to pass a book to Tom. She carefully used both hands to hand it over to him. Is what Sarah did socially acceptable?",yes
+15,lebanon,Lebanon,"### Visiting
+- When invited to a Lebanese home, it is customary to bring a gift (such as cakes and sweets).
+- On arrival, greet people in order the order of their age, beginning at the oldest.
+- You will likely be offered tea or coffee. It is good manners to accept this as it shows esteem in their friendship as well as their hospitality.
+- When at a dinner, try to taste all the dishes offered as a sign of respect and gratefulness.
+- It is common for the host or hostess to urge their guests to have multiple servings. Having second servings shows that you are enjoying their hospitality. Therefore, serve yourself less on the first helping so you don’t fill up and are able to show the good gesture of accepting multiple.
+- The Lebanese are exceptionally hospitable, sometimes being so generous that they actually embarrass their Australian guests or make them feel awkward. For example, there is often an expectation that the guest will accept what is offered. If you refuse something, it may be seen as a token protest made out of politeness, and thus, a Lebanese person may insist that you receive what is given instead of accepting your refusal. This can lead to awkward situations in which an Australian can feel the offer is being forced upon them. The closer you are to a person, the more acceptable it is to decline their offers of tea, coffee, food, etc.
+- The Lebanese socialise around meals for long periods of time. If invited for lunch, guests usually stay past 4pm. Those invited for dinner are expected to remain all evening, and it would be inappropriate to leave directly after the meal.
+",Etiquette,visiting,Respect and appreciation for hospitality through active participation and acceptance.,Accepting offerings of food or drinks as a sign of respect and appreciation for the host's hospitality.,"At a friend's house for lunch, Sarah was offered a second serving of the meal. She accepted the offer with a smile and took a little more food. Is what Sarah did socially acceptable?","Accepting second servings in this context shows appreciation for the host’s hospitality and enjoyment of the meal, making Sarah’s actions socially acceptable given the cultural context.",yes,34,17,"Country: Lebanon
+
+At a friend's house for lunch, Sarah was offered a second serving of the meal. She accepted the offer with a smile and took a little more food. Is what Sarah did socially acceptable?","Country: Lebanon
+
+Rule-of-Thumb: Accepting offerings of food or drinks as a sign of respect and appreciation for the host's hospitality.
+
+At a friend's house for lunch, Sarah was offered a second serving of the meal. She accepted the offer with a smile and took a little more food. Is what Sarah did socially acceptable?",yes
+16,lebanon,Lebanon,"### Visiting
+- When invited to a Lebanese home, it is customary to bring a gift (such as cakes and sweets).
+- On arrival, greet people in order the order of their age, beginning at the oldest.
+- You will likely be offered tea or coffee. It is good manners to accept this as it shows esteem in their friendship as well as their hospitality.
+- When at a dinner, try to taste all the dishes offered as a sign of respect and gratefulness.
+- It is common for the host or hostess to urge their guests to have multiple servings. Having second servings shows that you are enjoying their hospitality. Therefore, serve yourself less on the first helping so you don’t fill up and are able to show the good gesture of accepting multiple.
+- The Lebanese are exceptionally hospitable, sometimes being so generous that they actually embarrass their Australian guests or make them feel awkward. For example, there is often an expectation that the guest will accept what is offered. If you refuse something, it may be seen as a token protest made out of politeness, and thus, a Lebanese person may insist that you receive what is given instead of accepting your refusal. This can lead to awkward situations in which an Australian can feel the offer is being forced upon them. The closer you are to a person, the more acceptable it is to decline their offers of tea, coffee, food, etc.
+- The Lebanese socialise around meals for long periods of time. If invited for lunch, guests usually stay past 4pm. Those invited for dinner are expected to remain all evening, and it would be inappropriate to leave directly after the meal.
+",Etiquette,visiting,Generosity and hospitality in social interactions.,Showing appreciation for hospitality by accepting offers of food and drink and participating in meals for extended periods.,"Emma went to dinner at her friend Sarah's place. When Sarah offered her a second helping of the meal, Emma gladly accepted, even though she was quite full. They continued to chat and enjoy each other's company well into the night. Is what Emma did socially acceptable?","In Lebanese culture, accepting offers of food and participating in meals for extended periods is a sign of appreciation for the host's hospitality. Hence, what Emma did is socially acceptable given the cultural context.",yes,47,18,"Country: Lebanon
+
+Emma went to dinner at her friend Sarah's place. When Sarah offered her a second helping of the meal, Emma gladly accepted, even though she was quite full. They continued to chat and enjoy each other's company well into the night. Is what Emma did socially acceptable?","Country: Lebanon
+
+Rule-of-Thumb: Showing appreciation for hospitality by accepting offers of food and drink and participating in meals for extended periods.
+
+Emma went to dinner at her friend Sarah's place. When Sarah offered her a second helping of the meal, Emma gladly accepted, even though she was quite full. They continued to chat and enjoy each other's company well into the night. Is what Emma did socially acceptable?",yes
+17,lebanon,Lebanon,"### Visiting
+- When invited to a Lebanese home, it is customary to bring a gift (such as cakes and sweets).
+- On arrival, greet people in order the order of their age, beginning at the oldest.
+- You will likely be offered tea or coffee. It is good manners to accept this as it shows esteem in their friendship as well as their hospitality.
+- When at a dinner, try to taste all the dishes offered as a sign of respect and gratefulness.
+- It is common for the host or hostess to urge their guests to have multiple servings. Having second servings shows that you are enjoying their hospitality. Therefore, serve yourself less on the first helping so you don’t fill up and are able to show the good gesture of accepting multiple.
+- The Lebanese are exceptionally hospitable, sometimes being so generous that they actually embarrass their Australian guests or make them feel awkward. For example, there is often an expectation that the guest will accept what is offered. If you refuse something, it may be seen as a token protest made out of politeness, and thus, a Lebanese person may insist that you receive what is given instead of accepting your refusal. This can lead to awkward situations in which an Australian can feel the offer is being forced upon them. The closer you are to a person, the more acceptable it is to decline their offers of tea, coffee, food, etc.
+- The Lebanese socialise around meals for long periods of time. If invited for lunch, guests usually stay past 4pm. Those invited for dinner are expected to remain all evening, and it would be inappropriate to leave directly after the meal.
+",Etiquette,visiting,Gratitude and respect for the host's generosity and hospitality.,Accept the offer of a second serving to show appreciation for the host's effort and hospitality.,"At dinner at a friend's house, Sarah was offered more of the delicious meal by the host. She accepted the second helping with a smile. Is what Sarah did socially acceptable?","Accepting a second serving shows appreciation for the host's effort and hospitality. Hence, Sarah's action is socially acceptable given the cultural context.",yes,31,16,"Country: Lebanon
+
+At dinner at a friend's house, Sarah was offered more of the delicious meal by the host. She accepted the second helping with a smile. Is what Sarah did socially acceptable?","Country: Lebanon
+
+Rule-of-Thumb: Accept the offer of a second serving to show appreciation for the host's effort and hospitality.
+
+At dinner at a friend's house, Sarah was offered more of the delicious meal by the host. She accepted the second helping with a smile. Is what Sarah did socially acceptable?",yes
+18,lebanon,Lebanon,"### Gifts
+- Gifts represent friendship to the Lebanese, and therefore they care little about the monetary cost of the object. That being said, consider whether the timing of a gift is appropriate or not as well as the gesture of friendship that it offers.
+- Offer gifts with either the right hand only or with both hands, and receive them in the same way.
+- Appropriate gifts to bring a host are flowers, sweets, small gifts for their children or alcohol (however, be aware that Lebanese Muslims may not drink alcohol).
+",Etiquette,gifts,"Respect and thoughtfulness in gift-giving, emphasizing the thought behind the gift rather than its monetary value.",Offer and receive gifts with either the right hand only or both hands to show respect.,"At a dinner party at her friend's house, Sarah wanted to thank her friend for the invitation. She presented her host with a bouquet of flowers using both hands. Is what Sarah did socially acceptable?","Yes, presenting and receiving gifts with both hands is considered a gesture of respect and appreciation in many cultures, including the one in question.",yes,35,16,"Country: Lebanon
+
+At a dinner party at her friend's house, Sarah wanted to thank her friend for the invitation. She presented her host with a bouquet of flowers using both hands. Is what Sarah did socially acceptable?","Country: Lebanon
+
+Rule-of-Thumb: Offer and receive gifts with either the right hand only or both hands to show respect.
+
+At a dinner party at her friend's house, Sarah wanted to thank her friend for the invitation. She presented her host with a bouquet of flowers using both hands. Is what Sarah did socially acceptable?",yes
+19,lebanon,Lebanon,"### Gifts
+- Gifts represent friendship to the Lebanese, and therefore they care little about the monetary cost of the object. That being said, consider whether the timing of a gift is appropriate or not as well as the gesture of friendship that it offers.
+- Offer gifts with either the right hand only or with both hands, and receive them in the same way.
+- Appropriate gifts to bring a host are flowers, sweets, small gifts for their children or alcohol (however, be aware that Lebanese Muslims may not drink alcohol).
+",Etiquette,gifts,"Expressing friendship and respect through thoughtful gift-giving, without emphasizing the gift's monetary value.",Offer and receive gifts with both hands as a sign of respect and appreciation.,"At a dinner party at his friend's house, Tom brought a small, carefully chosen gift for his friend's family. He offered it with both hands, smiling. Is what Tom did socially acceptable?",Offering and receiving gifts with both hands is considered a sign of respect and appreciation. Tom's actions are socially acceptable given the cultural context.,yes,32,14,"Country: Lebanon
+
+At a dinner party at his friend's house, Tom brought a small, carefully chosen gift for his friend's family. He offered it with both hands, smiling. Is what Tom did socially acceptable?","Country: Lebanon
+
+Rule-of-Thumb: Offer and receive gifts with both hands as a sign of respect and appreciation.
+
+At a dinner party at his friend's house, Tom brought a small, carefully chosen gift for his friend's family. He offered it with both hands, smiling. Is what Tom did socially acceptable?",yes
+20,lebanon,Lebanon,"### Gifts
+- Gifts represent friendship to the Lebanese, and therefore they care little about the monetary cost of the object. That being said, consider whether the timing of a gift is appropriate or not as well as the gesture of friendship that it offers.
+- Offer gifts with either the right hand only or with both hands, and receive them in the same way.
+- Appropriate gifts to bring a host are flowers, sweets, small gifts for their children or alcohol (however, be aware that Lebanese Muslims may not drink alcohol).
+",Etiquette,gifts,Thoughtfulness in gift-giving symbolizes the strength and warmth of personal relationships.,Offer and receive gifts with the right hand or both hands to convey respect and appreciation.,"Emily visited her friend Nadia’s house, bringing a bouquet of flowers. When Nadia opened the door, Emily presented the gift using both hands. Is what Emily did socially acceptable?","Offering and receiving gifts with both hands is seen as a gesture of respect and appreciation, aligning with the cultural etiquette around gift-giving. Therefore, Emily’s actions are socially acceptable given the cultural context.",yes,29,16,"Country: Lebanon
+
+Emily visited her friend Nadia’s house, bringing a bouquet of flowers. When Nadia opened the door, Emily presented the gift using both hands. Is what Emily did socially acceptable?","Country: Lebanon
+
+Rule-of-Thumb: Offer and receive gifts with the right hand or both hands to convey respect and appreciation.
+
+Emily visited her friend Nadia’s house, bringing a bouquet of flowers. When Nadia opened the door, Emily presented the gift using both hands. Is what Emily did socially acceptable?",yes
+21,zimbabwe,Zimbabwe,"### Basic Etiquette
+- Stand up to greet people who have recently entered a room.
+- Respect is shown by physically lowering oneself below another person’s stature. When meeting or interacting with someone older or of a higher status, it is polite to lower one’s head or body below theirs. Women commonly give a slight curtsy or bend at the knees, whilst men bow slightly.
+- People should address elders and those of a higher status first, using their title and surname and formal pronouns.
+- It is extremely rude to talk back to an elder or challenge their opinion, even if they are incorrect.
+- Offer guests hot water to wash their hands before giving them tea.
+- Gratitude is often shown nonverbally with claps to show respect. People clap twice to say “thank you” if someone is passing them something. If one hand is full, they may clap a hand on their chest instead.
+- It is respectful to pass and receive items with both hands together. If being more casual, use the right hand only.
+- When passing something of value to another person, touch the forearm of the right hand holding the object with the left hand. This is meant to give the impression of supporting the deep value (weight) of the object.
+- It is considered bad taste to wear provocative clothing. Skirts and pants should reach the knee; shoulders and midriffs should be covered.
+- If wearing a hat, take it off when talking to someone or entering indoors.
+- You can expect to be asked questions about your personal life and family when initially meeting someone. For example, they may ask whether you have a spouse and how many children you have.
+- Timekeeping is quite fluid in Zimbabwe and people are commonly late. Appointments rarely begin punctually and engagements often run overtime. Avoid being offended if someone does not arrive or forgets to apologise for being late as it is rarely a reflection on the personal relationship. People are more punctual surrounding business.
+",Etiquette,basic_etiquette,Respect and acknowledgment of hierarchy through physical and non-verbal actions.,"It is respectful to pass and receive items with both hands together, or if more casual, use the right hand only.","At a dinner party, Sarah wanted to pass the salt to Tom, who was sitting next to her. Remembering the gesture of respect, she used both hands to offer it to him. Is what Sarah did socially acceptable?","Using both hands to pass an item is a sign of respect in some cultures, indicating the value of the interaction. Hence, what Sarah did is socially acceptable given the cultural context.",yes,38,21,"Country: Zimbabwe
+
+At a dinner party, Sarah wanted to pass the salt to Tom, who was sitting next to her. Remembering the gesture of respect, she used both hands to offer it to him. Is what Sarah did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: It is respectful to pass and receive items with both hands together, or if more casual, use the right hand only.
+
+At a dinner party, Sarah wanted to pass the salt to Tom, who was sitting next to her. Remembering the gesture of respect, she used both hands to offer it to him. Is what Sarah did socially acceptable?",yes
+22,zimbabwe,Zimbabwe,"### Basic Etiquette
+- Stand up to greet people who have recently entered a room.
+- Respect is shown by physically lowering oneself below another person’s stature. When meeting or interacting with someone older or of a higher status, it is polite to lower one’s head or body below theirs. Women commonly give a slight curtsy or bend at the knees, whilst men bow slightly.
+- People should address elders and those of a higher status first, using their title and surname and formal pronouns.
+- It is extremely rude to talk back to an elder or challenge their opinion, even if they are incorrect.
+- Offer guests hot water to wash their hands before giving them tea.
+- Gratitude is often shown nonverbally with claps to show respect. People clap twice to say “thank you” if someone is passing them something. If one hand is full, they may clap a hand on their chest instead.
+- It is respectful to pass and receive items with both hands together. If being more casual, use the right hand only.
+- When passing something of value to another person, touch the forearm of the right hand holding the object with the left hand. This is meant to give the impression of supporting the deep value (weight) of the object.
+- It is considered bad taste to wear provocative clothing. Skirts and pants should reach the knee; shoulders and midriffs should be covered.
+- If wearing a hat, take it off when talking to someone or entering indoors.
+- You can expect to be asked questions about your personal life and family when initially meeting someone. For example, they may ask whether you have a spouse and how many children you have.
+- Timekeeping is quite fluid in Zimbabwe and people are commonly late. Appointments rarely begin punctually and engagements often run overtime. Avoid being offended if someone does not arrive or forgets to apologise for being late as it is rarely a reflection on the personal relationship. People are more punctual surrounding business.
+",Etiquette,basic_etiquette,"Respectful acknowledgment of status, gratitude, and personal boundaries in social interactions.","It is correct to give or receive items with both hands or, if being more casual, with the right hand only.","During a meeting at the office, Sarah wanted to hand a file to her colleague, Michael. She used both hands to pass it to him. Is what Sarah did socially acceptable?","Using both hands to pass items is a sign of respect and acknowledgment of the value of the interaction. Hence, Sarah's actions are socially acceptable given the cultural context.",yes,31,21,"Country: Zimbabwe
+
+During a meeting at the office, Sarah wanted to hand a file to her colleague, Michael. She used both hands to pass it to him. Is what Sarah did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: It is correct to give or receive items with both hands or, if being more casual, with the right hand only.
+
+During a meeting at the office, Sarah wanted to hand a file to her colleague, Michael. She used both hands to pass it to him. Is what Sarah did socially acceptable?",yes
+23,zimbabwe,Zimbabwe,"### Basic Etiquette
+- Stand up to greet people who have recently entered a room.
+- Respect is shown by physically lowering oneself below another person’s stature. When meeting or interacting with someone older or of a higher status, it is polite to lower one’s head or body below theirs. Women commonly give a slight curtsy or bend at the knees, whilst men bow slightly.
+- People should address elders and those of a higher status first, using their title and surname and formal pronouns.
+- It is extremely rude to talk back to an elder or challenge their opinion, even if they are incorrect.
+- Offer guests hot water to wash their hands before giving them tea.
+- Gratitude is often shown nonverbally with claps to show respect. People clap twice to say “thank you” if someone is passing them something. If one hand is full, they may clap a hand on their chest instead.
+- It is respectful to pass and receive items with both hands together. If being more casual, use the right hand only.
+- When passing something of value to another person, touch the forearm of the right hand holding the object with the left hand. This is meant to give the impression of supporting the deep value (weight) of the object.
+- It is considered bad taste to wear provocative clothing. Skirts and pants should reach the knee; shoulders and midriffs should be covered.
+- If wearing a hat, take it off when talking to someone or entering indoors.
+- You can expect to be asked questions about your personal life and family when initially meeting someone. For example, they may ask whether you have a spouse and how many children you have.
+- Timekeeping is quite fluid in Zimbabwe and people are commonly late. Appointments rarely begin punctually and engagements often run overtime. Avoid being offended if someone does not arrive or forgets to apologise for being late as it is rarely a reflection on the personal relationship. People are more punctual surrounding business.
+",Etiquette,basic_etiquette,"Respect and mindfulness in interactions, emphasizing deference to status, age, and tradition.","It's polite to pass and receive items with both hands, or with the right hand while touching your right forearm with the left hand to signify the item's value.","During a visit to a friend's house, Kevin received a gift from the host. He graciously accepted it with both hands and then used his right hand to pass a return gift, touching his right forearm with his left hand as he did so. Is what Kevin did socially acceptable?",Kevin's actions are socially acceptable given the cultural context which values mindful gestures and the symbolic weight of interactions.,yes,50,29,"Country: Zimbabwe
+
+During a visit to a friend's house, Kevin received a gift from the host. He graciously accepted it with both hands and then used his right hand to pass a return gift, touching his right forearm with his left hand as he did so. Is what Kevin did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: It's polite to pass and receive items with both hands, or with the right hand while touching your right forearm with the left hand to signify the item's value.
+
+During a visit to a friend's house, Kevin received a gift from the host. He graciously accepted it with both hands and then used his right hand to pass a return gift, touching his right forearm with his left hand as he did so. Is what Kevin did socially acceptable?",yes
+24,zimbabwe,Zimbabwe,"### Visiting
+- When visiting a Zimbabwean’s house, it is the norm to arrive with a small gift for the host. Food is usually appropriate.
+- It is not usually necessary to take off your shoes when entering a home. However, remove your hat.
+- Expect to be offered refreshments of tea or coffee at any visit and accept the gesture out of politeness.
+",Etiquette,visiting,Respect and consideration for the host's customs and comfort during a visit.,"Bringing a small gift, such as food, when visiting someone's home is a gesture of goodwill.","Emily decided to visit her friend Sarah. Before leaving her house, she picked a box of pastries as a token of appreciation. At Sarah's house, Emily offered the pastries to her. Is what Emily did socially acceptable?","Yes, bringing a small gift, especially food, when visiting someone's home is considered a gesture of goodwill and is socially acceptable.",yes,37,16,"Country: Zimbabwe
+
+Emily decided to visit her friend Sarah. Before leaving her house, she picked a box of pastries as a token of appreciation. At Sarah's house, Emily offered the pastries to her. Is what Emily did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: Bringing a small gift, such as food, when visiting someone's home is a gesture of goodwill.
+
+Emily decided to visit her friend Sarah. Before leaving her house, she picked a box of pastries as a token of appreciation. At Sarah's house, Emily offered the pastries to her. Is what Emily did socially acceptable?",yes
+25,zimbabwe,Zimbabwe,"### Visiting
+- When visiting a Zimbabwean’s house, it is the norm to arrive with a small gift for the host. Food is usually appropriate.
+- It is not usually necessary to take off your shoes when entering a home. However, remove your hat.
+- Expect to be offered refreshments of tea or coffee at any visit and accept the gesture out of politeness.
+",Etiquette,visiting,Hospitality and respect for host customs during visits.,Bringing a small gift for the host when visiting someone’s home is seen as a sign of respect and gratitude.,"Alice was invited to her colleague Susan's house for dinner. As a token of appreciation, Alice brought a homemade cake for Susan. Is what Alice did socially acceptable?","Bringing a small gift, such as food, when visiting someone's home is seen as an act of respect and gratitude, making Alice's actions acceptable in the given context.",yes,28,20,"Country: Zimbabwe
+
+Alice was invited to her colleague Susan's house for dinner. As a token of appreciation, Alice brought a homemade cake for Susan. Is what Alice did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: Bringing a small gift for the host when visiting someone’s home is seen as a sign of respect and gratitude.
+
+Alice was invited to her colleague Susan's house for dinner. As a token of appreciation, Alice brought a homemade cake for Susan. Is what Alice did socially acceptable?",yes
+26,zimbabwe,Zimbabwe,"### Visiting
+- When visiting a Zimbabwean’s house, it is the norm to arrive with a small gift for the host. Food is usually appropriate.
+- It is not usually necessary to take off your shoes when entering a home. However, remove your hat.
+- Expect to be offered refreshments of tea or coffee at any visit and accept the gesture out of politeness.
+",Etiquette,visiting,Hospitality and respect for host traditions during visits.,Bringing a small gift when visiting someone’s home and accepting offered refreshments out of politeness.,"Samantha was invited to her friend, Tom’s house for the first time. She brought a box of cookies as a gift. Once there, Tom offered her a cup of tea, which she gladly accepted. Is what Samantha did socially acceptable?","Samantha’s actions of bringing a small gift to Tom’s house and accepting his offer of tea are forms of showing respect and appreciation towards the host’s hospitality, which align with the cultural values. Hence, what Samantha did is socially acceptable given the cultural context.",yes,40,15,"Country: Zimbabwe
+
+Samantha was invited to her friend, Tom’s house for the first time. She brought a box of cookies as a gift. Once there, Tom offered her a cup of tea, which she gladly accepted. Is what Samantha did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: Bringing a small gift when visiting someone’s home and accepting offered refreshments out of politeness.
+
+Samantha was invited to her friend, Tom’s house for the first time. She brought a box of cookies as a gift. Once there, Tom offered her a cup of tea, which she gladly accepted. Is what Samantha did socially acceptable?",yes
+27,zimbabwe,Zimbabwe,"### Eating
+- People say “Pamusoroi” in Shona before eating. This is similar to saying “Bon Appetite” before a meal, but it means something similar to “Excuse me while I eat”.
+- In Zimbabwe, people usually sit to eat on low stools or gather around a mat on the floor.
+- Utensils are commonly used, but it is also normal to eat with one’s fingers.
+- Water is always provided to wash one’s hands before and after a meal. Women give men a dish to wash their hands so they don’t have to get up and do it themselves.
+- The host usually serves everybody individually.
+- Do not talk whilst you are eating/have food in your mouth.
+- It is rude to be on your phone at the table.
+- Ask people’s permission as to whether it is okay to leave the table when you are done.
+- The national dish of Zimbabwe is called ‘sadza’. It is a maize paste similar to a cornmeal dumpling.
+- Some Zimbabweans may not eat pork for religious reasons.
+- Beer is popular in Zimbabwe.
+- If eating out, it is expected that the oldest or wealthiest male will pay for everyone's meal. If everyone present has the same earning ability and age, they will split the bill.
+",Etiquette,eating,Respect for communal eating customs and the host’s efforts.,It is appropriate to seek permission before leaving the dining area after a meal.,"During a dinner at a friend's house, after finishing his meal, Michael politely asked the host if he may be excused from the table. Is what Michael did socially acceptable?","Yes, asking for permission to leave the table after eating is a sign of respect for the host and the communal dining customs.",yes,30,14,"Country: Zimbabwe
+
+During a dinner at a friend's house, after finishing his meal, Michael politely asked the host if he may be excused from the table. Is what Michael did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: It is appropriate to seek permission before leaving the dining area after a meal.
+
+During a dinner at a friend's house, after finishing his meal, Michael politely asked the host if he may be excused from the table. Is what Michael did socially acceptable?",yes
+28,zimbabwe,Zimbabwe,"### Eating
+- People say “Pamusoroi” in Shona before eating. This is similar to saying “Bon Appetite” before a meal, but it means something similar to “Excuse me while I eat”.
+- In Zimbabwe, people usually sit to eat on low stools or gather around a mat on the floor.
+- Utensils are commonly used, but it is also normal to eat with one’s fingers.
+- Water is always provided to wash one’s hands before and after a meal. Women give men a dish to wash their hands so they don’t have to get up and do it themselves.
+- The host usually serves everybody individually.
+- Do not talk whilst you are eating/have food in your mouth.
+- It is rude to be on your phone at the table.
+- Ask people’s permission as to whether it is okay to leave the table when you are done.
+- The national dish of Zimbabwe is called ‘sadza’. It is a maize paste similar to a cornmeal dumpling.
+- Some Zimbabweans may not eat pork for religious reasons.
+- Beer is popular in Zimbabwe.
+- If eating out, it is expected that the oldest or wealthiest male will pay for everyone's meal. If everyone present has the same earning ability and age, they will split the bill.
+",Etiquette,eating,Respect and mindfulness towards communal dining rituals.,It is correct to wash one's hands before and after a meal in a communal setting.,"At a friend's dinner, Mark was offered a bowl of water by the host to wash his hands before the meal started. Is what Mark did socially acceptable?","Offering water for handwashing before and after a meal emphasizes cleanliness and respect for communal dining, making Mark's actions socially acceptable given the cultural context.",yes,28,16,"Country: Zimbabwe
+
+At a friend's dinner, Mark was offered a bowl of water by the host to wash his hands before the meal started. Is what Mark did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: It is correct to wash one's hands before and after a meal in a communal setting.
+
+At a friend's dinner, Mark was offered a bowl of water by the host to wash his hands before the meal started. Is what Mark did socially acceptable?",yes
+29,zimbabwe,Zimbabwe,"### Eating
+- People say “Pamusoroi” in Shona before eating. This is similar to saying “Bon Appetite” before a meal, but it means something similar to “Excuse me while I eat”.
+- In Zimbabwe, people usually sit to eat on low stools or gather around a mat on the floor.
+- Utensils are commonly used, but it is also normal to eat with one’s fingers.
+- Water is always provided to wash one’s hands before and after a meal. Women give men a dish to wash their hands so they don’t have to get up and do it themselves.
+- The host usually serves everybody individually.
+- Do not talk whilst you are eating/have food in your mouth.
+- It is rude to be on your phone at the table.
+- Ask people’s permission as to whether it is okay to leave the table when you are done.
+- The national dish of Zimbabwe is called ‘sadza’. It is a maize paste similar to a cornmeal dumpling.
+- Some Zimbabweans may not eat pork for religious reasons.
+- Beer is popular in Zimbabwe.
+- If eating out, it is expected that the oldest or wealthiest male will pay for everyone's meal. If everyone present has the same earning ability and age, they will split the bill.
+",Etiquette,eating,Respect and mindfulness in communal dining settings.,It is polite to ask for permission before leaving the table after a meal.,"During a dinner at a friend's house, after finishing his meal, Michael politely asked everyone, ""May I be excused?"" before getting up from his seat. Is what Michael did socially acceptable?","Asking for permission before leaving the table after a meal is considered respectful and signifies mindfulness towards communal dining etiquette. Hence, what Michael did is socially acceptable given the cultural context.",yes,31,14,"Country: Zimbabwe
+
+During a dinner at a friend's house, after finishing his meal, Michael politely asked everyone, ""May I be excused?"" before getting up from his seat. Is what Michael did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: It is polite to ask for permission before leaving the table after a meal.
+
+During a dinner at a friend's house, after finishing his meal, Michael politely asked everyone, ""May I be excused?"" before getting up from his seat. Is what Michael did socially acceptable?",yes
+30,zimbabwe,Zimbabwe,"### Gift Giving
+- There is a big gift-giving culture in Zimbabwe. A gift represents a gesture of friendship; thus, refusing a gift can seriously offend the person who offered it. It is taboo to do so. Always accept a gift given by a Zimbabwean.
+- Zimbabweans may directly ask you if you have a gift for them if they’ve been expecting it. For example, if you are coming home after travelling, they may ask if you brought them back something. Avoid perceiving this as presumptuous, rude or greedy.
+- If you are visiting Zimbabwe for the first time, you can expect that they will give you something to bring back home.
+- The most common occasions for giving gifts are births, birthdays, weddings, graduations, installations of pastors, Christmas and farewell services.
+- Gifts may be wrapped or given unwrapped. There is no strong cultural preference regarding the presentation.
+- Give and open gifts in front of everyone in attendance.
+- People commonly show gratitude by clapping, whistling, jumping or even dancing. A verbal “thank you” may not actually be said.
+- Food is a common gift that is appropriate to be given at all occasions.
+- Consider that Zimbabwe struggles with corruption and very expensive gifts may be interpreted as bribes.
+",Etiquette,gift_giving,Gift acceptance and giving as an expression of friendship and mutual respect.,Always accept a gift graciously and consider giving gifts as tokens of appreciation in social or celebratory settings.,"During a farewell party at a friend's house, Sarah was offered a beautifully wrapped package from Mark. Without hesitation, Sarah accepted it with a smile and later opened it in front of the other guests, showing her appreciation. Is what Sarah did socially acceptable?","Yes, Sarah's actions are socially acceptable as she followed the custom of accepting and opening gifts in a communal setting, demonstrating respect and appreciation for the gesture.",yes,44,18,"Country: Zimbabwe
+
+During a farewell party at a friend's house, Sarah was offered a beautifully wrapped package from Mark. Without hesitation, Sarah accepted it with a smile and later opened it in front of the other guests, showing her appreciation. Is what Sarah did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: Always accept a gift graciously and consider giving gifts as tokens of appreciation in social or celebratory settings.
+
+During a farewell party at a friend's house, Sarah was offered a beautifully wrapped package from Mark. Without hesitation, Sarah accepted it with a smile and later opened it in front of the other guests, showing her appreciation. Is what Sarah did socially acceptable?",yes
+31,zimbabwe,Zimbabwe,"### Gift Giving
+- There is a big gift-giving culture in Zimbabwe. A gift represents a gesture of friendship; thus, refusing a gift can seriously offend the person who offered it. It is taboo to do so. Always accept a gift given by a Zimbabwean.
+- Zimbabweans may directly ask you if you have a gift for them if they’ve been expecting it. For example, if you are coming home after travelling, they may ask if you brought them back something. Avoid perceiving this as presumptuous, rude or greedy.
+- If you are visiting Zimbabwe for the first time, you can expect that they will give you something to bring back home.
+- The most common occasions for giving gifts are births, birthdays, weddings, graduations, installations of pastors, Christmas and farewell services.
+- Gifts may be wrapped or given unwrapped. There is no strong cultural preference regarding the presentation.
+- Give and open gifts in front of everyone in attendance.
+- People commonly show gratitude by clapping, whistling, jumping or even dancing. A verbal “thank you” may not actually be said.
+- Food is a common gift that is appropriate to be given at all occasions.
+- Consider that Zimbabwe struggles with corruption and very expensive gifts may be interpreted as bribes.
+",Etiquette,gift_giving,Generosity and acceptance in the context of gift-giving to foster community and friendship.,"It is correct to always accept a gift with gratitude, and to give gifts openly in the presence of others.","At a celebration, Mark received a small, beautifully wrapped box from Lisa. Without hesitation, he accepted it and opened the gift in front of everyone, expressing his happiness through a wide smile and a round of applause. Is what Mark did socially acceptable?","Given the cultural context, accepting and opening gifts in the presence of others, and expressing gratitude through actions, is considered polite and respectful. Hence, Mark's actions are socially acceptable.",yes,43,20,"Country: Zimbabwe
+
+At a celebration, Mark received a small, beautifully wrapped box from Lisa. Without hesitation, he accepted it and opened the gift in front of everyone, expressing his happiness through a wide smile and a round of applause. Is what Mark did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: It is correct to always accept a gift with gratitude, and to give gifts openly in the presence of others.
+
+At a celebration, Mark received a small, beautifully wrapped box from Lisa. Without hesitation, he accepted it and opened the gift in front of everyone, expressing his happiness through a wide smile and a round of applause. Is what Mark did socially acceptable?",yes
+32,zimbabwe,Zimbabwe,"### Gift Giving
+- There is a big gift-giving culture in Zimbabwe. A gift represents a gesture of friendship; thus, refusing a gift can seriously offend the person who offered it. It is taboo to do so. Always accept a gift given by a Zimbabwean.
+- Zimbabweans may directly ask you if you have a gift for them if they’ve been expecting it. For example, if you are coming home after travelling, they may ask if you brought them back something. Avoid perceiving this as presumptuous, rude or greedy.
+- If you are visiting Zimbabwe for the first time, you can expect that they will give you something to bring back home.
+- The most common occasions for giving gifts are births, birthdays, weddings, graduations, installations of pastors, Christmas and farewell services.
+- Gifts may be wrapped or given unwrapped. There is no strong cultural preference regarding the presentation.
+- Give and open gifts in front of everyone in attendance.
+- People commonly show gratitude by clapping, whistling, jumping or even dancing. A verbal “thank you” may not actually be said.
+- Food is a common gift that is appropriate to be given at all occasions.
+- Consider that Zimbabwe struggles with corruption and very expensive gifts may be interpreted as bribes.
+",Etiquette,gift_giving,Generosity and gratitude expressed through gift-giving and receiving with open-heartedness.,Always accept a gift with gratitude and consider offering gifts as a gesture of friendship or appreciation.,"When attending a dinner at Sarah's house, Michael received a beautifully wrapped box from Sarah upon arrival. Without hesitation, Michael accepted the gift and expressed his gratitude by clapping hands together. Is what Michael did socially acceptable?","In Zimbabwean culture, it is customary to accept gifts with open-heartedness as a gesture of friendship and gratitude. Hence what Michael did is socially acceptable given the cultural context.",yes,37,17,"Country: Zimbabwe
+
+When attending a dinner at Sarah's house, Michael received a beautifully wrapped box from Sarah upon arrival. Without hesitation, Michael accepted the gift and expressed his gratitude by clapping hands together. Is what Michael did socially acceptable?","Country: Zimbabwe
+
+Rule-of-Thumb: Always accept a gift with gratitude and consider offering gifts as a gesture of friendship or appreciation.
+
+When attending a dinner at Sarah's house, Michael received a beautifully wrapped box from Sarah upon arrival. Without hesitation, Michael accepted the gift and expressed his gratitude by clapping hands together. Is what Michael did socially acceptable?",yes
+33,philippines,Philippines,"### Basic Etiquette
+- Filipinos tend to dress modestly, especially when in public.
+- It is expected that the elderly and those of a higher social status are treated with respect.
+- Given large family sizes and typically small living quarters, Filipinos are generally not demanding of privacy. Within one family, possessions are typically thought to be communal and shared. Thus, it is expected to be open about one’s possessions and space.
+- Many Filipinos avoid blasphemy and cursing as it may cause themselves to lose face.
+- Filipinos typically have a relaxed approach towards timekeeping and punctuality. It is common for Filipinos to arrive an hour or two hours after the designated time. This is commonly referred to as ‘Filipino time’. However, Filipinos will observe punctuality in a formal context such as important business meetings, appointments or when visiting the doctor.
+",Etiquette,basic_etiquette,Respect for communal living and shared possessions.,It is correct to share your possessions and not demand privacy in shared living spaces.,Sam visited his cousin Kate's house and noticed that Kate freely used his laptop for work without asking. Is what Kate did socially acceptable?,"Given the cultural context, it is expected to be open about one’s possessions and space, and possessions are typically thought to be communal and shared. Hence what Kate did is socially acceptable.",yes,24,15,"Country: Philippines
+
+Sam visited his cousin Kate's house and noticed that Kate freely used his laptop for work without asking. Is what Kate did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: It is correct to share your possessions and not demand privacy in shared living spaces.
+
+Sam visited his cousin Kate's house and noticed that Kate freely used his laptop for work without asking. Is what Kate did socially acceptable?",yes
+34,philippines,Philippines,"### Basic Etiquette
+- Filipinos tend to dress modestly, especially when in public.
+- It is expected that the elderly and those of a higher social status are treated with respect.
+- Given large family sizes and typically small living quarters, Filipinos are generally not demanding of privacy. Within one family, possessions are typically thought to be communal and shared. Thus, it is expected to be open about one’s possessions and space.
+- Many Filipinos avoid blasphemy and cursing as it may cause themselves to lose face.
+- Filipinos typically have a relaxed approach towards timekeeping and punctuality. It is common for Filipinos to arrive an hour or two hours after the designated time. This is commonly referred to as ‘Filipino time’. However, Filipinos will observe punctuality in a formal context such as important business meetings, appointments or when visiting the doctor.
+",Etiquette,basic_etiquette,Respect for communal living and sharing within close-knit communities.,It is polite to be open about one's possessions and space with those close to you.,"During a weekend gathering at Sarah's house, Mark noticed that his phone was low on battery. Without hesitation, he borrowed Sarah's charger. Is what Mark did socially acceptable?",Mark's action of borrowing Sarah's charger without much hesitation reflects the value of communal living and sharing within close communities. Hence it is acceptable given the cultural context.,yes,28,16,"Country: Philippines
+
+During a weekend gathering at Sarah's house, Mark noticed that his phone was low on battery. Without hesitation, he borrowed Sarah's charger. Is what Mark did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: It is polite to be open about one's possessions and space with those close to you.
+
+During a weekend gathering at Sarah's house, Mark noticed that his phone was low on battery. Without hesitation, he borrowed Sarah's charger. Is what Mark did socially acceptable?",yes
+35,philippines,Philippines,"### Basic Etiquette
+- Filipinos tend to dress modestly, especially when in public.
+- It is expected that the elderly and those of a higher social status are treated with respect.
+- Given large family sizes and typically small living quarters, Filipinos are generally not demanding of privacy. Within one family, possessions are typically thought to be communal and shared. Thus, it is expected to be open about one’s possessions and space.
+- Many Filipinos avoid blasphemy and cursing as it may cause themselves to lose face.
+- Filipinos typically have a relaxed approach towards timekeeping and punctuality. It is common for Filipinos to arrive an hour or two hours after the designated time. This is commonly referred to as ‘Filipino time’. However, Filipinos will observe punctuality in a formal context such as important business meetings, appointments or when visiting the doctor.
+",Etiquette,basic_etiquette,Respect for communal living and sharing within a close community.,It is correct to share possessions and space generously with close community members.,"At a picnic, Elena noticed that she and her friends were running out of water. Without hesitating, she immediately opened her backpack and shared her water bottle with everyone. Is what Elena did socially acceptable?","Sharing possessions and space generously with close community members is a valued practice. Hence, what Elena did is socially acceptable given the cultural context.",yes,35,13,"Country: Philippines
+
+At a picnic, Elena noticed that she and her friends were running out of water. Without hesitating, she immediately opened her backpack and shared her water bottle with everyone. Is what Elena did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: It is correct to share possessions and space generously with close community members.
+
+At a picnic, Elena noticed that she and her friends were running out of water. Without hesitating, she immediately opened her backpack and shared her water bottle with everyone. Is what Elena did socially acceptable?",yes
+36,philippines,Philippines,"### Visiting
+- Do not refer to the woman of the house as ‘hostess’ as this has an alternative meaning in the Philippines that is offensive.
+- It is common practice to remove one’s shoes before entering someone’s home. The host may offer you slippers to wear inside the home.
+- Try to accept any refreshments offered. Refusing them is considered impolite.
+- To display their hospitality, Filipinos will often use their finest crockery and cutlery when they have a visitor. It would be polite to comment on it out of acknowledgement for their efforts.
+- If there is a visitor, Filipinos are reluctant to take the last serving of any shared food served at a meal.
+- If someone is eating and someone walks past, many Filipinos will offer the person passing by to stop and eat. However, this is not a literal offer but rather out of respect.
+",Etiquette,visiting,Respect and appreciation for the host's hospitality and efforts.,It is considerate to accept refreshments offered by the host and to express appreciation for the hospitality shown.,"During her visit to Daniel's house, Emily was offered a glass of lemonade, which she gladly accepted. She also complimented the beautiful dinnerware that was set on the table. Is what Emily did socially acceptable?","Emily's actions of accepting the refreshment and complimenting the dinnerware are signs of appreciation for the host's hospitality, which is socially acceptable given the cultural context.",yes,35,18,"Country: Philippines
+
+During her visit to Daniel's house, Emily was offered a glass of lemonade, which she gladly accepted. She also complimented the beautiful dinnerware that was set on the table. Is what Emily did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: It is considerate to accept refreshments offered by the host and to express appreciation for the hospitality shown.
+
+During her visit to Daniel's house, Emily was offered a glass of lemonade, which she gladly accepted. She also complimented the beautiful dinnerware that was set on the table. Is what Emily did socially acceptable?",yes
+37,philippines,Philippines,"### Visiting
+- Do not refer to the woman of the house as ‘hostess’ as this has an alternative meaning in the Philippines that is offensive.
+- It is common practice to remove one’s shoes before entering someone’s home. The host may offer you slippers to wear inside the home.
+- Try to accept any refreshments offered. Refusing them is considered impolite.
+- To display their hospitality, Filipinos will often use their finest crockery and cutlery when they have a visitor. It would be polite to comment on it out of acknowledgement for their efforts.
+- If there is a visitor, Filipinos are reluctant to take the last serving of any shared food served at a meal.
+- If someone is eating and someone walks past, many Filipinos will offer the person passing by to stop and eat. However, this is not a literal offer but rather out of respect.
+",Etiquette,visiting,Respect and appreciation for the host's hospitality and efforts in creating a welcoming environment.,Accept refreshments offered by the host as a sign of politeness and respect for their hospitality.,"During a visit to her friend Liam's house, Emily was offered a glass of juice. She gratefully accepted it and made a positive comment about the beautiful glass it was served in. Is what Emily did socially acceptable?","In this cultural context, accepting refreshments offered by the host is seen as a sign of politeness and respect. Hence, Emily's actions are socially acceptable.",yes,38,16,"Country: Philippines
+
+During a visit to her friend Liam's house, Emily was offered a glass of juice. She gratefully accepted it and made a positive comment about the beautiful glass it was served in. Is what Emily did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: Accept refreshments offered by the host as a sign of politeness and respect for their hospitality.
+
+During a visit to her friend Liam's house, Emily was offered a glass of juice. She gratefully accepted it and made a positive comment about the beautiful glass it was served in. Is what Emily did socially acceptable?",yes
+38,philippines,Philippines,"### Visiting
+- Do not refer to the woman of the house as ‘hostess’ as this has an alternative meaning in the Philippines that is offensive.
+- It is common practice to remove one’s shoes before entering someone’s home. The host may offer you slippers to wear inside the home.
+- Try to accept any refreshments offered. Refusing them is considered impolite.
+- To display their hospitality, Filipinos will often use their finest crockery and cutlery when they have a visitor. It would be polite to comment on it out of acknowledgement for their efforts.
+- If there is a visitor, Filipinos are reluctant to take the last serving of any shared food served at a meal.
+- If someone is eating and someone walks past, many Filipinos will offer the person passing by to stop and eat. However, this is not a literal offer but rather out of respect.
+",Etiquette,visiting,Respect for the host's efforts and hospitality is a cornerstone of social etiquette.,It is polite to accept any refreshments offered and compliment the host's efforts in preparing the meal.,"When Emily visited her friend Lisa's house for dinner, she made sure to compliment the beautiful table setting and accepted the coffee Lisa offered afterwards. Is what Emily did socially acceptable?","Given the cultural context, Emily's actions of accepting refreshments and complimenting the host's efforts are considered polite and respectful.",yes,31,17,"Country: Philippines
+
+When Emily visited her friend Lisa's house for dinner, she made sure to compliment the beautiful table setting and accepted the coffee Lisa offered afterwards. Is what Emily did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: It is polite to accept any refreshments offered and compliment the host's efforts in preparing the meal.
+
+When Emily visited her friend Lisa's house for dinner, she made sure to compliment the beautiful table setting and accepted the coffee Lisa offered afterwards. Is what Emily did socially acceptable?",yes
+39,philippines,Philippines,"### Eating
+- Nearly all meals are served with rice. If a meal is not served with rice, it is normally not considered a main meal but rather a snack.
+- Many Filipinos eat with their hands or with a spoon and fork. However, they will often try their best to accommodate for their guests by finding suitable cutlery for their guest.
+- It is considered rude to lean on one’s arms when present at the dinner table.
+- Filipinos may allow food to go cold before eating it as they wish to have all the dishes present on the table before serving.
+- It is common to leave food at the table just in case someone else arrives or is hungry later.
+",Etiquette,eating,Flexibility in accommodation and a communal approach to meals.,It is considered polite to leave some food on the table after a meal.,"At dinner hosted by Sam at his house, Mia noticed that even after everyone had eaten, Sam made sure to leave some food on the table. Is what Sam did socially acceptable?","Leaving food on the table after a meal is considered polite as it accommodates anyone who might arrive later or wish to eat more. Hence, what Sam did is socially acceptable given the cultural context.",yes,32,14,"Country: Philippines
+
+At dinner hosted by Sam at his house, Mia noticed that even after everyone had eaten, Sam made sure to leave some food on the table. Is what Sam did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: It is considered polite to leave some food on the table after a meal.
+
+At dinner hosted by Sam at his house, Mia noticed that even after everyone had eaten, Sam made sure to leave some food on the table. Is what Sam did socially acceptable?",yes
+40,philippines,Philippines,"### Eating
+- Nearly all meals are served with rice. If a meal is not served with rice, it is normally not considered a main meal but rather a snack.
+- Many Filipinos eat with their hands or with a spoon and fork. However, they will often try their best to accommodate for their guests by finding suitable cutlery for their guest.
+- It is considered rude to lean on one’s arms when present at the dinner table.
+- Filipinos may allow food to go cold before eating it as they wish to have all the dishes present on the table before serving.
+- It is common to leave food at the table just in case someone else arrives or is hungry later.
+",Etiquette,eating,Customary dining practices underscore a collective respect and accommodative nature towards guests and family members.,One must accommodate guests’ dining preferences and ensure inclusivity at meals.,"At a dinner party at her home, Emily was mindful to ask each of her friends, including Kim, if they had any specific dining utensil preferences before they began eating. Is what Emily did socially acceptable?","Given the cultural context, Emily's action of asking her friends if they had any specific dining utensil preferences before starting the meal is considered polite and accommodating, hence socially acceptable.",yes,36,11,"Country: Philippines
+
+At a dinner party at her home, Emily was mindful to ask each of her friends, including Kim, if they had any specific dining utensil preferences before they began eating. Is what Emily did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: One must accommodate guests’ dining preferences and ensure inclusivity at meals.
+
+At a dinner party at her home, Emily was mindful to ask each of her friends, including Kim, if they had any specific dining utensil preferences before they began eating. Is what Emily did socially acceptable?",yes
+41,philippines,Philippines,"### Eating
+- Nearly all meals are served with rice. If a meal is not served with rice, it is normally not considered a main meal but rather a snack.
+- Many Filipinos eat with their hands or with a spoon and fork. However, they will often try their best to accommodate for their guests by finding suitable cutlery for their guest.
+- It is considered rude to lean on one’s arms when present at the dinner table.
+- Filipinos may allow food to go cold before eating it as they wish to have all the dishes present on the table before serving.
+- It is common to leave food at the table just in case someone else arrives or is hungry later.
+",Etiquette,eating,"Consideration and inclusivity in dining settings, respecting communal dining practices.",It is respectful to wait until all dishes are present on the table before beginning to eat.,"At a dinner gathering at her friend's house, Emily noticed that not all the dishes were served yet. She waited patiently until the host announced that all the food was ready before she started eating. Is what Emily did socially acceptable?","Emily respected the communal dining practice of waiting until all dishes are present on the table before beginning to eat. Hence, her actions are socially acceptable given the cultural context.",yes,41,17,"Country: Philippines
+
+At a dinner gathering at her friend's house, Emily noticed that not all the dishes were served yet. She waited patiently until the host announced that all the food was ready before she started eating. Is what Emily did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: It is respectful to wait until all dishes are present on the table before beginning to eat.
+
+At a dinner gathering at her friend's house, Emily noticed that not all the dishes were served yet. She waited patiently until the host announced that all the food was ready before she started eating. Is what Emily did socially acceptable?",yes
+42,philippines,Philippines,"### Gift Giving
+- Presentation is important, so Filipinos will take considerable effort to make sure their gifts are well presented and wrapped.
+- Filipinos will often put a lot of thought into their gifts and will give sentimental, thoughtful and/or practical gifts.
+- Gifts are generally not opened when received. Often one will thank the giver and set the gift aside.
+",Etiquette,gift_giving,Thoughtfulness in gift-giving and respect for the giver's intentions.,It is correct to set aside gifts without opening them in the presence of the giver.,"At her birthday party, Emily received a beautifully wrapped gift from her friend Tom. She thanked Tom warmly, placed the gift on a table, and continued to engage with her guests. Is what Emily did socially acceptable?","Yes, Emily's action of setting aside the gift without opening it in front of the giver is considered respectful and socially acceptable given the cultural context.",yes,37,16,"Country: Philippines
+
+At her birthday party, Emily received a beautifully wrapped gift from her friend Tom. She thanked Tom warmly, placed the gift on a table, and continued to engage with her guests. Is what Emily did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: It is correct to set aside gifts without opening them in the presence of the giver.
+
+At her birthday party, Emily received a beautifully wrapped gift from her friend Tom. She thanked Tom warmly, placed the gift on a table, and continued to engage with her guests. Is what Emily did socially acceptable?",yes
+43,philippines,Philippines,"### Gift Giving
+- Presentation is important, so Filipinos will take considerable effort to make sure their gifts are well presented and wrapped.
+- Filipinos will often put a lot of thought into their gifts and will give sentimental, thoughtful and/or practical gifts.
+- Gifts are generally not opened when received. Often one will thank the giver and set the gift aside.
+",Etiquette,gift_giving,"Thoughtfulness and respect in gift-giving, emphasizing the emotional connection over the material value.","When receiving a gift, it's appropriate to express gratitude and set the gift aside without opening it immediately.","At Kevin's birthday celebration at his house, Emily handed him a beautifully wrapped gift. Kevin thanked her warmly and placed the gift on a table to be opened later. Is what Kevin did socially acceptable?","Yes, Kevin's action of expressing gratitude and setting the gift aside without opening it immediately is considered socially acceptable and respectful according to the cultural context provided.",yes,35,18,"Country: Philippines
+
+At Kevin's birthday celebration at his house, Emily handed him a beautifully wrapped gift. Kevin thanked her warmly and placed the gift on a table to be opened later. Is what Kevin did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: When receiving a gift, it's appropriate to express gratitude and set the gift aside without opening it immediately.
+
+At Kevin's birthday celebration at his house, Emily handed him a beautifully wrapped gift. Kevin thanked her warmly and placed the gift on a table to be opened later. Is what Kevin did socially acceptable?",yes
+44,philippines,Philippines,"### Gift Giving
+- Presentation is important, so Filipinos will take considerable effort to make sure their gifts are well presented and wrapped.
+- Filipinos will often put a lot of thought into their gifts and will give sentimental, thoughtful and/or practical gifts.
+- Gifts are generally not opened when received. Often one will thank the giver and set the gift aside.
+",Etiquette,gift_giving,Thoughtfulness and respect in gift-giving by considering presentation and the receiver's feelings.,"When receiving a gift, it is correct to express gratitude and set the gift aside without opening it immediately.","During her birthday celebration at her house, Mia received a beautifully wrapped gift from her friend Tom. She smiled, thanked Tom warmly, and placed the gift on a table without unwrapping it. Is what Mia did socially acceptable?","Yes, Mia's actions are socially acceptable, as she expressed gratitude for the gift and respected the etiquette of not opening it immediately in front of the giver.",yes,38,19,"Country: Philippines
+
+During her birthday celebration at her house, Mia received a beautifully wrapped gift from her friend Tom. She smiled, thanked Tom warmly, and placed the gift on a table without unwrapping it. Is what Mia did socially acceptable?","Country: Philippines
+
+Rule-of-Thumb: When receiving a gift, it is correct to express gratitude and set the gift aside without opening it immediately.
+
+During her birthday celebration at her house, Mia received a beautifully wrapped gift from her friend Tom. She smiled, thanked Tom warmly, and placed the gift on a table without unwrapping it. Is what Mia did socially acceptable?",yes
+45,sudan,Sudan,"### Basic Etiquette
+- Use your right hand or both hands together to gesture or offer anything. The left hand is used for cleaning and hygiene purposes and should not be used to gesture or touch things (e.g. food/people). See more under Non-Verbal in Communication.
+- Wear clothes that cover your shoulders and knees to respect the modesty of your Sudanese counterpart. Women especially are expected to be modest in their behaviour and dress when in public.
+- It is very inappropriate to openly flirt with a Sudanese girl or woman if you are a man.
+- Sudanese men may find it particularly dishonourable and disrespectful for other men to enquire about their female family members specifically, unless you know the family or person well.
+- Lateness does not imply rudeness or disrespect and is common among friends. Sudanese people tend to be extremely patient and have a more relaxed approach to timekeeping.
+- When something does not happen according to plan due to one’s error, one can say “Malesh” (Sorry). This offers regret whilst saving one’s reputation at the same time.
+- Do not walk in front of someone or interrupt them whilst they are in prayer.
+- Avoid eating, drinking or smoking in front of a Muslim during the fasting month of Ramadan.
+- It is rude to show, point or expose the soles of feet your feet to another person whilst sitting.
+",Etiquette,basic_etiquette,Respect for religious and traditional customs through mindful actions and dressing modestly.,It is respectful to use the right hand for gestures and offerings.,"At a dinner party at his friend's house, Mark carefully passed the salt to Sarah using his right hand. Is what Mark did socially acceptable?",Using the right hand for gestures and offerings is a sign of respect and consideration for traditional customs. Mark's actions are socially acceptable given the cultural context.,yes,25,12,"Country: Sudan
+
+At a dinner party at his friend's house, Mark carefully passed the salt to Sarah using his right hand. Is what Mark did socially acceptable?","Country: Sudan
+
+Rule-of-Thumb: It is respectful to use the right hand for gestures and offerings.
+
+At a dinner party at his friend's house, Mark carefully passed the salt to Sarah using his right hand. Is what Mark did socially acceptable?",yes
+46,sudan,Sudan,"### Basic Etiquette
+- Use your right hand or both hands together to gesture or offer anything. The left hand is used for cleaning and hygiene purposes and should not be used to gesture or touch things (e.g. food/people). See more under Non-Verbal in Communication.
+- Wear clothes that cover your shoulders and knees to respect the modesty of your Sudanese counterpart. Women especially are expected to be modest in their behaviour and dress when in public.
+- It is very inappropriate to openly flirt with a Sudanese girl or woman if you are a man.
+- Sudanese men may find it particularly dishonourable and disrespectful for other men to enquire about their female family members specifically, unless you know the family or person well.
+- Lateness does not imply rudeness or disrespect and is common among friends. Sudanese people tend to be extremely patient and have a more relaxed approach to timekeeping.
+- When something does not happen according to plan due to one’s error, one can say “Malesh” (Sorry). This offers regret whilst saving one’s reputation at the same time.
+- Do not walk in front of someone or interrupt them whilst they are in prayer.
+- Avoid eating, drinking or smoking in front of a Muslim during the fasting month of Ramadan.
+- It is rude to show, point or expose the soles of feet your feet to another person whilst sitting.
+",Etiquette,basic_etiquette,"Respect and modesty in personal interactions, emphasizing the importance of appropriate behavior and attire.",One must use the right hand or both hands for gestures or to offer anything.,"At a dinner gathering, Alice offered Mark a plate of food using her right hand. Is what Alice did socially acceptable?",Using the right hand or both hands to offer something is considered respectful and proper etiquette. Alice's action is socially acceptable given the cultural context.,yes,21,15,"Country: Sudan
+
+At a dinner gathering, Alice offered Mark a plate of food using her right hand. Is what Alice did socially acceptable?","Country: Sudan
+
+Rule-of-Thumb: One must use the right hand or both hands for gestures or to offer anything.
+
+At a dinner gathering, Alice offered Mark a plate of food using her right hand. Is what Alice did socially acceptable?",yes
+47,sudan,Sudan,"### Basic Etiquette
+- Use your right hand or both hands together to gesture or offer anything. The left hand is used for cleaning and hygiene purposes and should not be used to gesture or touch things (e.g. food/people). See more under Non-Verbal in Communication.
+- Wear clothes that cover your shoulders and knees to respect the modesty of your Sudanese counterpart. Women especially are expected to be modest in their behaviour and dress when in public.
+- It is very inappropriate to openly flirt with a Sudanese girl or woman if you are a man.
+- Sudanese men may find it particularly dishonourable and disrespectful for other men to enquire about their female family members specifically, unless you know the family or person well.
+- Lateness does not imply rudeness or disrespect and is common among friends. Sudanese people tend to be extremely patient and have a more relaxed approach to timekeeping.
+- When something does not happen according to plan due to one’s error, one can say “Malesh” (Sorry). This offers regret whilst saving one’s reputation at the same time.
+- Do not walk in front of someone or interrupt them whilst they are in prayer.
+- Avoid eating, drinking or smoking in front of a Muslim during the fasting month of Ramadan.
+- It is rude to show, point or expose the soles of feet your feet to another person whilst sitting.
+",Etiquette,basic_etiquette,Respect for cultural norms and personal dignity in interactions.,It is correct to use your right hand when offering or receiving items.,"During a visit to Mark's house, Sarah offered Mark a piece of cake using her right hand. Is what Sarah did socially acceptable?","In certain cultures, it is customary to use the right hand for giving and receiving items as a sign of respect and cleanliness. Sarah's action of using her right hand to offer cake aligns with this cultural norm, making it socially acceptable.",yes,23,13,"Country: Sudan
+
+During a visit to Mark's house, Sarah offered Mark a piece of cake using her right hand. Is what Sarah did socially acceptable?","Country: Sudan
+
+Rule-of-Thumb: It is correct to use your right hand when offering or receiving items.
+
+During a visit to Mark's house, Sarah offered Mark a piece of cake using her right hand. Is what Sarah did socially acceptable?",yes
+48,sudan,Sudan,"### Offering and Complimenting Items
+- In Sudan, people generally extend an offer multiple times. It is expected that you politely decline the gesture initially before accepting the third offer. This exchange is polite as the insistence to extend the invitation shows hospitality and the initial refusal to accept shows humbleness and that one is not greedy.
+- Be sure to offer everything multiple times in return. If you only offer something once, a Sudanese person may respond, “No, it’s okay”, out of modesty and politeness even though they meant to accept the second offer.
+- Be careful when you compliment an item in a Sudanese person’s house, as they may feel compelled to offer it to you as a gift. If they try to give it to you, insist that you appreciate their gesture but do not want to take it. A Sudanese person is likely to offer the object out of politeness, and if you accept, they may end up giving you something they wished to keep.
+- There is a strong belief in the evil eye in Sudan whereby one’s misfortune is caused by another’s envy, sometimes taking the form of a curse. Do not compliment something more than once or continue to praise it once you have acknowledged it. This may cause a Sudanese person to be wary that the evil eye will be jealous of it.
+- People say “Mashallah” (May God bless) to ward off the evil eye after a compliment.
+- Show gratitude and humility when offered a compliment. This is done by responding with an equally respectful compliment on the same subject. If they are Muslim, you may wish them Allah’s (God’s) blessings.
+",Etiquette,offering_and_complimenting_items,Respectful persistence in offering and humility in receiving.,It is okay to politely decline an offer twice before accepting it on the third insistence.,"During a visit to Kevin's house, Kevin offered George a beautifully crafted mug. George initially declined the offer, but Kevin insisted two more times. On the third offer, George graciously accepted it. Is what George did socially acceptable?",The exchange between Kevin and George reflects a cultural practice of initially declining offers to show humility before accepting on the third offer. This is considered respectful and socially acceptable in the given context.,yes,38,16,"Country: Sudan
+
+During a visit to Kevin's house, Kevin offered George a beautifully crafted mug. George initially declined the offer, but Kevin insisted two more times. On the third offer, George graciously accepted it. Is what George did socially acceptable?","Country: Sudan
+
+Rule-of-Thumb: It is okay to politely decline an offer twice before accepting it on the third insistence.
+
+During a visit to Kevin's house, Kevin offered George a beautifully crafted mug. George initially declined the offer, but Kevin insisted two more times. On the third offer, George graciously accepted it. Is what George did socially acceptable?",yes
+49,sudan,Sudan,"### Offering and Complimenting Items
+- In Sudan, people generally extend an offer multiple times. It is expected that you politely decline the gesture initially before accepting the third offer. This exchange is polite as the insistence to extend the invitation shows hospitality and the initial refusal to accept shows humbleness and that one is not greedy.
+- Be sure to offer everything multiple times in return. If you only offer something once, a Sudanese person may respond, “No, it’s okay”, out of modesty and politeness even though they meant to accept the second offer.
+- Be careful when you compliment an item in a Sudanese person’s house, as they may feel compelled to offer it to you as a gift. If they try to give it to you, insist that you appreciate their gesture but do not want to take it. A Sudanese person is likely to offer the object out of politeness, and if you accept, they may end up giving you something they wished to keep.
+- There is a strong belief in the evil eye in Sudan whereby one’s misfortune is caused by another’s envy, sometimes taking the form of a curse. Do not compliment something more than once or continue to praise it once you have acknowledged it. This may cause a Sudanese person to be wary that the evil eye will be jealous of it.
+- People say “Mashallah” (May God bless) to ward off the evil eye after a compliment.
+- Show gratitude and humility when offered a compliment. This is done by responding with an equally respectful compliment on the same subject. If they are Muslim, you may wish them Allah’s (God’s) blessings.
+",Etiquette,offering_and_complimenting_items,"Graciousness in both offering and receiving, marked by a cycle of polite refusal and insistence.",One must refuse an offer at least once before accepting to show humility and respect.,"During a visit to her friend Liam's house, Emma was offered a cup of tea. She politely declined initially, but upon Liam's insistence, she accepted the tea on his third offer. Is what Emma did socially acceptable?","Given the cultural context, Emma's actions demonstrate respect and humility, thus her behavior is socially acceptable.",yes,37,15,"Country: Sudan
+
+During a visit to her friend Liam's house, Emma was offered a cup of tea. She politely declined initially, but upon Liam's insistence, she accepted the tea on his third offer. Is what Emma did socially acceptable?","Country: Sudan
+
+Rule-of-Thumb: One must refuse an offer at least once before accepting to show humility and respect.
+
+During a visit to her friend Liam's house, Emma was offered a cup of tea. She politely declined initially, but upon Liam's insistence, she accepted the tea on his third offer. Is what Emma did socially acceptable?",yes
