@@ -1,0 +1,14 @@
+internlm2.5-7b | without-rule | full run, 2615 items
+Items: 2615   Accuracy: 0.4340   Unparseable: 0
+Predicted labels: {'yes': 860, 'neither': 1674, 'no': 81}
+
+              precision    recall  f1-score   support
+
+         yes     0.6488    0.5917    0.6190       943
+          no     0.5432    0.0503    0.0921       875
+     neither     0.3184    0.6688    0.4314       797
+
+    accuracy                         0.4340      2615
+   macro avg     0.5035    0.4369    0.3808      2615
+weighted avg     0.5128    0.4340    0.3855      2615
+
