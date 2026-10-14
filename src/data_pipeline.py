@@ -66,18 +66,18 @@ def get_grouped_splits():
 
     # Hold out 20% for the test set grouped by Background
     gss = GroupShuffleSplit(n_splits=1, test_size=0.20, random_state=42)
-    train_val_idx, test_idx = next(gss.split(data, groups=data['Background']))
+    train_val_idx, test_idx = next(gss.split(data, groups=data["Background"]))
 
     train_val_data = data.iloc[train_val_idx].reset_index(drop=True)
     test_data = data.iloc[test_idx].reset_index(drop=True)
 
     # 5-Fold StratifiedGroupKFold on the train/val set for hyperparameter tuning
     sgkf = StratifiedGroupKFold(n_splits=5, shuffle=True, random_state=42)
-    folds = list(sgkf.split(train_val_data, y=train_val_data['gold_label'], groups=train_val_data['Background']))
+    folds = list(sgkf.split(train_val_data, y=train_val_data["gold_label"], groups=train_val_data["Background"]))
 
     return train_val_data, test_data, folds
 
 if __name__ == "__main__":
-    train_val, test, cv_folds = get_grouped_splits()
-    print(f"Train/val size: {len(train_val)} | Test size: {len(test)}")
+    train_val_data, test_data, cv_folds = get_grouped_splits()
+    print(f"Train/val size: {len(train_val_data)} | Test size: {len(test_data)}")
     print(f"Number of CV folds: {len(cv_folds)}")
