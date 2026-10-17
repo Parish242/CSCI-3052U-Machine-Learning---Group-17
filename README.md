@@ -2,23 +2,6 @@
 
 Evaluating LLMs and classical baselines on the [NormAd](https://huggingface.co/datasets/akhilayerukola/NormAd) cultural-norm dataset.
 
-## Repository layout
-
-```
-data/                    NormAd CSVs (raw, clean, preprocessed, 50-row trial subset)
-notebooks/               Exploratory data analysis
-src/
-  data_pipeline.py       Load NormAd and build the train/val/test split
-  baselines.py           TF-IDF / classical baselines + grid search
-results/
-  <model>/<run>/         LLM outputs per model; run = trial (50 rows) or full
-    *_with-rule*.csv       predictions when the rule-of-thumb is in the prompt
-    *_without-rule*.csv    predictions without it
-    *_report.txt           sklearn classification reports
-    *_run-notes*           model, quantization, hardware, issues
-requirements.txt
-```
-
 ## Setup
 
 ```
