@@ -1,0 +1,8 @@
+UNPARSEABLE COUNT REPORT
+========================
+
+gemma_with_rot.jsonl:
+  Unparseable Count: 0 / 50 (0.00%)
+
+gemma_without_rot.jsonl:
+  Unparseable Count: 0 / 50 (0.00%)

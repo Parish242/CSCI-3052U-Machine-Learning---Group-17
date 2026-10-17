@@ -1,0 +1,17 @@
+=== Run Notes: unsloth/gemma-2-27b-it-bnb-4bit Baseline ===
+
+Model: unsloth/gemma-2-27b-it-bnb-4bit (Gemma-2 27B Instruction-Tuned)
+Quantization: 4-bit NF4 (BitsAndBytesConfig, bnb_4bit_quant_type="nf4", bfloat16 compute)
+Hardware: NVIDIA Dual GPU Environment (CUDA 12.x)
+Device Map: auto (device_map="auto" split across available GPUs)
+
+Library Versions:
+- PyTorch: >=2.0.0
+- Transformers: >=4.42.0
+- BitsAndBytes: >=0.46.1
+- Scikit-Learn: >=1.3.0
+
+Issues Encountered & Resolved:
+1. Base Model vs. Instruct Model Misalignment: Initially used base pre-trained model unsloth/gemma-2-27b-bnb-4bit, causing fragmented outputs. Resolved by switching to instruction-tuned model unsloth/gemma-2-27b-it-bnb-4bit.
+2. Unconstrained Output & Missing Question Prompt: Fixed by appending explicit classification prompt ("Question: Does the behavior in this story align with social norms in {country}? Answer strictly with only one of the following words: yes, no, or neither.") and setting max_new_tokens=5.
+3. Case Sensitivity & Punctuation: Lowercased and normalized prediction text prior to parsing to ensure accurate label mapping.
