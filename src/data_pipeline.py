@@ -1,7 +1,10 @@
 from datasets import load_dataset
 import pandas as pd
+from pathlib import Path
 from sklearn.model_selection import GroupShuffleSplit, StratifiedGroupKFold
 from collections import Counter
+
+SPLIT_FILE = Path(__file__).resolve().parents[1] / "data" / "splits.csv"
 
 
 def get_grouped_splits():
