@@ -4,13 +4,12 @@ from pathlib import Path
 from sklearn.model_selection import GroupShuffleSplit, StratifiedGroupKFold
 from collections import Counter
 
-SPLIT_FILE = Path(__file__).resolve().parents[1] / "data" / "splits.csv"
-
-
 def get_grouped_splits():
     DATASET_ID = "akhilayerukola/NormAd"
+    # Pin the dataset version so reruns use the same data
+    DATASET_REVISION = "bb1a2997b6ab74b1f901493b15a67c2250a366c9"
 
-    raw = load_dataset(DATASET_ID, split="train").to_pandas()
+    raw = load_dataset(DATASET_ID, split="train", revision=DATASET_REVISION).to_pandas()
 
     # Cleaning
     missing = [c for c in ["Country", "Rule-of-Thumb", "Story", "Gold Label"] if c not in raw.columns]

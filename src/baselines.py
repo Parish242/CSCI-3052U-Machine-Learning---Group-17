@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 from pathlib import Path
 
@@ -6,14 +7,16 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.dummy import DummyClassifier
 from sklearn.pipeline import Pipeline
+from sklearn.base import clone
 from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import accuracy_score, precision_recall_fscore_support
+from sklearn.metrics import accuracy_score, f1_score, precision_recall_fscore_support
 from sklearn.metrics import classification_report
 
 from data_pipeline import get_grouped_splits
 
 LABELS = ["yes", "no", "neither"]
 DUMMY_SEEDS = range(10)
+RESULTS_DIR = Path(__file__).resolve().parents[1] / "results"
 
 # Format input text
 def format_input(data, with_rule=False):
@@ -36,6 +39,18 @@ def run_grid_search(pipeline, param_grid, X_train, y_train, X_test, y_test, cv_f
     print(f"Best parameters: {grid_search.best_params_}")
     print(f"Best CV Macro F1: {grid_search.best_score_:.4f}")
 
+    # Spread of the best config across the CV folds
+    cv_std = grid_search.cv_results_["std_test_score"][grid_search.best_index_]
+
+    # Per-class F1 on each CV fold, averaged over folds
+    fold_class_f1 = []
+    for train_idx, val_idx in cv_folds:
+        fold_model = clone(grid_search.best_estimator_)
+        fold_model.fit(X_train.iloc[train_idx], y_train.iloc[train_idx])
+        fold_pred = fold_model.predict(X_train.iloc[val_idx])
+        fold_class_f1.append(f1_score(y_train.iloc[val_idx], fold_pred, labels=LABELS, average=None, zero_division=0))
+    cv_class_f1 = np.mean(fold_class_f1, axis=0)
+
     best_model = grid_search.best_estimator_
     y_pred = best_model.predict(X_test)
     accuracy, precision, recall, f1 = evaluate(y_test, y_pred)
@@ -49,6 +64,8 @@ def run_grid_search(pipeline, param_grid, X_train, y_train, X_test, y_test, cv_f
         "recall": recall,
         "macro_f1": f1,
         "cv_macro_f1": grid_search.best_score_,
+        "cv_macro_f1_std": cv_std,
+        **{f"cv_f1_{label}": f1 for label, f1 in zip(LABELS, cv_class_f1)},
         "best_params": str(grid_search.best_params_),
         "test_samples": len(y_test)
     }
@@ -91,6 +108,26 @@ def run_baselines():
         "condition": "Without Rule-of-Thumb",
         "accuracy": d_accuracy,
         "macro_f1": d_f1,
+        "test_samples": len(y_test)
+    })
+
+    # Random guessing in proportion to the training class distribution, averaged over seeds
+    strat_scores = []
+    for seed in DUMMY_SEEDS:
+        strat = DummyClassifier(strategy="stratified", random_state=seed)
+        strat.fit(train_val_data, y_train)
+        strat_scores.append(evaluate(y_test, strat.predict(test_data)))
+    strat_acc = np.array([score[0] for score in strat_scores])
+    strat_f1 = np.array([score[3] for score in strat_scores])
+    print(f"\nDummy classifier (stratified random, {len(DUMMY_SEEDS)} seeds)")
+    print(f"Accuracy: {strat_acc.mean():.4f} | Macro F1: {strat_f1.mean():.4f} +/- {strat_f1.std():.4f}")
+
+    results.append({
+        "model": "Dummy Classifier (stratified)",
+        "condition": "Without Rule-of-Thumb",
+        "accuracy": strat_acc.mean(),
+        "macro_f1": strat_f1.mean(),
+        "macro_f1_seed_std": strat_f1.std(),
         "test_samples": len(y_test)
     })
 
@@ -143,13 +180,12 @@ def run_baselines():
         nb_result["condition"] = condition
         results.append(nb_result)
 
-    output_dir = Path("results")
-    output_dir.mkdir(exist_ok=True)
+    RESULTS_DIR.mkdir(exist_ok=True)
 
     results_df = pd.DataFrame(results)
 
     results_df.to_csv(
-        output_dir / "baseline_results.csv",
+        RESULTS_DIR / "baseline_results.csv",
         index=False
     )
 

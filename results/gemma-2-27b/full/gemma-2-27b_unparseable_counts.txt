@@ -1,0 +1,8 @@
+UNPARSEABLE COUNT REPORT
+========================
+
+gemma2-27b_full_with_rule.csv:
+  Unparseable Count: 18 / 2615 (0.69%)
+
+gemma2-27b_full_without_rule.csv:
+  Unparseable Count: 16 / 2615 (0.61%)

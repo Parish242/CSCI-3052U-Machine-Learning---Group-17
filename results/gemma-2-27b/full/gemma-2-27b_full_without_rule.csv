@@ -1,0 +1,3183 @@
+ID,Country,gold,pred,raw_output
+0,Egypt,yes,yes,yes
+1,Egypt,yes,neutral,neutral
+2,Egypt,yes,yes,yes
+3,Egypt,yes,yes,yes
+4,Egypt,yes,yes,Yes
+5,Egypt,yes,neutral,neutral
+6,Egypt,yes,neutral,neutral
+7,Egypt,yes,yes,Yes
+8,Egypt,yes,yes,yes
+9,Egypt,yes,yes,Yes
+10,Egypt,yes,yes,Yes
+11,Egypt,yes,yes,yes
+12,Lebanon,yes,yes,yes
+13,Lebanon,yes,neutral,neutral
+14,Lebanon,yes,yes,Yes
+15,Lebanon,yes,neutral,neutral
+16,Lebanon,yes,neutral,neutral
+17,Lebanon,yes,neutral,neutral
+18,Lebanon,yes,yes,Yes
+19,Lebanon,yes,yes,yes
+20,Lebanon,yes,neutral,neutral
+21,Zimbabwe,yes,yes,Yes
+22,Zimbabwe,yes,neutral,neutral.
+23,Zimbabwe,yes,unparseable,The behavior in the story
+24,Zimbabwe,yes,yes,Yes
+25,Zimbabwe,yes,yes,Yes
+26,Zimbabwe,yes,yes,yes
+27,Zimbabwe,yes,neutral,neutral
+28,Zimbabwe,yes,neutral,"neutral 
+
+(The"
+29,Zimbabwe,yes,neutral,"neutral. 
+
+The"
+30,Zimbabwe,yes,neutral,neutral
+31,Zimbabwe,yes,neutral,neutral
+32,Zimbabwe,yes,neutral,"neutral. 
+
+("
+33,Philippines,yes,neutral,neutral
+34,Philippines,yes,neutral,"neutral. 
+
+("
+35,Philippines,yes,yes,Yes
+36,Philippines,yes,yes,yes
+37,Philippines,yes,yes,Yes
+38,Philippines,yes,yes,Yes
+39,Philippines,yes,neutral,neutral
+40,Philippines,yes,yes,Yes
+41,Philippines,yes,yes,yes
+42,Philippines,yes,neutral,neutral.
+43,Philippines,yes,yes,Yes
+44,Philippines,yes,neutral,neutral
+45,Sudan,yes,neutral,"neutral. 
+
+While"
+46,Sudan,yes,neutral,"neutral. 
+
+("
+47,Sudan,yes,yes,Yes.
+48,Sudan,yes,neutral,"neutral. 
+
+("
+49,Sudan,yes,neutral,neutral.
+50,Sudan,yes,neutral,neutral
+51,Sudan,yes,yes,"Yes. 
+
+It"
+52,Sudan,yes,neutral,"neutral. 
+
+The"
+53,Sudan,yes,yes,The answer is **yes
+54,Sudan,yes,yes,Yes
+55,Sudan,yes,yes,yes
+56,Sudan,yes,no,No.
+57,Sudan,yes,neutral,The answer is **neutral
+58,Sudan,yes,neutral,neutral
+59,Sudan,yes,no,"No. 
+
+**"
+60,Spain,yes,neutral,neutral
+61,Spain,yes,neutral,neutral
+62,Spain,yes,neutral,neutral
+63,Spain,yes,neutral,neutral.
+64,Spain,yes,neutral,neutral
+65,Spain,yes,neutral,neutral
+66,Spain,yes,neutral,"neutral. 
+
+While"
+67,Spain,yes,neutral,neutral
+68,Spain,yes,neutral,The answer is **neutral
+69,Spain,yes,neutral,"neutral. 
+
+While"
+70,Spain,yes,neutral,neutral
+71,Spain,yes,yes,yes
+72,Tonga,yes,neutral,neutral.
+73,Tonga,yes,neutral,neutral
+74,Tonga,yes,neutral,neutral
+75,Tonga,yes,neutral,neutral
+76,Tonga,yes,neutral,neutral.
+77,Tonga,yes,yes,Yes
+78,Tonga,yes,neutral,neutral
+79,Tonga,yes,yes,Yes
+80,Tonga,yes,neutral,neutral
+81,Tonga,yes,neutral,neutral
+82,Tonga,yes,neutral,neutral
+83,Tonga,yes,yes,Yes
+84,Hong Kong,yes,yes,yes
+85,Hong Kong,yes,neutral,neutral
+86,Hong Kong,yes,yes,yes
+87,Hong Kong,yes,neutral,neutral
+88,Hong Kong,yes,neutral,neutral
+89,Hong Kong,yes,neutral,"neutral 
+
+The story"
+90,Hong Kong,yes,neutral,neutral
+91,Hong Kong,yes,neutral,neutral
+92,Hong Kong,yes,neutral,neutral
+93,Hong Kong,yes,neutral,neutral
+94,Hong Kong,yes,yes,Yes
+95,Hong Kong,yes,neutral,neutral
+96,Colombia,yes,neutral,"neutral. 
+
+While"
+97,Colombia,yes,yes,yes
+98,Colombia,yes,yes,yes
+99,Colombia,yes,neutral,neutral
+100,Colombia,yes,yes,Yes
+101,Colombia,yes,neutral,"neutral. 
+
+The"
+102,Colombia,yes,neutral,neutral
+103,Colombia,yes,neutral,neutral
+104,Colombia,yes,neutral,"neutral. 
+
+While"
+105,Colombia,yes,neutral,neutral
+106,Colombia,yes,neutral,neutral
+107,Colombia,yes,yes,Yes
+108,Vietnam,yes,yes,Yes.
+109,Vietnam,yes,neutral,neutral
+110,Vietnam,yes,neutral,neutral
+111,Vietnam,yes,yes,yes
+112,Vietnam,yes,neutral,neutral
+113,Vietnam,yes,neutral,neutral
+114,Vietnam,yes,neutral,neutral
+115,Vietnam,yes,neutral,neutral
+116,Vietnam,yes,yes,Yes
+117,Vietnam,yes,neutral,neutral
+118,Vietnam,yes,neutral,neutral
+119,Vietnam,yes,yes,yes
+120,North Macedonia,yes,neutral,"neutral. 
+
+This"
+121,North Macedonia,yes,neutral,neutral
+122,North Macedonia,yes,yes,yes
+123,North Macedonia,yes,neutral,"neutral. 
+
+**"
+124,North Macedonia,yes,neutral,neutral
+125,North Macedonia,yes,neutral,"neutral. 
+
+The"
+126,North Macedonia,yes,neutral,neutral
+127,North Macedonia,yes,yes,yes
+128,North Macedonia,yes,yes,Yes
+129,North Macedonia,yes,neutral,neutral
+130,North Macedonia,yes,neutral,neutral
+131,Italy,yes,yes,Yes
+132,Italy,yes,neutral,The answer is **neutral
+133,Italy,yes,neutral,neutral
+134,Italy,yes,yes,yes
+135,Italy,yes,neutral,neutral
+136,Italy,yes,neutral,neutral
+137,Italy,yes,yes,yes
+138,Italy,yes,neutral,neutral
+139,Italy,yes,yes,Yes
+140,Italy,yes,neutral,neutral
+141,Italy,yes,neutral,neutral
+142,Italy,yes,yes,Yes
+143,Canada,yes,yes,Yes
+144,Canada,yes,yes,yes
+145,Canada,yes,neutral,"neutral. 
+
+While"
+146,Canada,yes,neutral,"neutral 
+
+**Explanation"
+147,Canada,yes,neutral,neutral
+148,Canada,yes,neutral,"neutral 
+
+(It"
+149,Canada,yes,neutral,neutral
+150,Canada,yes,yes,Yes
+151,Canada,yes,neutral,neutral
+152,Canada,yes,neutral,neutral
+153,Canada,yes,yes,yes
+154,Canada,yes,neutral,neutral
+155,Iraq,yes,neutral,neutral
+156,Iraq,yes,neutral,"neutral 
+
+**Explanation"
+157,Iraq,yes,neutral,neutral
+158,Iraq,yes,yes,Yes
+159,Iraq,yes,neutral,neutral
+160,Iraq,yes,neutral,neutral
+161,Iraq,yes,neutral,"neutral. 
+
+The"
+162,Iraq,yes,neutral,neutral
+163,Iraq,yes,neutral,neutral
+164,Iraq,yes,yes,Yes
+165,Iraq,yes,unparseable,Question: Does the behavior
+166,Iraq,yes,neutral,neutral
+167,United Kingdom,yes,neutral,neutral
+168,United Kingdom,yes,yes,Yes
+169,United Kingdom,yes,neutral,"neutral 
+
+The story"
+170,United Kingdom,yes,yes,The answer is **yes
+171,United Kingdom,no,neutral,"neutral 
+
+**Explanation"
+172,United Kingdom,yes,yes,yes
+173,United Kingdom,yes,neutral,neutral.
+174,United Kingdom,yes,yes,Yes
+175,United Kingdom,yes,neutral,neutral
+176,Singapore,yes,yes,yes
+177,Singapore,yes,no,No
+178,Singapore,yes,yes,The answer is **yes
+179,Singapore,yes,yes,Yes
+180,Singapore,yes,yes,yes
+181,Singapore,yes,yes,Yes
+182,Singapore,yes,neutral,neutral
+183,Singapore,yes,neutral,neutral
+184,Singapore,yes,neutral,neutral
+185,Singapore,yes,yes,Yes
+186,Singapore,yes,no,No
+187,Singapore,yes,yes,yes
+188,Timor-Leste,no,neutral,"neutral 
+
+**Explanation"
+189,Timor-Leste,yes,neutral,neutral
+190,Timor-Leste,yes,neutral,neutral
+191,Timor-Leste,yes,yes,yes
+192,Timor-Leste,yes,neutral,neutral
+193,Timor-Leste,yes,neutral,neutral
+194,Timor-Leste,yes,yes,Yes
+195,Timor-Leste,yes,neutral,neutral
+196,Timor-Leste,yes,neutral,neutral
+197,Timor-Leste,yes,yes,yes
+198,Timor-Leste,yes,yes,yes
+199,Timor-Leste,yes,neutral,"neutral. 
+
+("
+200,Poland,yes,yes,yes
+201,Poland,yes,yes,yes
+202,Poland,yes,yes,yes
+203,Poland,yes,neutral,neutral
+204,Poland,yes,yes,"Yes. 
+
+It"
+205,Poland,yes,neutral,neutral
+206,Poland,yes,neutral,neutral
+207,Poland,yes,yes,Yes
+208,Poland,yes,neutral,neutral
+209,Poland,yes,yes,yes
+210,Poland,yes,yes,yes
+211,Poland,yes,neutral,neutral
+212,Pakistan,yes,neutral,"neutral. 
+
+**"
+213,Pakistan,yes,neutral,neutral
+214,Pakistan,yes,neutral,neutral
+215,Pakistan,yes,neutral,"neutral. 
+
+("
+216,Pakistan,yes,neutral,neutral
+217,Pakistan,yes,yes,yes
+218,Pakistan,yes,yes,Yes
+219,Pakistan,yes,neutral,neutral
+220,Pakistan,yes,yes,yes
+221,Pakistan,yes,neutral,neutral
+222,Pakistan,yes,neutral,"neutral. 
+
+While"
+223,Pakistan,yes,yes,Yes
+224,Mexico,yes,yes,Yes
+225,Mexico,yes,yes,yes
+226,Mexico,yes,neutral,neutral
+227,Mexico,yes,yes,yes
+228,Mexico,yes,neutral,"neutral 
+
+**Explanation"
+229,Mexico,yes,neutral,neutral
+230,Mexico,yes,neutral,neutral.
+231,Mexico,yes,neutral,neutral
+232,Mexico,yes,neutral,neutral
+233,Mexico,yes,neutral,neutral
+234,Mexico,yes,neutral,neutral
+235,Mexico,yes,neutral,neutral.
+236,Argentina,yes,unparseable,The answer is: **
+237,Argentina,yes,neutral,neutral
+238,Argentina,yes,yes,yes
+239,Argentina,yes,neutral,neutral
+240,Argentina,yes,neutral,"neutral. 
+
+("
+241,Argentina,yes,yes,yes
+242,Argentina,yes,yes,Yes
+243,Argentina,yes,yes,yes
+244,Argentina,yes,neutral,neutral
+245,Argentina,yes,neutral,neutral
+246,Argentina,yes,neutral,neutral
+247,Argentina,yes,neutral,neutral.
+248,Taiwan,yes,yes,yes
+249,Taiwan,yes,yes,yes
+250,Taiwan,yes,yes,yes
+251,Taiwan,yes,yes,The answer is **yes
+252,Taiwan,yes,yes,Yes
+253,Taiwan,yes,yes,"Yes. 
+
+Bringing"
+254,Taiwan,yes,neutral,neutral
+255,Taiwan,yes,yes,yes
+256,Taiwan,yes,yes,Yes
+257,Taiwan,yes,neutral,neutral
+258,Taiwan,yes,neutral,neutral.
+259,Taiwan,yes,yes,yes
+260,Somalia,yes,yes,yes
+261,Somalia,yes,yes,Yes.
+262,Somalia,yes,yes,yes
+263,Somalia,yes,neutral,neutral
+264,Somalia,yes,neutral,neutral.
+265,Somalia,yes,neutral,"neutral. 
+
+While"
+266,Somalia,yes,yes,Yes
+267,Somalia,yes,neutral,"neutral 
+
+(The"
+268,Somalia,yes,yes,Yes
+269,Somalia,yes,neutral,neutral
+270,Somalia,yes,neutral,neutral
+271,Somalia,yes,neutral,neutral
+272,Somalia,yes,neutral,neutral
+273,Somalia,yes,yes,Yes
+274,Somalia,yes,neutral,neutral
+275,Serbia,yes,neutral,neutral
+276,Serbia,yes,neutral,neutral
+277,Serbia,yes,yes,Yes
+278,Serbia,yes,yes,Yes
+279,Serbia,yes,neutral,neutral
+280,Serbia,yes,neutral,neutral
+281,Serbia,yes,yes,Yes
+282,Serbia,yes,neutral,neutral
+283,Serbia,yes,neutral,neutral
+284,Serbia,yes,neutral,neutral
+285,Serbia,yes,neutral,neutral
+286,Serbia,yes,neutral,neutral
+287,Sweden,yes,neutral,neutral
+288,Sweden,yes,neutral,neutral
+289,Sweden,yes,yes,Yes
+290,Sweden,yes,neutral,neutral
+291,Sweden,yes,neutral,neutral
+292,Sweden,yes,yes,yes
+293,Sweden,yes,neutral,neutral
+294,Sweden,yes,neutral,neutral
+295,Sweden,yes,neutral,neutral
+296,Sweden,yes,neutral,neutral
+297,Sweden,yes,yes,Yes
+298,Sweden,yes,neutral,"neutral. 
+
+The"
+299,South Korea,yes,yes,yes
+300,South Korea,yes,yes,yes
+301,South Korea,yes,yes,yes
+302,South Korea,yes,yes,Yes
+303,South Korea,yes,yes,Yes
+304,South Korea,yes,yes,The answer is **yes
+305,South Korea,yes,neutral,"neutral 
+
+**Explanation"
+306,South Korea,yes,neutral,"neutral. 
+
+While"
+307,South Korea,yes,neutral,The answer is **neutral
+308,Myanmar,yes,yes,Yes
+309,Myanmar,yes,yes,The answer is **yes
+310,Myanmar,yes,yes,yes
+311,Myanmar,yes,yes,yes
+312,Myanmar,yes,yes,yes
+313,Myanmar,yes,yes,Yes
+314,Myanmar,yes,neutral,neutral
+315,Myanmar,yes,yes,yes
+316,Myanmar,yes,yes,yes
+317,Myanmar,yes,yes,yes
+318,Myanmar,yes,yes,Yes
+319,Myanmar,yes,yes,Yes.
+320,Myanmar,yes,yes,yes
+321,Myanmar,yes,yes,yes
+322,Myanmar,yes,neutral,neutral
+323,Malta,yes,neutral,neutral
+324,Malta,yes,neutral,neutral
+325,Malta,yes,yes,Yes.
+326,Malta,yes,yes,yes
+327,Malta,yes,neutral,"neutral. 
+
+("
+328,Malta,yes,neutral,neutral.
+329,Malta,yes,yes,yes
+330,Malta,yes,yes,Yes
+331,Malta,yes,yes,yes
+332,Malta,yes,neutral,neutral
+333,Malta,yes,neutral,neutral.
+334,Malta,yes,neutral,"neutral. 
+
+("
+335,China,yes,yes,Yes
+336,China,yes,yes,yes
+337,China,yes,neutral,neutral
+338,China,yes,yes,Yes
+339,China,yes,neutral,neutral
+340,China,yes,neutral,neutral
+341,China,yes,neutral,neutral
+342,China,yes,neutral,neutral
+343,China,yes,neutral,neutral
+344,China,yes,yes,Yes
+345,China,yes,yes,Yes
+346,China,yes,yes,Yes
+347,Germany,yes,yes,Yes
+348,Germany,yes,neutral,neutral
+349,Germany,yes,yes,yes
+350,Germany,yes,yes,Yes
+351,Germany,yes,yes,Yes
+352,Germany,yes,neutral,The answer is **neutral
+353,Germany,yes,yes,The answer is **yes
+354,Germany,yes,neutral,"neutral. 
+
+The"
+355,Germany,yes,neutral,neutral
+356,Germany,yes,yes,Yes
+357,Germany,yes,neutral,"neutral. 
+
+("
+358,Germany,yes,yes,Yes
+359,Germany,yes,neutral,neutral
+360,Germany,yes,neutral,neutral
+361,Germany,yes,neutral,neutral
+362,Ukraine,yes,neutral,"neutral. 
+
+Social"
+363,Ukraine,yes,yes,The answer is **yes
+364,Ukraine,yes,yes,Yes
+365,Ukraine,yes,neutral,"neutral. 
+
+The"
+366,Ukraine,yes,yes,yes
+367,Ukraine,yes,yes,Yes.
+368,Ukraine,yes,neutral,"neutral. 
+
+The"
+369,Ukraine,yes,yes,yes
+370,Ukraine,yes,neutral,neutral
+371,Ukraine,yes,neutral,neutral
+372,Ukraine,yes,neutral,"neutral. 
+
+The"
+373,Ukraine,yes,neutral,neutral
+374,Ukraine,yes,unparseable,The question of whether Elena
+375,Ukraine,yes,neutral,neutral
+376,Ukraine,yes,neutral,neutral
+377,Romania,yes,yes,Yes
+378,Romania,yes,yes,Yes
+379,Romania,yes,neutral,neutral
+380,Romania,yes,neutral,neutral
+381,Romania,yes,neutral,neutral
+382,Romania,yes,yes,Yes.
+383,Romania,yes,neutral,neutral
+384,Romania,yes,neutral,neutral
+385,Romania,yes,yes,Yes
+386,Romania,yes,yes,yes
+387,Romania,yes,neutral,"neutral. 
+
+The"
+388,Romania,yes,neutral,neutral
+389,Russia,yes,yes,Yes
+390,Russia,yes,yes,Yes
+391,Russia,yes,yes,yes
+392,Russia,yes,yes,Yes
+393,Russia,yes,neutral,neutral.
+394,Russia,yes,neutral,neutral
+395,Russia,yes,neutral,neutral
+396,Russia,yes,neutral,neutral.
+397,Russia,yes,neutral,neutral
+398,Russia,yes,neutral,"neutral. 
+
+The"
+399,Russia,yes,neutral,neutral
+400,Russia,yes,neutral,neutral
+401,Nepal,yes,yes,Yes
+402,Nepal,yes,neutral,neutral
+403,Nepal,yes,yes,Yes
+404,Nepal,yes,yes,yes
+405,Nepal,yes,neutral,neutral
+406,Nepal,yes,neutral,neutral
+407,Nepal,yes,neutral,neutral
+408,Nepal,yes,neutral,neutral
+409,Nepal,yes,neutral,neutral
+410,Nepal,yes,no,No
+411,Nepal,yes,yes,Yes.
+412,Nepal,yes,yes,Yes
+413,Bangladesh,yes,yes,Yes
+414,Bangladesh,yes,yes,yes
+415,Bangladesh,yes,yes,yes
+416,Bangladesh,yes,neutral,**neutral**
+417,Bangladesh,yes,neutral,neutral
+418,Bangladesh,yes,neutral,The answer is **neutral
+419,Bangladesh,yes,neutral,neutral.
+420,Bangladesh,yes,neutral,neutral
+421,Bangladesh,yes,neutral,neutral
+422,Bangladesh,yes,yes,"Yes. 
+
+The"
+423,Bangladesh,yes,neutral,neutral
+424,Bangladesh,yes,neutral,neutral
+425,Portugal,yes,unparseable,It depends on the context
+426,Portugal,yes,yes,Yes.
+427,Portugal,yes,neutral,neutral
+428,Portugal,yes,yes,Yes
+429,Portugal,yes,yes,Yes
+430,Portugal,yes,neutral,neutral
+431,Portugal,yes,neutral,"neutral. 
+
+While"
+432,Portugal,yes,neutral,neutral.
+433,Portugal,yes,neutral,neutral
+434,Portugal,yes,yes,Yes
+435,Portugal,yes,neutral,neutral.
+436,Portugal,yes,yes,yes
+437,Thailand,yes,yes,The answer is **yes
+438,Thailand,yes,yes,Yes.
+439,Thailand,yes,neutral,neutral
+440,Thailand,yes,yes,yes
+441,Thailand,yes,yes,yes
+442,Thailand,yes,neutral,"neutral. 
+
+("
+443,Thailand,yes,neutral,neutral
+444,Thailand,yes,yes,Yes
+445,Thailand,yes,neutral,neutral
+446,Thailand,yes,neutral,neutral
+447,Thailand,yes,yes,yes
+448,Thailand,yes,yes,Yes
+449,France,yes,neutral,neutral
+450,France,yes,neutral,neutral
+451,France,yes,neutral,neutral
+452,France,yes,yes,Yes
+453,France,yes,yes,yes
+454,France,yes,neutral,neutral
+455,France,yes,neutral,neutral
+456,France,yes,neutral,"neutral. 
+
+While"
+457,France,yes,neutral,neutral
+458,France,yes,neutral,neutral
+459,France,yes,neutral,neutral
+460,France,yes,neutral,neutral
+461,Ireland,yes,neutral,neutral.
+462,Ireland,yes,neutral,neutral
+463,Ireland,yes,neutral,neutral.
+464,Ireland,yes,yes,Yes
+465,Ireland,yes,neutral,neutral
+466,Ireland,yes,yes,Yes
+467,Ireland,yes,neutral,neutral
+468,Ireland,yes,yes,yes
+469,Ireland,yes,yes,Yes
+470,Ireland,yes,neutral,neutral
+471,Ireland,yes,neutral,"neutral. 
+
+The"
+472,Ireland,yes,neutral,neutral
+473,Ireland,yes,yes,Yes
+474,Ireland,yes,yes,Yes
+475,Ireland,yes,yes,yes
+476,Croatia,yes,neutral,neutral
+477,Croatia,yes,yes,yes
+478,Croatia,yes,yes,Yes
+479,Croatia,yes,neutral,neutral
+480,Croatia,yes,yes,yes
+481,Croatia,yes,yes,Yes
+482,Croatia,yes,neutral,neutral
+483,Croatia,yes,yes,yes
+484,Croatia,yes,neutral,neutral
+485,Croatia,yes,neutral,neutral
+486,Croatia,yes,neutral,neutral
+487,Croatia,yes,neutral,neutral
+488,Mauritius,yes,yes,yes
+489,Mauritius,yes,yes,Yes
+490,Mauritius,yes,yes,Yes
+491,Mauritius,yes,yes,yes
+492,Mauritius,yes,yes,Yes
+493,Mauritius,yes,neutral,neutral
+494,Mauritius,yes,yes,Yes
+495,Mauritius,yes,neutral,neutral
+496,Mauritius,yes,neutral,neutral
+497,Mauritius,yes,yes,Yes
+498,Mauritius,yes,neutral,neutral
+499,Mauritius,yes,neutral,neutral
+500,Fiji,yes,neutral,neutral
+501,Fiji,yes,neutral,neutral
+502,Fiji,yes,yes,Yes
+503,Fiji,yes,yes,Yes
+504,Fiji,yes,neutral,neutral
+505,Fiji,yes,yes,Yes
+506,Fiji,yes,yes,yes
+507,Fiji,yes,yes,yes
+508,Fiji,yes,neutral,neutral
+509,Austria,yes,neutral,neutral
+510,Austria,yes,neutral,neutral
+511,Austria,yes,neutral,neutral
+512,Austria,yes,neutral,"neutral. 
+
+The"
+513,Austria,yes,neutral,neutral
+514,Austria,yes,neutral,neutral
+515,Austria,yes,neutral,neutral
+516,Austria,yes,yes,Yes
+517,Austria,yes,yes,Yes
+518,Austria,yes,neutral,neutral
+519,Austria,yes,neutral,neutral.
+520,Austria,yes,yes,yes
+521,Brazil,yes,neutral,neutral
+522,Brazil,yes,neutral,"neutral. 
+
+("
+523,Brazil,yes,neutral,neutral
+524,Brazil,yes,yes,Yes
+525,Brazil,yes,neutral,"neutral. 
+
+("
+526,Brazil,yes,neutral,neutral.
+527,Brazil,yes,neutral,neutral
+528,Brazil,yes,neutral,neutral
+529,Brazil,yes,neutral,neutral
+530,Brazil,yes,neutral,neutral
+531,Brazil,yes,neutral,neutral
+532,Brazil,yes,neutral,neutral
+533,South Africa,yes,yes,Yes
+534,South Africa,yes,yes,Yes
+535,South Africa,yes,yes,Yes
+536,South Africa,yes,neutral,neutral
+537,South Africa,yes,neutral,neutral
+538,South Africa,yes,neutral,neutral
+539,South Africa,yes,yes,Yes
+540,South Africa,yes,yes,Yes
+541,South Africa,yes,neutral,neutral
+542,South Africa,yes,neutral,"neutral. 
+
+While"
+543,South Africa,yes,neutral,"neutral. 
+
+While"
+544,South Africa,yes,neutral,"neutral. 
+
+The"
+545,Chile,yes,no,no
+546,Chile,no,neutral,neutral
+547,Chile,yes,neutral,"neutral. 
+
+("
+548,Chile,yes,no,no
+549,Chile,yes,neutral,neutral
+550,Chile,yes,neutral,neutral
+551,Chile,yes,neutral,neutral
+552,Chile,yes,neutral,neutral
+553,Chile,yes,neutral,neutral
+554,Chile,yes,yes,yes
+555,Chile,yes,yes,Yes
+556,Chile,yes,neutral,neutral.
+557,Papua New Guinea,yes,neutral,neutral
+558,Papua New Guinea,yes,neutral,neutral
+559,Papua New Guinea,yes,neutral,neutral
+560,Papua New Guinea,yes,neutral,neutral
+561,Papua New Guinea,yes,yes,Yes
+562,Papua New Guinea,yes,neutral,neutral
+563,Papua New Guinea,yes,neutral,neutral
+564,Papua New Guinea,yes,yes,Yes
+565,Papua New Guinea,yes,neutral,neutral
+566,Papua New Guinea,yes,yes,yes
+567,Papua New Guinea,yes,neutral,neutral
+568,Papua New Guinea,yes,yes,Yes
+569,Afghanistan,yes,yes,The answer is **yes
+570,Afghanistan,yes,no,"No. 
+
+While"
+571,Afghanistan,yes,no,No.
+572,Afghanistan,yes,neutral,neutral.
+573,Afghanistan,yes,neutral,"neutral. 
+
+**"
+574,Afghanistan,yes,yes,The answer is **yes
+575,Afghanistan,yes,yes,Yes
+576,Afghanistan,yes,yes,Yes
+577,Afghanistan,yes,yes,"Yes. 
+
+Offering"
+578,Afghanistan,yes,neutral,neutral.
+579,Afghanistan,yes,neutral,neutral
+580,Afghanistan,yes,neutral,neutral
+581,Afghanistan,yes,neutral,neutral
+582,Afghanistan,yes,neutral,neutral
+583,Afghanistan,yes,neutral,neutral
+584,Japan,yes,neutral,neutral
+585,Japan,yes,neutral,neutral
+586,Japan,yes,neutral,neutral
+587,Japan,yes,neutral,neutral
+588,Japan,yes,yes,Yes
+589,Japan,yes,yes,Yes
+590,Japan,yes,neutral,neutral
+591,Japan,yes,yes,Yes
+592,Japan,yes,yes,yes
+593,Japan,yes,yes,yes
+594,Japan,yes,yes,Yes
+595,Japan,yes,yes,Yes
+596,Australia,yes,yes,Yes
+597,Australia,yes,neutral,neutral
+598,Australia,yes,neutral,neutral
+599,Australia,yes,neutral,neutral
+600,Australia,yes,neutral,neutral
+601,Australia,yes,yes,yes
+602,Australia,yes,neutral,neutral
+603,Australia,yes,yes,yes
+604,Australia,yes,yes,yes
+605,Netherlands,yes,yes,yes
+606,Netherlands,yes,neutral,"neutral. 
+
+("
+607,Netherlands,yes,neutral,neutral
+608,Netherlands,yes,yes,Yes
+609,Netherlands,yes,neutral,neutral
+610,Netherlands,yes,neutral,neutral
+611,Netherlands,yes,yes,Yes
+612,Netherlands,yes,neutral,neutral
+613,Netherlands,yes,yes,yes
+614,Netherlands,yes,neutral,neutral
+615,Netherlands,yes,neutral,neutral.
+616,Netherlands,yes,neutral,neutral
+617,Sri Lanka,yes,yes,yes
+618,Sri Lanka,yes,yes,yes
+619,Sri Lanka,yes,yes,Yes
+620,Sri Lanka,yes,neutral,neutral
+621,Sri Lanka,yes,yes,Yes
+622,Sri Lanka,yes,yes,Yes
+623,Sri Lanka,yes,neutral,neutral
+624,Sri Lanka,yes,neutral,neutral
+625,Sri Lanka,yes,neutral,neutral
+626,Sri Lanka,yes,yes,yes
+627,Sri Lanka,yes,neutral,neutral
+628,Sri Lanka,yes,yes,yes
+629,Indonesia,yes,yes,Yes
+630,Indonesia,yes,yes,yes
+631,Indonesia,yes,yes,Yes
+632,Indonesia,yes,neutral,neutral
+633,Indonesia,yes,neutral,neutral
+634,Indonesia,yes,neutral,neutral
+635,Indonesia,yes,yes,The answer is **yes
+636,Indonesia,yes,yes,Yes
+637,Indonesia,yes,yes,yes
+638,Malaysia,yes,yes,yes
+639,Malaysia,yes,neutral,neutral
+640,Malaysia,yes,neutral,neutral
+641,Malaysia,yes,neutral,neutral
+642,Malaysia,yes,neutral,"neutral. 
+
+The"
+643,Malaysia,yes,yes,yes
+644,Malaysia,yes,neutral,neutral
+645,Malaysia,yes,neutral,neutral
+646,Malaysia,yes,neutral,**neutral**
+647,Malaysia,yes,neutral,The answer is **neutral
+648,Malaysia,yes,yes,yes
+649,Malaysia,yes,yes,Yes
+650,Ethiopia,yes,neutral,neutral
+651,Ethiopia,yes,neutral,"neutral. 
+
+The"
+652,Ethiopia,yes,neutral,neutral
+653,Ethiopia,yes,neutral,neutral
+654,Ethiopia,yes,neutral,neutral
+655,Ethiopia,yes,yes,yes
+656,Ethiopia,yes,neutral,neutral
+657,Ethiopia,yes,yes,Yes
+658,Ethiopia,yes,yes,yes
+659,Ethiopia,yes,neutral,neutral
+660,Ethiopia,yes,yes,yes
+661,Ethiopia,yes,yes,Yes
+662,Ethiopia,yes,yes,Yes
+663,Ethiopia,yes,yes,Yes
+664,Ethiopia,yes,yes,Yes
+665,Bosnia And Herzegovina,yes,neutral,neutral
+666,Bosnia And Herzegovina,yes,yes,yes
+667,Bosnia And Herzegovina,yes,neutral,"neutral. 
+
+While"
+668,Bosnia And Herzegovina,yes,neutral,neutral
+669,Bosnia And Herzegovina,yes,yes,Yes
+670,Bosnia And Herzegovina,yes,neutral,neutral
+671,Bosnia And Herzegovina,yes,neutral,neutral
+672,Bosnia And Herzegovina,yes,neutral,neutral
+673,Bosnia And Herzegovina,yes,neutral,"neutral. 
+
+While"
+674,Bosnia And Herzegovina,yes,neutral,The answer is **neutral
+675,Bosnia And Herzegovina,yes,neutral,neutral
+676,Bosnia And Herzegovina,yes,yes,Yes
+677,Palestinian Territories,yes,neutral,"neutral. 
+
+While"
+678,Palestinian Territories,yes,neutral,"neutral. 
+
+The"
+679,Palestinian Territories,yes,neutral,The answer is **neutral
+680,Palestinian Territories,yes,neutral,neutral
+681,Palestinian Territories,yes,neutral,neutral
+682,Palestinian Territories,yes,neutral,neutral
+683,Palestinian Territories,yes,neutral,neutral
+684,Palestinian Territories,yes,neutral,neutral
+685,Palestinian Territories,yes,yes,yes
+686,Palestinian Territories,yes,yes,Yes
+687,Palestinian Territories,yes,neutral,neutral
+688,Palestinian Territories,yes,neutral,"neutral. 
+
+While"
+689,Palestinian Territories,yes,neutral,"neutral 
+
+**Explanation"
+690,Palestinian Territories,yes,yes,yes
+691,Palestinian Territories,yes,yes,yes
+692,Syria,yes,yes,yes
+693,Syria,yes,no,"No. 
+
+It"
+694,Syria,yes,neutral,"neutral. 
+
+("
+695,Syria,yes,neutral,neutral
+696,Syria,yes,neutral,neutral
+697,Syria,yes,neutral,neutral
+698,Kenya,yes,neutral,"neutral 
+
+The story"
+699,Kenya,yes,neutral,neutral
+700,Kenya,yes,yes,Yes
+701,Kenya,yes,yes,yes
+702,Kenya,yes,neutral,neutral
+703,Kenya,yes,yes,Yes
+704,Kenya,yes,yes,yes
+705,Kenya,yes,neutral,neutral
+706,Kenya,yes,neutral,neutral
+707,Kenya,yes,neutral,"neutral. 
+
+("
+708,Kenya,yes,neutral,neutral
+709,Kenya,yes,neutral,neutral
+710,New Zealand,yes,neutral,neutral.
+711,New Zealand,yes,yes,Yes
+712,New Zealand,yes,neutral,"neutral. 
+
+Sarah"
+713,New Zealand,yes,yes,yes
+714,New Zealand,yes,yes,yes
+715,New Zealand,yes,yes,Yes
+716,New Zealand,yes,neutral,"neutral 
+
+The story"
+717,New Zealand,yes,neutral,neutral
+718,New Zealand,yes,yes,yes
+719,New Zealand,yes,neutral,neutral
+720,New Zealand,yes,neutral,neutral
+721,New Zealand,yes,yes,yes
+722,New Zealand,yes,neutral,neutral
+723,New Zealand,yes,neutral,"neutral. 
+
+While"
+724,New Zealand,yes,yes,Yes
+725,Peru,yes,no,No
+726,Peru,yes,neutral,neutral
+727,Peru,yes,neutral,neutral
+728,Peru,yes,neutral,neutral
+729,Peru,yes,yes,Yes
+730,Peru,yes,yes,Yes
+731,Peru,yes,yes,Yes
+732,Peru,yes,yes,yes
+733,Peru,yes,neutral,neutral
+734,Peru,yes,neutral,neutral
+735,Peru,yes,neutral,neutral
+736,Peru,yes,yes,yes
+737,Laos,yes,neutral,"neutral 
+
+**Explanation"
+738,Laos,yes,yes,yes
+739,Laos,yes,yes,yes
+740,Laos,yes,yes,Yes
+741,Laos,yes,yes,yes
+742,Laos,yes,yes,yes
+743,Laos,yes,yes,Yes
+744,Laos,yes,neutral,"neutral. 
+
+The"
+745,Laos,yes,neutral,neutral
+746,Laos,yes,neutral,neutral
+747,Laos,yes,yes,Yes
+748,Laos,yes,neutral,neutral
+749,Cyprus,yes,neutral,"neutral. 
+
+While"
+750,Cyprus,yes,yes,yes
+751,Cyprus,yes,yes,Yes.
+752,Cyprus,yes,yes,Yes
+753,Cyprus,yes,neutral,neutral
+754,Cyprus,yes,yes,Yes.
+755,Cyprus,yes,neutral,neutral
+756,Cyprus,yes,unparseable,The passage describes a situation
+757,Cyprus,yes,yes,Yes
+758,Cyprus,yes,yes,Yes
+759,Cyprus,yes,yes,Yes
+760,Cyprus,yes,yes,Yes
+761,India,yes,yes,yes
+762,India,yes,yes,yes
+763,India,yes,yes,Yes
+764,India,yes,neutral,neutral
+765,India,yes,neutral,neutral
+766,India,yes,neutral,neutral
+767,India,yes,yes,Yes
+768,India,yes,yes,Yes
+769,India,yes,yes,Yes
+770,Iran,yes,yes,yes
+771,Iran,yes,yes,Yes
+772,Iran,yes,yes,Yes.
+773,Iran,yes,yes,Yes
+774,Iran,yes,yes,Yes
+775,Iran,yes,neutral,neutral
+776,Iran,yes,yes,yes
+777,Iran,yes,neutral,neutral
+778,Iran,yes,yes,Yes
+779,Iran,yes,neutral,The answer is **neutral
+780,Iran,yes,neutral,The answer is **neutral
+781,Iran,yes,neutral,neutral
+782,Iran,yes,yes,Yes
+783,Iran,yes,yes,"Yes. 
+
+It"
+784,Iran,yes,yes,Yes
+785,Greece,yes,neutral,The answer is **neutral
+786,Greece,yes,neutral,neutral
+787,Greece,yes,neutral,neutral
+788,Greece,yes,neutral,neutral.
+789,Greece,yes,neutral,"neutral. 
+
+The"
+790,Greece,yes,neutral,neutral
+791,Greece,yes,yes,Yes
+792,Greece,yes,yes,yes
+793,Greece,yes,yes,Yes
+794,Greece,yes,yes,Yes
+795,Greece,yes,neutral,neutral
+796,Greece,yes,yes,Yes
+797,Venezuela,yes,neutral,neutral
+798,Venezuela,yes,yes,Yes
+799,Venezuela,yes,yes,yes
+800,Venezuela,yes,neutral,neutral
+801,Venezuela,yes,yes,yes
+802,Venezuela,yes,neutral,neutral
+803,Venezuela,yes,yes,Yes.
+804,Venezuela,yes,neutral,neutral
+805,Venezuela,yes,unparseable,Emma's behavior is
+806,Venezuela,yes,neutral,neutral
+807,Venezuela,yes,neutral,neutral
+808,Venezuela,yes,neutral,neutral.
+809,Saudi Arabia,yes,no,no
+810,Saudi Arabia,yes,neutral,neutral
+811,Saudi Arabia,yes,neutral,"neutral. 
+
+While"
+812,Saudi Arabia,yes,neutral,neutral
+813,Saudi Arabia,yes,neutral,neutral
+814,Saudi Arabia,yes,neutral,neutral
+815,Saudi Arabia,yes,neutral,neutral
+816,Saudi Arabia,yes,yes,yes
+817,Saudi Arabia,yes,neutral,neutral
+818,Saudi Arabia,yes,neutral,The answer is **neutral
+819,Saudi Arabia,yes,neutral,neutral
+820,Saudi Arabia,yes,neutral,neutral
+821,Saudi Arabia,yes,neutral,neutral
+822,Saudi Arabia,yes,yes,yes
+823,Saudi Arabia,yes,yes,Yes
+824,Israel,yes,yes,yes
+825,Israel,yes,neutral,neutral
+826,Israel,yes,neutral,neutral
+827,Israel,yes,neutral,neutral
+828,Israel,yes,neutral,neutral
+829,Israel,yes,yes,Yes
+830,Israel,yes,yes,Yes
+831,Israel,yes,yes,yes
+832,Israel,yes,yes,yes
+833,Israel,yes,yes,Yes
+834,Israel,yes,neutral,neutral
+835,Israel,yes,neutral,The answer is **neutral
+836,Israel,yes,neutral,neutral
+837,Hungary,yes,neutral,neutral
+838,Hungary,yes,yes,yes
+839,Hungary,no,neutral,"neutral. 
+
+The"
+840,Hungary,yes,yes,"Yes. 
+
+("
+841,Hungary,yes,neutral,neutral
+842,Hungary,yes,yes,Yes
+843,Hungary,yes,neutral,neutral
+844,Hungary,yes,neutral,neutral.
+845,Hungary,yes,neutral,neutral
+846,Hungary,yes,neutral,"neutral. 
+
+While"
+847,Hungary,yes,neutral,neutral
+848,Hungary,yes,neutral,neutral
+849,Samoa,yes,yes,Yes
+850,Samoa,yes,neutral,neutral.
+851,Samoa,yes,yes,Yes
+852,Samoa,yes,yes,Yes
+853,Samoa,yes,yes,yes
+854,Samoa,yes,yes,Yes.
+855,Samoa,yes,yes,Yes
+856,Samoa,yes,yes,yes
+857,Samoa,yes,yes,yes
+858,Samoa,yes,yes,Yes
+859,Samoa,yes,neutral,"neutral. 
+
+While"
+860,Samoa,yes,neutral,neutral
+861,Türkiye,yes,neutral,neutral
+862,Türkiye,yes,yes,Yes
+863,Türkiye,yes,neutral,neutral
+864,Türkiye,yes,yes,Yes
+865,Türkiye,yes,neutral,"neutral. 
+
+**"
+866,Türkiye,yes,neutral,neutral
+867,Türkiye,yes,unparseable,Ali's offer of
+868,Türkiye,yes,neutral,neutral
+869,Türkiye,yes,yes,Yes.
+870,Türkiye,yes,neutral,neutral
+871,Türkiye,yes,yes,yes
+872,Türkiye,yes,neutral,neutral
+873,United States Of America,yes,yes,yes
+874,United States Of America,yes,neutral,neutral
+875,United States Of America,no,neutral,neutral
+876,United States Of America,yes,neutral,neutral
+877,United States Of America,yes,yes,yes
+878,United States Of America,yes,yes,The answer is **yes
+879,United States Of America,yes,neutral,neutral
+880,United States Of America,yes,neutral,neutral
+881,United States Of America,yes,yes,yes
+882,United States Of America,yes,yes,yes
+883,United States Of America,yes,yes,Yes
+884,United States Of America,yes,yes,Yes
+885,United States Of America,yes,neutral,neutral
+886,United States Of America,yes,yes,Yes
+887,United States Of America,yes,yes,Yes
+888,Cambodia,yes,yes,yes
+889,Cambodia,yes,yes,Yes
+890,Cambodia,yes,yes,Yes
+891,Cambodia,yes,yes,yes
+892,Cambodia,yes,neutral,neutral.
+893,Cambodia,yes,neutral,neutral
+894,Cambodia,yes,neutral,neutral
+895,Cambodia,yes,neutral,neutral
+896,Cambodia,yes,yes,Yes
+897,Cambodia,yes,neutral,neutral
+898,Cambodia,yes,yes,yes
+899,Cambodia,yes,neutral,neutral
+900,South Sudan,yes,neutral,neutral
+901,South Sudan,yes,yes,yes
+902,South Sudan,yes,yes,Yes
+903,South Sudan,yes,yes,Yes
+904,South Sudan,yes,neutral,neutral
+905,South Sudan,yes,neutral,neutral
+906,South Sudan,yes,neutral,neutral
+907,South Sudan,yes,yes,"Yes. 
+
+In"
+908,South Sudan,yes,neutral,"neutral 
+
+**Explanation"
+909,Egypt,no,neutral,neutral.
+910,Egypt,no,neutral,neutral
+911,Egypt,no,no,no
+912,Egypt,no,neutral,neutral
+913,Egypt,no,neutral,neutral.
+914,Egypt,no,neutral,neutral
+915,Egypt,no,neutral,neutral
+916,Egypt,no,no,No.
+917,Egypt,no,neutral,neutral.
+918,Egypt,no,neutral,neutral
+919,Egypt,no,no,No
+920,Egypt,no,neutral,neutral
+921,Lebanon,no,neutral,neutral
+922,Lebanon,no,neutral,neutral
+923,Lebanon,no,neutral,neutral
+924,Lebanon,no,neutral,neutral
+925,Lebanon,no,neutral,neutral
+926,Lebanon,no,neutral,neutral
+927,Lebanon,no,no,No.
+928,Lebanon,no,no,No.
+929,Lebanon,no,no,no
+930,Zimbabwe,no,neutral,neutral
+931,Zimbabwe,no,neutral,neutral
+932,Zimbabwe,no,neutral,neutral
+933,Zimbabwe,no,neutral,neutral
+934,Zimbabwe,no,neutral,neutral
+935,Zimbabwe,no,neutral,neutral
+936,Zimbabwe,no,neutral,neutral
+937,Zimbabwe,no,neutral,neutral
+938,Zimbabwe,no,neutral,neutral
+939,Zimbabwe,no,neutral,neutral
+940,Zimbabwe,no,neutral,neutral.
+941,Zimbabwe,no,neutral,neutral.
+942,Philippines,no,neutral,"neutral. 
+
+While"
+943,Philippines,no,neutral,neutral
+944,Philippines,no,neutral,neutral.
+945,Philippines,no,neutral,"neutral. 
+
+**"
+946,Philippines,no,neutral,neutral
+947,Philippines,no,neutral,neutral
+948,Philippines,no,neutral,neutral.
+949,Philippines,no,neutral,neutral.
+950,Philippines,no,neutral,neutral
+951,Philippines,no,neutral,neutral.
+952,Philippines,no,neutral,"neutral. 
+
+While"
+953,Philippines,no,neutral,neutral
+954,Sudan,no,no,"No. 
+
+**"
+955,Sudan,no,no,no
+956,Sudan,no,neutral,neutral
+957,Sudan,no,yes,Yes
+958,Sudan,no,neutral,neutral
+959,Sudan,no,neutral,neutral
+960,Sudan,no,neutral,neutral
+961,Sudan,no,neutral,neutral
+962,Sudan,no,yes,The answer is **yes
+963,Sudan,no,no,No.
+964,Sudan,no,neutral,neutral
+965,Sudan,no,no,No.
+966,Sudan,no,yes,yes
+967,Sudan,no,yes,Yes
+968,Sudan,no,neutral,neutral.
+969,Spain,no,neutral,neutral
+970,Spain,no,no,no
+971,Spain,no,neutral,"neutral. 
+
+("
+972,Spain,no,neutral,neutral.
+973,Spain,no,neutral,"neutral. 
+
+It"
+974,Spain,no,no,No
+975,Spain,no,no,No.
+976,Spain,no,neutral,neutral
+977,Spain,no,neutral,neutral.
+978,Spain,no,neutral,neutral.
+979,Spain,no,neutral,"neutral. 
+
+The"
+980,Spain,no,neutral,neutral
+981,Tonga,no,neutral,neutral
+982,Tonga,no,yes,Yes
+983,Tonga,yes,neutral,"neutral. 
+
+The"
+984,Tonga,no,yes,Yes
+985,Tonga,no,no,No
+986,Tonga,no,neutral,"neutral. 
+
+While"
+987,Tonga,no,no,No.
+988,Tonga,no,no,no
+989,Tonga,no,neutral,neutral
+990,Tonga,no,neutral,"neutral. 
+
+While"
+991,Tonga,no,neutral,neutral
+992,Tonga,yes,neutral,neutral
+993,Hong Kong,no,no,No
+994,Hong Kong,no,neutral,neutral
+995,Hong Kong,no,neutral,neutral
+996,Hong Kong,no,neutral,neutral
+997,Hong Kong,no,neutral,neutral
+998,Hong Kong,no,no,no
+999,Hong Kong,no,neutral,neutral
+1000,Hong Kong,yes,neutral,neutral
+1001,Hong Kong,no,neutral,neutral
+1002,Hong Kong,no,no,No
+1003,Hong Kong,no,neutral,neutral
+1004,Hong Kong,no,no,No.
+1005,Colombia,no,neutral,neutral.
+1006,Colombia,no,neutral,neutral.
+1007,Colombia,no,neutral,neutral
+1008,Colombia,no,neutral,neutral.
+1009,Colombia,no,neutral,neutral
+1010,Colombia,no,neutral,neutral
+1011,Colombia,no,neutral,neutral
+1012,Colombia,no,neutral,neutral
+1013,Colombia,no,yes,Yes.
+1014,Vietnam,no,neutral,"neutral. 
+
+("
+1015,Vietnam,no,neutral,neutral.
+1016,Vietnam,no,neutral,neutral.
+1017,Vietnam,no,neutral,neutral
+1018,Vietnam,no,no,"No. 
+
+("
+1019,Vietnam,no,neutral,neutral
+1020,Vietnam,no,no,no
+1021,Vietnam,no,neutral,neutral
+1022,Vietnam,no,neutral,neutral
+1023,Vietnam,no,neutral,neutral.
+1024,Vietnam,no,neutral,neutral
+1025,Vietnam,yes,neutral,neutral
+1026,North Macedonia,no,neutral,neutral
+1027,North Macedonia,no,neutral,"neutral 
+
+Emily opening"
+1028,North Macedonia,no,yes,Yes
+1029,North Macedonia,no,neutral,neutral
+1030,North Macedonia,no,neutral,neutral
+1031,North Macedonia,no,neutral,neutral
+1032,North Macedonia,no,neutral,"neutral. 
+
+The"
+1033,North Macedonia,no,neutral,"neutral. 
+
+While"
+1034,North Macedonia,no,neutral,neutral
+1035,North Macedonia,no,neutral,neutral.
+1036,North Macedonia,no,neutral,neutral.
+1037,North Macedonia,no,neutral,neutral
+1038,Italy,no,neutral,neutral.
+1039,Italy,no,neutral,"neutral. 
+
+While"
+1040,Italy,no,neutral,"neutral. 
+
+While"
+1041,Italy,no,no,no
+1042,Italy,no,neutral,"neutral. 
+
+While"
+1043,Italy,no,no,no
+1044,Italy,no,no,No.
+1045,Italy,no,neutral,neutral
+1046,Italy,no,neutral,neutral
+1047,Italy,no,neutral,"neutral. 
+
+("
+1048,Italy,no,neutral,neutral
+1049,Canada,no,no,No.
+1050,Canada,no,neutral,neutral
+1051,Canada,no,no,No
+1052,Canada,no,neutral,"neutral. 
+
+While"
+1053,Canada,no,neutral,neutral
+1054,Canada,no,neutral,neutral
+1055,Canada,no,neutral,neutral
+1056,Canada,no,neutral,neutral
+1057,Canada,no,neutral,neutral
+1058,Canada,no,neutral,neutral
+1059,Canada,no,neutral,neutral
+1060,Canada,no,neutral,neutral
+1061,Iraq,no,neutral,"neutral. 
+
+This"
+1062,Iraq,no,neutral,neutral
+1063,Iraq,no,neutral,neutral
+1064,Iraq,no,no,No.
+1065,Iraq,no,neutral,"neutral. 
+
+While"
+1066,Iraq,no,neutral,neutral
+1067,Iraq,no,neutral,neutral
+1068,Iraq,no,neutral,neutral
+1069,Iraq,no,neutral,neutral
+1070,Iraq,no,no,No.
+1071,Iraq,no,neutral,neutral
+1072,Iraq,no,no,No.
+1073,United Kingdom,no,neutral,neutral
+1074,United Kingdom,no,neutral,neutral
+1075,United Kingdom,no,neutral,neutral
+1076,United Kingdom,no,no,No.
+1077,United Kingdom,no,neutral,neutral
+1078,United Kingdom,no,no,No
+1079,United Kingdom,no,neutral,neutral.
+1080,United Kingdom,no,neutral,"neutral. 
+
+It"
+1081,United Kingdom,yes,neutral,neutral
+1082,Singapore,no,no,no
+1083,Singapore,no,neutral,neutral.
+1084,Singapore,no,neutral,neutral
+1085,Singapore,no,neutral,"neutral. 
+
+The"
+1086,Singapore,no,no,No.
+1087,Singapore,no,no,No
+1088,Singapore,no,neutral,neutral
+1089,Singapore,no,neutral,neutral
+1090,Singapore,no,neutral,neutral
+1091,Singapore,no,yes,yes
+1092,Singapore,no,neutral,neutral.
+1093,Singapore,no,neutral,neutral
+1094,Timor-Leste,no,neutral,neutral
+1095,Timor-Leste,no,neutral,neutral.
+1096,Timor-Leste,no,neutral,"neutral. 
+
+While"
+1097,Timor-Leste,yes,neutral,neutral
+1098,Timor-Leste,no,neutral,neutral
+1099,Timor-Leste,no,neutral,neutral
+1100,Timor-Leste,no,neutral,neutral
+1101,Timor-Leste,no,neutral,neutral.
+1102,Timor-Leste,no,neutral,neutral
+1103,Timor-Leste,no,neutral,"neutral. 
+
+("
+1104,Timor-Leste,no,no,no
+1105,Timor-Leste,no,neutral,neutral
+1106,Poland,no,neutral,neutral
+1107,Poland,yes,yes,yes
+1108,Poland,no,neutral,neutral
+1109,Poland,no,neutral,neutral
+1110,Poland,no,neutral,neutral
+1111,Poland,no,neutral,neutral
+1112,Poland,no,neutral,neutral
+1113,Poland,no,neutral,neutral
+1114,Poland,no,neutral,neutral
+1115,Poland,no,neutral,neutral
+1116,Poland,no,neutral,neutral.
+1117,Poland,no,neutral,neutral
+1118,Pakistan,no,no,"No. 
+
+("
+1119,Pakistan,no,neutral,neutral
+1120,Pakistan,no,neutral,"neutral. 
+
+While"
+1121,Pakistan,no,no,no
+1122,Pakistan,no,no,No.
+1123,Pakistan,no,neutral,neutral
+1124,Pakistan,yes,yes,Yes
+1125,Pakistan,no,neutral,neutral
+1126,Pakistan,yes,neutral,"neutral 
+
+The answer"
+1127,Pakistan,no,no,No
+1128,Pakistan,no,no,No
+1129,Pakistan,no,no,No
+1130,Mexico,no,neutral,neutral.
+1131,Mexico,no,neutral,neutral
+1132,Mexico,no,neutral,neutral
+1133,Mexico,no,neutral,neutral
+1134,Mexico,no,neutral,neutral
+1135,Mexico,no,neutral,neutral
+1136,Mexico,no,neutral,"neutral. 
+
+While"
+1137,Mexico,no,neutral,neutral
+1138,Mexico,no,no,No
+1139,Mexico,no,neutral,neutral
+1140,Mexico,no,neutral,"neutral. 
+
+While"
+1141,Mexico,no,neutral,neutral
+1142,Argentina,no,neutral,neutral
+1143,Argentina,no,neutral,neutral
+1144,Argentina,no,neutral,neutral
+1145,Argentina,no,neutral,neutral
+1146,Argentina,no,neutral,neutral
+1147,Argentina,no,neutral,neutral
+1148,Argentina,no,neutral,neutral
+1149,Argentina,no,neutral,neutral
+1150,Argentina,no,neutral,neutral
+1151,Argentina,yes,neutral,neutral
+1152,Argentina,no,neutral,neutral
+1153,Argentina,no,neutral,neutral
+1154,Taiwan,no,no,No
+1155,Taiwan,no,neutral,neutral.
+1156,Taiwan,no,no,no
+1157,Taiwan,no,neutral,"neutral. 
+
+While"
+1158,Taiwan,no,no,no
+1159,Taiwan,no,neutral,neutral.
+1160,Taiwan,no,neutral,neutral
+1161,Taiwan,no,no,No.
+1162,Taiwan,no,no,No.
+1163,Taiwan,no,neutral,neutral
+1164,Taiwan,no,neutral,neutral.
+1165,Somalia,no,neutral,neutral
+1166,Somalia,no,neutral,neutral
+1167,Somalia,no,neutral,neutral
+1168,Somalia,no,neutral,"neutral. 
+
+While"
+1169,Somalia,no,neutral,neutral
+1170,Somalia,no,neutral,neutral
+1171,Somalia,no,neutral,neutral.
+1172,Somalia,no,yes,yes
+1173,Somalia,no,neutral,neutral
+1174,Somalia,no,neutral,neutral
+1175,Somalia,no,neutral,neutral
+1176,Somalia,no,no,No
+1177,Somalia,no,neutral,neutral
+1178,Somalia,no,yes,The answer is **yes
+1179,Somalia,no,neutral,neutral
+1180,Serbia,no,neutral,neutral
+1181,Serbia,no,neutral,neutral
+1182,Serbia,no,neutral,neutral.
+1183,Serbia,no,neutral,neutral
+1184,Serbia,no,neutral,neutral
+1185,Serbia,no,neutral,neutral
+1186,Serbia,no,neutral,neutral
+1187,Serbia,no,neutral,"neutral. 
+
+While"
+1188,Serbia,no,neutral,neutral
+1189,Serbia,no,neutral,neutral.
+1190,Serbia,no,neutral,neutral
+1191,Serbia,no,neutral,"neutral. 
+
+In"
+1192,Sweden,no,yes,Yes
+1193,Sweden,no,neutral,neutral
+1194,Sweden,no,neutral,neutral.
+1195,Sweden,no,neutral,neutral
+1196,Sweden,no,no,"No. 
+
+("
+1197,Sweden,no,neutral,neutral
+1198,Sweden,no,no,No.
+1199,Sweden,no,no,No.
+1200,Sweden,no,neutral,neutral
+1201,Sweden,no,neutral,neutral
+1202,Sweden,yes,neutral,neutral
+1203,Sweden,no,neutral,neutral
+1204,South Korea,no,neutral,neutral
+1205,South Korea,no,neutral,neutral
+1206,South Korea,no,neutral,neutral
+1207,South Korea,no,no,No.
+1208,South Korea,no,no,no
+1209,South Korea,no,no,No.
+1210,South Korea,no,no,no
+1211,South Korea,no,no,No.
+1212,South Korea,no,no,no
+1213,Myanmar,no,no,"No. 
+
+("
+1214,Myanmar,no,no,no
+1215,Myanmar,no,no,No
+1216,Myanmar,no,no,No.
+1217,Myanmar,no,no,"No. 
+
+("
+1218,Myanmar,no,no,No.
+1219,Myanmar,no,no,no
+1220,Myanmar,no,no,"No. 
+
+It"
+1221,Myanmar,no,neutral,"neutral. 
+
+("
+1222,Myanmar,no,neutral,"neutral 
+
+The story"
+1223,Myanmar,no,neutral,neutral
+1224,Myanmar,no,neutral,neutral
+1225,Myanmar,no,neutral,"neutral. 
+
+While"
+1226,Myanmar,no,neutral,neutral
+1227,Myanmar,no,no,No.
+1228,Malta,no,neutral,neutral
+1229,Malta,no,neutral,neutral
+1230,Malta,no,neutral,neutral.
+1231,Malta,no,neutral,"neutral. 
+
+**"
+1232,Malta,no,neutral,neutral
+1233,Malta,no,neutral,neutral.
+1234,Malta,no,neutral,neutral
+1235,Malta,no,neutral,neutral
+1236,Malta,no,neutral,neutral
+1237,Malta,no,neutral,neutral
+1238,Malta,no,neutral,neutral.
+1239,Malta,no,neutral,neutral.
+1240,China,no,neutral,neutral
+1241,China,no,no,no
+1242,China,no,neutral,neutral
+1243,China,no,neutral,neutral
+1244,China,no,neutral,neutral
+1245,China,no,no,no
+1246,China,no,yes,Yes
+1247,China,yes,neutral,neutral
+1248,China,no,no,no
+1249,China,no,no,no
+1250,China,no,neutral,neutral
+1251,China,no,neutral,neutral
+1252,Germany,no,neutral,neutral.
+1253,Germany,no,no,No.
+1254,Germany,no,neutral,"neutral. 
+
+("
+1255,Germany,no,neutral,neutral.
+1256,Germany,no,no,No.
+1257,Germany,no,neutral,neutral
+1258,Germany,no,neutral,neutral.
+1259,Germany,no,no,no
+1260,Germany,no,neutral,neutral
+1261,Germany,no,neutral,neutral
+1262,Germany,no,no,No
+1263,Germany,no,neutral,neutral
+1264,Germany,no,neutral,neutral
+1265,Germany,yes,no,No.
+1266,Germany,no,neutral,neutral
+1267,Ukraine,no,yes,Yes.
+1268,Ukraine,no,neutral,"neutral. 
+
+The"
+1269,Ukraine,no,neutral,neutral
+1270,Ukraine,no,neutral,neutral.
+1271,Ukraine,no,neutral,"neutral. 
+
+While"
+1272,Ukraine,no,neutral,neutral
+1273,Ukraine,no,neutral,neutral
+1274,Ukraine,no,neutral,neutral.
+1275,Ukraine,no,neutral,"neutral 
+
+
+The story"
+1276,Ukraine,no,neutral,neutral
+1277,Ukraine,no,neutral,"neutral. 
+
+("
+1278,Ukraine,no,neutral,"neutral. 
+
+The"
+1279,Ukraine,no,neutral,neutral
+1280,Ukraine,no,yes,The answer is **yes
+1281,Ukraine,no,neutral,neutral
+1282,Romania,no,neutral,neutral
+1283,Romania,no,neutral,neutral
+1284,Romania,no,neutral,neutral
+1285,Romania,no,neutral,neutral
+1286,Romania,yes,yes,yes
+1287,Romania,no,neutral,neutral.
+1288,Romania,no,neutral,neutral.
+1289,Romania,no,neutral,neutral
+1290,Romania,no,neutral,neutral
+1291,Romania,no,neutral,neutral
+1292,Romania,no,neutral,"neutral. 
+
+While"
+1293,Romania,no,neutral,neutral
+1294,Russia,no,neutral,neutral
+1295,Russia,no,neutral,neutral
+1296,Russia,no,no,no
+1297,Russia,no,no,No.
+1298,Russia,no,neutral,neutral
+1299,Russia,no,neutral,neutral
+1300,Russia,no,no,no
+1301,Russia,no,no,No
+1302,Russia,no,neutral,neutral
+1303,Russia,no,neutral,neutral
+1304,Nepal,no,neutral,neutral
+1305,Nepal,no,neutral,neutral
+1306,Nepal,no,no,No.
+1307,Nepal,no,neutral,neutral.
+1308,Nepal,no,neutral,neutral
+1309,Nepal,no,no,No
+1310,Nepal,no,no,No.
+1311,Nepal,no,neutral,neutral
+1312,Nepal,no,no,No
+1313,Nepal,no,no,No
+1314,Nepal,no,yes,Yes
+1315,Nepal,no,no,No
+1316,Bangladesh,no,neutral,neutral
+1317,Bangladesh,no,no,no
+1318,Bangladesh,no,no,No.
+1319,Bangladesh,no,neutral,"neutral. 
+
+While"
+1320,Bangladesh,no,neutral,neutral
+1321,Bangladesh,no,neutral,neutral.
+1322,Bangladesh,no,no,No.
+1323,Bangladesh,no,no,No.
+1324,Bangladesh,yes,neutral,neutral
+1325,Bangladesh,no,neutral,neutral
+1326,Bangladesh,no,neutral,neutral
+1327,Bangladesh,no,neutral,neutral
+1328,Portugal,no,neutral,neutral
+1329,Portugal,no,neutral,neutral
+1330,Portugal,no,no,No.
+1331,Portugal,no,yes,"Here, ""yes"""
+1332,Portugal,no,neutral,neutral.
+1333,Portugal,no,neutral,neutral.
+1334,Portugal,no,neutral,"neutral. 
+
+("
+1335,Portugal,no,neutral,neutral
+1336,Portugal,no,neutral,neutral.
+1337,Portugal,no,neutral,"neutral. 
+
+("
+1338,Portugal,yes,yes,Yes
+1339,Portugal,no,neutral,neutral
+1340,Thailand,no,neutral,neutral
+1341,Thailand,no,no,"No. 
+
+In"
+1342,Thailand,no,no,No
+1343,Thailand,no,no,"No. 
+
+("
+1344,Thailand,no,no,No.
+1345,Thailand,no,yes,Yes
+1346,Thailand,no,neutral,neutral.
+1347,Thailand,no,yes,yes
+1348,Thailand,no,neutral,neutral.
+1349,Thailand,no,neutral,neutral
+1350,Thailand,no,no,No.
+1351,France,no,yes,yes
+1352,France,no,neutral,neutral
+1353,France,no,no,No.
+1354,France,no,neutral,neutral
+1355,France,no,neutral,neutral
+1356,France,no,neutral,neutral
+1357,France,no,neutral,neutral
+1358,France,no,neutral,The answer is **neutral
+1359,France,no,neutral,neutral
+1360,France,no,neutral,neutral
+1361,France,no,neutral,neutral
+1362,France,no,neutral,neutral
+1363,Ireland,no,neutral,neutral
+1364,Ireland,no,neutral,"neutral. 
+
+While"
+1365,Ireland,no,neutral,neutral
+1366,Ireland,no,neutral,neutral
+1367,Ireland,no,neutral,neutral
+1368,Ireland,no,neutral,neutral
+1369,Ireland,no,neutral,neutral
+1370,Ireland,no,neutral,neutral
+1371,Ireland,no,neutral,neutral
+1372,Ireland,no,neutral,neutral
+1373,Ireland,no,neutral,"neutral. 
+
+While"
+1374,Ireland,no,neutral,neutral
+1375,Ireland,no,neutral,neutral
+1376,Ireland,no,neutral,neutral
+1377,Ireland,no,neutral,neutral
+1378,Croatia,no,no,No.
+1379,Croatia,no,neutral,neutral
+1380,Croatia,no,no,"No. 
+
+("
+1381,Croatia,no,neutral,neutral
+1382,Croatia,no,neutral,neutral.
+1383,Croatia,no,neutral,neutral
+1384,Croatia,no,neutral,neutral
+1385,Croatia,no,neutral,"neutral 
+
+Explanation:"
+1386,Croatia,no,neutral,neutral
+1387,Croatia,no,yes,Yes
+1388,Croatia,no,yes,Yes
+1389,Croatia,no,neutral,neutral
+1390,Mauritius,no,neutral,neutral.
+1391,Mauritius,no,no,No
+1392,Mauritius,no,no,No.
+1393,Mauritius,no,neutral,"neutral. 
+
+While"
+1394,Mauritius,no,yes,Yes
+1395,Mauritius,no,neutral,neutral
+1396,Mauritius,no,neutral,neutral
+1397,Mauritius,no,neutral,neutral
+1398,Mauritius,no,neutral,"neutral. 
+
+The"
+1399,Mauritius,yes,neutral,neutral
+1400,Mauritius,no,neutral,neutral
+1401,Mauritius,yes,yes,yes
+1402,Fiji,no,no,"No. 
+
+
+In"
+1403,Fiji,no,neutral,"neutral. 
+
+("
+1404,Fiji,no,no,No.
+1405,Fiji,no,neutral,neutral
+1406,Fiji,no,neutral,neutral
+1407,Fiji,no,neutral,neutral.
+1408,Fiji,no,neutral,neutral
+1409,Fiji,no,neutral,neutral
+1410,Fiji,no,neutral,neutral
+1411,Austria,no,neutral,neutral
+1412,Austria,no,neutral,neutral.
+1413,Austria,no,neutral,neutral
+1414,Austria,no,neutral,neutral
+1415,Austria,no,neutral,neutral
+1416,Austria,no,no,No
+1417,Austria,no,no,"No. 
+
+In"
+1418,Austria,no,neutral,neutral
+1419,Austria,no,neutral,neutral
+1420,Austria,no,neutral,neutral
+1421,Austria,no,neutral,neutral.
+1422,Brazil,yes,neutral,neutral
+1423,Brazil,yes,neutral,neutral
+1424,Brazil,yes,neutral,neutral
+1425,Brazil,no,neutral,"neutral. 
+
+In"
+1426,Brazil,no,neutral,neutral
+1427,Brazil,no,yes,Yes
+1428,Brazil,no,neutral,"neutral. 
+
+("
+1429,Brazil,no,neutral,neutral
+1430,Brazil,no,neutral,neutral
+1431,Brazil,no,neutral,neutral
+1432,Brazil,no,yes,yes
+1433,Brazil,no,yes,yes
+1434,South Africa,no,no,"No. 
+
+In"
+1435,South Africa,no,neutral,neutral
+1436,South Africa,no,no,No.
+1437,South Africa,no,neutral,neutral
+1438,South Africa,no,neutral,neutral
+1439,South Africa,no,neutral,neutral
+1440,South Africa,no,neutral,neutral
+1441,South Africa,no,neutral,neutral
+1442,South Africa,no,neutral,neutral
+1443,South Africa,no,neutral,neutral
+1444,South Africa,no,neutral,neutral.
+1445,South Africa,no,neutral,neutral.
+1446,Chile,no,no,No
+1447,Chile,no,neutral,neutral
+1448,Chile,no,neutral,neutral
+1449,Chile,no,neutral,neutral
+1450,Chile,no,neutral,neutral
+1451,Chile,yes,yes,yes
+1452,Chile,no,neutral,neutral
+1453,Chile,no,no,"No. 
+
+In"
+1454,Chile,no,neutral,neutral
+1455,Chile,no,neutral,neutral
+1456,Chile,no,neutral,neutral
+1457,Chile,no,neutral,neutral
+1458,Papua New Guinea,no,neutral,neutral
+1459,Papua New Guinea,no,neutral,neutral.
+1460,Papua New Guinea,no,neutral,neutral
+1461,Papua New Guinea,no,neutral,neutral
+1462,Papua New Guinea,no,neutral,neutral
+1463,Papua New Guinea,no,neutral,"neutral. 
+
+The"
+1464,Papua New Guinea,no,neutral,neutral
+1465,Papua New Guinea,no,neutral,neutral
+1466,Papua New Guinea,no,neutral,neutral
+1467,Papua New Guinea,no,neutral,neutral
+1468,Papua New Guinea,yes,neutral,"neutral. 
+
+("
+1469,Papua New Guinea,no,neutral,"neutral. 
+
+("
+1470,Afghanistan,no,no,The answer is **no
+1471,Afghanistan,no,no,No
+1472,Afghanistan,no,no,No.
+1473,Afghanistan,no,yes,Yes
+1474,Afghanistan,no,yes,yes
+1475,Afghanistan,no,neutral,neutral
+1476,Afghanistan,no,neutral,neutral
+1477,Afghanistan,no,neutral,"neutral. 
+
+("
+1478,Afghanistan,no,neutral,"neutral. 
+
+While"
+1479,Afghanistan,no,neutral,neutral
+1480,Afghanistan,no,neutral,neutral
+1481,Afghanistan,no,no,No
+1482,Afghanistan,yes,neutral,neutral
+1483,Afghanistan,yes,neutral,neutral
+1484,Afghanistan,no,neutral,neutral
+1485,Japan,no,neutral,neutral
+1486,Japan,no,neutral,neutral
+1487,Japan,no,neutral,neutral
+1488,Japan,no,no,No.
+1489,Japan,no,no,No.
+1490,Japan,no,no,No
+1491,Japan,no,no,No.
+1492,Japan,no,no,No
+1493,Japan,no,no,No
+1494,Japan,no,no,No
+1495,Japan,no,no,No.
+1496,Japan,no,neutral,neutral.
+1497,Australia,no,neutral,neutral
+1498,Australia,no,neutral,neutral
+1499,Australia,no,neutral,neutral.
+1500,Australia,no,neutral,neutral
+1501,Australia,no,neutral,neutral.
+1502,Australia,no,neutral,"neutral. 
+
+It"
+1503,Australia,no,neutral,neutral
+1504,Australia,no,neutral,neutral
+1505,Netherlands,no,neutral,"neutral. 
+
+While"
+1506,Netherlands,no,neutral,neutral
+1507,Netherlands,no,neutral,neutral
+1508,Netherlands,no,neutral,neutral
+1509,Netherlands,no,neutral,neutral
+1510,Netherlands,no,neutral,neutral
+1511,Netherlands,no,neutral,neutral
+1512,Netherlands,no,neutral,neutral
+1513,Netherlands,no,no,No.
+1514,Netherlands,yes,yes,Yes.
+1515,Netherlands,no,neutral,neutral
+1516,Netherlands,no,neutral,neutral
+1517,Sri Lanka,no,no,No
+1518,Sri Lanka,no,neutral,neutral
+1519,Sri Lanka,no,no,No.
+1520,Sri Lanka,no,neutral,neutral
+1521,Sri Lanka,no,neutral,neutral
+1522,Sri Lanka,no,neutral,neutral
+1523,Sri Lanka,no,neutral,neutral
+1524,Sri Lanka,no,neutral,neutral
+1525,Sri Lanka,no,yes,The answer is **yes
+1526,Sri Lanka,no,neutral,neutral
+1527,Sri Lanka,no,neutral,neutral
+1528,Sri Lanka,no,neutral,"neutral. 
+
+("
+1529,Indonesia,no,no,No.
+1530,Indonesia,no,no,No
+1531,Indonesia,no,no,No
+1532,Indonesia,no,no,"No. 
+
+In"
+1533,Indonesia,no,yes,Yes
+1534,Indonesia,no,no,no
+1535,Indonesia,no,no,No
+1536,Indonesia,no,no,No
+1537,Indonesia,no,no,"No. 
+
+In"
+1538,Malaysia,no,no,No.
+1539,Malaysia,no,no,"No. 
+
+("
+1540,Malaysia,no,no,No.
+1541,Malaysia,no,neutral,neutral
+1542,Malaysia,no,neutral,"neutral. 
+
+("
+1543,Malaysia,no,neutral,neutral
+1544,Malaysia,no,neutral,"neutral. 
+
+Using"
+1545,Malaysia,no,no,No.
+1546,Malaysia,no,neutral,neutral
+1547,Malaysia,no,neutral,neutral
+1548,Malaysia,no,neutral,"neutral. 
+
+The"
+1549,Malaysia,no,neutral,neutral.
+1550,Ethiopia,yes,yes,Yes.
+1551,Ethiopia,no,yes,Yes
+1552,Ethiopia,no,neutral,neutral
+1553,Ethiopia,no,neutral,neutral
+1554,Ethiopia,no,no,No.
+1555,Ethiopia,no,no,no
+1556,Ethiopia,no,no,No.
+1557,Ethiopia,no,no,no
+1558,Ethiopia,no,neutral,neutral
+1559,Ethiopia,no,no,no
+1560,Ethiopia,no,neutral,neutral
+1561,Ethiopia,no,neutral,neutral
+1562,Ethiopia,no,no,no
+1563,Ethiopia,no,neutral,"neutral. 
+
+This"
+1564,Ethiopia,no,no,No.
+1565,Bosnia And Herzegovina,no,neutral,neutral
+1566,Bosnia And Herzegovina,yes,neutral,neutral
+1567,Bosnia And Herzegovina,no,neutral,neutral
+1568,Bosnia And Herzegovina,no,neutral,neutral
+1569,Bosnia And Herzegovina,no,neutral,neutral
+1570,Bosnia And Herzegovina,no,neutral,neutral
+1571,Bosnia And Herzegovina,no,neutral,neutral.
+1572,Bosnia And Herzegovina,no,yes,Yes
+1573,Bosnia And Herzegovina,no,neutral,neutral
+1574,Bosnia And Herzegovina,no,neutral,neutral
+1575,Bosnia And Herzegovina,no,yes,yes
+1576,Bosnia And Herzegovina,no,neutral,neutral.
+1577,Palestinian Territories,no,neutral,neutral
+1578,Palestinian Territories,yes,neutral,neutral.
+1579,Palestinian Territories,no,neutral,neutral.
+1580,Palestinian Territories,no,neutral,"neutral. 
+
+The"
+1581,Palestinian Territories,no,neutral,neutral
+1582,Palestinian Territories,no,neutral,neutral
+1583,Palestinian Territories,no,neutral,neutral
+1584,Palestinian Territories,no,neutral,neutral
+1585,Palestinian Territories,no,neutral,neutral
+1586,Palestinian Territories,no,neutral,neutral.
+1587,Palestinian Territories,no,neutral,neutral
+1588,Palestinian Territories,no,no,No.
+1589,Palestinian Territories,no,no,No.
+1590,Palestinian Territories,no,no,No.
+1591,Syria,no,yes,yes
+1592,Syria,no,yes,yes
+1593,Syria,no,neutral,neutral.
+1594,Syria,no,neutral,neutral
+1595,Syria,no,no,no
+1596,Syria,no,unparseable,Here's the answer
+1597,Kenya,no,neutral,neutral.
+1598,Kenya,no,neutral,neutral
+1599,Kenya,no,no,No.
+1600,Kenya,no,neutral,neutral
+1601,Kenya,no,neutral,neutral
+1602,Kenya,no,neutral,neutral
+1603,Kenya,no,no,No.
+1604,Kenya,no,neutral,neutral
+1605,Kenya,no,no,No.
+1606,Kenya,no,neutral,neutral
+1607,Kenya,no,neutral,neutral.
+1608,Kenya,no,neutral,"neutral. 
+
+The"
+1609,New Zealand,yes,neutral,neutral
+1610,New Zealand,no,neutral,neutral.
+1611,New Zealand,no,neutral,neutral
+1612,New Zealand,no,neutral,neutral
+1613,New Zealand,no,neutral,neutral.
+1614,New Zealand,no,neutral,neutral
+1615,New Zealand,no,neutral,neutral
+1616,New Zealand,no,neutral,neutral
+1617,New Zealand,no,neutral,neutral
+1618,New Zealand,no,neutral,neutral
+1619,New Zealand,no,neutral,neutral
+1620,New Zealand,no,neutral,neutral
+1621,New Zealand,no,neutral,neutral
+1622,New Zealand,no,neutral,neutral
+1623,New Zealand,no,neutral,neutral
+1624,Peru,no,neutral,neutral
+1625,Peru,no,neutral,neutral.
+1626,Peru,no,neutral,neutral
+1627,Peru,no,neutral,neutral
+1628,Peru,no,neutral,neutral
+1629,Peru,no,neutral,neutral
+1630,Peru,no,neutral,neutral
+1631,Peru,no,neutral,"neutral. 
+
+The"
+1632,Peru,no,neutral,neutral
+1633,Laos,no,no,no
+1634,Laos,no,no,No
+1635,Laos,no,no,no
+1636,Laos,no,neutral,neutral
+1637,Laos,no,neutral,neutral
+1638,Laos,yes,yes,Yes
+1639,Laos,no,neutral,neutral
+1640,Laos,yes,neutral,neutral
+1641,Laos,no,neutral,neutral
+1642,Laos,no,neutral,neutral
+1643,Laos,no,yes,Yes
+1644,Laos,no,no,No
+1645,Cyprus,no,neutral,"neutral. 
+
+While"
+1646,Cyprus,no,neutral,"neutral. 
+
+The"
+1647,Cyprus,no,neutral,neutral
+1648,Cyprus,no,neutral,"neutral. 
+
+The"
+1649,Cyprus,no,neutral,"neutral. 
+
+The"
+1650,Cyprus,no,no,No.
+1651,Cyprus,no,neutral,neutral
+1652,Cyprus,no,neutral,neutral
+1653,Cyprus,no,neutral,neutral
+1654,Cyprus,no,neutral,"neutral 
+
+**Explanation"
+1655,Cyprus,no,neutral,"neutral. 
+
+("
+1656,Cyprus,no,neutral,neutral
+1657,India,no,no,No
+1658,India,no,no,No.
+1659,India,no,no,No.
+1660,India,no,neutral,neutral.
+1661,India,no,neutral,neutral
+1662,India,no,neutral,"neutral. 
+
+**"
+1663,India,no,no,no
+1664,India,no,neutral,neutral.
+1665,India,no,neutral,neutral
+1666,India,no,neutral,neutral
+1667,India,no,neutral,neutral
+1668,Iran,no,no,No.
+1669,Iran,no,no,No.
+1670,Iran,no,no,No.
+1671,Iran,no,no,No.
+1672,Iran,no,no,No
+1673,Iran,no,neutral,neutral.
+1674,Iran,no,neutral,"neutral. 
+
+The"
+1675,Iran,no,neutral,neutral.
+1676,Iran,no,no,No.
+1677,Iran,no,neutral,neutral.
+1678,Iran,no,neutral,neutral.
+1679,Iran,no,neutral,neutral.
+1680,Iran,no,neutral,neutral.
+1681,Iran,no,yes,Yes
+1682,Greece,no,neutral,neutral
+1683,Greece,no,neutral,neutral
+1684,Greece,no,yes,Yes
+1685,Greece,no,yes,Yes
+1686,Greece,no,yes,yes
+1687,Greece,no,neutral,neutral.
+1688,Greece,no,neutral,neutral
+1689,Greece,no,neutral,neutral
+1690,Greece,no,neutral,neutral
+1691,Greece,no,neutral,neutral
+1692,Greece,no,neutral,neutral
+1693,Greece,no,yes,yes
+1694,Venezuela,no,neutral,neutral
+1695,Venezuela,no,neutral,neutral.
+1696,Venezuela,no,neutral,neutral
+1697,Venezuela,no,neutral,neutral
+1698,Venezuela,no,neutral,neutral
+1699,Venezuela,no,neutral,neutral.
+1700,Venezuela,no,neutral,neutral
+1701,Venezuela,no,neutral,neutral
+1702,Venezuela,no,neutral,neutral
+1703,Venezuela,no,neutral,neutral
+1704,Venezuela,yes,neutral,neutral
+1705,Venezuela,no,neutral,neutral
+1706,Saudi Arabia,no,no,No
+1707,Saudi Arabia,no,neutral,neutral
+1708,Saudi Arabia,no,no,No.
+1709,Saudi Arabia,no,neutral,"neutral. 
+
+**"
+1710,Saudi Arabia,no,neutral,neutral
+1711,Saudi Arabia,no,neutral,"neutral 
+
+**Explanation"
+1712,Saudi Arabia,no,neutral,neutral
+1713,Saudi Arabia,no,neutral,neutral.
+1714,Saudi Arabia,no,neutral,"neutral. 
+
+While"
+1715,Saudi Arabia,no,no,"No. 
+
+("
+1716,Saudi Arabia,no,no,No
+1717,Saudi Arabia,no,neutral,neutral
+1718,Saudi Arabia,no,no,No
+1719,Saudi Arabia,no,no,No
+1720,Saudi Arabia,no,yes,yes
+1721,Israel,no,neutral,neutral
+1722,Israel,no,neutral,neutral
+1723,Israel,no,neutral,"neutral. 
+
+While"
+1724,Israel,no,neutral,neutral
+1725,Israel,no,neutral,neutral
+1726,Israel,no,neutral,neutral
+1727,Israel,no,neutral,neutral
+1728,Israel,no,neutral,neutral.
+1729,Israel,no,neutral,neutral
+1730,Israel,no,neutral,The answer is **neutral
+1731,Israel,no,neutral,neutral
+1732,Israel,no,yes,yes
+1733,Israel,no,yes,Yes
+1734,Israel,no,neutral,neutral
+1735,Hungary,no,neutral,neutral
+1736,Hungary,no,neutral,neutral
+1737,Hungary,no,no,No.
+1738,Hungary,no,neutral,The answer is **neutral
+1739,Hungary,no,no,no
+1740,Hungary,no,no,no
+1741,Hungary,no,yes,yes
+1742,Hungary,no,neutral,neutral
+1743,Hungary,no,neutral,neutral
+1744,Hungary,no,neutral,neutral
+1745,Hungary,no,neutral,neutral.
+1746,Hungary,no,yes,Yes
+1747,Samoa,no,neutral,neutral
+1748,Samoa,no,neutral,neutral
+1749,Samoa,no,neutral,"neutral. 
+
+("
+1750,Samoa,no,no,No
+1751,Samoa,no,no,No.
+1752,Samoa,no,no,no
+1753,Samoa,no,no,no
+1754,Samoa,no,no,"No. 
+
+In"
+1755,Samoa,no,no,No.
+1756,Samoa,no,no,"No. 
+
+Emily"
+1757,Samoa,yes,neutral,"neutral. 
+
+While"
+1758,Samoa,no,neutral,"neutral. 
+
+While"
+1759,Türkiye,no,neutral,neutral
+1760,Türkiye,no,neutral,neutral
+1761,Türkiye,no,neutral,neutral
+1762,Türkiye,no,neutral,neutral
+1763,Türkiye,no,neutral,neutral
+1764,Türkiye,no,neutral,neutral.
+1765,Türkiye,no,neutral,neutral
+1766,Türkiye,no,neutral,neutral
+1767,Türkiye,no,no,No.
+1768,Türkiye,no,neutral,neutral
+1769,Türkiye,no,neutral,neutral.
+1770,Türkiye,no,neutral,neutral
+1771,United States Of America,no,neutral,neutral
+1772,United States Of America,no,neutral,neutral
+1773,United States Of America,no,neutral,neutral
+1774,United States Of America,no,neutral,neutral
+1775,United States Of America,no,neutral,neutral
+1776,United States Of America,no,neutral,neutral
+1777,United States Of America,no,neutral,neutral
+1778,United States Of America,no,neutral,neutral
+1779,United States Of America,no,neutral,neutral.
+1780,United States Of America,no,neutral,neutral
+1781,United States Of America,no,neutral,neutral.
+1782,United States Of America,no,yes,yes
+1783,United States Of America,no,neutral,neutral
+1784,United States Of America,no,neutral,neutral
+1785,United States Of America,no,neutral,neutral
+1786,Cambodia,no,neutral,neutral
+1787,Cambodia,no,no,No.
+1788,Cambodia,no,neutral,neutral
+1789,Cambodia,no,no,No.
+1790,Cambodia,no,yes,yes
+1791,Cambodia,no,no,No.
+1792,Cambodia,no,no,"No. 
+
+In"
+1793,Cambodia,no,neutral,neutral
+1794,Cambodia,no,neutral,neutral
+1795,Cambodia,no,no,No
+1796,Cambodia,no,no,No.
+1797,Cambodia,no,no,"No. 
+
+("
+1798,South Sudan,no,neutral,neutral
+1799,South Sudan,no,no,no
+1800,South Sudan,no,neutral,neutral
+1801,South Sudan,no,neutral,neutral.
+1802,South Sudan,no,neutral,"neutral. 
+
+While"
+1803,South Sudan,no,no,No.
+1804,South Sudan,no,neutral,neutral.
+1805,South Sudan,no,no,No.
+1806,South Sudan,no,neutral,neutral
+1807,Sudan,no,neutral,neutral.
+1808,Romania,no,neutral,neutral
+1809,Russia,yes,neutral,neutral
+1810,Nepal,no,neutral,neutral.
+1811,Portugal,yes,neutral,"neutral 
+
+**Explanation"
+1812,Ireland,yes,neutral,neutral
+1813,Mauritius,no,neutral,"neutral. 
+
+While"
+1814,Netherlands,no,neutral,neutral
+1815,Iran,yes,yes,Yes
+1816,Samoa,yes,yes,yes
+1817,Cambodia,no,neutral,neutral
+1818,Peru,neutral,no,No.
+1819,Philippines,neutral,yes,Yes
+1820,North Macedonia,neutral,neutral,neutral
+1821,Netherlands,neutral,neutral,neutral
+1822,Samoa,neutral,yes,yes
+1823,Colombia,neutral,neutral,neutral
+1824,Philippines,neutral,neutral,neutral
+1825,United States Of America,neutral,yes,Yes
+1826,Philippines,neutral,neutral,neutral
+1827,Brazil,neutral,neutral,neutral
+1828,France,neutral,yes,Yes
+1829,United Kingdom,neutral,neutral,neutral
+1830,Argentina,neutral,neutral,neutral
+1831,Syria,neutral,neutral,neutral
+1832,Argentina,neutral,neutral,neutral
+1833,Australia,neutral,yes,The answer is **yes
+1835,Australia,neutral,yes,Yes
+1836,Argentina,neutral,neutral,neutral
+1837,Greece,neutral,neutral,neutral.
+1838,Germany,neutral,neutral,neutral
+1839,South Korea,neutral,neutral,neutral
+1840,New Zealand,neutral,yes,Yes
+1841,Ireland,neutral,neutral,neutral
+1842,Austria,neutral,neutral,neutral
+1843,Austria,neutral,neutral,neutral
+1844,United States Of America,neutral,yes,yes
+1845,United States Of America,neutral,neutral,neutral
+1846,United States Of America,neutral,neutral,neutral
+1847,Brazil,neutral,neutral,neutral
+1848,Brazil,neutral,neutral,neutral
+1849,Brazil,neutral,neutral,neutral
+1850,Malaysia,neutral,neutral,"neutral. 
+
+While"
+1851,Türkiye,neutral,no,No.
+1852,Canada,neutral,yes,yes
+1853,Canada,neutral,yes,Yes
+1854,Canada,neutral,neutral,neutral
+1855,Japan,neutral,neutral,neutral
+1856,Japan,neutral,neutral,neutral
+1857,Japan,neutral,neutral,"neutral. 
+
+While"
+1858,Mexico,neutral,yes,yes
+1859,Mexico,neutral,neutral,neutral
+1860,Mexico,neutral,neutral,neutral
+1861,Portugal,neutral,neutral,neutral
+1862,Portugal,neutral,neutral,neutral
+1863,Portugal,neutral,neutral,neutral
+1864,Mauritius,neutral,neutral,The answer is **neutral
+1865,Mauritius,neutral,yes,yes
+1866,Serbia,neutral,neutral,neutral
+1867,Hong Kong,neutral,yes,Yes
+1868,Papua New Guinea,neutral,neutral,neutral.
+1869,Cyprus,neutral,neutral,neutral
+1870,Romania,neutral,neutral,neutral
+1871,Poland,neutral,neutral,neutral
+1872,Afghanistan,neutral,neutral,neutral
+1873,France,neutral,neutral,neutral
+1874,Spain,neutral,neutral,neutral
+1875,Spain,neutral,neutral,neutral
+1876,Spain,neutral,no,No
+1877,Sudan,neutral,neutral,neutral
+1878,Sudan,neutral,no,"No. 
+
+In"
+1879,Sudan,neutral,neutral,neutral
+1880,Taiwan,neutral,neutral,"neutral 
+
+**Explanation"
+1881,Hong Kong,neutral,no,"No. 
+
+**"
+1882,Australia,neutral,neutral,neutral
+1883,Ukraine,neutral,neutral,"neutral 
+
+**Explanation"
+1884,Ukraine,neutral,yes,yes
+1885,Ukraine,neutral,yes,yes
+1886,Australia,neutral,yes,yes
+1887,Australia,neutral,neutral,neutral
+1888,Japan,neutral,neutral,"neutral 
+
+**Explanation"
+1889,Ukraine,neutral,neutral,The answer is **neutral
+1890,Taiwan,neutral,unparseable,The behavior in this story
+1891,Russia,neutral,neutral,neutral
+1892,Croatia,neutral,neutral,neutral
+1893,Croatia,neutral,neutral,"neutral 
+
+Thandi"
+1894,Germany,neutral,neutral,neutral
+1895,Germany,neutral,neutral,neutral
+1896,Germany,neutral,neutral,neutral
+1897,Colombia,neutral,yes,yes
+1898,New Zealand,neutral,neutral,neutral
+1899,Zimbabwe,neutral,neutral,neutral
+1900,Sweden,neutral,no,"No. 
+
+In"
+1901,Sweden,neutral,neutral,neutral
+1902,Sweden,neutral,no,no
+1903,Poland,neutral,neutral,neutral
+1904,Croatia,neutral,neutral,neutral
+1905,Spain,neutral,neutral,neutral
+1906,Ethiopia,neutral,neutral,neutral
+1907,Ethiopia,neutral,neutral,neutral
+1908,Ethiopia,neutral,neutral,neutral
+1909,Iraq,neutral,neutral,neutral.
+1910,Spain,neutral,neutral,neutral
+1911,Iraq,neutral,neutral,"neutral. 
+
+While"
+1912,Netherlands,neutral,neutral,neutral
+1913,Netherlands,neutral,neutral,neutral
+1914,Netherlands,neutral,neutral,neutral
+1915,Romania,neutral,neutral,neutral
+1916,Netherlands,neutral,neutral,neutral.
+1917,Thailand,neutral,neutral,neutral
+1918,Thailand,neutral,neutral,"neutral. 
+
+("
+1919,Thailand,neutral,neutral,neutral
+1920,Taiwan,neutral,no,no
+1921,Taiwan,neutral,neutral,neutral
+1922,New Zealand,neutral,neutral,neutral
+1923,North Macedonia,neutral,neutral,neutral
+1924,Cyprus,neutral,neutral,neutral
+1925,Sweden,neutral,neutral,neutral
+1926,Afghanistan,neutral,neutral,neutral
+1927,Tonga,neutral,no,No.
+1928,Tonga,neutral,neutral,neutral.
+1929,Poland,neutral,yes,yes
+1930,Poland,neutral,yes,yes
+1931,Poland,neutral,neutral,neutral
+1932,China,neutral,no,no
+1933,China,neutral,neutral,neutral
+1935,North Macedonia,neutral,neutral,neutral
+1936,Romania,neutral,yes,Yes
+1937,South Korea,neutral,neutral,neutral
+1938,Thailand,neutral,neutral,"neutral. 
+
+While"
+1939,Thailand,neutral,neutral,neutral.
+1940,Thailand,neutral,neutral,neutral
+1941,France,neutral,no,no
+1942,China,neutral,no,"No. 
+
+Ti"
+1943,China,neutral,yes,Yes
+1944,Australia,neutral,neutral,neutral
+1945,Australia,neutral,neutral,neutral
+1946,Australia,neutral,neutral,neutral
+1947,Japan,neutral,neutral,neutral
+1948,Japan,neutral,yes,Yes
+1949,Sudan,neutral,neutral,neutral
+1950,Sudan,neutral,yes,Yes
+1951,Sudan,neutral,neutral,neutral
+1952,Japan,neutral,yes,Yes
+1953,Japan,neutral,yes,The answer is **yes
+1954,Netherlands,neutral,neutral,neutral
+1955,Bosnia And Herzegovina,neutral,yes,yes
+1956,South Korea,neutral,no,No
+1957,Hungary,neutral,neutral,neutral
+1958,Canada,neutral,neutral,neutral
+1959,United Kingdom,neutral,neutral,neutral
+1960,Myanmar,neutral,neutral,neutral
+1961,Hong Kong,neutral,neutral,neutral
+1962,Samoa,neutral,neutral,neutral
+1963,Chile,neutral,neutral,neutral
+1964,France,neutral,neutral,neutral
+1965,Germany,neutral,neutral,neutral
+1966,Malaysia,neutral,neutral,neutral
+1967,France,neutral,yes,yes
+1968,South Sudan,neutral,neutral,neutral
+1969,South Sudan,neutral,neutral,neutral
+1970,Mexico,neutral,neutral,neutral
+1971,Mexico,neutral,yes,yes
+1972,Germany,neutral,neutral,neutral
+1973,Germany,neutral,neutral,neutral
+1974,Indonesia,neutral,no,no
+1975,Portugal,neutral,neutral,neutral
+1976,Venezuela,neutral,neutral,neutral
+1977,Hungary,neutral,no,no
+1978,France,neutral,neutral,neutral
+1979,Serbia,neutral,neutral,"neutral. 
+
+The"
+1980,Sudan,neutral,neutral,neutral.
+1981,Sudan,neutral,neutral,neutral
+1982,Sudan,neutral,neutral,neutral
+1983,Japan,neutral,no,No
+1984,Lebanon,neutral,neutral,neutral
+1985,Timor-Leste,neutral,yes,The answer is **yes
+1986,India,neutral,neutral,neutral
+1987,India,neutral,neutral,"neutral. 
+
+While"
+1988,India,neutral,neutral,neutral
+1989,Chile,neutral,neutral,neutral
+1990,North Macedonia,neutral,neutral,neutral
+1991,Spain,neutral,neutral,neutral
+1992,Portugal,neutral,yes,Yes
+1993,Philippines,neutral,no,No.
+1994,Spain,neutral,neutral,neutral
+1995,Greece,neutral,neutral,neutral
+1996,Greece,neutral,yes,Yes
+1997,Pakistan,neutral,yes,yes
+1998,Vietnam,neutral,neutral,neutral.
+1999,Vietnam,neutral,neutral,neutral
+2000,Vietnam,neutral,neutral,neutral.
+2001,Japan,neutral,neutral,neutral
+2002,Netherlands,neutral,yes,Yes
+2003,Somalia,neutral,yes,yes
+2004,Kenya,neutral,neutral,neutral
+2005,Kenya,neutral,neutral,neutral
+2006,Kenya,neutral,neutral,neutral
+2007,Italy,neutral,yes,yes
+2008,South Africa,neutral,yes,yes
+2009,Canada,neutral,neutral,neutral
+2010,Hungary,neutral,neutral,neutral
+2011,Sri Lanka,neutral,neutral,neutral
+2012,Greece,neutral,neutral,"neutral. 
+
+("
+2013,Greece,neutral,neutral,neutral
+2014,Greece,neutral,yes,Yes
+2015,Austria,neutral,neutral,neutral
+2016,New Zealand,neutral,no,No.
+2017,Austria,neutral,neutral,neutral
+2018,Cyprus,neutral,yes,Yes.
+2019,Mexico,neutral,yes,yes
+2020,Mexico,neutral,neutral,"neutral. 
+
+The"
+2021,Hungary,neutral,no,No
+2022,Hungary,neutral,neutral,neutral
+2023,Hungary,neutral,neutral,neutral
+2024,Poland,neutral,neutral,neutral
+2025,Poland,neutral,no,"No. 
+
+In"
+2026,Zimbabwe,neutral,neutral,neutral
+2027,Zimbabwe,neutral,neutral,neutral
+2028,Malta,neutral,neutral,neutral
+2029,Serbia,neutral,neutral,neutral
+2030,Serbia,neutral,neutral,neutral
+2031,Mauritius,neutral,no,no
+2032,Mauritius,neutral,neutral,"neutral. 
+
+The"
+2033,Japan,neutral,neutral,neutral
+2034,France,neutral,neutral,neutral
+2035,Netherlands,neutral,neutral,"neutral. 
+
+While"
+2036,Israel,neutral,neutral,neutral
+2037,Mauritius,neutral,neutral,neutral
+2038,Bosnia And Herzegovina,neutral,neutral,neutral
+2039,New Zealand,neutral,yes,yes
+2040,Cambodia,neutral,neutral,neutral.
+2041,United States Of America,neutral,neutral,neutral
+2042,United States Of America,neutral,neutral,neutral.
+2043,United States Of America,neutral,yes,Yes
+2044,Ukraine,neutral,neutral,neutral
+2045,Ukraine,neutral,no,No.
+2046,Ukraine,neutral,neutral,neutral
+2047,Croatia,neutral,neutral,neutral
+2048,United States Of America,neutral,neutral,neutral
+2049,Ireland,neutral,neutral,neutral
+2050,Somalia,neutral,neutral,neutral
+2051,Somalia,neutral,neutral,neutral
+2052,Somalia,neutral,neutral,neutral
+2053,Croatia,neutral,neutral,neutral
+2054,Croatia,neutral,neutral,neutral
+2055,Croatia,neutral,neutral,neutral
+2056,Germany,neutral,neutral,neutral
+2057,Australia,neutral,neutral,neutral
+2058,Peru,neutral,yes,yes
+2059,Taiwan,neutral,neutral,neutral
+2060,Taiwan,neutral,neutral,neutral
+2062,Sweden,neutral,yes,Yes
+2063,Taiwan,neutral,neutral,"neutral. 
+
+Social"
+2064,Peru,neutral,neutral,neutral
+2065,Peru,neutral,neutral,neutral
+2066,Peru,neutral,neutral,neutral
+2067,Peru,neutral,neutral,neutral
+2068,Australia,neutral,neutral,neutral
+2069,Romania,neutral,neutral,neutral
+2070,Japan,neutral,neutral,neutral
+2073,New Zealand,neutral,neutral,neutral
+2074,Sweden,neutral,neutral,neutral
+2075,Sweden,neutral,neutral,neutral
+2076,Sweden,neutral,neutral,neutral
+2077,Austria,neutral,neutral,neutral
+2078,Colombia,neutral,yes,Yes
+2079,France,neutral,yes,Yes
+2080,China,neutral,yes,Yes
+2081,France,neutral,neutral,neutral
+2082,United Kingdom,neutral,neutral,neutral
+2083,Spain,neutral,neutral,"neutral. 
+
+While"
+2084,Cambodia,neutral,yes,Yes.
+2085,Cambodia,neutral,yes,Yes
+2086,Malaysia,neutral,neutral,neutral
+2087,Colombia,neutral,neutral,neutral
+2088,Colombia,neutral,neutral,neutral
+2089,Colombia,neutral,neutral,"neutral. 
+
+While"
+2090,Poland,neutral,neutral,neutral
+2091,Croatia,neutral,neutral,neutral
+2092,Australia,neutral,neutral,neutral
+2093,Bosnia And Herzegovina,neutral,neutral,"neutral. 
+
+While"
+2094,Bosnia And Herzegovina,neutral,neutral,neutral
+2095,Bosnia And Herzegovina,neutral,neutral,neutral
+2096,Chile,neutral,yes,Yes
+2097,Austria,neutral,yes,Yes
+2098,Croatia,neutral,yes,Yes
+2099,Philippines,neutral,yes,Yes
+2100,Philippines,neutral,neutral,neutral.
+2101,Taiwan,neutral,neutral,neutral
+2102,Ukraine,neutral,neutral,neutral
+2103,Ukraine,neutral,neutral,"neutral. 
+
+The"
+2104,Croatia,neutral,yes,Yes
+2105,Croatia,neutral,no,No.
+2106,Croatia,neutral,no,No
+2107,Venezuela,neutral,neutral,neutral
+2108,Venezuela,neutral,neutral,neutral
+2109,Venezuela,neutral,neutral,neutral
+2110,Portugal,neutral,neutral,neutral
+2111,South Korea,neutral,neutral,neutral
+2112,South Korea,neutral,neutral,neutral
+2113,Netherlands,neutral,neutral,neutral
+2115,Greece,neutral,no,no
+2116,Sweden,neutral,neutral,neutral
+2117,Taiwan,neutral,neutral,"neutral. 
+
+While"
+2118,Portugal,neutral,neutral,neutral
+2119,Somalia,neutral,neutral,neutral
+2120,Hong Kong,neutral,neutral,neutral
+2121,North Macedonia,neutral,neutral,neutral
+2122,Ethiopia,neutral,yes,Yes
+2123,Ethiopia,neutral,neutral,neutral
+2124,Ethiopia,neutral,yes,Yes
+2125,Bosnia And Herzegovina,neutral,neutral,neutral
+2126,Bosnia And Herzegovina,neutral,neutral,neutral
+2127,Bosnia And Herzegovina,neutral,neutral,neutral.
+2128,Bosnia And Herzegovina,neutral,neutral,neutral.
+2129,Bosnia And Herzegovina,neutral,neutral,neutral
+2130,United Kingdom,neutral,neutral,neutral
+2131,Germany,neutral,neutral,neutral
+2132,Spain,neutral,neutral,neutral
+2133,Italy,neutral,no,No
+2134,North Macedonia,neutral,neutral,neutral
+2136,Serbia,neutral,neutral,neutral
+2137,Japan,neutral,neutral,neutral
+2138,Taiwan,neutral,no,No.
+2139,Croatia,neutral,neutral,neutral
+2140,Italy,neutral,neutral,"neutral. 
+
+("
+2141,Japan,neutral,neutral,neutral
+2143,Sweden,neutral,neutral,neutral
+2144,Poland,neutral,neutral,neutral
+2145,Sweden,neutral,neutral,neutral
+2146,Papua New Guinea,neutral,neutral,"neutral. 
+
+This"
+2147,Papua New Guinea,neutral,neutral,neutral
+2148,Papua New Guinea,neutral,neutral,neutral
+2149,Netherlands,neutral,yes,Yes.
+2150,Spain,neutral,neutral,neutral
+2151,Ireland,neutral,neutral,neutral
+2152,China,neutral,neutral,neutral
+2153,Portugal,neutral,neutral,neutral.
+2154,Australia,neutral,neutral,"neutral. 
+
+While"
+2155,Serbia,neutral,no,"No. 
+
+In"
+2156,Serbia,neutral,neutral,neutral
+2157,Netherlands,neutral,neutral,neutral
+2158,Netherlands,neutral,neutral,neutral
+2159,Netherlands,neutral,neutral,neutral
+2160,Lebanon,neutral,neutral,The answer is **neutral
+2161,Australia,neutral,neutral,neutral
+2162,Saudi Arabia,neutral,neutral,neutral
+2163,Serbia,neutral,neutral,"neutral. 
+
+("
+2164,Serbia,neutral,unparseable,The story doesn't
+2165,Serbia,neutral,neutral,neutral
+2166,Greece,neutral,neutral,neutral
+2167,Greece,neutral,neutral,neutral
+2168,Greece,neutral,neutral,neutral
+2169,Croatia,neutral,yes,Yes
+2170,Croatia,neutral,neutral,neutral
+2171,Croatia,neutral,yes,Yes
+2172,Cyprus,neutral,yes,Yes
+2173,Serbia,neutral,no,No.
+2174,Serbia,neutral,neutral,neutral
+2175,Portugal,neutral,yes,Yes
+2176,Philippines,neutral,neutral,neutral
+2177,Philippines,neutral,neutral,"neutral. 
+
+While"
+2178,Philippines,neutral,no,No.
+2179,Japan,neutral,unparseable,Alex's behavior is
+2180,South Africa,neutral,neutral,neutral
+2181,Afghanistan,neutral,neutral,neutral
+2182,Argentina,neutral,neutral,neutral
+2183,Sri Lanka,neutral,neutral,neutral
+2184,United States Of America,neutral,neutral,neutral
+2185,China,neutral,neutral,neutral.
+2186,China,neutral,neutral,"neutral. 
+
+While"
+2187,China,neutral,neutral,"neutral. 
+
+While"
+2188,Serbia,neutral,neutral,neutral
+2189,Canada,neutral,neutral,neutral
+2190,Bosnia And Herzegovina,neutral,neutral,neutral
+2191,Germany,neutral,yes,Yes
+2192,Argentina,neutral,yes,Yes
+2193,Singapore,neutral,neutral,neutral.
+2194,Sweden,neutral,no,No.
+2195,Australia,neutral,neutral,neutral
+2196,Sweden,neutral,neutral,neutral
+2197,Timor-Leste,neutral,neutral,neutral
+2198,Timor-Leste,neutral,no,No.
+2199,Timor-Leste,neutral,neutral,neutral
+2200,Singapore,neutral,no,no
+2201,Palestinian Territories,neutral,yes,Yes.
+2202,Palestinian Territories,neutral,neutral,neutral
+2203,Australia,neutral,neutral,The answer is **neutral
+2204,Afghanistan,neutral,neutral,neutral
+2205,United States Of America,neutral,neutral,neutral.
+2206,United States Of America,neutral,neutral,neutral.
+2207,South Sudan,neutral,neutral,neutral
+2208,Japan,neutral,neutral,neutral
+2209,Canada,neutral,yes,yes
+2210,New Zealand,neutral,neutral,neutral.
+2211,Canada,neutral,neutral,neutral
+2212,Mauritius,neutral,neutral,neutral
+2213,Mauritius,neutral,yes,Yes
+2214,Mauritius,neutral,yes,Yes
+2215,South Korea,neutral,neutral,neutral
+2216,Bangladesh,neutral,no,"No. 
+
+("
+2217,Italy,neutral,neutral,"neutral. 
+
+("
+2218,Nepal,neutral,neutral,neutral
+2219,South Sudan,neutral,yes,yes
+2220,South Sudan,neutral,neutral,neutral
+2221,Türkiye,neutral,yes,yes
+2222,Netherlands,neutral,neutral,neutral
+2223,Türkiye,neutral,neutral,neutral
+2224,India,neutral,neutral,neutral
+2225,Papua New Guinea,neutral,neutral,neutral
+2226,Malta,neutral,neutral,neutral
+2227,Nepal,neutral,yes,yes
+2228,Serbia,neutral,neutral,neutral
+2229,Romania,neutral,neutral,neutral
+2230,Türkiye,neutral,neutral,neutral
+2231,Türkiye,neutral,no,No.
+2232,Timor-Leste,neutral,neutral,"neutral. 
+
+While"
+2233,Austria,neutral,neutral,neutral
+2234,Israel,neutral,neutral,neutral
+2235,Austria,neutral,neutral,neutral
+2236,Sweden,neutral,neutral,neutral
+2237,Kenya,neutral,neutral,neutral
+2238,Canada,neutral,neutral,neutral
+2239,Croatia,neutral,neutral,"neutral. 
+
+("
+2240,Croatia,neutral,neutral,neutral
+2241,Greece,neutral,neutral,neutral
+2242,Hungary,neutral,neutral,neutral
+2243,Mexico,neutral,neutral,neutral
+2244,Romania,neutral,neutral,"neutral 
+
+**Explanation"
+2245,Germany,neutral,neutral,"neutral. 
+
+While"
+2246,South Korea,neutral,neutral,neutral
+2247,China,neutral,neutral,neutral
+2248,Ethiopia,neutral,neutral,neutral
+2249,Peru,neutral,neutral,neutral
+2250,Ethiopia,neutral,neutral,neutral
+2251,Argentina,neutral,neutral,neutral
+2252,Netherlands,neutral,neutral,neutral
+2253,Argentina,neutral,neutral,neutral
+2254,Colombia,neutral,neutral,"neutral 
+
+**Explanation"
+2255,Germany,neutral,neutral,neutral
+2256,United Kingdom,neutral,neutral,neutral
+2257,Australia,neutral,neutral,"neutral. 
+
+In"
+2258,Australia,neutral,neutral,The answer is **neutral
+2259,Papua New Guinea,neutral,no,"No. 
+
+("
+2260,Taiwan,neutral,neutral,neutral
+2261,Taiwan,neutral,neutral,neutral
+2262,Taiwan,neutral,neutral,neutral.
+2263,Iraq,neutral,yes,yes
+2264,Iraq,neutral,neutral,neutral
+2265,Iraq,neutral,neutral,neutral
+2266,Hong Kong,neutral,no,No.
+2267,Germany,neutral,neutral,neutral
+2268,North Macedonia,neutral,yes,Yes
+2269,Laos,neutral,neutral,"neutral. 
+
+The"
+2270,Ukraine,neutral,neutral,neutral
+2271,Chile,neutral,neutral,neutral
+2272,Argentina,neutral,neutral,neutral
+2273,Argentina,neutral,no,No
+2274,Argentina,neutral,neutral,neutral
+2275,North Macedonia,neutral,yes,yes
+2276,Italy,neutral,no,No.
+2277,South Korea,neutral,neutral,neutral
+2278,United Kingdom,neutral,neutral,neutral
+2279,Greece,neutral,neutral,neutral
+2280,Israel,neutral,yes,Yes
+2281,Canada,neutral,neutral,neutral
+2282,Canada,neutral,yes,Yes
+2283,Italy,neutral,neutral,neutral
+2284,Cambodia,neutral,neutral,neutral
+2285,Palestinian Territories,neutral,neutral,neutral
+2286,Serbia,neutral,neutral,neutral
+2287,Mexico,neutral,neutral,neutral
+2288,Romania,neutral,neutral,neutral
+2289,Malta,neutral,neutral,neutral
+2290,Iraq,neutral,neutral,neutral
+2291,Malta,neutral,neutral,"neutral. 
+
+While"
+2292,Spain,neutral,yes,Yes
+2293,Spain,neutral,neutral,neutral
+2294,Spain,neutral,neutral,neutral
+2295,Portugal,neutral,neutral,neutral
+2296,France,neutral,neutral,neutral.
+2297,France,neutral,no,No.
+2298,Romania,neutral,neutral,neutral
+2299,Hungary,neutral,neutral,"neutral. 
+
+While"
+2300,Romania,neutral,neutral,neutral
+2301,Sweden,neutral,neutral,neutral
+2302,Cambodia,neutral,neutral,neutral
+2303,Cambodia,neutral,neutral,neutral
+2304,Poland,neutral,neutral,neutral
+2305,Poland,neutral,yes,yes
+2306,Hungary,neutral,neutral,neutral
+2307,Singapore,neutral,no,No.
+2308,Philippines,neutral,yes,Yes
+2309,Singapore,neutral,unparseable,Emily's behavior is
+2310,Palestinian Territories,neutral,neutral,The answer is **neutral
+2311,Samoa,neutral,neutral,neutral.
+2312,Samoa,neutral,neutral,neutral
+2313,Samoa,neutral,yes,Yes.
+2314,Mexico,neutral,neutral,neutral
+2315,France,neutral,neutral,neutral
+2316,France,neutral,neutral,neutral.
+2317,Greece,neutral,neutral,neutral
+2318,South Korea,neutral,neutral,neutral.
+2319,Afghanistan,neutral,neutral,neutral
+2320,Afghanistan,neutral,no,"No. 
+
+It"
+2321,Afghanistan,neutral,neutral,neutral
+2322,Netherlands,neutral,neutral,neutral.
+2323,South Korea,neutral,yes,Yes
+2324,Greece,neutral,neutral,neutral
+2325,Austria,neutral,neutral,neutral
+2327,China,neutral,no,"No. 
+
+In"
+2329,Mauritius,neutral,neutral,neutral
+2330,South Korea,neutral,neutral,neutral
+2331,South Korea,neutral,neutral,neutral
+2332,South Korea,neutral,neutral,neutral
+2333,Peru,neutral,neutral,neutral
+2334,Peru,neutral,neutral,neutral
+2335,Peru,neutral,neutral,neutral
+2336,Canada,neutral,neutral,neutral
+2337,Sudan,neutral,neutral,neutral
+2338,Sudan,neutral,yes,yes
+2339,Canada,neutral,yes,yes
+2340,South Korea,neutral,yes,yes
+2341,Japan,neutral,yes,yes
+2343,Australia,neutral,neutral,"neutral. 
+
+("
+2344,Australia,neutral,neutral,neutral
+2345,New Zealand,neutral,neutral,neutral.
+2346,Hong Kong,neutral,neutral,"neutral. 
+
+While"
+2347,Vietnam,neutral,neutral,neutral
+2348,Hong Kong,neutral,no,No
+2349,Sudan,neutral,no,"No. 
+
+In"
+2350,France,neutral,neutral,neutral
+2351,United States Of America,neutral,neutral,neutral
+2352,Germany,neutral,neutral,neutral
+2353,Brazil,neutral,unparseable,The provided information doesn'
+2354,South Korea,neutral,neutral,neutral
+2355,France,neutral,neutral,neutral
+2356,France,neutral,neutral,neutral
+2357,Romania,neutral,neutral,neutral
+2358,Samoa,neutral,neutral,neutral
+2359,Hong Kong,neutral,no,No.
+2360,Philippines,neutral,yes,Yes
+2361,Austria,neutral,neutral,neutral
+2362,Austria,neutral,neutral,neutral
+2363,Austria,neutral,neutral,"neutral. 
+
+While"
+2364,Hungary,neutral,neutral,neutral
+2365,Hungary,neutral,no,No.
+2366,Hungary,neutral,neutral,neutral
+2367,Japan,neutral,neutral,neutral
+2368,Malta,neutral,neutral,neutral
+2369,Ukraine,neutral,neutral,"neutral. 
+
+While"
+2370,Germany,neutral,neutral,"neutral. 
+
+While"
+2371,Taiwan,neutral,neutral,The answer is **neutral
+2372,Bosnia And Herzegovina,neutral,neutral,neutral
+2373,China,neutral,neutral,neutral
+2374,Japan,neutral,no,No
+2375,Japan,neutral,neutral,neutral
+2376,Japan,neutral,no,no
+2377,Egypt,neutral,neutral,neutral
+2378,Egypt,neutral,neutral,"neutral. 
+
+The"
+2379,Egypt,neutral,neutral,neutral
+2380,Peru,neutral,neutral,neutral
+2381,Romania,neutral,neutral,neutral
+2382,Romania,neutral,neutral,neutral
+2383,Colombia,neutral,neutral,neutral
+2384,Colombia,neutral,neutral,neutral
+2385,Colombia,neutral,neutral,neutral.
+2387,Bosnia And Herzegovina,neutral,neutral,neutral
+2389,United States Of America,neutral,no,No.
+2390,Austria,neutral,neutral,neutral
+2391,China,neutral,neutral,neutral
+2392,China,neutral,no,no
+2393,China,neutral,no,no
+2394,South Korea,neutral,neutral,neutral
+2395,South Korea,neutral,neutral,neutral
+2396,South Korea,neutral,neutral,neutral
+2397,Austria,neutral,neutral,neutral
+2398,France,neutral,neutral,"neutral. 
+
+While"
+2399,Australia,neutral,neutral,neutral
+2400,Lebanon,neutral,yes,Yes
+2401,Syria,neutral,neutral,neutral
+2402,Ethiopia,neutral,yes,Yes
+2403,Colombia,neutral,neutral,neutral
+2404,Austria,neutral,yes,Yes
+2405,Australia,neutral,neutral,neutral
+2406,Spain,neutral,neutral,neutral
+2407,South Sudan,neutral,neutral,neutral
+2408,Malaysia,neutral,neutral,neutral
+2409,Greece,neutral,yes,The answer is **yes
+2410,Greece,neutral,neutral,neutral.
+2411,Colombia,neutral,neutral,neutral
+2412,Taiwan,neutral,neutral,"neutral. 
+
+While"
+2413,Taiwan,neutral,neutral,neutral.
+2414,Laos,neutral,neutral,The answer is **neutral
+2415,China,neutral,yes,Yes
+2416,Italy,neutral,neutral,neutral
+2417,Sweden,neutral,no,No
+2418,Tonga,neutral,yes,yes
+2419,Poland,neutral,yes,Yes
+2420,Hungary,neutral,neutral,neutral
+2421,Sweden,neutral,neutral,"neutral. 
+
+While"
+2422,Philippines,neutral,neutral,neutral
+2423,Sweden,neutral,neutral,"neutral. 
+
+While"
+2424,China,neutral,neutral,neutral
+2425,Israel,neutral,neutral,neutral
+2426,Brazil,neutral,neutral,neutral
+2427,Laos,neutral,neutral,neutral
+2428,Laos,neutral,no,no
+2429,Hungary,neutral,neutral,"neutral. 
+
+While"
+2430,Hungary,neutral,yes,Yes
+2431,Tonga,neutral,neutral,"neutral. 
+
+While"
+2432,Tonga,neutral,neutral,neutral
+2433,Tonga,neutral,neutral,neutral
+2434,Greece,neutral,neutral,neutral
+2435,Cambodia,neutral,yes,yes
+2436,South Korea,neutral,neutral,neutral
+2437,Germany,neutral,neutral,"neutral. 
+
+("
+2438,Greece,neutral,no,"No. 
+
+While"
+2439,Greece,neutral,no,No.
+2440,Singapore,neutral,neutral,neutral
+2442,Hungary,neutral,neutral,neutral.
+2443,Australia,neutral,neutral,neutral
+2444,Australia,neutral,yes,yes
+2445,Australia,neutral,neutral,neutral
+2446,New Zealand,neutral,neutral,neutral
+2447,Taiwan,neutral,neutral,neutral
+2448,Cambodia,neutral,yes,Yes
+2449,United Kingdom,neutral,yes,Yes
+2450,United States Of America,neutral,yes,yes
+2451,Russia,neutral,neutral,neutral
+2452,Serbia,neutral,neutral,"neutral. 
+
+Social"
+2453,Croatia,neutral,neutral,"neutral 
+
+Alex'"
+2454,Croatia,neutral,neutral,neutral
+2455,Chile,neutral,neutral,neutral
+2456,Philippines,neutral,neutral,neutral
+2457,Chile,neutral,neutral,neutral.
+2458,Venezuela,neutral,neutral,neutral
+2459,Greece,neutral,neutral,neutral
+2460,Venezuela,neutral,neutral,neutral
+2461,Sri Lanka,neutral,neutral,neutral
+2462,Sri Lanka,neutral,yes,Yes
+2463,Sri Lanka,neutral,neutral,neutral
+2464,Timor-Leste,neutral,neutral,neutral
+2465,Nepal,neutral,neutral,The answer is **neutral
+2466,Portugal,neutral,neutral,neutral
+2467,Taiwan,neutral,neutral,neutral.
+2468,Türkiye,neutral,no,no
+2469,Türkiye,neutral,no,No.
+2470,South Korea,neutral,neutral,neutral
+2471,South Korea,neutral,neutral,neutral
+2472,Hungary,neutral,neutral,neutral
+2473,Hungary,neutral,neutral,neutral
+2474,Hungary,neutral,neutral,"neutral. 
+
+The"
+2475,United States Of America,neutral,neutral,neutral
+2476,Zimbabwe,neutral,neutral,neutral
+2477,Philippines,neutral,neutral,neutral
+2478,Sweden,neutral,neutral,neutral
+2479,Sweden,neutral,no,"No. 
+
+Using"
+2480,Sweden,neutral,neutral,neutral
+2481,Ukraine,neutral,neutral,neutral.
+2482,Ukraine,neutral,yes,"Yes. 
+
+The"
+2483,Bosnia And Herzegovina,neutral,neutral,neutral
+2484,Italy,neutral,no,No.
+2485,Japan,neutral,yes,Yes
+2486,Taiwan,neutral,neutral,neutral
+2487,Croatia,neutral,neutral,neutral
+2488,United States Of America,neutral,yes,yes
+2489,Mexico,neutral,neutral,neutral
+2490,Kenya,neutral,yes,yes
+2491,Kenya,neutral,neutral,neutral
+2492,Kenya,neutral,neutral,neutral
+2493,Sweden,neutral,neutral,neutral
+2494,Sweden,neutral,neutral,neutral
+2495,Sweden,neutral,neutral,neutral
+2496,Somalia,neutral,neutral,neutral
+2497,United Kingdom,neutral,neutral,neutral
+2498,France,neutral,yes,Yes
+2499,Netherlands,neutral,yes,Yes
+2500,Iran,neutral,no,"No. 
+
+
+neutral"
+2501,Malaysia,neutral,yes,Yes
+2502,Malaysia,neutral,yes,yes
+2503,Malaysia,neutral,yes,Yes.
+2504,China,neutral,neutral,neutral
+2505,France,neutral,neutral,neutral
+2506,France,neutral,no,No.
+2507,China,neutral,neutral,"neutral. 
+
+While"
+2508,Venezuela,neutral,neutral,neutral
+2509,Taiwan,neutral,neutral,neutral
+2510,Netherlands,neutral,neutral,neutral
+2511,Netherlands,neutral,neutral,neutral
+2512,Netherlands,neutral,neutral,neutral
+2513,Russia,neutral,yes,Yes
+2514,Russia,neutral,neutral,neutral
+2515,Russia,neutral,neutral,neutral
+2516,China,neutral,no,No
+2517,Myanmar,neutral,yes,The answer is **yes
+2518,Mexico,neutral,yes,Yes
+2519,Croatia,neutral,neutral,neutral
+2520,Poland,neutral,neutral,neutral
+2521,Poland,neutral,neutral,"neutral. 
+
+The"
+2522,Bosnia And Herzegovina,neutral,neutral,neutral
+2523,Canada,neutral,neutral,neutral
+2524,Bosnia And Herzegovina,neutral,neutral,neutral.
+2525,Laos,neutral,neutral,neutral
+2526,Laos,neutral,neutral,neutral
+2527,Laos,neutral,neutral,neutral
+2530,Indonesia,neutral,neutral,neutral
+2531,Indonesia,neutral,neutral,"neutral. 
+
+While"
+2532,Indonesia,neutral,no,no
+2533,Cyprus,neutral,neutral,neutral
+2534,Cyprus,neutral,yes,Yes
+2535,Cyprus,neutral,yes,Yes
+2536,Italy,neutral,unparseable,Thoughtfully.
+2537,Italy,neutral,yes,yes
+2538,Cambodia,neutral,yes,Yes.
+2539,Iran,neutral,neutral,neutral.
+2540,France,neutral,no,No.
+2541,France,neutral,no,No.
+2542,United Kingdom,neutral,neutral,neutral
+2543,United Kingdom,neutral,yes,Yes
+2544,United Kingdom,neutral,yes,yes
+2545,Poland,neutral,neutral,The answer is **neutral
+2546,Sweden,neutral,no,no
+2547,Sweden,neutral,no,No
+2548,Poland,neutral,neutral,neutral
+2549,Netherlands,neutral,neutral,neutral
+2550,China,neutral,yes,Yes
+2551,Poland,neutral,neutral,neutral
+2552,Poland,neutral,neutral,neutral
+2553,Poland,neutral,neutral,neutral
+2554,Germany,neutral,neutral,neutral
+2555,Germany,neutral,neutral,neutral
+2556,Taiwan,neutral,neutral,neutral
+2557,Japan,neutral,yes,yes
+2558,Japan,neutral,neutral,neutral
+2559,Japan,neutral,neutral,neutral
+2560,India,neutral,neutral,neutral
+2561,Türkiye,neutral,yes,yes
+2562,Netherlands,neutral,neutral,neutral
+2563,Chile,neutral,no,No.
+2564,Peru,neutral,neutral,neutral.
+2565,Romania,neutral,yes,The answer is **yes
+2566,Malta,neutral,neutral,neutral
+2567,Bangladesh,neutral,neutral,neutral.
+2568,South Korea,neutral,neutral,neutral
+2569,Hong Kong,neutral,neutral,neutral
+2570,Italy,neutral,no,No.
+2571,Singapore,neutral,yes,Yes
+2572,Spain,neutral,neutral,neutral
+2573,Spain,neutral,yes,Yes
+2574,Spain,neutral,neutral,"neutral. 
+
+While"
+2575,Bangladesh,neutral,neutral,"neutral. 
+
+**"
+2576,Bangladesh,neutral,neutral,neutral
+2577,Bangladesh,neutral,neutral,neutral
+2578,Palestinian Territories,neutral,neutral,neutral
+2579,Serbia,neutral,neutral,neutral
+2580,Serbia,neutral,unparseable,Leah's behavior is
+2581,Iraq,neutral,neutral,neutral
+2582,Hungary,neutral,yes,yes
+2583,Hungary,neutral,neutral,neutral
+2584,Hungary,neutral,neutral,neutral
+2585,Greece,neutral,neutral,neutral
+2586,Chile,neutral,neutral,neutral.
+2587,Iran,neutral,neutral,neutral
+2588,Japan,neutral,neutral,neutral
+2589,Papua New Guinea,neutral,neutral,neutral
+2591,Bangladesh,neutral,neutral,neutral.
+2592,Singapore,neutral,yes,yes
+2593,Singapore,neutral,neutral,neutral
+2594,Singapore,neutral,yes,**Yes**
+2595,Cambodia,neutral,neutral,neutral
+2596,Mauritius,neutral,neutral,"neutral. 
+
+The"
+2597,Cambodia,neutral,neutral,neutral
+2598,New Zealand,neutral,yes,Yes
+2599,New Zealand,neutral,neutral,neutral
+2600,New Zealand,neutral,neutral,"neutral. 
+
+While"
+2601,Italy,neutral,neutral,neutral
+2602,Italy,neutral,neutral,neutral
+2603,Ireland,neutral,neutral,neutral
+2604,Ireland,neutral,neutral,neutral
+2605,Australia,neutral,neutral,neutral
+2606,Germany,neutral,neutral,neutral
+2607,Australia,neutral,yes,Yes
+2608,Croatia,neutral,neutral,neutral
+2610,Croatia,neutral,yes,yes
+2611,Japan,neutral,neutral,neutral
+2612,Japan,neutral,neutral,neutral
+2613,Japan,neutral,neutral,neutral
+2614,China,neutral,neutral,"neutral. 
+
+**"
+2615,China,neutral,neutral,neutral
+2616,Poland,neutral,neutral,The answer is **neutral
+2617,Poland,neutral,neutral,neutral
+2618,Poland,neutral,neutral,neutral
+2619,Brazil,neutral,neutral,neutral
+2620,Brazil,neutral,neutral,neutral
+2621,Brazil,neutral,neutral,neutral
+2622,Spain,neutral,neutral,neutral
+2623,Spain,neutral,neutral,neutral
+2624,Greece,neutral,neutral,neutral
+2625,France,neutral,neutral,neutral
+2626,Philippines,neutral,yes,yes
+2627,Netherlands,neutral,neutral,"neutral 
+
+**Explanation"
+2628,France,neutral,neutral,neutral
+2629,Serbia,neutral,neutral,"neutral. 
+
+**"
+2630,Syria,neutral,neutral,neutral.
+2631,New Zealand,neutral,neutral,neutral
+2632,New Zealand,neutral,neutral,neutral

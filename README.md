@@ -8,14 +8,13 @@ Evaluating LLMs and classical baselines on the [NormAd](https://huggingface.co/d
 data/                    NormAd CSVs (raw, clean, preprocessed, 50-row trial subset)
 notebooks/               Exploratory data analysis
 src/
-  data_pipeline.py       Load NormAd and build the train/val/test split
-  baselines.py           TF-IDF / classical baselines + grid search
+  data_pipeline.py       Load NormAd (pinned revision) and build the train/val/test split
+  baselines.py           Naive and TF-IDF baselines + grid search
 results/
-  <model>/<run>/         LLM outputs per model; run = trial (50 rows) or full
-    *_with-rule*.csv       predictions when the rule-of-thumb is in the prompt
-    *_without-rule*.csv    predictions without it
-    *_report.txt           sklearn classification reports
-    *_run-notes*           model, quantization, hardware, issues
+  baseline_results.csv   Baseline table (written by src/baselines.py)
+  <model>/<run>/         LLM outputs per model (not part of the baseline milestone);
+                         run = trial (50 rows) or full; each holds predictions with and
+                         without the rule-of-thumb, classification reports, and run notes
 requirements.txt
 ```
 
@@ -29,11 +28,12 @@ pip install -r requirements.txt
 
 ## Classical Baseline Evaluation
 
-This project implements three classical machine learning baselines for the NormAd-ETI dataset:
+This milestone implements two naive benchmarks and two classical machine learning baselines for the NormAd-ETI dataset:
 
-1. **DummyClassifier** — Predicts the most frequent class as a naive benchmark.
-2. **TF-IDF + Logistic Regression** — Uses TF-IDF text features with a logistic regression classifier.
-3. **TF-IDF + Multinomial Naive Bayes** — Uses TF-IDF text features with a probabilistic classifier.
+1. **DummyClassifier (most frequent)** — Always predicts the majority class (`yes`).
+2. **DummyClassifier (stratified)** — Guesses at random in proportion to the training class distribution, averaged over 10 seeds. This is the more meaningful macro-F1 floor, since always-`yes` scores zero on two of three classes.
+3. **TF-IDF + Logistic Regression** — Uses TF-IDF text features with a logistic regression classifier.
+4. **TF-IDF + Multinomial Naive Bayes** — Uses TF-IDF text features with a probabilistic classifier.
 
 Logistic Regression and Naive Bayes are evaluated under two conditions:
 - **Without Rule-of-Thumb:** Country + Story
@@ -57,7 +57,7 @@ Hyperparameters were selected using `GridSearchCV` with `f1_macro` scoring. TF-I
 
 ### Running the Baselines
 
-After installing the dependencies from `requirements.txt`, run the following command from the repository root:
+After installing the dependencies from requirements.txt, run the following command from the repository root:
 
 ```bash
 python src/baselines.py
@@ -71,21 +71,26 @@ results/baseline_results.csv
 
 ### Baseline Results
 
-All results below were evaluated on the same 521-example held-out test set.
+Test columns are on the same 521-example held-out test set. CV macro-F1 is the mean ± standard deviation over the 5 training folds for the selected hyperparameters.
 
-| Model | Rule-of-Thumb | Accuracy | Macro-F1 |
-|---|---|---:|---:|
-| DummyClassifier | N/A | 0.3647 | 0.1782 |
-| TF-IDF + Logistic Regression | Without | **0.9194** | **0.9191** |
-| TF-IDF + Logistic Regression | With | 0.9079 | 0.9078 |
-| TF-IDF + Multinomial Naive Bayes | Without | 0.8100 | 0.8083 |
-| TF-IDF + Multinomial Naive Bayes | With | 0.7908 | 0.7895 |
+| Model | Rule-of-Thumb | CV Macro-F1 | Test Accuracy | Test Macro-F1 |
+|---|---|---:|---:|---:|
+| DummyClassifier (most frequent) | N/A | — | 0.3647 | 0.1782 |
+| DummyClassifier (stratified, 10 seeds) | N/A | — | 0.3326 | 0.3299 ± 0.0148 |
+| TF-IDF + Logistic Regression | Without | 0.9010 ± 0.0123 | **0.9194** | **0.9191** |
+| TF-IDF + Logistic Regression | With | 0.8991 ± 0.0177 | 0.9079 | 0.9078 |
+| TF-IDF + Multinomial Naive Bayes | Without | 0.8131 ± 0.0247 | 0.8100 | 0.8083 |
+| TF-IDF + Multinomial Naive Bayes | With | 0.7835 ± 0.0232 | 0.7908 | 0.7895 |
+
+Selected hyperparameters: Logistic Regression `C=10`, bigrams in both conditions; Naive Bayes `alpha=0.5` (without) / `1.0` (with), bigrams.
 
 ### Results Interpretation
 
 TF-IDF + Logistic Regression without rule-of-thumb information achieved the highest performance, with 91.94% accuracy and a macro-F1 of 0.9191.
 
-Multinomial Naive Bayes without rule-of-thumb information achieved a macro-F1 of 0.8083, while the majority-class DummyClassifier achieved 0.1782.
+Multinomial Naive Bayes without rule-of-thumb information achieved a macro-F1 of 0.8083, compared with 0.1782 for the majority-class DummyClassifier and 0.3299 for stratified random guessing.
+
+Every test score is within 1.5 CV standard deviations of its CV estimate, so the held-out split behaves like the training folds and there is no sign of overfitting during hyperparameter selection.
 
 Including rule-of-thumb information slightly reduced performance for both classical models:
 
@@ -94,15 +99,13 @@ Including rule-of-thumb information slightly reduced performance for both classi
 
 These findings suggest that adding rule-of-thumb information did not improve the classical TF-IDF baselines under the current experimental setup.
 
-The high classification scores warrant further investigation into possible dataset shortcuts or shared linguistic patterns. Comparisons with the existing LLM replication results must also account for differences in evaluation subsets and protocols.
-
 ### Reproducibility
 
 The classical baselines were executed using the following environment:
 
 | Software | Version |
 |---|---|
-| Python | 3.12.0 |
+| Python | 3.14.3 |
 | scikit-learn | 1.9.1 |
 | pandas | 3.0.6 |
 | Hugging Face Datasets | 5.0.1 |
@@ -110,8 +113,6 @@ The classical baselines were executed using the following environment:
 Dependencies are specified in `requirements.txt`.
 
 The dataset is loaded from Hugging Face:
-[akhilayerukola/NormAd](https://huggingface.co/datasets/akhilayerukola/NormAd).
+[akhilayerukola/NormAd](https://huggingface.co/datasets/akhilayerukola/NormAd), pinned to revision `bb1a2997b6ab74b1f901493b15a67c2250a366c9` in `src/data_pipeline.py`. Rerunning `src/baselines.py` with this revision reproduces every value in `results/baseline_results.csv` exactly.
 
 The random seed, splitting strategy, cross-validation procedure, and hyperparameter search spaces are defined in `src/data_pipeline.py` and `src/baselines.py`.
-
-The exact dataset revision should be recorded to ensure future reproducibility.
