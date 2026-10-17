@@ -1,0 +1,6 @@
+model,condition,accuracy,macro_f1,test_samples,precision,recall,cv_macro_f1,best_params
+Dummy Classifier,Without Rule-of-Thumb,0.3646833013435701,0.17815283638068447,521,,,,
+Logistic Regression,Without Rule-of-Thumb,0.9193857965451055,0.9190842049715203,521,0.9187098415864492,0.9196090746670468,0.9010396168833947,"{'lr__C': 10.0, 'tfidf__ngram_range': (1, 2)}"
+Naive Bayes,Without Rule-of-Thumb,0.8099808061420346,0.808293210370392,521,0.8104939227919946,0.8070946089141149,0.813135331723917,"{'nb__alpha': 0.5, 'tfidf__ngram_range': (1, 2)}"
+Logistic Regression,With Rule-of-Thumb,0.9078694817658349,0.907784163226184,521,0.9083029405409097,0.9073311986313245,0.8990822750936246,"{'lr__C': 10.0, 'tfidf__ngram_range': (1, 2)}"
+Naive Bayes,With Rule-of-Thumb,0.7907869481765835,0.7895349533866827,521,0.7915986682185395,0.7883292681517102,0.783486274185279,"{'nb__alpha': 1.0, 'tfidf__ngram_range': (1, 2)}"
