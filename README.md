@@ -106,8 +106,6 @@ These findings suggest that adding rule-of-thumb information did not improve the
 
 ### Exploratory Question Ablation (for Milestone 4)
 
-NormAd stories end with a question whose wording correlates with the gold label: 798 of 875 `no` stories end with "Is what X did acceptable?", while 1,638 of 1,740 `yes`/`neither` stories end with "Is what X did socially acceptable?". As an exploratory check, `src/baselines.py` reruns the same TF-IDF grid searches with that final question removed (`format_input(..., strip_question=True)`). 16 stories with other question wording keep their question.
-
 This ablation covers the TF-IDF baselines only. Rerunning both LLMs with the question removed or fixed to one wording is planned for Milestone 5.
 
 | Model | Rule-of-Thumb | CV Macro-F1 | Test Accuracy | Test Macro-F1 |
