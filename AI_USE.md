@@ -8,4 +8,4 @@ Claude was used to help with dependency conflicts when trying to reproduce the L
 
 ChatGPT was used to suggest possible causes of the suspiciously high classical baseline scores compared to LLMs. One suggestion was the possibility of data artifacts, which helped guide our investigation where we found that the question at the end of each story leaked the answer. We are looking to address it with the question-ablation experiment in this milestone.
 
-Claude was used to suggest code structure for the `run_question_ablation`, using our `run_baselines` function, which written in the previous milestone, as the template. We wrote and reviewed the code and outputs.
+Claude was used to suggest code structure for the `run_question_ablation`, using our `run_baselines` function, which was written in the previous milestone, as the template. We wrote and reviewed the code and outputs.
