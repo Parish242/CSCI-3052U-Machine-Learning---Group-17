@@ -18,12 +18,18 @@ LABELS = ["yes", "no", "neither"]
 DUMMY_SEEDS = range(10)
 RESULTS_DIR = Path(__file__).resolve().parents[1] / "results"
 
+# Final "Is what X did (socially) acceptable?" question
+QUESTION_PATTERN = r'\s*["“]?\s*Is what [^?]*\?\s*["”]?\s*$'
+
 # Format input text
-def format_input(data, with_rule=False):
+def format_input(data, with_rule=False, strip_question=False):
+    story = data["Story"]
+    if strip_question:
+        story = story.str.replace(QUESTION_PATTERN, "", regex=True)
     if with_rule:
-        return "Country: " + data["country_name"] + "\nRule: " + data["Rule-of-Thumb"] + "\nStory: " + data["Story"]
+        return "Country: " + data["country_name"] + "\nRule: " + data["Rule-of-Thumb"] + "\nStory: " + story
     else:
-        return "Country: " + data["country_name"] + "\nStory: " + data["Story"]
+        return "Country: " + data["country_name"] + "\nStory: " + story
 
 # Evaluation over all three labels
 def evaluate(y_true, y_pred):
@@ -193,5 +199,78 @@ def run_baselines():
     print(results_df.to_string(index=False))
     print("Saved to results/baseline_results.csv")
 
+# Same grid searches with the final question removed from every story
+def run_question_ablation():
+    train_val_data, test_data, cv_folds = get_grouped_splits()
+
+    y_train = train_val_data["gold_label"]
+    y_test = test_data["gold_label"]
+
+    kept = format_input(train_val_data, strip_question=True).str.contains(r"\?\s*$").sum()
+    print(f"\nQuestion ablation: {kept} train/val stories still end with a question")
+
+    results = []
+    conditions = [
+        ("Without Rule-of-Thumb", False),
+        ("With Rule-of-Thumb", True)
+    ]
+
+    for condition, include_rule in conditions:
+        print("\n" + condition + " (question removed)")
+        X_train_text = format_input(train_val_data, include_rule, strip_question=True)
+        X_test_text = format_input(test_data, include_rule, strip_question=True)
+
+        print("\nTF-IDF + Logistic Regression")
+        lr_pipeline = Pipeline([
+            ('tfidf', TfidfVectorizer(max_features=5000)),
+            ('lr', LogisticRegression(max_iter=1000, random_state=42))
+        ])
+        lr_param_grid = {
+            'tfidf__ngram_range': [(1, 1), (1, 2)],
+            'lr__C': [0.1, 1.0, 10.0]
+        }
+        lr_result = run_grid_search(
+            lr_pipeline, lr_param_grid,
+            X_train_text, y_train,
+            X_test_text, y_test, cv_folds
+        )
+
+        lr_result["model"] = "Logistic Regression"
+        lr_result["condition"] = condition
+        results.append(lr_result)
+
+        print("\nTF-IDF + Multinomial Naive Bayes")
+        nb_pipeline = Pipeline([
+            ('tfidf', TfidfVectorizer(max_features=5000)),
+            ('nb', MultinomialNB())
+        ])
+        nb_param_grid = {
+            'tfidf__ngram_range': [(1, 1), (1, 2)],
+            'nb__alpha': [0.1, 0.5, 1.0, 2.0]
+        }
+        nb_result = run_grid_search(
+            nb_pipeline, nb_param_grid,
+            X_train_text, y_train,
+            X_test_text, y_test, cv_folds
+        )
+
+        nb_result["model"] = "Naive Bayes"
+        nb_result["condition"] = condition
+        results.append(nb_result)
+
+    RESULTS_DIR.mkdir(exist_ok=True)
+
+    results_df = pd.DataFrame(results)
+
+    results_df.to_csv(
+        RESULTS_DIR / "baseline_results_no_question.csv",
+        index=False
+    )
+
+    print("\n=== QUESTION ABLATION RESULTS SAVED ===")
+    print(results_df.to_string(index=False))
+    print("Saved to results/baseline_results_no_question.csv")
+
 if __name__ == "__main__":
     run_baselines()
+    run_question_ablation()
