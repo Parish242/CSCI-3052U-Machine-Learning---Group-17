@@ -9,9 +9,14 @@ data/                    NormAd CSVs (raw, clean, preprocessed, 50-row trial sub
 notebooks/               Exploratory data analysis
 src/
   data_pipeline.py       Load NormAd (pinned revision) and build the train/val/test split
-  baselines.py           Naive and TF-IDF baselines + grid search
+  baselines.py           Naive and TF-IDF baselines + grid search + question ablation
+  score_llms.py          Score LLM predictions on the baseline test set and CV folds
 results/
   baseline_results.csv   Baseline table (written by src/baselines.py)
+  baseline_results_no_question.csv
+                         TF-IDF baselines with the final question removed (src/baselines.py)
+  llm_test_scores.csv    LLM scores on the 521-item test set (src/score_llms.py)
+  llm_cv_scores.csv      LLM scores per CV fold (src/score_llms.py)
   <model>/<run>/         LLM outputs per model (not part of the baseline milestone);
                          run = trial (50 rows) or full; each holds predictions with and
                          without the rule-of-thumb, classification reports, and run notes
@@ -98,6 +103,34 @@ Including rule-of-thumb information slightly reduced performance for both classi
 - Naive Bayes: 0.8083 to 0.7895 (decrease of 0.0188)
 
 These findings suggest that adding rule-of-thumb information did not improve the classical TF-IDF baselines under the current experimental setup.
+
+### Exploratory Question Ablation (for Milestone 4)
+
+This ablation covers the TF-IDF baselines only. Rerunning both LLMs with the question removed or fixed to one wording is planned for Milestone 5.
+
+| Model | Rule-of-Thumb | CV Macro-F1 | Test Accuracy | Test Macro-F1 |
+|---|---|---:|---:|---:|
+| TF-IDF + Logistic Regression | Without | 0.7978 ± 0.0192 | 0.7908 | 0.7887 |
+| TF-IDF + Logistic Regression | With | 0.7974 ± 0.0155 | 0.8081 | 0.8086 |
+| TF-IDF + Multinomial Naive Bayes | Without | 0.7626 ± 0.0240 | 0.7639 | 0.7613 |
+| TF-IDF + Multinomial Naive Bayes | With | 0.7278 ± 0.0158 | 0.7409 | 0.7393 |
+
+Removing the question lowers Logistic Regression from 0.9191 to 0.7887 macro-F1, so part of the baseline score comes from the question template. With the question removed, the rule-of-thumb now helps Logistic Regression (0.7887 to 0.8086).
+
+### LLM Scores on the Baseline Split
+
+`src/score_llms.py` scores the full-run LLM predictions in `results/<model>/full/` on the same 521-item test set and 5 CV folds as the baselines (`neutral` is mapped to `neither`; unparseable outputs count as errors):
+
+```bash
+python src/score_llms.py
+```
+
+| Model | Rule-of-Thumb | CV Macro-F1 | Test Accuracy | Test Macro-F1 |
+|---|---|---:|---:|---:|
+| InternLM2.5-7B-chat (8-bit) | Without | 0.3869 ± 0.0207 | 0.4050 | 0.3543 |
+| InternLM2.5-7B-chat (8-bit) | With | 0.6086 ± 0.0368 | 0.6507 | 0.6273 |
+| Gemma-2-27B-it (4-bit) | Without | 0.4399 ± 0.0307 | 0.4319 | 0.4218 |
+| Gemma-2-27B-it (4-bit) | With | 0.5708 ± 0.0211 | 0.5374 | 0.5470 |
 
 ### Reproducibility
 
