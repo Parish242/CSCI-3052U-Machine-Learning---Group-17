@@ -6,7 +6,10 @@ Evaluating LLMs and classical baselines on the [NormAd](https://huggingface.co/d
 
 ```
 data/                    NormAd CSVs (raw, clean, preprocessed, 50-row trial subset)
-notebooks/               Exploratory data analysis
+notebooks/
+  normad_eda.ipynb       Exploratory data analysis
+  normad_internlm2_5_7b_inference.ipynb
+                         InternLM-2.5-7B inference on NormAd (Colab T4)
 src/
   data_pipeline.py       Load NormAd (pinned revision) and build the train/val/test split
   baselines.py           Naive and TF-IDF baselines + grid search + question ablation
