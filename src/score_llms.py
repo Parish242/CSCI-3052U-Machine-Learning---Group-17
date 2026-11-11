@@ -8,12 +8,15 @@ from data_pipeline import get_grouped_splits
 LABELS = ["yes", "no", "neither"]
 RESULTS_DIR = Path(__file__).resolve().parents[1] / "results"
 
-# Full-run prediction files (2,615 items each)
+# Full-run prediction files (2,615 items each, columns ID, gold, pred).
+# question = "kept" for the original stories, "removed" for the question ablation
 LLM_RUNS = [
-    ("internlm2.5-7b", "Without Rule-of-Thumb", "internlm2.5-7b/full/internlm2.5-7b_without-rule.csv"),
-    ("internlm2.5-7b", "With Rule-of-Thumb", "internlm2.5-7b/full/internlm2.5-7b_with-rule.csv"),
-    ("gemma-2-27b", "Without Rule-of-Thumb", "gemma-2-27b/full/gemma-2-27b_full_without_rule.csv"),
-    ("gemma-2-27b", "With Rule-of-Thumb", "gemma-2-27b/full/gemma-2-27b_full_with_rule.csv"),
+    ("internlm2.5-7b", "Without Rule-of-Thumb", "kept", "internlm2.5-7b/full/internlm2.5-7b_without-rule.csv"),
+    ("internlm2.5-7b", "With Rule-of-Thumb", "kept", "internlm2.5-7b/full/internlm2.5-7b_with-rule.csv"),
+    ("gemma-2-27b", "Without Rule-of-Thumb", "kept", "gemma-2-27b/full/gemma-2-27b_full_without_rule.csv"),
+    ("gemma-2-27b", "With Rule-of-Thumb", "kept", "gemma-2-27b/full/gemma-2-27b_full_with_rule.csv"),
+    ("internlm2.5-7b", "Without Rule-of-Thumb", "removed", "internlm2.5-7b/no-question/internlm2.5-7b_without-rule_no-question.csv"),
+    ("internlm2.5-7b", "With Rule-of-Thumb", "removed", "internlm2.5-7b/no-question/internlm2.5-7b_with-rule_no-question.csv"),
 ]
 
 # Load predictions and map neutral -> neither; anything else outside LABELS counts as unparseable
@@ -43,13 +46,17 @@ def score_llms():
     train_val_data, test_data, cv_folds = get_grouped_splits()
 
     test_rows, cv_rows = [], []
-    for model, condition, path in LLM_RUNS:
+    for model, condition, question, path in LLM_RUNS:
+        if not (RESULTS_DIR / path).exists():
+            print(f"\nSkipping {model} | {condition} | question {question}: results/{path} not found")
+            continue
         preds = load_predictions(path)
+        run = {"model": model, "condition": condition, "question": question}
 
         # Held-out test set, same 521 items as the baselines
         test_scores, cm = score(preds, test_data["ID"])
-        test_rows.append({"model": model, "condition": condition, **test_scores})
-        print(f"\n{model} | {condition} | test macro F1: {test_scores['macro_f1']:.4f}")
+        test_rows.append({**run, **test_scores})
+        print(f"\n{model} | {condition} | question {question} | test macro F1: {test_scores['macro_f1']:.4f}")
         print("Confusion matrix (rows = gold, cols = predicted):", LABELS)
         print(cm)
 
@@ -57,7 +64,7 @@ def score_llms():
         for fold, (_, val_idx) in enumerate(cv_folds):
             fold_scores, _ = score(preds, train_val_data["ID"].iloc[val_idx])
             cv_rows.append({
-                "model": model, "condition": condition, "fold": fold,
+                **run, "fold": fold,
                 **{k: fold_scores[k] for k in ["n", "macro_f1", "f1_yes", "f1_no", "f1_neither", "unparseable"]}
             })
 
@@ -68,7 +75,7 @@ def score_llms():
 
     print("\n=== LLM SCORES SAVED ===")
     print(test_df.to_string(index=False))
-    print(cv_df.groupby(["model", "condition"])["macro_f1"].agg(["mean", "std"]))
+    print(cv_df.groupby(["model", "condition", "question"], sort=False)["macro_f1"].agg(["mean", "std"]))
     print("Saved to results/llm_test_scores.csv and results/llm_cv_scores.csv")
 
 if __name__ == "__main__":
