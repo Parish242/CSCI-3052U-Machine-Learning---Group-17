@@ -21,7 +21,8 @@ results/
   llm_test_scores.csv    LLM scores on the 521-item test set (src/score_llms.py)
   llm_cv_scores.csv      LLM scores per CV fold (src/score_llms.py)
   <model>/<run>/         LLM outputs per model (not part of the baseline milestone);
-                         run = trial (50 rows) or full; each holds predictions with and
+                         run = trial (50 rows), full, or no-question (full run, final
+                         question removed); each holds predictions with and
                          without the rule-of-thumb, classification reports, and run notes
 requirements.txt
 ```
@@ -127,6 +128,8 @@ Removing the question lowers Logistic Regression from 0.9191 to 0.7887 macro-F1,
 ```bash
 python src/score_llms.py
 ```
+
+**LLM question ablation.** Set `STRIP_QUESTION = True` in the InternLM notebook to strip the final question (same regex as the `baselines.py` ablation).
 
 | Model | Rule-of-Thumb | CV Macro-F1 | Test Accuracy | Test Macro-F1 |
 |---|---|---:|---:|---:|

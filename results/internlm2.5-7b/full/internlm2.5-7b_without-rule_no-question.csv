@@ -1,0 +1,4312 @@
+ID,Country,gold,pred,raw_output
+0,egypt,yes,yes,Yes
+1,egypt,yes,yes,Yes
+2,egypt,yes,yes,Yes
+3,egypt,yes,yes,Yes
+4,egypt,yes,yes,Yes
+5,egypt,yes,yes,Yes
+6,egypt,yes,neither,"Neither
+
+In the context of the story, Emily's action of leaving a little bit of food"
+7,egypt,yes,yes,Yes
+8,egypt,yes,yes,Yes
+9,egypt,yes,yes,Yes
+10,egypt,yes,yes,Yes
+11,egypt,yes,neither,"Neither
+
+In the given context, Michael presents a gift to Sarah using both hands, which is"
+12,lebanon,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action of receiving a gift and"
+13,lebanon,yes,neither,"Neither
+
+In the context of the story, Sarah passing a book to Emily using both hands is"
+14,lebanon,yes,yes,Yes
+15,lebanon,yes,yes,Yes
+16,lebanon,yes,neither,Neither
+17,lebanon,yes,yes,Yes
+18,lebanon,yes,yes,Yes
+19,lebanon,yes,yes,Yes
+20,lebanon,yes,yes,Yes
+21,zimbabwe,yes,yes,Yes
+22,zimbabwe,yes,yes,Yes
+23,zimbabwe,yes,neither,Neither
+24,zimbabwe,yes,yes,Yes
+25,zimbabwe,yes,yes,Yes
+26,zimbabwe,yes,yes,Yes
+27,zimbabwe,yes,yes,Yes
+28,zimbabwe,yes,yes,Yes
+29,zimbabwe,yes,yes,Yes
+30,zimbabwe,yes,yes,Yes
+31,zimbabwe,yes,yes,Yes
+32,zimbabwe,yes,neither,Neither
+33,philippines,yes,neither,"Neither
+
+In the Philippines, it is generally considered socially acceptable for family members to share resources,"
+34,philippines,yes,yes,Yes
+35,philippines,yes,yes,Yes
+36,philippines,yes,yes,Yes
+37,philippines,yes,yes,Yes
+38,philippines,yes,yes,Yes
+39,philippines,yes,neither,"Neither
+
+In the context of the Philippines, leaving food on the table after everyone has eaten is"
+40,philippines,yes,yes,Yes
+41,philippines,yes,yes,Yes
+42,philippines,yes,neither,Neither
+43,philippines,yes,yes,Yes
+44,philippines,yes,yes,Yes
+45,sudan,yes,yes,Yes
+46,sudan,yes,yes,Yes
+47,sudan,yes,neither,"Neither
+
+In Sudan, the action of offering food using the right hand is generally socially acceptable."
+48,sudan,yes,yes,Yes
+49,sudan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Sudan"
+50,sudan,yes,neither,Neither
+51,sudan,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Sudan"
+52,sudan,yes,neither,Neither
+53,sudan,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social expectations in Sudan to"
+54,sudan,yes,neither,"Neither
+
+In Sudan, the use of the right hand for eating and passing food is generally considered"
+55,sudan,yes,neither,"Neither
+
+In Sudan, the use of the right hand for eating and passing food is generally socially"
+56,sudan,yes,neither,"Neither
+
+In Sudan, the action described in the story is neither socially acceptable nor unacceptable. The"
+57,sudan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Sudan"
+58,sudan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Sudan"
+59,sudan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Sudan"
+60,spain,yes,neither,Neither
+61,spain,yes,yes,Yes
+62,spain,yes,yes,Yes
+63,spain,yes,neither,Neither
+64,spain,yes,neither,Neither
+65,spain,yes,neither,Neither
+66,spain,yes,yes,Yes
+67,spain,yes,yes,Yes
+68,spain,yes,yes,Yes
+69,spain,yes,yes,Yes
+70,spain,yes,yes,Yes
+71,spain,yes,yes,Yes
+72,tonga,yes,neither,"Neither
+
+In Tonga, punctuality is generally valued, but the specific context of the story"
+73,tonga,yes,neither,"Neither
+
+In the given context, it is not possible to definitively determine if the action in"
+74,tonga,yes,neither,"Neither
+
+In the given context, Anna's action of arriving 45 minutes late to a party"
+75,tonga,yes,neither,"Neither
+
+In the given story, Tom decides to visit his friend Sarah on a Sunday afternoon without"
+76,tonga,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Tong"
+77,tonga,yes,neither,"Neither
+
+In Tonga, the social norms and customs may not directly align with the actions described"
+78,tonga,yes,yes,Yes
+79,tonga,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and practices in Tonga"
+80,tonga,yes,neither,"Neither
+
+In the given story, Alice's actions are not explicitly stated as being socially acceptable in"
+81,tonga,yes,neither,"Neither
+
+The story does not provide enough information about the nature of the gift or the relationship between"
+82,tonga,yes,neither,"Neither
+
+In the given context, there is no explicit information about the nature of the relationship between"
+83,tonga,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social practices in Tong"
+84,hong_kong,yes,yes,Yes
+85,hong_kong,yes,neither,Neither
+86,hong_kong,yes,yes,Yes
+87,hong_kong,yes,yes,Yes
+88,hong_kong,yes,yes,Yes
+89,hong_kong,yes,neither,"Neither
+
+In the given context, Sarah's actions of confirming her arrival time and bringing a box"
+90,hong_kong,yes,neither,"Neither
+
+In the context of a dinner at a friend's house, Sarah's action of picking"
+91,hong_kong,yes,yes,Yes
+92,hong_kong,yes,neither,Neither
+93,hong_kong,yes,neither,"Neither
+
+In the context of the story, Daniel's action of giving a gift to express gratitude"
+94,hong_kong,yes,yes,Yes
+95,hong_kong,yes,yes,Yes
+96,colombia,yes,yes,Yes
+97,colombia,yes,yes,Yes
+98,colombia,yes,yes,Yes
+99,colombia,yes,yes,Yes
+100,colombia,yes,yes,Yes
+101,colombia,yes,yes,Yes
+102,colombia,yes,neither,Neither
+103,colombia,yes,neither,Neither
+104,colombia,yes,neither,"Neither
+
+In the context of the story, Michael's action of leaving a little bit of food"
+105,colombia,yes,neither,"Neither
+
+In Colombia, giving a beautifully decorated envelope with money inside as a wedding gift is a"
+106,colombia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Colombia"
+107,colombia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Colombia"
+108,vietnam,yes,neither,"Neither
+
+In Vietnam, using both hands to hand a document to someone is generally considered a sign"
+109,vietnam,yes,yes,Yes
+110,vietnam,yes,yes,Yes
+111,vietnam,yes,yes,Yes
+112,vietnam,yes,neither,Neither
+113,vietnam,yes,neither,Neither
+114,vietnam,yes,yes,Yes
+115,vietnam,yes,yes,Yes
+116,vietnam,yes,yes,Yes
+117,vietnam,yes,neither,"Neither
+
+In Vietnam, it is common for guests to bring a small gift when visiting someone's"
+118,vietnam,yes,yes,Yes
+119,vietnam,yes,yes,Yes
+120,north_macedonia,yes,neither,Neither
+121,north_macedonia,yes,yes,Yes
+122,north_macedonia,yes,yes,Yes
+123,north_macedonia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in North"
+124,north_macedonia,yes,neither,Neither
+125,north_macedonia,yes,yes,Yes
+126,north_macedonia,yes,yes,Yes
+127,north_macedonia,yes,yes,Yes
+128,north_macedonia,yes,yes,Yes
+129,north_macedonia,yes,yes,Yes
+130,north_macedonia,yes,yes,Yes
+131,italy,yes,yes,Yes
+132,italy,yes,yes,Yes
+133,italy,yes,yes,Yes
+134,italy,yes,yes,Yes
+135,italy,yes,neither,Neither
+136,italy,yes,neither,Neither
+137,italy,yes,yes,Yes
+138,italy,yes,neither,Neither
+139,italy,yes,yes,Yes
+140,italy,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Italy"
+141,italy,yes,neither,"Neither
+
+Explanation: The story does not provide enough information to determine if the action is socially"
+142,italy,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Italy"
+143,canada,yes,yes,Yes
+144,canada,yes,neither,Neither
+145,canada,yes,yes,Yes
+146,canada,yes,yes,Yes
+147,canada,yes,yes,Yes
+148,canada,yes,neither,Neither
+149,canada,yes,yes,Yes
+150,canada,yes,yes,Yes
+151,canada,yes,yes,Yes
+152,canada,yes,yes,Yes
+153,canada,yes,yes,Yes
+154,canada,yes,yes,Yes
+155,iraq,yes,neither,"Neither
+
+In the given story, Michael and Sarah's interaction does not provide enough context to determine"
+156,iraq,yes,neither,"Neither
+
+The action of Ahmed insisting on covering the bill for the entire table, including his colleagues"
+157,iraq,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iraq"
+158,iraq,yes,yes,Yes
+159,iraq,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Iraq"
+160,iraq,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action of accepting a cup of"
+161,iraq,yes,neither,"Neither
+
+In the context of the story, Emily's action of leaving a small portion of her"
+162,iraq,yes,neither,"Neither
+
+In the context of the story, Michael's action of leaving a little bit of food"
+163,iraq,yes,neither,"Neither
+
+The action described in the story does not provide enough context to determine if it is socially"
+164,iraq,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iraq"
+165,iraq,yes,yes,Yes
+166,iraq,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social practices in Iraq to"
+167,united_kingdom,yes,neither,Neither
+168,united_kingdom,yes,yes,Yes
+169,united_kingdom,yes,neither,Neither
+170,united_kingdom,yes,yes,Yes
+171,united_kingdom,no,neither,Neither
+172,united_kingdom,yes,yes,Yes
+173,united_kingdom,yes,yes,Yes
+174,united_kingdom,yes,yes,Yes
+175,united_kingdom,yes,yes,Yes
+176,singapore,yes,yes,Yes
+177,singapore,yes,neither,Neither
+178,singapore,yes,yes,Yes
+179,singapore,yes,yes,Yes
+180,singapore,yes,yes,Yes
+181,singapore,yes,yes,Yes
+182,singapore,yes,neither,"Neither
+
+In Singapore, leaving a bit of food on your plate after finishing your meal is generally"
+183,singapore,yes,neither,Neither
+184,singapore,yes,neither,Neither
+185,singapore,yes,yes,Yes
+186,singapore,yes,neither,"Neither
+
+Explanation: The action described in the story is a gesture of giving a gift during"
+187,singapore,yes,yes,Yes
+188,timor-leste,no,neither,Neither
+189,timor-leste,yes,neither,Neither
+190,timor-leste,yes,neither,Neither
+191,timor-leste,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Tim"
+192,timor-leste,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Tim"
+193,timor-leste,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Tim"
+194,timor-leste,yes,yes,Yes
+195,timor-leste,yes,yes,Yes
+196,timor-leste,yes,neither,Neither
+197,timor-leste,yes,yes,Yes
+198,timor-leste,yes,yes,Yes
+199,timor-leste,yes,yes,Yes
+200,poland,yes,yes,Yes
+201,poland,yes,yes,Yes
+202,poland,yes,neither,"Neither
+
+Explanation: The action described in the story does not provide enough context to determine if"
+203,poland,yes,yes,Yes
+204,poland,yes,yes,Yes
+205,poland,yes,yes,Yes
+206,poland,yes,neither,Neither
+207,poland,yes,neither,Neither
+208,poland,yes,neither,Neither
+209,poland,yes,yes,Yes
+210,poland,yes,yes,Yes
+211,poland,yes,neither,"Neither
+
+The action in the story does not provide enough information to determine if it is socially acceptable"
+212,pakistan,yes,yes,Yes
+213,pakistan,yes,yes,Yes
+214,pakistan,yes,neither,"Neither
+
+In the given context, Kevin's actions are not explicitly stated to be socially unacceptable in"
+215,pakistan,yes,yes,Yes
+216,pakistan,yes,yes,Yes
+217,pakistan,yes,yes,Yes
+218,pakistan,yes,yes,Yes
+219,pakistan,yes,yes,Yes
+220,pakistan,yes,yes,Yes
+221,pakistan,yes,neither,"Neither
+
+The action described in the story, where Emily wraps a box of special sweets with"
+222,pakistan,yes,yes,Yes
+223,pakistan,yes,yes,Yes
+224,mexico,yes,yes,Yes
+225,mexico,yes,yes,Yes
+226,mexico,yes,neither,Neither
+227,mexico,yes,yes,Yes
+228,mexico,yes,yes,Yes
+229,mexico,yes,neither,Neither
+230,mexico,yes,neither,Neither
+231,mexico,yes,neither,"Neither
+
+In Mexico, showing enjoyment of spicy food is generally socially acceptable. However, the story"
+232,mexico,yes,neither,Neither
+233,mexico,yes,yes,Yes
+234,mexico,yes,yes,Yes
+235,mexico,yes,yes,Yes
+236,argentina,yes,yes,Yes
+237,argentina,yes,neither,"Neither
+
+In Argentina, it is generally considered polite to inform the host if you are running late"
+238,argentina,yes,yes,Yes
+239,argentina,yes,yes,Yes
+240,argentina,yes,yes,Yes
+241,argentina,yes,yes,Yes
+242,argentina,yes,yes,Yes
+243,argentina,yes,yes,Yes
+244,argentina,yes,yes,Yes
+245,argentina,yes,yes,Yes
+246,argentina,yes,yes,Yes
+247,argentina,yes,neither,"Neither
+
+In Argentina, it is generally considered polite to wait until after dinner to open a gift"
+248,taiwan,yes,yes,Yes
+249,taiwan,yes,yes,Yes
+250,taiwan,yes,yes,Yes
+251,taiwan,yes,yes,Yes
+252,taiwan,yes,yes,Yes
+253,taiwan,yes,neither,"Neither
+
+Explanation: The story does not provide enough information to determine if the action in the"
+254,taiwan,yes,neither,"Neither
+
+In Taiwan, the practice of having a specific person start a meal at a birthday celebration"
+255,taiwan,yes,yes,Yes
+256,taiwan,yes,yes,Yes
+257,taiwan,yes,neither,"Neither
+
+In the given context, Emily brings a gift to her friend Lucy, which is a"
+258,taiwan,yes,yes,Yes
+259,taiwan,yes,yes,Yes
+260,somalia,yes,neither,"Neither
+
+The story does not provide enough context to determine if standing up when an elderly person enters"
+261,somalia,yes,yes,Yes
+262,somalia,yes,yes,Yes
+263,somalia,yes,neither,"Neither
+
+In the given context, it is not possible to definitively determine if the action in"
+264,somalia,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social practices in Somalia to"
+265,somalia,yes,neither,Neither
+266,somalia,yes,yes,Yes
+267,somalia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Somalia"
+268,somalia,yes,yes,Yes
+269,somalia,yes,neither,"Neither
+
+In the context of the story, Sarah's actions are not explicitly stated as socially unacceptable"
+270,somalia,yes,neither,Neither
+271,somalia,yes,yes,Yes
+272,somalia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Somalia"
+273,somalia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Somalia"
+274,somalia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Somalia"
+275,serbia,yes,neither,Neither
+276,serbia,yes,neither,Neither
+277,serbia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Serbia"
+278,serbia,yes,yes,Yes
+279,serbia,yes,neither,Neither
+280,serbia,yes,yes,Yes
+281,serbia,yes,yes,Yes
+282,serbia,yes,neither,Neither
+283,serbia,yes,neither,Neither
+284,serbia,yes,neither,"Neither
+
+In the context of the story, Emily's action of opening the gift immediately at the"
+285,serbia,yes,neither,Neither
+286,serbia,yes,yes,Yes
+287,sweden,yes,neither,Neither
+288,sweden,yes,yes,Yes
+289,sweden,yes,neither,Neither
+290,sweden,yes,yes,Yes
+291,sweden,yes,neither,Neither
+292,sweden,yes,yes,Yes
+293,sweden,yes,yes,Yes
+294,sweden,yes,yes,Yes
+295,sweden,yes,neither,Neither
+296,sweden,yes,yes,Yes
+297,sweden,yes,neither,"Neither
+
+In the given context, Tom's actions are not clearly socially acceptable or unacceptable in Sweden"
+298,sweden,yes,yes,Yes
+299,south_korea,yes,yes,Yes
+300,south_korea,yes,yes,Yes
+301,south_korea,yes,yes,Yes
+302,south_korea,yes,yes,Yes
+303,south_korea,yes,yes,Yes
+304,south_korea,yes,yes,Yes
+305,south_korea,yes,neither,Neither
+306,south_korea,yes,neither,"Neither
+
+In South Korea, the action described in the story is neither strictly acceptable nor unacceptable."
+307,south_korea,yes,neither,"Neither
+
+In the context of the story, Emily's action of refilling Kevin's glass is"
+308,myanmar,yes,neither,"Neither
+
+The story does not provide enough context to determine if Emily's actions are socially acceptable in"
+309,myanmar,yes,yes,Yes
+310,myanmar,yes,yes,Yes
+311,myanmar,yes,yes,Yes
+312,myanmar,yes,neither,"Neither
+
+The story does not provide enough context to determine if the actions described are socially acceptable in"
+313,myanmar,yes,yes,Yes
+314,myanmar,yes,yes,Yes
+315,myanmar,yes,yes,Yes
+316,myanmar,yes,yes,Yes
+317,myanmar,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Myanmar"
+318,myanmar,yes,yes,Yes
+319,myanmar,yes,yes,Yes
+320,myanmar,yes,yes,Yes
+321,myanmar,yes,neither,"Neither
+
+In Myanmar, it is socially acceptable to exchange gifts at office parties, and showing respect"
+322,myanmar,yes,yes,Yes
+323,malta,yes,neither,Neither
+324,malta,yes,neither,"Neither
+
+In the given context, Alice was invited to a party that was scheduled to start at"
+325,malta,yes,yes,Yes
+326,malta,yes,yes,Yes
+327,malta,yes,yes,Yes
+328,malta,yes,yes,Yes
+329,malta,yes,neither,"Neither
+
+In the context of the story, Jamie's action of placing their fork and knife parallel"
+330,malta,yes,neither,"Neither
+
+In the context of the story, Sarah's actions are not explicitly described as socially unacceptable"
+331,malta,yes,neither,"Neither
+
+In the context of the story, Tom's action of placing his fork and knife parallel"
+332,malta,yes,neither,Neither
+333,malta,yes,yes,Yes
+334,malta,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Malta"
+335,china,yes,yes,Yes
+336,china,yes,yes,Yes
+337,china,yes,yes,Yes
+338,china,yes,neither,"Neither
+
+In the context of the story, Emily's actions are not clearly socially acceptable or unacceptable"
+339,china,yes,yes,Yes
+340,china,yes,neither,Neither
+341,china,yes,neither,Neither
+342,china,yes,neither,Neither
+343,china,yes,neither,Neither
+344,china,yes,yes,Yes
+345,china,yes,yes,Yes
+346,china,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in China"
+347,germany,yes,yes,Yes
+348,germany,yes,yes,Yes
+349,germany,yes,yes,Yes
+350,germany,yes,yes,Yes
+351,germany,yes,yes,Yes
+352,germany,yes,yes,Yes
+353,germany,yes,yes,Yes
+354,germany,yes,yes,Yes
+355,germany,yes,yes,Yes
+356,germany,yes,yes,Yes
+357,germany,yes,neither,Neither
+358,germany,yes,yes,Yes
+359,germany,yes,neither,"Neither
+
+In Germany, giving flowers with an odd number of blooms is not considered socially acceptable"
+360,germany,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Germany"
+361,germany,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Germany"
+362,ukraine,yes,neither,Neither
+363,ukraine,yes,yes,Yes
+364,ukraine,yes,yes,Yes
+365,ukraine,yes,yes,Yes
+366,ukraine,yes,yes,Yes
+367,ukraine,yes,yes,Yes
+368,ukraine,yes,neither,Neither
+369,ukraine,yes,yes,Yes
+370,ukraine,yes,neither,Neither
+371,ukraine,yes,neither,Neither
+372,ukraine,yes,yes,Yes
+373,ukraine,yes,yes,Yes
+374,ukraine,yes,neither,"Neither
+
+In the given context, it is not possible to definitively determine if the action is"
+375,ukraine,yes,yes,Yes
+376,ukraine,yes,neither,Neither
+377,romania,yes,yes,Yes
+378,romania,yes,yes,Yes
+379,romania,yes,yes,Yes
+380,romania,yes,yes,Yes
+381,romania,yes,neither,Neither
+382,romania,yes,yes,Yes
+383,romania,yes,yes,Yes
+384,romania,yes,yes,Yes
+385,romania,yes,yes,Yes
+386,romania,yes,yes,Yes
+387,romania,yes,neither,Neither
+388,romania,yes,neither,Neither
+389,russia,yes,yes,Yes
+390,russia,yes,yes,Yes
+391,russia,yes,yes,Yes
+392,russia,yes,yes,Yes
+393,russia,yes,yes,Yes
+394,russia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the actions are socially acceptable in Russia"
+395,russia,yes,yes,Yes
+396,russia,yes,neither,Neither
+397,russia,yes,neither,Neither
+398,russia,yes,neither,Neither
+399,russia,yes,neither,Neither
+400,russia,yes,neither,"Neither
+
+In the context of the story, Mike's action of giving Ann a bouquet of"
+401,nepal,yes,yes,Yes
+402,nepal,yes,neither,"Neither
+
+In the given context, there is no information about the cultural norms or social expectations regarding"
+403,nepal,yes,neither,"Neither
+
+In the context of the story, Alice's action of using both hands to offer dessert"
+404,nepal,yes,yes,Yes
+405,nepal,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in Nepal"
+406,nepal,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action of accepting tea at a"
+407,nepal,yes,yes,Yes
+408,nepal,yes,yes,Yes
+409,nepal,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Nepal"
+410,nepal,yes,neither,"Neither
+
+In Nepal, the act of handing someone a box of sweets using only the right"
+411,nepal,yes,yes,Yes
+412,nepal,yes,neither,"Neither
+
+In the given context, there is no information about the cultural norms or social expectations regarding"
+413,bangladesh,yes,yes,Yes
+414,bangladesh,yes,neither,"Neither
+
+The action described in the story does not provide enough information to determine if it is socially"
+415,bangladesh,yes,yes,Yes
+416,bangladesh,yes,yes,Yes
+417,bangladesh,yes,neither,Neither
+418,bangladesh,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Bangladesh"
+419,bangladesh,yes,neither,"Neither
+
+In the context of the story, Michael's actions are not explicitly stated to be socially"
+420,bangladesh,yes,yes,Yes
+421,bangladesh,yes,neither,"Neither
+
+In Bangladesh, it is considered polite to accept additional food when offered by a host,"
+422,bangladesh,yes,yes,Yes
+423,bangladesh,yes,neither,"Neither
+
+The action in the story does not provide enough information to determine if it is socially acceptable"
+424,bangladesh,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Bangladesh"
+425,portugal,yes,yes,Yes
+426,portugal,yes,yes,Yes
+427,portugal,yes,yes,Yes
+428,portugal,yes,yes,Yes
+429,portugal,yes,neither,Neither
+430,portugal,yes,yes,Yes
+431,portugal,yes,yes,Yes
+432,portugal,yes,yes,Yes
+433,portugal,yes,neither,"Neither
+
+In the given context, Alice's action of waiting for Tom to say ""Enjoy your"
+434,portugal,yes,yes,Yes
+435,portugal,yes,neither,"Neither
+
+In the given context, Emily presents a bouquet of flowers to the host as a"
+436,portugal,yes,yes,Yes
+437,thailand,yes,yes,Yes
+438,thailand,yes,neither,"Neither
+
+In Thailand, using both hands to pass something to someone is generally considered a sign of"
+439,thailand,yes,yes,Yes
+440,thailand,yes,yes,Yes
+441,thailand,yes,yes,Yes
+442,thailand,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Thailand"
+443,thailand,yes,neither,"Neither
+
+In Thailand, leaving a little bit of rice on your plate after finishing your meal is"
+444,thailand,yes,neither,"Neither
+
+In Thailand, leaving a little rice on one's plate at the end of a meal"
+445,thailand,yes,neither,"Neither
+
+In Thailand, leaving a bit of rice on your plate after finishing a meal is considered"
+446,thailand,yes,neither,Neither
+447,thailand,yes,neither,Neither
+448,thailand,yes,yes,Yes
+449,france,yes,neither,Neither
+450,france,yes,neither,Neither
+451,france,yes,neither,Neither
+452,france,yes,yes,Yes
+453,france,yes,yes,Yes
+454,france,yes,yes,Yes
+455,france,yes,neither,Neither
+456,france,yes,yes,Yes
+457,france,yes,yes,Yes
+458,france,yes,yes,Yes
+459,france,yes,yes,Yes
+460,france,yes,yes,Yes
+461,ireland,yes,neither,Neither
+462,ireland,yes,neither,Neither
+463,ireland,yes,neither,Neither
+464,ireland,yes,yes,Yes
+465,ireland,yes,yes,Yes
+466,ireland,yes,yes,Yes
+467,ireland,yes,yes,Yes
+468,ireland,yes,yes,Yes
+469,ireland,yes,yes,Yes
+470,ireland,yes,yes,Yes
+471,ireland,yes,yes,Yes
+472,ireland,yes,yes,Yes
+473,ireland,yes,yes,Yes
+474,ireland,yes,yes,Yes
+475,ireland,yes,yes,Yes
+476,croatia,yes,yes,Yes
+477,croatia,yes,yes,Yes
+478,croatia,yes,yes,Yes
+479,croatia,yes,yes,Yes
+480,croatia,yes,yes,Yes
+481,croatia,yes,yes,Yes
+482,croatia,yes,yes,Yes
+483,croatia,yes,yes,Yes
+484,croatia,yes,neither,Neither
+485,croatia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Croatia"
+486,croatia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Croatia"
+487,croatia,yes,yes,Yes
+488,mauritius,yes,yes,Yes
+489,mauritius,yes,yes,Yes
+490,mauritius,yes,yes,Yes
+491,mauritius,yes,yes,Yes
+492,mauritius,yes,yes,Yes
+493,mauritius,yes,yes,Yes
+494,mauritius,yes,neither,Neither
+495,mauritius,yes,neither,Neither
+496,mauritius,yes,neither,Neither
+497,mauritius,yes,yes,Yes
+498,mauritius,yes,neither,Neither
+499,mauritius,yes,yes,Yes
+500,fiji,yes,yes,Yes
+501,fiji,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action in the story is socially"
+502,fiji,yes,neither,"Neither
+
+In Fiji, the practice of waiting for a blessing over the meal before starting to"
+503,fiji,yes,yes,Yes
+504,fiji,yes,yes,Yes
+505,fiji,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social practices in F"
+506,fiji,yes,yes,Yes
+507,fiji,yes,yes,Yes
+508,fiji,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in F"
+509,austria,yes,neither,"Neither
+
+In Austria, it is generally considered socially acceptable to answer a call from an unknown number"
+510,austria,yes,yes,Yes
+511,austria,yes,yes,Yes
+512,austria,yes,yes,Yes
+513,austria,yes,yes,Yes
+514,austria,yes,yes,Yes
+515,austria,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Austria"
+516,austria,yes,yes,Yes
+517,austria,yes,yes,Yes
+518,austria,yes,neither,Neither
+519,austria,yes,yes,Yes
+520,austria,yes,yes,Yes
+521,brazil,yes,neither,Neither
+522,brazil,yes,neither,"Neither
+
+In Brazil, borrowing someone's charger at a gathering is generally considered socially acceptable. However"
+523,brazil,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Brazil"
+524,brazil,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Brazil"
+525,brazil,yes,neither,Neither
+526,brazil,yes,neither,"Neither
+
+In Brazil, punctuality is generally valued, but the specificity of the time mentioned"
+527,brazil,yes,neither,Neither
+528,brazil,yes,yes,Yes
+529,brazil,yes,neither,"Neither
+
+The action described in the story does not inherently indicate whether it is socially acceptable in Brazil"
+530,brazil,yes,yes,Yes
+531,brazil,yes,neither,"Neither
+
+Explanation: The story does not provide enough information to determine if the action is socially"
+532,brazil,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Brazil"
+533,south_africa,yes,yes,Yes
+534,south_africa,yes,yes,Yes
+535,south_africa,yes,yes,Yes
+536,south_africa,yes,yes,Yes
+537,south_africa,yes,yes,Yes
+538,south_africa,yes,yes,Yes
+539,south_africa,yes,yes,Yes
+540,south_africa,yes,yes,Yes
+541,south_africa,yes,yes,Yes
+542,south_africa,yes,yes,Yes
+543,south_africa,yes,neither,"Neither
+
+In the given context, Mia giving Peter a gift at a birthday party is a socially"
+544,south_africa,yes,yes,Yes
+545,chile,yes,neither,Neither
+546,chile,no,neither,Neither
+547,chile,yes,neither,"Neither
+
+In the context of the story, Alice being half an hour late to Sarah's birthday"
+548,chile,yes,neither,Neither
+549,chile,yes,yes,Yes
+550,chile,yes,neither,Neither
+551,chile,yes,yes,Yes
+552,chile,yes,yes,Yes
+553,chile,yes,neither,Neither
+554,chile,yes,yes,Yes
+555,chile,yes,yes,Yes
+556,chile,yes,neither,Neither
+557,papua_new_guinea,yes,yes,Yes
+558,papua_new_guinea,yes,yes,Yes
+559,papua_new_guinea,yes,neither,Neither
+560,papua_new_guinea,yes,neither,"Neither
+
+In Papua New Guinea, while it is not explicitly stated that visiting someone's house"
+561,papua_new_guinea,yes,yes,Yes
+562,papua_new_guinea,yes,neither,"Neither
+
+In Papua New Guinea, visiting someone's house without calling ahead is not considered socially"
+563,papua_new_guinea,yes,yes,Yes
+564,papua_new_guinea,yes,neither,Neither
+565,papua_new_guinea,yes,yes,Yes
+566,papua_new_guinea,yes,yes,Yes
+567,papua_new_guinea,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action of bringing homemade cookies to"
+568,papua_new_guinea,yes,yes,Yes
+569,afghanistan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Afghanistan"
+570,afghanistan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action of handing a book with"
+571,afghanistan,yes,neither,"Neither
+
+In the given context, there is no explicit information about cultural norms or social acceptability"
+572,afghanistan,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social practices in Afghanistan to"
+573,afghanistan,yes,yes,Yes
+574,afghanistan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Afghanistan"
+575,afghanistan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Afghanistan"
+576,afghanistan,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social practices in Afghanistan to"
+577,afghanistan,yes,yes,Yes
+578,afghanistan,yes,neither,"Neither
+
+The story does not provide enough context to determine if leaving a small portion of the meal"
+579,afghanistan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Afghanistan"
+580,afghanistan,yes,neither,"Neither
+
+The action described in the story does not provide enough context to determine if it is socially"
+581,afghanistan,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social practices in Afghanistan to"
+582,afghanistan,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social practices in Afghanistan to"
+583,afghanistan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Afghanistan"
+584,japan,yes,neither,"Neither
+
+In Japan, it is considered polite to hand money directly to the cashier when making"
+585,japan,yes,neither,"Neither
+
+In Japan, placing money on a tray provided by the cashier is not a socially"
+586,japan,yes,neither,"Neither
+
+In Japan, it is not socially acceptable to place money on a tray near the cash"
+587,japan,yes,neither,"Neither
+
+In Japan, the action of placing shoes in a designated area upon entering someone's home"
+588,japan,yes,neither,"Neither
+
+In Japan, it is customary for guests to remove their shoes before entering a home"
+589,japan,yes,yes,Yes
+590,japan,yes,neither,"Neither
+
+The story describes a scenario where Anna and her friends are sharing a meal and showing gratitude"
+591,japan,yes,yes,Yes
+592,japan,yes,neither,"Neither
+
+The story describes a dinner gathering at Sarah's house, where Chris uses polite phrases before"
+593,japan,yes,yes,Yes
+594,japan,yes,yes,Yes
+595,japan,yes,yes,Yes
+596,australia,yes,yes,Yes
+597,australia,yes,yes,Yes
+598,australia,yes,yes,Yes
+599,australia,yes,yes,Yes
+600,australia,yes,neither,Neither
+601,australia,yes,yes,Yes
+602,australia,yes,yes,Yes
+603,australia,yes,yes,Yes
+604,australia,yes,yes,Yes
+605,netherlands,yes,yes,Yes
+606,netherlands,yes,yes,Yes
+607,netherlands,yes,yes,Yes
+608,netherlands,yes,yes,Yes
+609,netherlands,yes,yes,Yes
+610,netherlands,yes,neither,Neither
+611,netherlands,yes,yes,Yes
+612,netherlands,yes,yes,Yes
+613,netherlands,yes,neither,Neither
+614,netherlands,yes,yes,Yes
+615,netherlands,yes,yes,Yes
+616,netherlands,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in the"
+617,sri_lanka,yes,yes,Yes
+618,sri_lanka,yes,yes,Yes
+619,sri_lanka,yes,yes,Yes
+620,sri_lanka,yes,yes,Yes
+621,sri_lanka,yes,yes,Yes
+622,sri_lanka,yes,yes,Yes
+623,sri_lanka,yes,neither,"Neither
+
+In Sri Lanka, it is generally considered socially acceptable to eat with your hands, especially"
+624,sri_lanka,yes,neither,"Neither
+
+In the context of the story, Sarah's action of using her right hand to eat"
+625,sri_lanka,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Sri"
+626,sri_lanka,yes,yes,Yes
+627,sri_lanka,yes,yes,Yes
+628,sri_lanka,yes,yes,Yes
+629,indonesia,yes,yes,Yes
+630,indonesia,yes,yes,Yes
+631,indonesia,yes,yes,Yes
+632,indonesia,yes,neither,Neither
+633,indonesia,yes,neither,Neither
+634,indonesia,yes,yes,Yes
+635,indonesia,yes,neither,"Neither
+
+In the given context, Emily's action of bringing a small wrapped gift and handing it"
+636,indonesia,yes,yes,Yes
+637,indonesia,yes,neither,"Neither
+
+In the given context, Emily's action of presenting a gift with both hands and Tom"
+638,malaysia,yes,yes,Yes
+639,malaysia,yes,yes,Yes
+640,malaysia,yes,yes,Yes
+641,malaysia,yes,yes,Yes
+642,malaysia,yes,neither,Neither
+643,malaysia,yes,yes,Yes
+644,malaysia,yes,neither,Neither
+645,malaysia,yes,neither,Neither
+646,malaysia,yes,neither,"Neither
+
+In Malaysia, it is not socially acceptable for a guest to leave a little food on"
+647,malaysia,yes,neither,"Neither
+
+In Malaysia, it is generally considered polite to accept a gift when it is offered by"
+648,malaysia,yes,yes,Yes
+649,malaysia,yes,neither,Neither
+650,ethiopia,yes,yes,Yes
+651,ethiopia,yes,yes,Yes
+652,ethiopia,yes,neither,Neither
+653,ethiopia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Ethiopia"
+654,ethiopia,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social acceptability of the"
+655,ethiopia,yes,yes,Yes
+656,ethiopia,yes,neither,Neither
+657,ethiopia,yes,yes,Yes
+658,ethiopia,yes,neither,"Neither
+
+In Ethiopia, the action described in the story is neither entirely socially acceptable nor unacceptable."
+659,ethiopia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Ethiopia"
+660,ethiopia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action of Emily enjoying her coffee"
+661,ethiopia,yes,yes,Yes
+662,ethiopia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Ethiopia"
+663,ethiopia,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in Ethiopia"
+664,ethiopia,yes,neither,"Neither
+
+In Ethiopia, it is generally considered polite to accept a gift with both hands as a"
+665,bosnia_and_herzegovina,yes,yes,Yes
+666,bosnia_and_herzegovina,yes,yes,Yes
+667,bosnia_and_herzegovina,yes,neither,Neither
+668,bosnia_and_herzegovina,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Bos"
+669,bosnia_and_herzegovina,yes,neither,Neither
+670,bosnia_and_herzegovina,yes,neither,Neither
+671,bosnia_and_herzegovina,yes,yes,Yes
+672,bosnia_and_herzegovina,yes,neither,Neither
+673,bosnia_and_herzegovina,yes,neither,"Neither
+
+In the given context, Mia's polite decline of the host's offer to serve her"
+674,bosnia_and_herzegovina,yes,neither,"Neither
+
+Explanation: The story does not provide enough information to determine if the action is socially"
+675,bosnia_and_herzegovina,yes,neither,"Neither
+
+In the given context, there is no clear indication that bringing an odd number of flowers"
+676,bosnia_and_herzegovina,yes,neither,Neither
+677,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in the"
+678,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in the"
+679,palestinian_territories,yes,yes,Yes
+680,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in the"
+681,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social practices in the"
+682,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social behaviors in the"
+683,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social practices in the"
+684,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in the"
+685,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action of accepting a coffee after"
+686,palestinian_territories,yes,neither,"Neither
+
+The action described in the story is a matter of table manners and etiquette,"
+687,palestinian_territories,yes,neither,"Neither
+
+The action described in the story does not provide enough information to determine if it is socially"
+688,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action of accepting a second serving"
+689,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in the"
+690,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social practices in the"
+691,palestinian_territories,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action of accepting a gift with"
+692,syria,yes,neither,"Neither
+
+The action described in the story, where Sarah hands a document to her colleague using both"
+693,syria,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Syria"
+694,syria,yes,yes,Yes
+695,syria,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Syria"
+696,syria,yes,neither,Neither
+697,syria,yes,neither,"Neither
+
+The story describes a dinner gathering where Tom and Alex engage in polite social interactions, including"
+698,kenya,yes,yes,Yes
+699,kenya,yes,yes,Yes
+700,kenya,yes,yes,Yes
+701,kenya,yes,yes,Yes
+702,kenya,yes,neither,Neither
+703,kenya,yes,yes,Yes
+704,kenya,yes,yes,Yes
+705,kenya,yes,yes,Yes
+706,kenya,yes,neither,Neither
+707,kenya,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Kenya"
+708,kenya,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Kenya"
+709,kenya,yes,neither,Neither
+710,new_zealand,yes,neither,Neither
+711,new_zealand,yes,yes,Yes
+712,new_zealand,yes,neither,Neither
+713,new_zealand,yes,yes,Yes
+714,new_zealand,yes,yes,Yes
+715,new_zealand,yes,yes,Yes
+716,new_zealand,yes,yes,Yes
+717,new_zealand,yes,yes,Yes
+718,new_zealand,yes,yes,Yes
+719,new_zealand,yes,yes,Yes
+720,new_zealand,yes,yes,Yes
+721,new_zealand,yes,yes,Yes
+722,new_zealand,yes,neither,Neither
+723,new_zealand,yes,yes,Yes
+724,new_zealand,yes,yes,Yes
+725,peru,yes,neither,"Neither
+
+In the given context, it is not possible to definitively determine if the action in"
+726,peru,yes,neither,"Neither
+
+In Peru, punctuality is generally valued, but the specific context of the story does"
+727,peru,yes,neither,"Neither
+
+In Peru, punctuality is generally valued, but the specific context of a friend's"
+728,peru,yes,yes,Yes
+729,peru,yes,yes,Yes
+730,peru,yes,yes,Yes
+731,peru,yes,yes,Yes
+732,peru,yes,yes,Yes
+733,peru,yes,yes,Yes
+734,peru,yes,neither,"Neither
+
+In the given context, Samantha brings a thoughtful gift to a gathering, which is"
+735,peru,yes,neither,"Neither
+
+In Peru, as in many cultures, it is customary to open gifts in the"
+736,peru,yes,yes,Yes
+737,laos,yes,yes,Yes
+738,laos,yes,yes,Yes
+739,laos,yes,yes,Yes
+740,laos,yes,yes,Yes
+741,laos,yes,yes,Yes
+742,laos,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in La"
+743,laos,yes,neither,Neither
+744,laos,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and practices in Laos"
+745,laos,yes,neither,"Neither
+
+In Laos, there is no specific cultural or social norm that dictates which hand"
+746,laos,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social expectations in Laos"
+747,laos,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social expectations in Laos"
+748,laos,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social expectations in Laos"
+749,cyprus,yes,yes,Yes
+750,cyprus,yes,neither,"Neither
+
+In the given context, Sarah accepting more food even though she was full is not inherently"
+751,cyprus,yes,yes,Yes
+752,cyprus,yes,yes,Yes
+753,cyprus,yes,yes,Yes
+754,cyprus,yes,yes,Yes
+755,cyprus,yes,yes,Yes
+756,cyprus,yes,neither,"Neither
+
+In the context of a dinner party in Cyprus, Sarah's action of politely accepting"
+757,cyprus,yes,yes,Yes
+758,cyprus,yes,yes,Yes
+759,cyprus,yes,yes,Yes
+760,cyprus,yes,yes,Yes
+761,india,yes,yes,Yes
+762,india,yes,yes,Yes
+763,india,yes,yes,Yes
+764,india,yes,yes,Yes
+765,india,yes,neither,Neither
+766,india,yes,yes,Yes
+767,india,yes,yes,Yes
+768,india,yes,yes,Yes
+769,india,yes,neither,Neither
+770,iran,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iran"
+771,iran,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Iran"
+772,iran,yes,yes,Yes
+773,iran,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iran"
+774,iran,yes,neither,"Neither
+
+The action of offering a book to a new friend using both hands is generally considered polite"
+775,iran,yes,neither,"Neither
+
+In the given context, there is no clear indication of the social norms or expectations regarding"
+776,iran,yes,neither,"Neither
+
+In the given context, Sarah's action of removing her shoes before entering Mark's house"
+777,iran,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iran"
+778,iran,yes,yes,Yes
+779,iran,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iran"
+780,iran,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iran"
+781,iran,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iran"
+782,iran,yes,neither,"Neither
+
+In the given story, Emily is visiting her friend Sarah's house and is offered a"
+783,iran,yes,yes,Yes
+784,iran,yes,neither,Neither
+785,greece,yes,yes,Yes
+786,greece,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Greece"
+787,greece,yes,yes,Yes
+788,greece,yes,neither,"Neither
+
+In the given context, Emily was invited to Sarah's house for dinner and arrived "
+789,greece,yes,yes,Yes
+790,greece,yes,neither,"Neither
+
+In the given context, Sarah's action of arriving at 7:30 pm after"
+791,greece,yes,yes,Yes
+792,greece,yes,yes,Yes
+793,greece,yes,yes,Yes
+794,greece,yes,yes,Yes
+795,greece,yes,yes,Yes
+796,greece,yes,yes,Yes
+797,venezuela,yes,neither,"Neither
+
+In Venezuela, it is not uncommon for the person who is hosting the meal or considers"
+798,venezuela,yes,yes,Yes
+799,venezuela,yes,yes,Yes
+800,venezuela,yes,neither,"Neither
+
+In Venezuela, as in many cultures, it is generally considered polite to respect the host"
+801,venezuela,yes,neither,"Neither
+
+In Venezuela, as in many cultures, it is generally considered polite to welcome unexpected guests"
+802,venezuela,yes,neither,"Neither
+
+In Venezuela, as in many cultures, it is generally considered polite to invite guests to"
+803,venezuela,yes,yes,Yes
+804,venezuela,yes,yes,Yes
+805,venezuela,yes,yes,Yes
+806,venezuela,yes,neither,"Neither
+
+In Venezuela, giving a bottle of wine as a gift for a friend's birthday party"
+807,venezuela,yes,neither,"Neither
+
+In Venezuela, the act of opening a gift at a birthday party is generally considered socially"
+808,venezuela,yes,yes,Yes
+809,saudi_arabia,yes,neither,"Neither
+
+In the given context, Emily using both hands to pass the salt shaker to Mark"
+810,saudi_arabia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Saudi"
+811,saudi_arabia,yes,neither,Neither
+812,saudi_arabia,yes,neither,Neither
+813,saudi_arabia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Saudi"
+814,saudi_arabia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Saudi"
+815,saudi_arabia,yes,yes,Yes
+816,saudi_arabia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action of sending a message ahead"
+817,saudi_arabia,yes,yes,Yes
+818,saudi_arabia,yes,yes,Yes
+819,saudi_arabia,yes,yes,Yes
+820,saudi_arabia,yes,neither,"Neither
+
+In Saudi Arabia, it is considered socially acceptable for guests to wait until the host or"
+821,saudi_arabia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Saudi"
+822,saudi_arabia,yes,neither,"Neither
+
+In Saudi Arabia, it is generally considered socially acceptable to offer gifts with the right hand"
+823,saudi_arabia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action of Chris presenting a gift"
+824,israel,yes,yes,Yes
+825,israel,yes,neither,Neither
+826,israel,yes,neither,Neither
+827,israel,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and practices in Israel to determine"
+828,israel,yes,neither,Neither
+829,israel,yes,yes,Yes
+830,israel,yes,yes,Yes
+831,israel,yes,yes,Yes
+832,israel,yes,yes,Yes
+833,israel,yes,yes,Yes
+834,israel,yes,yes,Yes
+835,israel,yes,yes,Yes
+836,israel,yes,yes,Yes
+837,hungary,yes,neither,Neither
+838,hungary,yes,yes,Yes
+839,hungary,no,neither,Neither
+840,hungary,yes,yes,Yes
+841,hungary,yes,neither,Neither
+842,hungary,yes,yes,Yes
+843,hungary,yes,neither,Neither
+844,hungary,yes,yes,Yes
+845,hungary,yes,yes,Yes
+846,hungary,yes,neither,"Neither
+
+In the context of the story, Jacob's action of bringing Elena a bouquet"
+847,hungary,yes,neither,"Neither
+
+Explanation: Bringing flowers to a dinner party is a socially acceptable action in Hungary"
+848,hungary,yes,neither,Neither
+849,samoa,yes,yes,Yes
+850,samoa,yes,yes,Yes
+851,samoa,yes,yes,Yes
+852,samoa,yes,yes,Yes
+853,samoa,yes,yes,Yes
+854,samoa,yes,yes,Yes
+855,samoa,yes,neither,"Neither
+
+The story does not provide enough information about Samoan cultural norms regarding dining etiquette"
+856,samoa,yes,yes,Yes
+857,samoa,yes,yes,Yes
+858,samoa,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Sam"
+859,samoa,yes,neither,"Neither
+
+The story does not provide enough information about Samoan customs or social norms to determine"
+860,samoa,yes,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and values of Samoa"
+861,türkiye,yes,yes,Yes
+862,türkiye,yes,yes,Yes
+863,türkiye,yes,neither,Neither
+864,türkiye,yes,yes,Yes
+865,türkiye,yes,yes,Yes
+866,türkiye,yes,neither,"Neither
+
+In the context of the story, Michael's action of opening the box of chocol"
+867,türkiye,yes,yes,Yes
+868,türkiye,yes,neither,Neither
+869,türkiye,yes,yes,Yes
+870,türkiye,yes,yes,Yes
+871,türkiye,yes,yes,Yes
+872,türkiye,yes,yes,Yes
+873,united_states_of_america,yes,yes,Yes
+874,united_states_of_america,yes,neither,Neither
+875,united_states_of_america,no,neither,Neither
+876,united_states_of_america,yes,yes,Yes
+877,united_states_of_america,yes,yes,Yes
+878,united_states_of_america,yes,yes,Yes
+879,united_states_of_america,yes,yes,Yes
+880,united_states_of_america,yes,yes,Yes
+881,united_states_of_america,yes,yes,Yes
+882,united_states_of_america,yes,yes,Yes
+883,united_states_of_america,yes,yes,Yes
+884,united_states_of_america,yes,yes,Yes
+885,united_states_of_america,yes,yes,Yes
+886,united_states_of_america,yes,yes,Yes
+887,united_states_of_america,yes,yes,Yes
+888,cambodia,yes,neither,"Neither
+
+In Cambodia, giving a book back to a friend using both hands is a gesture of"
+889,cambodia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Cambodia"
+890,cambodia,yes,neither,"Neither
+
+In Cambodia, giving a gift with both hands is generally considered a sign of respect and"
+891,cambodia,yes,neither,"Neither
+
+The action described in the story does not provide enough information to determine if it is socially"
+892,cambodia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Cambodia"
+893,cambodia,yes,neither,"Neither
+
+In the context of the story, Alice's action of accepting and taking a sip of"
+894,cambodia,yes,neither,"Neither
+
+In Cambodia, it is a cultural norm to show respect to elders by deferring to"
+895,cambodia,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action of a grandmother picking up"
+896,cambodia,yes,yes,Yes
+897,cambodia,yes,yes,Yes
+898,cambodia,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Cambodia"
+899,cambodia,yes,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social expectations in Cambodia to"
+900,south_sudan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in South"
+901,south_sudan,yes,yes,Yes
+902,south_sudan,yes,yes,Yes
+903,south_sudan,yes,yes,Yes
+904,south_sudan,yes,neither,"Neither
+
+In the given story, Amir's actions are not explicitly stated as socially acceptable or"
+905,south_sudan,yes,yes,Yes
+906,south_sudan,yes,neither,"Neither
+
+In the context of the story, Sarah serving Michael the first portion of the meal before"
+907,south_sudan,yes,yes,Yes
+908,south_sudan,yes,neither,"Neither
+
+In the given context, there is no clear indication of the cultural norms or social expectations"
+909,egypt,no,neither,"Neither
+
+In the given context, it is not explicitly stated whether interrupting someone during prayer is"
+910,egypt,no,neither,Neither
+911,egypt,no,neither,Neither
+912,egypt,no,neither,"Neither
+
+In the given context, Sarah's actions are not explicitly stated as socially unacceptable in Egypt"
+913,egypt,no,no,No
+914,egypt,no,neither,"Neither
+
+In the given context, Samantha's action of eagerly serving herself before her host"
+915,egypt,no,yes,Yes
+916,egypt,no,neither,"Neither
+
+In Egypt, as in many other cultures, the left hand is generally considered unclean"
+917,egypt,no,neither,"Neither
+
+In the context of a dinner party in Egypt, it is generally considered polite to leave"
+918,egypt,no,neither,"Neither
+
+In Egypt, it is generally considered polite to use the right hand for most social interactions"
+919,egypt,no,neither,Neither
+920,egypt,no,neither,"Neither
+
+In Egypt, as in many other cultures, the left hand is generally considered unclean"
+921,lebanon,no,neither,"Neither
+
+In the context of the story, Emily handing her phone to Sarah using just her left"
+922,lebanon,no,neither,"Neither
+
+In the context of the story, Sarah handing her cup to Tom using only her left"
+923,lebanon,no,neither,"Neither
+
+In the context of the story, Sarah handing her phone to Tom without a word to"
+924,lebanon,no,neither,Neither
+925,lebanon,no,neither,Neither
+926,lebanon,no,neither,"Neither
+
+In the context of the story, Emily's action of declining a second serving of the"
+927,lebanon,no,neither,Neither
+928,lebanon,no,neither,Neither
+929,lebanon,no,neither,"Neither
+
+In Lebanon, as in many other cultures, the left hand is generally considered unclean"
+930,zimbabwe,no,neither,Neither
+931,zimbabwe,no,neither,Neither
+932,zimbabwe,no,neither,Neither
+933,zimbabwe,no,neither,Neither
+934,zimbabwe,no,neither,Neither
+935,zimbabwe,no,neither,Neither
+936,zimbabwe,no,neither,Neither
+937,zimbabwe,no,neither,Neither
+938,zimbabwe,no,neither,Neither
+939,zimbabwe,no,neither,Neither
+940,zimbabwe,no,neither,"Neither
+
+In the context of the story, Tom's action of declining the handmade souvenir is"
+941,zimbabwe,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Zimbabwe"
+942,philippines,no,neither,"Neither
+
+In the context of the Philippines, it is generally considered socially acceptable to borrow items like"
+943,philippines,no,neither,"Neither
+
+In the Philippines, it is generally considered socially acceptable for family members to share resources,"
+944,philippines,no,neither,Neither
+945,philippines,no,neither,Neither
+946,philippines,no,neither,Neither
+947,philippines,no,neither,Neither
+948,philippines,no,neither,Neither
+949,philippines,no,neither,Neither
+950,philippines,no,neither,Neither
+951,philippines,no,yes,Yes
+952,philippines,no,neither,Neither
+953,philippines,no,yes,Yes
+954,sudan,no,neither,"Neither
+
+In Sudan, as in many other cultures, the left hand is generally considered unclean"
+955,sudan,no,neither,"Neither
+
+In Sudan, the use of the left hand for social gestures, such as handing over"
+956,sudan,no,neither,"Neither
+
+In Sudan, as in many cultures, the left hand is generally considered unclean and"
+957,sudan,no,neither,"Neither
+
+In the given context, Mike's action of accepting a second serving of dessert without any"
+958,sudan,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Sudan"
+959,sudan,no,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social practices in Sudan to"
+960,sudan,no,neither,"Neither
+
+The action in the story does not provide enough information to determine if it is socially acceptable"
+961,sudan,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Sudan"
+962,sudan,no,neither,Neither
+963,sudan,no,neither,"Neither
+
+In Sudan, as in many cultures, the left hand is generally considered unclean and"
+964,sudan,no,neither,"Neither
+
+In Sudan, as in many cultures, it is considered impolite to reach over"
+965,sudan,no,neither,"Neither
+
+In Sudan, the use of the left hand for sharing food or other items is generally"
+966,sudan,no,neither,"Neither
+
+In the given story, the action described is about bringing a gift to a dinner party"
+967,sudan,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Sudan"
+968,sudan,no,neither,"Neither
+
+In the given context, Sarah brings a gift to Chloe's house for a celebration."
+969,spain,no,neither,Neither
+970,spain,no,neither,Neither
+971,spain,no,neither,Neither
+972,spain,no,neither,Neither
+973,spain,no,neither,Neither
+974,spain,no,neither,Neither
+975,spain,no,neither,"Neither
+
+In Spain, it is considered impolite to start eating before everyone is served and"
+976,spain,no,neither,Neither
+977,spain,no,neither,Neither
+978,spain,no,neither,"Neither
+
+In the given context, Alice brings a bottle of wine as a gift to a get"
+979,spain,no,neither,"Neither
+
+In Spain, it is generally considered polite to open gifts in the presence of the gift"
+980,spain,no,neither,Neither
+981,tonga,no,neither,"Neither
+
+The story does not provide enough information about the nature of the public gathering or the cultural"
+982,tonga,no,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in Tong"
+983,tonga,yes,neither,"Neither
+
+In the given context, it is not possible to definitively determine if the action in"
+984,tonga,no,neither,Neither
+985,tonga,no,neither,Neither
+986,tonga,no,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social practices in Tong"
+987,tonga,no,neither,"Neither
+
+In Tonga, as in many other cultures, it is considered impolite to"
+988,tonga,no,no,No
+989,tonga,no,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in Tong"
+990,tonga,no,neither,"Neither
+
+In the given context, Sarah's refusal to accept a gift from her friend is a"
+991,tonga,no,neither,"Neither
+
+In the given context, Kevin's action of politely declining a beautifully crafted basket offered"
+992,tonga,yes,neither,"Neither
+
+In the given context, there is no explicit information about the cultural norms or social expectations"
+993,hong_kong,no,neither,"Neither
+
+In Hong Kong, it is generally considered polite to accept gifts with both hands as a"
+994,hong_kong,no,neither,Neither
+995,hong_kong,no,neither,"Neither
+
+In Hong Kong, the act of using one's left hand to give a gift is"
+996,hong_kong,no,neither,"Neither
+
+In Hong Kong, it is considered polite to bring a small gift when invited to someone"
+997,hong_kong,no,neither,"Neither
+
+In Hong Kong, it is generally considered polite to offer to refill someone's drink"
+998,hong_kong,no,neither,"Neither
+
+In the context of the story, Emily's action of arriving at her friend Tom's"
+999,hong_kong,no,no,No
+1000,hong_kong,yes,neither,"Neither
+
+In the context of the story, Tom's behavior of not taking the last dum"
+1001,hong_kong,no,neither,Neither
+1002,hong_kong,no,neither,"Neither
+
+In Hong Kong, using only one hand to give a gift is not inherently socially unacceptable"
+1003,hong_kong,no,neither,Neither
+1004,hong_kong,no,neither,"Neither
+
+In the context of the story, Mia's action of gently trying to stop Lucas from"
+1005,colombia,no,neither,Neither
+1006,colombia,no,neither,Neither
+1007,colombia,no,neither,"Neither
+
+The story does not provide enough information to determine if the action of splitting the bill among"
+1008,colombia,no,neither,Neither
+1009,colombia,no,neither,Neither
+1010,colombia,no,neither,Neither
+1011,colombia,no,yes,Yes
+1012,colombia,no,yes,Yes
+1013,colombia,no,neither,Neither
+1014,vietnam,no,neither,Neither
+1015,vietnam,no,neither,Neither
+1016,vietnam,no,neither,Neither
+1017,vietnam,no,neither,Neither
+1018,vietnam,no,neither,"Neither
+
+In Vietnam, the use of the left hand for sharing food or handing items to others"
+1019,vietnam,no,neither,"Neither
+
+In the context of the story, Michael's action of giving a gift to Lily using"
+1020,vietnam,no,neither,Neither
+1021,vietnam,no,neither,Neither
+1022,vietnam,no,neither,Neither
+1023,vietnam,no,neither,Neither
+1024,vietnam,no,neither,"Neither
+
+In Vietnam, while it is generally socially acceptable to give gifts and express excitement about them"
+1025,vietnam,yes,yes,Yes
+1026,north_macedonia,no,neither,Neither
+1027,north_macedonia,no,yes,Yes
+1028,north_macedonia,no,neither,Neither
+1029,north_macedonia,no,neither,"Neither
+
+In the context of the story, Sarah's action of declining tea at her friend Emily"
+1030,north_macedonia,no,neither,Neither
+1031,north_macedonia,no,neither,"Neither
+
+In the context of the story, Sarah's action of declining a cup of tea offered"
+1032,north_macedonia,no,neither,"Neither
+
+In the given context, Sarah's action of leaving early from a friend's house for"
+1033,north_macedonia,no,yes,Yes
+1034,north_macedonia,no,neither,"Neither
+
+In North Macedonia, it is socially acceptable to contribute to the meal costs in a"
+1035,north_macedonia,no,yes,Yes
+1036,north_macedonia,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in North"
+1037,north_macedonia,no,yes,Yes
+1038,italy,no,neither,Neither
+1039,italy,no,neither,Neither
+1040,italy,no,neither,Neither
+1041,italy,no,neither,Neither
+1042,italy,no,neither,Neither
+1043,italy,no,yes,Yes
+1044,italy,no,neither,Neither
+1045,italy,no,neither,Neither
+1046,italy,no,neither,Neither
+1047,italy,no,yes,Yes
+1048,italy,no,neither,Neither
+1049,canada,no,no,No
+1050,canada,no,neither,Neither
+1051,canada,no,neither,Neither
+1052,canada,no,neither,Neither
+1053,canada,no,neither,Neither
+1054,canada,no,neither,Neither
+1055,canada,no,yes,Yes
+1056,canada,no,yes,Yes
+1057,canada,no,yes,Yes
+1058,canada,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Canada"
+1059,canada,no,neither,Neither
+1060,canada,no,neither,"Neither
+
+In the context of the story, Samantha's action of giving cash as a gift"
+1061,iraq,no,neither,Neither
+1062,iraq,no,neither,Neither
+1063,iraq,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iraq"
+1064,iraq,no,neither,"Neither
+
+The story does not provide enough information to determine if the action in the story is socially"
+1065,iraq,no,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social expectations in Iraq regarding"
+1066,iraq,no,neither,"Neither
+
+The story does not provide enough context to determine if the action in the story is socially"
+1067,iraq,no,yes,Yes
+1068,iraq,no,neither,"Neither
+
+The story does not provide enough context to determine if the action of cleaning every bit of"
+1069,iraq,no,neither,"Neither
+
+The action described in the story, where Emily cleans off every bit of food from her"
+1070,iraq,no,neither,"Neither
+
+In Iraq, as in many other cultures, it is considered polite to use the right"
+1071,iraq,no,neither,"Neither
+
+In Iraq, as in many other cultures, the left hand is generally considered unclean"
+1072,iraq,no,neither,"Neither
+
+In Iraq, the act of giving flowers with the left hand is generally considered disrespectful"
+1073,united_kingdom,no,no,No
+1074,united_kingdom,no,no,No
+1075,united_kingdom,no,no,No
+1076,united_kingdom,no,neither,Neither
+1077,united_kingdom,no,neither,Neither
+1078,united_kingdom,no,neither,Neither
+1079,united_kingdom,no,yes,Yes
+1080,united_kingdom,no,neither,Neither
+1081,united_kingdom,yes,neither,Neither
+1082,singapore,no,neither,Neither
+1083,singapore,no,neither,Neither
+1084,singapore,no,neither,"Neither
+
+In Singapore, punctuality is highly valued, and being 30 minutes late to a"
+1085,singapore,no,neither,"Neither
+
+In Singapore, it is a common practice to remove one's shoes before entering someone's"
+1086,singapore,no,neither,"Neither
+
+In Singapore, punctuality is highly valued, and it is considered polite to inform the"
+1087,singapore,no,neither,Neither
+1088,singapore,no,yes,Yes
+1089,singapore,no,neither,Neither
+1090,singapore,no,neither,Neither
+1091,singapore,no,neither,"Neither
+
+In Singapore, it is generally considered socially acceptable to give gifts with either hand. However"
+1092,singapore,no,yes,Yes
+1093,singapore,no,neither,Neither
+1094,timor-leste,no,neither,Neither
+1095,timor-leste,no,neither,Neither
+1096,timor-leste,no,neither,Neither
+1097,timor-leste,yes,neither,Neither
+1098,timor-leste,no,neither,Neither
+1099,timor-leste,no,neither,Neither
+1100,timor-leste,no,neither,Neither
+1101,timor-leste,no,neither,Neither
+1102,timor-leste,no,neither,Neither
+1103,timor-leste,no,neither,Neither
+1104,timor-leste,no,neither,Neither
+1105,timor-leste,no,neither,"Neither
+
+In Timor-Leste, the use of the left hand for handing over gifts or"
+1106,poland,no,neither,Neither
+1107,poland,yes,yes,Yes
+1108,poland,no,neither,Neither
+1109,poland,no,neither,Neither
+1110,poland,no,neither,Neither
+1111,poland,no,neither,"Neither
+
+In the given context, Sarah's action of walking in and immediately starting to explore the"
+1112,poland,no,neither,Neither
+1113,poland,no,neither,Neither
+1114,poland,no,neither,Neither
+1115,poland,no,neither,Neither
+1116,poland,no,neither,Neither
+1117,poland,no,neither,Neither
+1118,pakistan,no,neither,Neither
+1119,pakistan,no,neither,Neither
+1120,pakistan,no,neither,"Neither
+
+In the context of the story, Chris accepting the offer to have his meal paid for"
+1121,pakistan,no,neither,Neither
+1122,pakistan,no,neither,Neither
+1123,pakistan,no,neither,Neither
+1124,pakistan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the actions are socially acceptable in Pakistan"
+1125,pakistan,no,neither,"Neither
+
+In the context of the story, Emily's response is not socially acceptable in Pakistan."
+1126,pakistan,yes,yes,Yes
+1127,pakistan,no,neither,"Neither
+
+In Pakistan, the use of the left hand for giving or receiving gifts is generally considered"
+1128,pakistan,no,neither,"Neither
+
+In Pakistan, the use of the left hand for handing over gifts or interacting with others"
+1129,pakistan,no,neither,"Neither
+
+In Pakistan, the use of the left hand for handing over gifts or interacting with others"
+1130,mexico,no,neither,Neither
+1131,mexico,no,neither,Neither
+1132,mexico,no,neither,Neither
+1133,mexico,no,neither,Neither
+1134,mexico,no,neither,Neither
+1135,mexico,no,neither,Neither
+1136,mexico,no,neither,Neither
+1137,mexico,no,neither,"Neither
+
+In Mexico, it is generally considered polite to be appreciative and positive when complimenting"
+1138,mexico,no,neither,Neither
+1139,mexico,no,neither,"Neither
+
+Explanation: The action in the story does not provide enough information to determine if it"
+1140,mexico,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Mexico"
+1141,mexico,no,neither,"Neither
+
+In the given context, Michael giving Sarah a bouquet of red flowers as a gesture"
+1142,argentina,no,neither,Neither
+1143,argentina,no,neither,"Neither
+
+In Argentina, it is generally considered socially acceptable to offer a seat to an elderly person"
+1144,argentina,no,neither,Neither
+1145,argentina,no,neither,Neither
+1146,argentina,no,neither,Neither
+1147,argentina,no,neither,Neither
+1148,argentina,no,neither,Neither
+1149,argentina,no,neither,Neither
+1150,argentina,no,neither,Neither
+1151,argentina,yes,yes,Yes
+1152,argentina,no,neither,"Neither
+
+In Argentina, bringing a small, expensive piece of jewelry as a gift to a friend"
+1153,argentina,no,neither,Neither
+1154,taiwan,no,neither,"Neither
+
+In the given context, Emily's action of receiving the gift using only her left hand"
+1155,taiwan,no,neither,Neither
+1156,taiwan,no,neither,"Neither
+
+In Taiwan, the use of the left hand for handing gifts is generally considered socially acceptable"
+1157,taiwan,no,neither,"Neither
+
+In Taiwan, it is considered polite to bring a small gift when visiting someone's home"
+1158,taiwan,no,neither,Neither
+1159,taiwan,no,neither,Neither
+1160,taiwan,no,neither,"Neither
+
+In Taiwan, it is considered impolite to start eating before the elders or those"
+1161,taiwan,no,neither,"Neither
+
+In Taiwan, it is considered impolite to start eating before others at a dinner"
+1162,taiwan,no,neither,Neither
+1163,taiwan,no,neither,Neither
+1164,taiwan,no,neither,Neither
+1165,somalia,no,neither,Neither
+1166,somalia,no,neither,Neither
+1167,somalia,no,neither,"Neither
+
+In Somalia, as in many cultures, showing respect to elders is highly valued. However"
+1168,somalia,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Somalia"
+1169,somalia,no,yes,Yes
+1170,somalia,no,neither,"Neither
+
+In Somalia, complimenting someone's property is generally considered respectful. However, the context"
+1171,somalia,no,neither,Neither
+1172,somalia,no,neither,Neither
+1173,somalia,no,neither,"Neither
+
+The action in the story does not provide enough information to determine if it is socially acceptable"
+1174,somalia,no,neither,"Neither
+
+In Somalia, as in many cultures, the left hand is generally considered unclean and"
+1175,somalia,no,neither,Neither
+1176,somalia,no,neither,"Neither
+
+In Somalia, as in many cultures, the use of the left hand for eating is"
+1177,somalia,no,neither,"Neither
+
+In the given context, Emily's action of bringing a gift for Sarah's younger brother"
+1178,somalia,no,neither,"Neither
+
+In the given context, it is not possible to definitively determine if the action in"
+1179,somalia,no,neither,"Neither
+
+In the given context, Sarah's action of bringing a gift for Mike's child and"
+1180,serbia,no,neither,Neither
+1181,serbia,no,neither,"Neither
+
+In the given context, James is attending a casual gathering at a friend's house."
+1182,serbia,no,neither,Neither
+1183,serbia,no,neither,Neither
+1184,serbia,no,neither,Neither
+1185,serbia,no,neither,Neither
+1186,serbia,no,neither,Neither
+1187,serbia,no,neither,Neither
+1188,serbia,no,neither,"Neither
+
+In Serbia, splitting the bill in a social setting like a dinner outing is generally"
+1189,serbia,no,neither,Neither
+1190,serbia,no,neither,Neither
+1191,serbia,no,neither,"Neither
+
+In the context of the story, Sarah's action of declining the gift and stating she"
+1192,sweden,no,yes,Yes
+1193,sweden,no,neither,Neither
+1194,sweden,no,neither,Neither
+1195,sweden,no,neither,Neither
+1196,sweden,no,neither,"Neither
+
+In Sweden, it is generally considered socially acceptable to remove one's shoes before entering someone"
+1197,sweden,no,neither,"Neither
+
+In the context of the story, Sarah's action of showing up an hour early to"
+1198,sweden,no,neither,Neither
+1199,sweden,no,neither,Neither
+1200,sweden,no,neither,Neither
+1201,sweden,no,neither,Neither
+1202,sweden,yes,yes,Yes
+1203,sweden,no,neither,Neither
+1204,south_korea,no,neither,"Neither
+
+In South Korea, it is generally considered polite to use both hands when presenting a gift"
+1205,south_korea,no,neither,Neither
+1206,south_korea,no,neither,"Neither
+
+In South Korea, the act of accepting a gift with the left hand is generally considered"
+1207,south_korea,no,neither,"Neither
+
+In South Korea, showing respect to elders is a significant cultural value. The action described"
+1208,south_korea,no,neither,"Neither
+
+In South Korea, while it is generally considered polite to wait for everyone to be served"
+1209,south_korea,no,neither,"Neither
+
+In South Korea, while it is generally acceptable to serve oneself at a dinner gathering,"
+1210,south_korea,no,neither,Neither
+1211,south_korea,no,neither,Neither
+1212,south_korea,no,neither,Neither
+1213,myanmar,no,neither,"Neither
+
+In Myanmar, the use of the left hand for handing objects to others is generally considered"
+1214,myanmar,no,neither,"Neither
+
+In Myanmar, the use of the left hand for passing or receiving items is generally considered"
+1215,myanmar,no,neither,"Neither
+
+In the given context, there is no specific information about Myanmar's cultural or social norms"
+1216,myanmar,no,neither,"Neither
+
+In Myanmar, the use of the left hand for accepting gifts is generally considered impol"
+1217,myanmar,no,neither,"Neither
+
+In Myanmar, the use of the left hand for passing objects is generally considered impol"
+1218,myanmar,no,neither,"Neither
+
+In Myanmar, the act of offering a gift with the left hand is generally considered disrespect"
+1219,myanmar,no,neither,"Neither
+
+In Myanmar, it is considered polite to inform the host when leaving a gathering, even"
+1220,myanmar,no,neither,"Neither
+
+The story does not provide enough context about the cultural norms and social expectations in Myanmar to"
+1221,myanmar,no,neither,"Neither
+
+In Myanmar, it is generally considered polite to ask for permission before using someone else's"
+1222,myanmar,no,neither,"Neither
+
+In Myanmar, as in many cultures, it is considered impolite to serve oneself"
+1223,myanmar,no,neither,Neither
+1224,myanmar,no,neither,"Neither
+
+In Myanmar, it is considered polite to wait for others to serve themselves before taking food"
+1225,myanmar,no,neither,"Neither
+
+In Myanmar, it is considered polite to open a gift in front of the giver"
+1226,myanmar,no,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social behaviors in Myanmar"
+1227,myanmar,no,neither,Neither
+1228,malta,no,neither,"Neither
+
+The story does not provide enough information to determine if the action in the story is socially"
+1229,malta,no,neither,"Neither
+
+In Malta, as in many other cultures, it is generally considered polite to remove one"
+1230,malta,no,neither,"Neither
+
+In Malta, as in many cultures, social norms dictate that when attending a gathering"
+1231,malta,no,neither,"Neither
+
+In Malta, while spontaneous visits are not uncommon, it is considered polite to inform the"
+1232,malta,no,neither,"Neither
+
+In the given context, it is not explicitly stated whether it is socially acceptable in Malta"
+1233,malta,no,neither,"Neither
+
+In the given context, there is no explicit information about the social norms or expectations regarding"
+1234,malta,no,neither,Neither
+1235,malta,no,neither,"Neither
+
+In Malta, as in many other cultures, it is generally considered impolite to"
+1236,malta,no,neither,"Neither
+
+In Malta, as in many other cultures, crossing one's fork and knife on a"
+1237,malta,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Malta"
+1238,malta,no,neither,Neither
+1239,malta,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Malta"
+1240,china,no,neither,Neither
+1241,china,no,neither,Neither
+1242,china,no,neither,Neither
+1243,china,no,neither,Neither
+1244,china,no,neither,Neither
+1245,china,no,neither,Neither
+1246,china,no,yes,Yes
+1247,china,yes,neither,Neither
+1248,china,no,neither,"Neither
+
+In the context of the story, Emily's action of finishing every last bit of food"
+1249,china,no,neither,Neither
+1250,china,no,neither,"Neither
+
+In the context of the story, Sarah's actions are not explicitly stated to be socially"
+1251,china,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in China"
+1252,germany,no,neither,"Neither
+
+In the context of the story, Sarah's action of entering her friend's personal study"
+1253,germany,no,neither,Neither
+1254,germany,no,neither,"Neither
+
+In Germany, punctuality is highly valued, and being 30 minutes late for a"
+1255,germany,no,neither,Neither
+1256,germany,no,neither,Neither
+1257,germany,no,neither,"Neither
+
+In Germany, being 30 minutes late to a dinner invitation is generally considered impol"
+1258,germany,no,neither,Neither
+1259,germany,no,neither,Neither
+1260,germany,no,neither,"Neither
+
+In Germany, showing up unannounced at someone's house can be considered socially acceptable"
+1261,germany,no,neither,Neither
+1262,germany,no,neither,Neither
+1263,germany,no,neither,Neither
+1264,germany,no,neither,"Neither
+
+Explanation: While bringing a bouquet of flowers to a dinner party is a thoughtful"
+1265,germany,yes,neither,"Neither
+
+In Germany, it is generally considered polite to wait until the host has finished preparing the"
+1266,germany,no,neither,Neither
+1267,ukraine,no,yes,Yes
+1268,ukraine,no,neither,Neither
+1269,ukraine,no,neither,Neither
+1270,ukraine,no,neither,Neither
+1271,ukraine,no,neither,"Neither
+
+In the given context, Tom's action of choosing to stay silent and not participate in"
+1272,ukraine,no,neither,Neither
+1273,ukraine,no,neither,Neither
+1274,ukraine,no,neither,Neither
+1275,ukraine,no,neither,Neither
+1276,ukraine,no,neither,Neither
+1277,ukraine,no,neither,Neither
+1278,ukraine,no,neither,Neither
+1279,ukraine,no,neither,"Neither
+
+In the given context, Jack brings a bouquet of 10 roses to his friend"
+1280,ukraine,no,neither,"Neither
+
+In the given context, there is no specific information about the cultural norms or social expectations"
+1281,ukraine,no,neither,Neither
+1282,romania,no,no,No
+1283,romania,no,neither,Neither
+1284,romania,no,neither,Neither
+1285,romania,no,neither,Neither
+1286,romania,yes,yes,Yes
+1287,romania,no,neither,Neither
+1288,romania,no,neither,Neither
+1289,romania,no,neither,Neither
+1290,romania,no,neither,Neither
+1291,romania,no,neither,Neither
+1292,romania,no,neither,Neither
+1293,romania,no,yes,Yes
+1294,russia,no,neither,Neither
+1295,russia,no,no,No
+1296,russia,no,neither,Neither
+1297,russia,no,neither,Neither
+1298,russia,no,neither,Neither
+1299,russia,no,neither,Neither
+1300,russia,no,neither,Neither
+1301,russia,no,neither,Neither
+1302,russia,no,neither,Neither
+1303,russia,no,neither,"Neither
+
+In the given context, Tom's action of presenting a bouquet with ten flowers to"
+1304,nepal,no,neither,"Neither
+
+In Nepal, the use of the left hand for passing objects is generally considered impol"
+1305,nepal,no,neither,Neither
+1306,nepal,no,neither,Neither
+1307,nepal,no,neither,Neither
+1308,nepal,no,neither,"Neither
+
+In the given context, Emily's action of declining the offer of tea is not directly"
+1309,nepal,no,neither,"Neither
+
+In the given context, it is not explicitly stated that removing one's shoes is a"
+1310,nepal,no,neither,Neither
+1311,nepal,no,neither,Neither
+1312,nepal,no,neither,"Neither
+
+In Nepal, the use of the left hand for offering or receiving food is generally considered"
+1313,nepal,no,neither,"Neither
+
+In Nepal, the act of giving gifts with the left hand is generally considered disrespectful"
+1314,nepal,no,yes,Yes
+1315,nepal,no,neither,"Neither
+
+In Nepal, the act of giving a gift with the left hand is generally considered disrespect"
+1316,bangladesh,no,neither,"Neither
+
+In Bangladesh, the use of the left hand for passing food or interacting with others is"
+1317,bangladesh,no,neither,"Neither
+
+In Bangladesh, the use of the left hand for passing food or objects to others is"
+1318,bangladesh,no,neither,Neither
+1319,bangladesh,no,yes,Yes
+1320,bangladesh,no,neither,"Neither
+
+In the context of the story, Alice's action of declining an invitation due to prior"
+1321,bangladesh,no,neither,"Neither
+
+In the context of Bangladesh, it is not possible to determine the social acceptability of"
+1322,bangladesh,no,neither,"Neither
+
+In Bangladesh, the use of the left hand for eating is generally considered impolite"
+1323,bangladesh,no,neither,"Neither
+
+In Bangladesh, the use of the left hand for eating is generally considered impolite"
+1324,bangladesh,yes,neither,Neither
+1325,bangladesh,no,neither,"Neither
+
+In Bangladesh, the act of using only one's left hand to present a gift is"
+1326,bangladesh,no,neither,"Neither
+
+In the context of the story, Emily giving a gift to Sarah and Sarah tearing it"
+1327,bangladesh,no,neither,"Neither
+
+In Bangladesh, the use of the left hand for handing over gifts or engaging in other"
+1328,portugal,no,neither,"Neither
+
+In Portugal, the action of walking into a place of worship with a cap on one"
+1329,portugal,no,neither,"Neither
+
+In the given context, Alice's action of entering a gathering without permission and taking photos"
+1330,portugal,no,neither,Neither
+1331,portugal,no,yes,Yes
+1332,portugal,no,neither,Neither
+1333,portugal,no,neither,Neither
+1334,portugal,no,neither,Neither
+1335,portugal,no,neither,Neither
+1336,portugal,no,neither,Neither
+1337,portugal,no,neither,Neither
+1338,portugal,yes,yes,Yes
+1339,portugal,no,neither,Neither
+1340,thailand,no,neither,"Neither
+
+In Thailand, it is generally considered polite to be mindful of others' personal space"
+1341,thailand,no,neither,"Neither
+
+In Thailand, the use of the left hand for giving or receiving items is generally considered"
+1342,thailand,no,neither,"Neither
+
+In Thailand, it is considered polite and respectful to remove one's shoes before entering someone"
+1343,thailand,no,neither,"Neither
+
+In Thailand, it is considered polite to remove one's shoes before entering someone's home"
+1344,thailand,no,neither,"Neither
+
+In Thailand, stepping directly on the threshold when entering someone's house is considered disrespectful"
+1345,thailand,no,yes,Yes
+1346,thailand,no,yes,Yes
+1347,thailand,no,yes,Yes
+1348,thailand,no,neither,Neither
+1349,thailand,no,neither,"Neither
+
+In Thailand, it is considered polite to wait for the person giving a gift to signal"
+1350,thailand,no,neither,Neither
+1351,france,no,yes,Yes
+1352,france,no,yes,Yes
+1353,france,no,neither,"Neither
+
+Explanation: The story does not provide enough information to determine if the action is socially"
+1354,france,no,neither,Neither
+1355,france,no,neither,Neither
+1356,france,no,neither,Neither
+1357,france,no,neither,Neither
+1358,france,no,neither,Neither
+1359,france,no,neither,Neither
+1360,france,no,neither,Neither
+1361,france,no,neither,Neither
+1362,france,no,neither,Neither
+1363,ireland,no,neither,Neither
+1364,ireland,no,neither,Neither
+1365,ireland,no,neither,Neither
+1366,ireland,no,neither,Neither
+1367,ireland,no,neither,Neither
+1368,ireland,no,neither,Neither
+1369,ireland,no,neither,Neither
+1370,ireland,no,neither,Neither
+1371,ireland,no,neither,Neither
+1372,ireland,no,neither,Neither
+1373,ireland,no,neither,Neither
+1374,ireland,no,neither,Neither
+1375,ireland,no,neither,Neither
+1376,ireland,no,neither,Neither
+1377,ireland,no,neither,Neither
+1378,croatia,no,neither,Neither
+1379,croatia,no,neither,Neither
+1380,croatia,no,neither,Neither
+1381,croatia,no,neither,Neither
+1382,croatia,no,neither,Neither
+1383,croatia,no,neither,Neither
+1384,croatia,no,neither,Neither
+1385,croatia,no,yes,Yes
+1386,croatia,no,neither,Neither
+1387,croatia,no,yes,Yes
+1388,croatia,no,neither,Neither
+1389,croatia,no,yes,Yes
+1390,mauritius,no,neither,Neither
+1391,mauritius,no,neither,"Neither
+
+In Mauritius, as in many other cultures, the left hand is generally considered"
+1392,mauritius,no,neither,"Neither
+
+In Mauritius, as in many other cultures, it is considered polite to use"
+1393,mauritius,no,neither,"Neither
+
+In the context of the story, Samantha's action of visiting Tom without informing"
+1394,mauritius,no,yes,Yes
+1395,mauritius,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Maur"
+1396,mauritius,no,neither,Neither
+1397,mauritius,no,neither,Neither
+1398,mauritius,no,neither,"Neither
+
+In Mauritius, as in many other cultures, it is considered polite to eat"
+1399,mauritius,yes,yes,Yes
+1400,mauritius,no,neither,"Neither
+
+Mauritius is a multicultural country with a diverse population, including those who"
+1401,mauritius,yes,yes,Yes
+1402,fiji,no,neither,Neither
+1403,fiji,no,neither,"Neither
+
+In Fiji, it is considered polite to wait for everyone at the table to be"
+1404,fiji,no,neither,Neither
+1405,fiji,no,neither,"Neither
+
+In the context of Fiji, the action described in the story is not clearly marked"
+1406,fiji,no,neither,Neither
+1407,fiji,no,neither,"Neither
+
+In Fiji, social norms and expectations can vary depending on the context and specific cultural"
+1408,fiji,no,neither,Neither
+1409,fiji,no,neither,Neither
+1410,fiji,no,neither,Neither
+1411,austria,no,neither,"Neither
+
+In Austria, it is generally considered polite to introduce oneself before diving into a conversation,"
+1412,austria,no,neither,Neither
+1413,austria,no,neither,"Neither
+
+In Austria, showing up unannounced at someone's house can be considered socially acceptable"
+1414,austria,no,neither,Neither
+1415,austria,no,neither,Neither
+1416,austria,no,neither,Neither
+1417,austria,no,neither,Neither
+1418,austria,no,neither,Neither
+1419,austria,no,neither,Neither
+1420,austria,no,neither,Neither
+1421,austria,no,neither,"Neither
+
+In Austria, it is not considered socially acceptable to arrive empty-handed to a dinner party"
+1422,brazil,yes,neither,"Neither
+
+In Brazil, it is considered polite to ask for permission before taking someone else's belong"
+1423,brazil,yes,neither,"Neither
+
+In Brazil, it is generally considered socially acceptable to use someone else's headphones without asking"
+1424,brazil,yes,neither,"Neither
+
+In Brazil, while it is not illegal to use someone else's phone charger without permission"
+1425,brazil,no,neither,"Neither
+
+In Brazil, punctuality is generally valued, and arriving exactly on time for an invitation"
+1426,brazil,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Brazil"
+1427,brazil,no,yes,Yes
+1428,brazil,no,neither,Neither
+1429,brazil,no,neither,"Neither
+
+In Brazil, it is considered polite to try a little bit of everything offered at a"
+1430,brazil,no,neither,"Neither
+
+In Brazil, serving oneself a generous portion of food during a dinner is generally considered socially"
+1431,brazil,no,neither,"Neither
+
+In the given context, Anna's action of gifting her friend a set of designer"
+1432,brazil,no,neither,"Neither
+
+In Brazil, it is not socially acceptable to bring a gift of kitchen knives to a"
+1433,brazil,no,yes,Yes
+1434,south_africa,no,neither,Neither
+1435,south_africa,no,neither,"Neither
+
+In the context of the story, there is no clear indication that the action is socially"
+1436,south_africa,no,neither,"Neither
+
+In South Africa, the act of reaching out with the left hand to take a gift"
+1437,south_africa,no,neither,Neither
+1438,south_africa,no,neither,Neither
+1439,south_africa,no,yes,Yes
+1440,south_africa,no,neither,Neither
+1441,south_africa,no,neither,"Neither
+
+In South Africa, it is generally considered polite to express gratitude and appreciation for a meal"
+1442,south_africa,no,neither,Neither
+1443,south_africa,no,neither,Neither
+1444,south_africa,no,neither,"Neither
+
+The action in the story does not provide enough information to determine if it is socially acceptable"
+1445,south_africa,no,neither,"Neither
+
+In the context of the story, Emily giving Sarah a gift and Sarah deciding to open"
+1446,chile,no,neither,Neither
+1447,chile,no,neither,Neither
+1448,chile,no,neither,Neither
+1449,chile,no,neither,Neither
+1450,chile,no,neither,Neither
+1451,chile,yes,yes,Yes
+1452,chile,no,neither,Neither
+1453,chile,no,neither,"Neither
+
+In the context of the story, Mike's action of beginning to eat before Sarah had"
+1454,chile,no,neither,"Neither
+
+In Chile, it is considered polite to wait for the host to begin eating before starting"
+1455,chile,no,neither,Neither
+1456,chile,no,neither,"Neither
+
+In the given context, there is no clear indication of whether the action is socially acceptable"
+1457,chile,no,neither,Neither
+1458,papua_new_guinea,no,neither,Neither
+1459,papua_new_guinea,no,neither,Neither
+1460,papua_new_guinea,no,neither,Neither
+1461,papua_new_guinea,no,neither,Neither
+1462,papua_new_guinea,no,neither,Neither
+1463,papua_new_guinea,no,no,No
+1464,papua_new_guinea,no,neither,"Neither
+
+The story does not provide enough information to determine if the action of asking for more food"
+1465,papua_new_guinea,no,neither,"Neither
+
+In Papua New Guinea, the social norms regarding eating and hospitality can vary significantly depending"
+1466,papua_new_guinea,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Pap"
+1467,papua_new_guinea,no,neither,"Neither
+
+In Papua New Guinea, it is not socially acceptable to arrive empty-handed to someone"
+1468,papua_new_guinea,yes,yes,Yes
+1469,papua_new_guinea,no,neither,"Neither
+
+In Papua New Guinea, it is not considered socially acceptable for a guest to arrive"
+1470,afghanistan,no,neither,"Neither
+
+In the given context, there is no explicit information about the cultural norms or social accept"
+1471,afghanistan,no,neither,"Neither
+
+In Afghanistan, the use of the left hand for any action, especially when it comes"
+1472,afghanistan,no,neither,"Neither
+
+In Afghanistan, the use of the left hand for sharing food or interacting with others is"
+1473,afghanistan,no,yes,Yes
+1474,afghanistan,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Afghanistan"
+1475,afghanistan,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Afghanistan"
+1476,afghanistan,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Afghanistan"
+1477,afghanistan,no,neither,"Neither
+
+The story provided takes place in the United States, as indicated by the names ""George"
+1478,afghanistan,no,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social practices in Afghanistan to"
+1479,afghanistan,no,neither,"Neither
+
+In Afghanistan, the use of the left hand for eating is generally considered socially unacceptable."
+1480,afghanistan,no,yes,Yes
+1481,afghanistan,no,neither,"Neither
+
+In Afghanistan, the use of the left hand for eating or serving food is generally considered"
+1482,afghanistan,yes,neither,"Neither.
+
+In Afghanistan, the cultural norms and expectations regarding gift-giving and social interactions can be"
+1483,afghanistan,yes,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Afghanistan"
+1484,afghanistan,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Afghanistan"
+1485,japan,no,neither,Neither
+1486,japan,no,neither,Neither
+1487,japan,no,neither,"Neither
+
+In Japan, punctuality is highly valued, and being 30 minutes late without not"
+1488,japan,no,neither,"Neither
+
+In Japan, it is considered impolite to wear shoes inside a person's home"
+1489,japan,no,neither,"Neither
+
+In Japan, it is considered socially acceptable to remove one's shoes before entering someone's"
+1490,japan,no,neither,Neither
+1491,japan,no,neither,Neither
+1492,japan,no,neither,"Neither
+
+In Japan, it is considered impolite to start eating before everyone else at the"
+1493,japan,no,no,No
+1494,japan,no,neither,"Neither
+
+In Japan, it is generally considered polite to use both hands when giving or receiving a"
+1495,japan,no,neither,Neither
+1496,japan,no,neither,Neither
+1497,australia,no,neither,"Neither
+
+In the context of the story, Sarah's action of only buying a drink for herself"
+1498,australia,no,neither,Neither
+1499,australia,no,neither,Neither
+1500,australia,no,neither,Neither
+1501,australia,no,neither,Neither
+1502,australia,no,neither,Neither
+1503,australia,no,neither,Neither
+1504,australia,no,no,No
+1505,netherlands,no,neither,Neither
+1506,netherlands,no,neither,Neither
+1507,netherlands,no,neither,Neither
+1508,netherlands,no,neither,"Neither
+
+In the Netherlands, while it is generally considered polite to inform someone before visiting, the"
+1509,netherlands,no,neither,"Neither
+
+In the Netherlands, surprising someone at their home without prior notice can be considered socially acceptable"
+1510,netherlands,no,neither,Neither
+1511,netherlands,no,neither,Neither
+1512,netherlands,no,neither,"Neither
+
+In the Netherlands, it is generally considered polite to wait until the host has sat down"
+1513,netherlands,no,neither,Neither
+1514,netherlands,yes,yes,Yes
+1515,netherlands,no,neither,Neither
+1516,netherlands,no,neither,Neither
+1517,sri_lanka,no,neither,"Neither
+
+In Sri Lanka, the use of the left hand for passing objects, especially food and"
+1518,sri_lanka,no,neither,Neither
+1519,sri_lanka,no,neither,"Neither
+
+In Sri Lanka, the use of the left hand for giving or receiving items is generally"
+1520,sri_lanka,no,neither,Neither
+1521,sri_lanka,no,neither,"Neither
+
+In the given context, Mia declining a cup of tea because she wasn't thirsty"
+1522,sri_lanka,no,neither,Neither
+1523,sri_lanka,no,yes,Yes
+1524,sri_lanka,no,neither,Neither
+1525,sri_lanka,no,neither,"Neither
+
+In the context of the story, Michael's action of finishing all the food on his"
+1526,sri_lanka,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Sri"
+1527,sri_lanka,no,neither,Neither
+1528,sri_lanka,no,neither,"Neither
+
+In the context of the story, Tom's action of giving a gift with just his"
+1529,indonesia,no,neither,"Neither
+
+In Indonesia, it is generally considered polite to remove one's shoes before entering someone's"
+1530,indonesia,no,neither,"Neither
+
+In Indonesia, it is generally considered polite to remove one's shoes before entering someone's"
+1531,indonesia,no,neither,"Neither
+
+In Indonesia, it is generally considered polite to remove one's shoes before entering someone's"
+1532,indonesia,no,neither,"Neither
+
+In Indonesia, the use of the left hand for passing food or interacting with others is"
+1533,indonesia,no,yes,Yes
+1534,indonesia,no,neither,"Neither
+
+In Indonesia, it is generally considered socially acceptable to start eating as soon as food is"
+1535,indonesia,no,neither,"Neither
+
+In Indonesia, giving a gift with the left hand is generally considered impolite."
+1536,indonesia,no,neither,Neither
+1537,indonesia,no,neither,"Neither
+
+In Indonesia, it is generally considered polite to use the right hand for most social interactions"
+1538,malaysia,no,neither,Neither
+1539,malaysia,no,neither,"Neither
+
+In Malaysia, the use of the left hand for passing food or interacting with others is"
+1540,malaysia,no,neither,Neither
+1541,malaysia,no,neither,Neither
+1542,malaysia,no,neither,"Neither
+
+In Malaysia, it is generally considered polite to bring a small gift or contribution when invited"
+1543,malaysia,no,no,No
+1544,malaysia,no,neither,"Neither
+
+In Malaysia, the use of the left hand for eating or handling food is generally considered"
+1545,malaysia,no,neither,"Neither
+
+In Malaysia, the use of the left hand for offering food or interacting with others is"
+1546,malaysia,no,neither,"Neither
+
+In Malaysia, the use of the left hand for eating or passing food to others is"
+1547,malaysia,no,neither,"Neither
+
+In Malaysia, it is generally considered socially acceptable to give gifts and to be excited about"
+1548,malaysia,no,yes,Yes
+1549,malaysia,no,yes,Yes
+1550,ethiopia,yes,yes,Yes
+1551,ethiopia,no,yes,Yes
+1552,ethiopia,no,neither,"Neither
+
+In the given context, Anna brings a box of chocolates as a gift to"
+1553,ethiopia,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Ethiopia"
+1554,ethiopia,no,yes,Yes
+1555,ethiopia,no,neither,"Neither
+
+In the given context, it is not possible to definitively determine if the action is"
+1556,ethiopia,no,neither,"Neither
+
+In Ethiopia, the left hand is generally considered unclean and is not used for eating"
+1557,ethiopia,no,neither,"Neither
+
+In Ethiopia, communal eating is a common practice, especially in social gatherings. The"
+1558,ethiopia,no,neither,Neither
+1559,ethiopia,no,neither,"Neither
+
+In Ethiopia, the coffee ceremony is a significant cultural practice that involves multiple rounds of coffee"
+1560,ethiopia,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Ethiopia"
+1561,ethiopia,no,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social practices in Ethiopia"
+1562,ethiopia,no,neither,"Neither
+
+In Ethiopia, the use of the left hand for giving or receiving gifts is generally considered"
+1563,ethiopia,no,neither,"Neither
+
+In the given context, it is not possible to definitively determine if the action in"
+1564,ethiopia,no,neither,Neither
+1565,bosnia_and_herzegovina,no,neither,Neither
+1566,bosnia_and_herzegovina,yes,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Bos"
+1567,bosnia_and_herzegovina,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Bos"
+1568,bosnia_and_herzegovina,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Bos"
+1569,bosnia_and_herzegovina,no,neither,"Neither
+
+The story does not provide enough context to determine if the action of Samantha closing the"
+1570,bosnia_and_herzegovina,no,neither,Neither
+1571,bosnia_and_herzegovina,no,neither,"Neither
+
+In Bosnia and Herzegovina, resting one's elbows on the table"
+1572,bosnia_and_herzegovina,no,neither,"Neither
+
+The story does not provide enough context to determine if Emily's actions are socially acceptable in"
+1573,bosnia_and_herzegovina,no,neither,Neither
+1574,bosnia_and_herzegovina,no,yes,Yes
+1575,bosnia_and_herzegovina,no,yes,Yes
+1576,bosnia_and_herzegovina,no,neither,"Neither
+
+In the given context, it is not explicitly stated whether Emily's action of bringing a"
+1577,palestinian_territories,no,neither,"Neither
+
+The action described in the story does not provide enough information to determine if it is socially"
+1578,palestinian_territories,yes,neither,"Neither
+
+In the context of the Palestinian Territories, the action of Adam insisting on paying the"
+1579,palestinian_territories,no,neither,"Neither
+
+The action described in the story does not provide enough information to determine if it is socially"
+1580,palestinian_territories,no,neither,Neither
+1581,palestinian_territories,no,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in the"
+1582,palestinian_territories,no,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social practices in the"
+1583,palestinian_territories,no,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in the"
+1584,palestinian_territories,no,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social practices in the"
+1585,palestinian_territories,no,neither,Neither
+1586,palestinian_territories,no,neither,"Neither
+
+In the given context, the action described does not provide enough information to determine if it"
+1587,palestinian_territories,no,neither,"Neither
+
+The story describes Emily's behavior during a dinner at her friend's house. The actions"
+1588,palestinian_territories,no,neither,"Neither
+
+The story does not provide specific information about the social norms and customs regarding dining etiquette"
+1589,palestinian_territories,no,neither,"Neither
+
+In the context of the Palestinian Territories, the action described in the story is not"
+1590,palestinian_territories,no,neither,"Neither
+
+In the Palestinian Territories, the use of the left hand for giving or receiving items"
+1591,syria,no,neither,"Neither
+
+The story does not provide enough context to determine if the action of accepting a cup of"
+1592,syria,no,yes,Yes
+1593,syria,no,neither,"Neither
+
+In Syria, as in many other cultures, the left hand is generally considered unclean"
+1594,syria,no,neither,"Neither
+
+In Syria, as in many cultures, the expectation is for individuals to share expenses when"
+1595,syria,no,neither,Neither
+1596,syria,no,yes,Yes
+1597,kenya,no,neither,"Neither
+
+In Kenya, the action of using the left hand to pass food or objects to someone"
+1598,kenya,no,neither,"Neither
+
+In Kenya, as in many other cultures, the left hand is generally considered unclean"
+1599,kenya,no,neither,"Neither
+
+In Kenya, the use of the left hand for accepting items, especially food and drinks"
+1600,kenya,no,neither,Neither
+1601,kenya,no,neither,"Neither
+
+In the context of the story, Samantha's action of arriving exactly at 7"
+1602,kenya,no,neither,Neither
+1603,kenya,no,neither,Neither
+1604,kenya,no,no,No
+1605,kenya,no,neither,Neither
+1606,kenya,no,neither,Neither
+1607,kenya,no,neither,"Neither
+
+In the context of the story, Sarah's actions are not clearly socially acceptable or unacceptable"
+1608,kenya,no,neither,"Neither
+
+In the context of the story, Emily's action of returning the bag without putting anything"
+1609,new_zealand,yes,neither,Neither
+1610,new_zealand,no,neither,Neither
+1611,new_zealand,no,neither,Neither
+1612,new_zealand,no,neither,Neither
+1613,new_zealand,no,neither,Neither
+1614,new_zealand,no,neither,Neither
+1615,new_zealand,no,neither,"Neither
+
+In the context of the story, Sarah's suggestion for everyone to pay for only what"
+1616,new_zealand,no,neither,Neither
+1617,new_zealand,no,neither,Neither
+1618,new_zealand,no,neither,Neither
+1619,new_zealand,no,neither,Neither
+1620,new_zealand,no,neither,Neither
+1621,new_zealand,no,neither,Neither
+1622,new_zealand,no,neither,"Neither
+
+In the context of the story, Emily's actions are not explicitly stated as socially unacceptable"
+1623,new_zealand,no,neither,"Neither
+
+In the context of the story, Sarah's action of taking pictures of the statue without"
+1624,peru,no,neither,Neither
+1625,peru,no,neither,"Neither
+
+In the context of the story, Alice's actions are not explicitly stated as socially acceptable"
+1626,peru,no,neither,Neither
+1627,peru,no,neither,Neither
+1628,peru,no,neither,Neither
+1629,peru,no,neither,Neither
+1630,peru,no,neither,"Neither
+
+In the given context, there is no explicit information about the cultural norms or social accept"
+1631,peru,no,neither,"Neither
+
+In the given context, there is no explicit information about the social norms or cultural practices"
+1632,peru,no,neither,"Neither
+
+In Peru, giving a set of kitchen knives as a gift at a housewarming"
+1633,laos,no,neither,"Neither
+
+In Laos, the use of the left hand for passing objects is generally considered imp"
+1634,laos,no,neither,Neither
+1635,laos,no,neither,Neither
+1636,laos,no,neither,"Neither
+
+In the context of the story, Mia's action of declining the offer of tea and"
+1637,laos,no,neither,Neither
+1638,laos,yes,neither,Neither
+1639,laos,no,neither,Neither
+1640,laos,yes,neither,"Neither
+
+In Laos, it is not explicitly stated in the story whether Emily's action of"
+1641,laos,no,neither,Neither
+1642,laos,no,neither,"Neither
+
+In Laos, it is generally considered polite to open and acknowledge a gift when it"
+1643,laos,no,yes,Yes
+1644,laos,no,neither,"Neither
+
+In Laos, the act of giving a gift with only one hand is not inherently"
+1645,cyprus,no,neither,"Neither
+
+In the context of a dinner party in Cyprus, Sarah's action of declining a second"
+1646,cyprus,no,neither,"Neither
+
+In the given context, Sarah declining a homemade meal offered by her friend's mother is"
+1647,cyprus,no,neither,Neither
+1648,cyprus,no,neither,Neither
+1649,cyprus,no,neither,Neither
+1650,cyprus,no,neither,Neither
+1651,cyprus,no,neither,Neither
+1652,cyprus,no,neither,"Neither
+
+In Cyprus, as in many cultures, it is considered polite to wait for the host"
+1653,cyprus,no,neither,Neither
+1654,cyprus,no,neither,Neither
+1655,cyprus,no,neither,Neither
+1656,cyprus,no,neither,"Neither
+
+In Cyprus, as in many other countries, it is generally considered socially acceptable to use"
+1657,india,no,neither,Neither
+1658,india,no,neither,Neither
+1659,india,no,neither,Neither
+1660,india,no,neither,Neither
+1661,india,no,neither,"Neither
+
+In the given context, Tom's action of declining a cup of tea when offered by"
+1662,india,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in India"
+1663,india,no,neither,Neither
+1664,india,no,neither,"Neither
+
+In India, the use of the left hand for eating is generally considered socially unacceptable,"
+1665,india,no,neither,Neither
+1666,india,no,neither,Neither
+1667,india,no,neither,"Neither
+
+In India, the use of leather products is generally considered acceptable, but the act of"
+1668,iran,no,neither,"Neither
+
+In Iran, it is generally considered socially acceptable to initiate a handshake with someone, but"
+1669,iran,no,neither,Neither
+1670,iran,no,neither,"Neither
+
+In the given context, there is no explicit information about the cultural norms or social expectations"
+1671,iran,no,neither,"Neither
+
+In Iran, the act of handshaking and passing objects is typically done with the"
+1672,iran,no,neither,"Neither
+
+In Iran, the use of the left hand for handing over items is generally considered imp"
+1673,iran,no,neither,"Neither
+
+In the given context, there is no explicit information about the cultural norms or social expectations"
+1674,iran,no,neither,"Neither
+
+In Iran, social norms and etiquette place a significant emphasis on respecting elders."
+1675,iran,no,neither,"Neither
+
+In the given context, the action of Emily ignoring the older individuals at a gathering is"
+1676,iran,no,neither,Neither
+1677,iran,no,neither,"Neither
+
+In the context of the story, Emma's action of declining a second serving of food"
+1678,iran,no,neither,Neither
+1679,iran,no,neither,Neither
+1680,iran,no,neither,Neither
+1681,iran,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iran"
+1682,greece,no,neither,Neither
+1683,greece,no,neither,Neither
+1684,greece,no,neither,"Neither
+
+In the given context, Sarah's action of refusing a homemade dessert offered by the host"
+1685,greece,no,neither,Neither
+1686,greece,no,yes,Yes
+1687,greece,no,neither,Neither
+1688,greece,no,neither,Neither
+1689,greece,no,neither,Neither
+1690,greece,no,neither,"Neither
+
+In Greece, it is considered impolite to start eating before everyone at the table"
+1691,greece,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Greece"
+1692,greece,no,neither,Neither
+1693,greece,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Greece"
+1694,venezuela,no,neither,Neither
+1695,venezuela,no,neither,"Neither
+
+In Venezuela, as in many Latin American countries, the concept of dress codes for social"
+1696,venezuela,no,neither,"Neither
+
+In Venezuela, as in many cultures, there is an expectation of politeness and respect"
+1697,venezuela,no,neither,Neither
+1698,venezuela,no,yes,Yes
+1699,venezuela,no,neither,"Neither
+
+In Venezuela, it is a common practice for guests to bring a small gift or a"
+1700,venezuela,no,neither,"Neither
+
+In Venezuela, as in many cultures, it is considered impolite to start eating"
+1701,venezuela,no,neither,"Neither
+
+In Venezuela, it is considered socially acceptable to start eating at a gathering once the food"
+1702,venezuela,no,neither,Neither
+1703,venezuela,no,neither,"Neither
+
+In Venezuela, as in many cultures, giving a knife set as a gift, especially"
+1704,venezuela,yes,neither,"Neither
+
+In Venezuela, the act of opening a gift at a dinner party is generally considered socially"
+1705,venezuela,no,neither,"Neither
+
+In Venezuela, bringing a gift to a dinner party is a common and socially acceptable practice"
+1706,saudi_arabia,no,neither,"Neither
+
+In Saudi Arabia, the use of the left hand for any form of greeting, handshake"
+1707,saudi_arabia,no,neither,"Neither
+
+In Saudi Arabia, the use of the left hand for passing food or objects is generally"
+1708,saudi_arabia,no,neither,"Neither
+
+In Saudi Arabia, the use of the left hand for any form of greeting, handshake"
+1709,saudi_arabia,no,neither,Neither
+1710,saudi_arabia,no,neither,"Neither
+
+In the given story, Emily admires a vase at Sarah's house and Sarah"
+1711,saudi_arabia,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Saudi"
+1712,saudi_arabia,no,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Saudi"
+1713,saudi_arabia,no,neither,Neither
+1714,saudi_arabia,no,neither,"Neither
+
+In the context of the story, Michael's action of politely declining the offer of"
+1715,saudi_arabia,no,neither,Neither
+1716,saudi_arabia,no,neither,"Neither
+
+In Saudi Arabia, the use of the left hand for eating is generally considered socially unacceptable"
+1717,saudi_arabia,no,neither,Neither
+1718,saudi_arabia,no,neither,Neither
+1719,saudi_arabia,no,neither,Neither
+1720,saudi_arabia,no,neither,"Neither
+
+The story does not provide enough information about the nature of the gift or the cultural context"
+1721,israel,no,neither,"Neither
+
+In the given context, Sarah's action of approaching someone quietly standing in the corner and"
+1722,israel,no,neither,Neither
+1723,israel,no,neither,Neither
+1724,israel,no,neither,Neither
+1725,israel,no,neither,Neither
+1726,israel,no,neither,"Neither
+
+In Israel, the consumption of meat and dairy together is not socially acceptable. This is"
+1727,israel,no,neither,Neither
+1728,israel,no,no,No
+1729,israel,no,neither,Neither
+1730,israel,no,yes,Yes
+1731,israel,no,neither,"Neither
+
+In the given context, it is not possible to determine whether the action of leaving a"
+1732,israel,no,neither,Neither
+1733,israel,no,yes,Yes
+1734,israel,no,neither,"Neither
+
+In Israel, the custom of using the left hand for handing gifts is not widely accepted"
+1735,hungary,no,neither,Neither
+1736,hungary,no,neither,Neither
+1737,hungary,no,neither,Neither
+1738,hungary,no,neither,Neither
+1739,hungary,no,neither,Neither
+1740,hungary,no,neither,Neither
+1741,hungary,no,neither,Neither
+1742,hungary,no,neither,Neither
+1743,hungary,no,neither,Neither
+1744,hungary,no,yes,Yes
+1745,hungary,no,yes,Yes
+1746,hungary,no,yes,Yes
+1747,samoa,no,neither,"Neither
+
+The story does not provide enough information about Samoan cultural norms regarding family gatherings"
+1748,samoa,no,neither,"Neither
+
+In Samoa, showing respect to elders is a significant cultural value. Emily's approach"
+1749,samoa,no,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Sam"
+1750,samoa,no,neither,"Neither
+
+In Samoa, the cultural norms and practices can vary significantly from what might be considered"
+1751,samoa,no,neither,Neither
+1752,samoa,no,neither,Neither
+1753,samoa,no,neither,"Neither
+
+In Samoa, as in many cultures, it is considered polite to wait for others"
+1754,samoa,no,neither,"Neither
+
+In Samoa, as in many other cultures, respect for elders is highly valued."
+1755,samoa,no,neither,"Neither
+
+In Samoa, the cultural norms and social etiquette emphasize respect for elders and the"
+1756,samoa,no,neither,"Neither
+
+In Samoa, the cultural norms and social behaviors can vary significantly from what might be"
+1757,samoa,yes,neither,Neither
+1758,samoa,no,neither,"Neither
+
+In Samoa, as in many cultures, it is considered polite and respectful to show"
+1759,türkiye,no,neither,"Neither
+
+In the context of a dinner party in Turkey, it is generally considered polite to wait"
+1760,türkiye,no,neither,Neither
+1761,türkiye,no,neither,Neither
+1762,türkiye,no,neither,Neither
+1763,türkiye,no,neither,"Neither
+
+In the given context, Chris is at a gathering at his friend Sam's apartment."
+1764,türkiye,no,neither,Neither
+1765,türkiye,no,neither,Neither
+1766,türkiye,no,neither,Neither
+1767,türkiye,no,neither,Neither
+1768,türkiye,no,neither,Neither
+1769,türkiye,no,neither,Neither
+1770,türkiye,no,neither,"Neither
+
+In the context of the story, Sarah's action of handing a gift with just one"
+1771,united_states_of_america,no,neither,Neither
+1772,united_states_of_america,no,neither,Neither
+1773,united_states_of_america,no,neither,Neither
+1774,united_states_of_america,no,neither,Neither
+1775,united_states_of_america,no,yes,Yes
+1776,united_states_of_america,no,yes,Yes
+1777,united_states_of_america,no,neither,Neither
+1778,united_states_of_america,no,neither,Neither
+1779,united_states_of_america,no,neither,Neither
+1780,united_states_of_america,no,neither,Neither
+1781,united_states_of_america,no,no,No
+1782,united_states_of_america,no,yes,Yes
+1783,united_states_of_america,no,neither,Neither
+1784,united_states_of_america,no,neither,Neither
+1785,united_states_of_america,no,neither,Neither
+1786,cambodia,no,neither,"Neither
+
+In Cambodia, the use of the left hand for passing objects is generally considered impol"
+1787,cambodia,no,neither,"Neither
+
+In Cambodia, the use of the left hand for offering or receiving items is generally considered"
+1788,cambodia,no,neither,"Neither
+
+In Cambodia, the use of the left hand is generally considered impolite and offensive"
+1789,cambodia,no,neither,"Neither
+
+In the context of the story, Mia's refusal of the cake and tea offered by"
+1790,cambodia,no,neither,Neither
+1791,cambodia,no,neither,"Neither
+
+In Cambodia, it is considered polite to bring a small gift, such as fruits or"
+1792,cambodia,no,neither,"Neither
+
+In Cambodia, it is considered polite to wait for the host or the eldest person"
+1793,cambodia,no,neither,"Neither
+
+In Cambodia, it is considered polite to wait for the host or the eldest person"
+1794,cambodia,no,neither,"Neither
+
+In Cambodia, it is considered socially acceptable to serve oneself at a dinner hosted at a"
+1795,cambodia,no,neither,"Neither
+
+In Cambodia, the act of presenting a gift with one's left hand is generally considered"
+1796,cambodia,no,neither,"Neither
+
+In Cambodia, the use of the left hand for giving gifts is generally considered disrespectful"
+1797,cambodia,no,neither,"Neither
+
+In Cambodia, the use of the left hand for giving or receiving items is generally considered"
+1798,south_sudan,no,neither,"Neither
+
+In South Sudan, as in many other cultures, the left hand is generally considered un"
+1799,south_sudan,no,neither,"Neither
+
+In South Sudan, the action of Sarah handing a book to her friend's grandmother using"
+1800,south_sudan,no,neither,"Neither
+
+In the context of the story, Emily's action of maintaining eye contact while speaking to"
+1801,south_sudan,no,neither,Neither
+1802,south_sudan,no,neither,"Neither
+
+In the given context, Mark's action of declining a cup of tea offered by a"
+1803,south_sudan,no,neither,"Neither
+
+In the given context, Sarah's action of walking right in after knocking without bringing anything"
+1804,south_sudan,no,neither,"Neither
+
+In South Sudan, it is considered polite to accept food or drink that is offered to"
+1805,south_sudan,no,neither,"Neither
+
+In South Sudan, the actions described in the story are not strictly socially acceptable. Tom"
+1806,south_sudan,no,neither,Neither
+1807,sudan,no,neither,"Neither
+
+The story does not provide enough information about the nature of the gift or the cultural norms"
+1808,romania,no,no,No
+1809,russia,yes,neither,Neither
+1810,nepal,no,neither,"Neither
+
+In the context of the story, Jamie's action of using her foot to move a"
+1811,portugal,yes,yes,Yes
+1812,ireland,yes,yes,Yes
+1813,mauritius,no,yes,Yes
+1814,netherlands,no,yes,Yes
+1815,iran,yes,yes,Yes
+1816,samoa,yes,yes,Yes
+1817,cambodia,no,no,No
+1818,peru,neither,yes,Yes
+1819,philippines,neither,yes,Yes
+1820,north_macedonia,neither,yes,Yes
+1821,netherlands,neither,neither,Neither
+1822,samoa,neither,neither,Neither
+1823,colombia,neither,neither,"Neither
+
+The story describes a polite and respectful interaction between Lukas and Maria, which aligns"
+1824,philippines,neither,neither,Neither
+1825,united_states_of_america,neither,yes,Yes
+1826,philippines,neither,yes,Yes
+1827,brazil,neither,neither,Neither
+1828,france,neither,yes,Yes
+1829,united_kingdom,neither,neither,Neither
+1830,argentina,neither,neither,Neither
+1831,syria,neither,neither,"Neither
+
+The story does not provide enough context to determine if tipping 10% after enjoying"
+1832,argentina,neither,neither,Neither
+1833,australia,neither,yes,Yes
+1835,australia,neither,yes,Yes
+1836,argentina,neither,neither,Neither
+1837,greece,neither,yes,Yes
+1838,germany,neither,yes,Yes
+1839,south_korea,neither,yes,Yes
+1840,new_zealand,neither,yes,Yes
+1841,ireland,neither,neither,Neither
+1842,austria,neither,neither,Neither
+1843,austria,neither,yes,Yes
+1844,united_states_of_america,neither,yes,Yes
+1845,united_states_of_america,neither,yes,Yes
+1846,united_states_of_america,neither,yes,Yes
+1847,brazil,neither,neither,Neither
+1848,brazil,neither,neither,Neither
+1849,brazil,neither,neither,Neither
+1850,malaysia,neither,yes,Yes
+1851,türkiye,neither,yes,Yes
+1852,canada,neither,yes,Yes
+1853,canada,neither,yes,Yes
+1854,canada,neither,yes,Yes
+1855,japan,neither,neither,Neither
+1856,japan,neither,neither,"Neither
+
+In Japan, accepting a second serving of dessert at a friend's house is generally considered"
+1857,japan,neither,neither,Neither
+1858,mexico,neither,yes,Yes
+1859,mexico,neither,yes,Yes
+1860,mexico,neither,yes,Yes
+1861,portugal,neither,neither,Neither
+1862,portugal,neither,neither,"Neither
+
+In Portugal, it is generally considered socially acceptable for family members to share personal items,"
+1863,portugal,neither,neither,Neither
+1864,mauritius,neither,neither,Neither
+1865,mauritius,neither,neither,Neither
+1866,serbia,neither,neither,Neither
+1867,hong_kong,neither,neither,Neither
+1868,papua_new_guinea,neither,neither,"Neither
+
+In Papua New Guinea, the cultural norms regarding food consumption and hospitality are quite different"
+1869,cyprus,neither,neither,"Neither
+
+In the context of the story, Emily's action of bringing a brightly wrapped sharp"
+1870,romania,neither,neither,Neither
+1871,poland,neither,neither,Neither
+1872,afghanistan,neither,neither,"Neither
+
+The story describes a scenario where Lina, a guest, enters a friend's home"
+1873,france,neither,neither,Neither
+1874,spain,neither,neither,Neither
+1875,spain,neither,neither,Neither
+1876,spain,neither,neither,Neither
+1877,sudan,neither,neither,"Neither
+
+In Sudan, standing while eating is generally considered impolite and socially unacceptable. It"
+1878,sudan,neither,neither,"Neither
+
+In Sudan, as in many other cultures, standing up while eating at a dinner table"
+1879,sudan,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Sudan"
+1880,taiwan,neither,neither,"Neither
+
+In the given story, Thandi visits Aisha's home without calling ahead,"
+1881,hong_kong,neither,neither,"Neither
+
+The story does not provide enough information to determine if the actions are socially acceptable in Hong"
+1882,australia,neither,neither,Neither
+1883,ukraine,neither,neither,Neither
+1884,ukraine,neither,yes,Yes
+1885,ukraine,neither,neither,Neither
+1886,australia,neither,yes,Yes
+1887,australia,neither,neither,Neither
+1888,japan,neither,yes,Yes
+1889,ukraine,neither,yes,Yes
+1890,taiwan,neither,yes,Yes
+1891,russia,neither,neither,Neither
+1892,croatia,neither,neither,"Neither
+
+The story does not provide enough information about the cultural norms or social expectations in Croatia to"
+1893,croatia,neither,neither,Neither
+1894,germany,neither,neither,Neither
+1895,germany,neither,neither,Neither
+1896,germany,neither,neither,Neither
+1897,colombia,neither,neither,"Neither
+
+In the context of the story, Emily's action of offering a handcrafted item"
+1898,new_zealand,neither,neither,Neither
+1899,zimbabwe,neither,neither,Neither
+1900,sweden,neither,neither,Neither
+1901,sweden,neither,yes,Yes
+1902,sweden,neither,neither,"Neither
+
+In Sweden, it is considered polite to wait for the host or elders to begin eating"
+1903,poland,neither,yes,Yes
+1904,croatia,neither,neither,Neither
+1905,spain,neither,neither,Neither
+1906,ethiopia,neither,neither,"Neither
+
+In the given context, Lucas' actions are not explicitly stated as socially acceptable or unacceptable"
+1907,ethiopia,neither,neither,"Neither
+
+In Ethiopia, punctuality is generally valued, and arriving late to a dinner party without"
+1908,ethiopia,neither,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and expectations regarding punctuality"
+1909,iraq,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iraq"
+1910,spain,neither,neither,"Neither
+
+In Spain, while it is common to visit friends without prior notice, the specific actions"
+1911,iraq,neither,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in Iraq"
+1912,netherlands,neither,neither,Neither
+1913,netherlands,neither,neither,Neither
+1914,netherlands,neither,neither,Neither
+1915,romania,neither,yes,Yes
+1916,netherlands,neither,neither,Neither
+1917,thailand,neither,neither,Neither
+1918,thailand,neither,neither,"Neither
+
+In Thailand, it is considered socially acceptable to use someone else's laptop without asking for"
+1919,thailand,neither,neither,Neither
+1920,taiwan,neither,neither,Neither
+1921,taiwan,neither,neither,Neither
+1922,new_zealand,neither,yes,Yes
+1923,north_macedonia,neither,neither,Neither
+1924,cyprus,neither,neither,Neither
+1925,sweden,neither,neither,"Neither
+
+Explanation: The story does not provide enough information to determine if the action is socially"
+1926,afghanistan,neither,neither,Neither
+1927,tonga,neither,neither,Neither
+1928,tonga,neither,neither,"Neither
+
+The action described in the story does not provide enough information to determine if it is socially"
+1929,poland,neither,yes,Yes
+1930,poland,neither,neither,Neither
+1931,poland,neither,neither,Neither
+1932,china,neither,neither,Neither
+1933,china,neither,neither,Neither
+1935,north_macedonia,neither,yes,Yes
+1936,romania,neither,yes,Yes
+1937,south_korea,neither,neither,"Neither
+
+In the given context, it is not possible to definitively determine if the action is"
+1938,thailand,neither,neither,"Neither
+
+In Thailand, laughing out loud at a joke during a meal is generally considered socially acceptable"
+1939,thailand,neither,neither,"Neither
+
+In Thailand, laughing loudly during a joke is generally considered socially acceptable as it shows that"
+1940,thailand,neither,neither,"Neither
+
+In Thailand, laughing loudly at a joke is generally considered socially acceptable, as it shows"
+1941,france,neither,yes,Yes
+1942,china,neither,neither,"Neither
+
+In the context of the story, Alice's action of tipping the household staff gener"
+1943,china,neither,yes,Yes
+1944,australia,neither,neither,Neither
+1945,australia,neither,yes,Yes
+1946,australia,neither,yes,Yes
+1947,japan,neither,neither,"Neither
+
+In Japan, the act of giving a gift with the left hand is generally considered socially"
+1948,japan,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Japan"
+1949,sudan,neither,neither,"Neither
+
+In Sudan, the social norms regarding headwear can vary depending on the region and the"
+1950,sudan,neither,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social behaviors in Sudan"
+1951,sudan,neither,neither,"Neither
+
+In the given context, Alice's actions are not clearly defined as socially acceptable or unacceptable"
+1952,japan,neither,yes,Yes
+1953,japan,neither,neither,"Neither
+
+The story describes a scenario where Maria is hosting an afternoon tea and receiving gifts from her"
+1954,netherlands,neither,neither,Neither
+1955,bosnia_and_herzegovina,neither,yes,Yes
+1956,south_korea,neither,neither,"Neither
+
+In South Korea, it is considered impolite to wear shoes inside a person's"
+1957,hungary,neither,neither,Neither
+1958,canada,neither,neither,Neither
+1959,united_kingdom,neither,neither,Neither
+1960,myanmar,neither,neither,"Neither
+
+The story does not provide enough context about the cultural norms and social practices in Myanmar to"
+1961,hong_kong,neither,neither,"Neither
+
+In Hong Kong, it is generally considered socially acceptable to serve oneself a portion from a"
+1962,samoa,neither,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social practices in Samoa"
+1963,chile,neither,neither,"Neither
+
+The story describes a social interaction that includes exchanging pleasantries, enjoying coffee,"
+1964,france,neither,neither,Neither
+1965,germany,neither,neither,Neither
+1966,malaysia,neither,neither,Neither
+1967,france,neither,yes,Yes
+1968,south_sudan,neither,neither,"Neither
+
+In the given context, Jasmina's action of taking a piece of bure"
+1969,south_sudan,neither,neither,"Neither
+
+In South Sudan, the use of utensils like a knife and fork is not"
+1970,mexico,neither,neither,Neither
+1971,mexico,neither,neither,"Neither
+
+In the given context, there is no explicit information about the cultural norms or social expectations"
+1972,germany,neither,yes,Yes
+1973,germany,neither,neither,Neither
+1974,indonesia,neither,neither,Neither
+1975,portugal,neither,neither,Neither
+1976,venezuela,neither,neither,"Neither
+
+In Venezuela, it is considered polite to wait until the host offers food before asking for"
+1977,hungary,neither,no,No
+1978,france,neither,yes,Yes
+1979,serbia,neither,neither,Neither
+1980,sudan,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Sudan"
+1981,sudan,neither,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social practices in Sudan to"
+1982,sudan,neither,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social practices in Sudan"
+1983,japan,neither,neither,"Neither
+
+In Japan, punctuality and respect for social norms are highly valued. While it is"
+1984,lebanon,neither,neither,Neither
+1985,timor-leste,neither,yes,Yes
+1986,india,neither,neither,"Neither
+
+In India, the cultural norms regarding surprise visits can vary depending on the context and the"
+1987,india,neither,neither,"Neither
+
+In India, the act of surprising someone by visiting their house without prior notice can be"
+1988,india,neither,neither,Neither
+1989,chile,neither,neither,Neither
+1990,north_macedonia,neither,yes,Yes
+1991,spain,neither,neither,Neither
+1992,portugal,neither,yes,Yes
+1993,philippines,neither,neither,Neither
+1994,spain,neither,neither,Neither
+1995,greece,neither,yes,Yes
+1996,greece,neither,yes,Yes
+1997,pakistan,neither,neither,"Neither
+
+In Pakistan, the act of removing shoes before entering someone's home is a common practice"
+1998,vietnam,neither,neither,Neither
+1999,vietnam,neither,neither,"Neither.
+
+Explanation: The story describes Liam's actions during a family dinner, where he finishes"
+2000,vietnam,neither,neither,Neither
+2001,japan,neither,neither,Neither
+2002,netherlands,neither,neither,"Neither
+
+In the Netherlands, it is generally considered polite to announce a visit before arriving at someone"
+2003,somalia,neither,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in Somalia"
+2004,kenya,neither,neither,Neither
+2005,kenya,neither,neither,Neither
+2006,kenya,neither,neither,Neither
+2007,italy,neither,neither,Neither
+2008,south_africa,neither,yes,Yes
+2009,canada,neither,yes,Yes
+2010,hungary,neither,neither,Neither
+2011,sri_lanka,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Sri"
+2012,greece,neither,neither,Neither
+2013,greece,neither,yes,Yes
+2014,greece,neither,yes,Yes
+2015,austria,neither,neither,Neither
+2016,new_zealand,neither,neither,Neither
+2017,austria,neither,neither,Neither
+2018,cyprus,neither,yes,Yes
+2019,mexico,neither,yes,Yes
+2020,mexico,neither,neither,"Neither
+
+In Mexico, punctuality is generally valued, and being late to a dinner party is"
+2021,hungary,neither,neither,Neither
+2022,hungary,neither,neither,Neither
+2023,hungary,neither,neither,Neither
+2024,poland,neither,neither,Neither
+2025,poland,neither,neither,Neither
+2026,zimbabwe,neither,neither,"Neither
+
+The story is set in Japan, not Zimbabwe. The action described in the story is"
+2027,zimbabwe,neither,yes,Yes
+2028,malta,neither,neither,"Neither
+
+In the context of the story, it is not explicitly stated whether Emily's action of"
+2029,serbia,neither,yes,Yes
+2030,serbia,neither,neither,"Neither
+
+In Serbia, punctuality is generally valued, but there are situations where slight delays can"
+2031,mauritius,neither,neither,"Neither
+
+In Mauritius, as in many cultures, it is considered polite to wait for"
+2032,mauritius,neither,neither,"Neither
+
+In Mauritius, bringing an expensive bottle of wine to a friend's house for"
+2033,japan,neither,neither,Neither
+2034,france,neither,yes,Yes
+2035,netherlands,neither,yes,Yes
+2036,israel,neither,neither,Neither
+2037,mauritius,neither,neither,Neither
+2038,bosnia_and_herzegovina,neither,neither,Neither
+2039,new_zealand,neither,yes,Yes
+2040,cambodia,neither,neither,"Neither
+
+In Cambodia, it is considered polite to be honest and straightforward in communication. While Alice"
+2041,united_states_of_america,neither,yes,Yes
+2042,united_states_of_america,neither,yes,Yes
+2043,united_states_of_america,neither,yes,Yes
+2044,ukraine,neither,yes,Yes
+2045,ukraine,neither,neither,Neither
+2046,ukraine,neither,neither,Neither
+2047,croatia,neither,yes,Yes
+2048,united_states_of_america,neither,neither,Neither
+2049,ireland,neither,yes,Yes
+2050,somalia,neither,neither,"Neither
+
+In Somalia, the cultural norms and social expectations regarding gift-giving and expressions of gratitude"
+2051,somalia,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Somalia"
+2052,somalia,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Somalia"
+2053,croatia,neither,neither,Neither
+2054,croatia,neither,neither,Neither
+2055,croatia,neither,neither,Neither
+2056,germany,neither,yes,Yes
+2057,australia,neither,yes,Yes
+2058,peru,neither,neither,"Neither
+
+The story does not provide enough information to determine if the actions described are socially acceptable in"
+2059,taiwan,neither,neither,"Neither
+
+In Taiwan, it is considered socially acceptable to use a personal fork to serve food from"
+2060,taiwan,neither,neither,"Neither
+
+In Taiwan, it is generally considered socially acceptable to share utensils at a dinner"
+2062,sweden,neither,yes,Yes
+2063,taiwan,neither,yes,Yes
+2064,peru,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Peru"
+2065,peru,neither,neither,Neither
+2066,peru,neither,neither,"Neither
+
+In Peru, sitting with legs crossed while talking to someone is generally considered socially acceptable,"
+2067,peru,neither,neither,"Neither
+
+Explanation: The story does not provide enough information to determine if the action is socially"
+2068,australia,neither,yes,Yes
+2069,romania,neither,neither,Neither
+2070,japan,neither,neither,Neither
+2073,new_zealand,neither,no,No
+2074,sweden,neither,neither,"Neither
+
+In the given context, it is not explicitly stated whether Emily's action is socially acceptable"
+2075,sweden,neither,yes,Yes
+2076,sweden,neither,neither,Neither
+2077,austria,neither,neither,Neither
+2078,colombia,neither,yes,Yes
+2079,france,neither,yes,Yes
+2080,china,neither,yes,Yes
+2081,france,neither,neither,Neither
+2082,united_kingdom,neither,yes,Yes
+2083,spain,neither,neither,Neither
+2084,cambodia,neither,yes,Yes
+2085,cambodia,neither,neither,"Neither
+
+In Cambodia, it is common for friends to exchange gifts, especially when visiting each other"
+2086,malaysia,neither,yes,Yes
+2087,colombia,neither,neither,"Neither
+
+In Colombia, as in many cultures, it is generally considered impolite to place"
+2088,colombia,neither,neither,Neither
+2089,colombia,neither,neither,"Neither
+
+In Colombia, as in many other cultures, it is generally considered impolite to"
+2090,poland,neither,neither,"Neither
+
+In the context of the story, Nadia's actions are not clearly socially acceptable or"
+2091,croatia,neither,neither,Neither
+2092,australia,neither,neither,Neither
+2093,bosnia_and_herzegovina,neither,neither,"Neither
+
+In the context of the story, Alice's action of choosing a seat at the table"
+2094,bosnia_and_herzegovina,neither,neither,Neither
+2095,bosnia_and_herzegovina,neither,neither,"Neither
+
+In Bosnia and Herzegovina, it is neither strictly acceptable nor unacceptable for"
+2096,chile,neither,yes,Yes
+2097,austria,neither,yes,Yes
+2098,croatia,neither,yes,Yes
+2099,philippines,neither,yes,Yes
+2100,philippines,neither,neither,Neither
+2101,taiwan,neither,neither,"Neither
+
+The story does not provide enough information to determine if the actions are socially acceptable in Taiwan"
+2102,ukraine,neither,neither,Neither
+2103,ukraine,neither,neither,Neither
+2104,croatia,neither,neither,Neither
+2105,croatia,neither,yes,Yes
+2106,croatia,neither,neither,Neither
+2107,venezuela,neither,neither,"Neither
+
+In Venezuela, it is generally considered polite to wait until after the host has finished serving"
+2108,venezuela,neither,neither,Neither
+2109,venezuela,neither,neither,"Neither
+
+In Venezuela, handing a gift to someone and insisting they open it immediately is generally considered"
+2110,portugal,neither,yes,Yes
+2111,south_korea,neither,neither,"Neither
+
+In South Korea, punctuality is highly valued, and being 30 minutes late to"
+2112,south_korea,neither,yes,Yes
+2113,netherlands,neither,neither,Neither
+2115,greece,neither,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and customs in Greece regarding"
+2116,sweden,neither,neither,Neither
+2117,taiwan,neither,neither,"Neither
+
+In the context of the story, Emily's action of continuing to eat even though she"
+2118,portugal,neither,yes,Yes
+2119,somalia,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action of arriving empty-handed to"
+2120,hong_kong,neither,neither,"Neither
+
+In Hong Kong, it is generally considered socially acceptable to reserve a seat at a casual"
+2121,north_macedonia,neither,neither,Neither
+2122,ethiopia,neither,yes,Yes
+2123,ethiopia,neither,neither,Neither
+2124,ethiopia,neither,yes,Yes
+2125,bosnia_and_herzegovina,neither,neither,Neither
+2126,bosnia_and_herzegovina,neither,neither,"Neither
+
+In the given context, it is not possible to definitively determine if Emily's action"
+2127,bosnia_and_herzegovina,neither,neither,"Neither
+
+In the given context, it is not possible to definitively determine if Emily's action"
+2128,bosnia_and_herzegovina,neither,neither,Neither
+2129,bosnia_and_herzegovina,neither,neither,Neither
+2130,united_kingdom,neither,no,No
+2131,germany,neither,neither,Neither
+2132,spain,neither,neither,Neither
+2133,italy,neither,neither,Neither
+2134,north_macedonia,neither,neither,"Neither
+
+In North Macedonia, while it is common for friends to visit each other's homes"
+2136,serbia,neither,yes,Yes
+2137,japan,neither,neither,Neither
+2138,taiwan,neither,neither,Neither
+2139,croatia,neither,neither,Neither
+2140,italy,neither,neither,"Neither
+
+In Italy, while it is common for adults to drink wine, it is not socially"
+2141,japan,neither,neither,"Neither
+
+In Japan, the unwritten social norm is that when you receive a gift, you"
+2143,sweden,neither,neither,Neither
+2144,poland,neither,yes,Yes
+2145,sweden,neither,neither,Neither
+2146,papua_new_guinea,neither,neither,"Neither
+
+In Papua New Guinea, the cultural norms and expectations regarding social interactions can vary significantly"
+2147,papua_new_guinea,neither,neither,Neither
+2148,papua_new_guinea,neither,neither,"Neither
+
+In the context of the story, the action of Manuel dropping by his friend Luis's"
+2149,netherlands,neither,yes,Yes
+2150,spain,neither,neither,Neither
+2151,ireland,neither,neither,Neither
+2152,china,neither,neither,Neither
+2153,portugal,neither,neither,Neither
+2154,australia,neither,neither,"Neither
+
+In Australia, sharing food at a work gathering is considered polite and a way to show"
+2155,serbia,neither,neither,Neither
+2156,serbia,neither,neither,"Neither
+
+In the context of the story, it is not clear if Alex's action is socially"
+2157,netherlands,neither,neither,Neither
+2158,netherlands,neither,neither,Neither
+2159,netherlands,neither,neither,Neither
+2160,lebanon,neither,neither,Neither
+2161,australia,neither,neither,Neither
+2162,saudi_arabia,neither,neither,"Neither
+
+The action in the story does not provide enough information to determine if it is socially acceptable"
+2163,serbia,neither,neither,"Neither
+
+In the context of the story, it is not possible to determine if the action is"
+2164,serbia,neither,neither,Neither
+2165,serbia,neither,neither,"Neither
+
+In the context of the story, Alex arriving 30 minutes earlier than the scheduled time"
+2166,greece,neither,neither,"Neither
+
+In Greece, while it is generally acceptable to play music and entertain guests, the context"
+2167,greece,neither,neither,Neither
+2168,greece,neither,neither,Neither
+2169,croatia,neither,yes,Yes
+2170,croatia,neither,yes,Yes
+2171,croatia,neither,yes,Yes
+2172,cyprus,neither,yes,Yes
+2173,serbia,neither,neither,Neither
+2174,serbia,neither,neither,"Neither
+
+In the context of a family gathering, Alex's action of flipping his cousin's"
+2175,portugal,neither,neither,"Neither
+
+In Portugal, it is socially acceptable to bring a gift to a housewarming party"
+2176,philippines,neither,neither,Neither
+2177,philippines,neither,neither,Neither
+2178,philippines,neither,no,No
+2179,japan,neither,neither,"Neither
+
+In Japan, complimenting someone on their possessions, especially if they are not a close"
+2180,south_africa,neither,neither,Neither
+2181,afghanistan,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action in Afghanistan is socially acceptable"
+2182,argentina,neither,neither,"Neither
+
+The story describes a scenario that takes place in a home setting, involving cultural practices such"
+2183,sri_lanka,neither,neither,"Neither
+
+The story does not provide enough information to determine if the actions described are socially acceptable in"
+2184,united_states_of_america,neither,neither,Neither
+2185,china,neither,neither,Neither
+2186,china,neither,neither,"Neither
+
+In the given context, it is not possible to definitively determine if the action is"
+2187,china,neither,neither,Neither
+2188,serbia,neither,neither,Neither
+2189,canada,neither,neither,Neither
+2190,bosnia_and_herzegovina,neither,neither,Neither
+2191,germany,neither,yes,Yes
+2192,argentina,neither,yes,Yes
+2193,singapore,neither,neither,Neither
+2194,sweden,neither,neither,Neither
+2195,australia,neither,no,No
+2196,sweden,neither,neither,Neither
+2197,timor-leste,neither,neither,Neither
+2198,timor-leste,neither,neither,"Neither
+
+In Timor-Leste, as in many other cultures, the left hand is generally"
+2199,timor-leste,neither,neither,Neither
+2200,singapore,neither,neither,"Neither
+
+In Singapore, showing respect to elders is a significant cultural value. While the action of"
+2201,palestinian_territories,neither,yes,Yes
+2202,palestinian_territories,neither,neither,"Neither
+
+The story describes a dinner party scenario where Ivan's actions are polite and considerate."
+2203,australia,neither,neither,Neither
+2204,afghanistan,neither,neither,"Neither.
+
+The story does not provide enough context to determine if the action of bringing a bouquet"
+2205,united_states_of_america,neither,neither,Neither
+2206,united_states_of_america,neither,neither,Neither
+2207,south_sudan,neither,neither,Neither
+2208,japan,neither,neither,"Neither
+
+In Japan, while hospitality and generosity are highly valued, it is not socially acceptable"
+2209,canada,neither,yes,Yes
+2210,new_zealand,neither,neither,Neither
+2211,canada,neither,neither,Neither
+2212,mauritius,neither,neither,Neither
+2213,mauritius,neither,yes,Yes
+2214,mauritius,neither,yes,Yes
+2215,south_korea,neither,neither,"Neither
+
+In South Korea, the cultural norms regarding surprise visits can vary depending on the context and"
+2216,bangladesh,neither,yes,Yes
+2217,italy,neither,yes,Yes
+2218,nepal,neither,neither,"Neither
+
+In the given context, there is no clear indication that the action of Sarah immediately beginning"
+2219,south_sudan,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action of Maria pouring a shot"
+2220,south_sudan,neither,neither,"Neither
+
+In the given story, Maria hosted a dinner for her friends, prepared a variety of"
+2221,türkiye,neither,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social expectations in Turkey regarding"
+2222,netherlands,neither,yes,Yes
+2223,türkiye,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Turkey"
+2224,india,neither,neither,Neither
+2225,papua_new_guinea,neither,neither,"Neither
+
+In Papua New Guinea, social norms and expectations can vary significantly depending on the specific"
+2226,malta,neither,neither,Neither
+2227,nepal,neither,yes,Yes
+2228,serbia,neither,yes,Yes
+2229,romania,neither,neither,Neither
+2230,türkiye,neither,neither,Neither
+2231,türkiye,neither,neither,Neither
+2232,timor-leste,neither,neither,Neither
+2233,austria,neither,neither,Neither
+2234,israel,neither,neither,Neither
+2235,austria,neither,yes,Yes
+2236,sweden,neither,neither,Neither
+2237,kenya,neither,yes,Yes
+2238,canada,neither,yes,Yes
+2239,croatia,neither,yes,Yes
+2240,croatia,neither,neither,Neither
+2241,greece,neither,neither,"Neither
+
+In Greece, it is considered polite to offer guests more food than they might need,"
+2242,hungary,neither,yes,Yes
+2243,mexico,neither,yes,Yes
+2244,romania,neither,neither,Neither
+2245,germany,neither,neither,Neither
+2246,south_korea,neither,neither,"Neither
+
+In South Korea, while it is generally acceptable to share opinions at networking events, the"
+2247,china,neither,neither,Neither
+2248,ethiopia,neither,neither,Neither
+2249,peru,neither,neither,"Neither
+
+In Peru, punctuality is generally valued, but the level of acceptability for being"
+2250,ethiopia,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Ethiopia"
+2251,argentina,neither,neither,Neither
+2252,netherlands,neither,no,No
+2253,argentina,neither,neither,Neither
+2254,colombia,neither,neither,Neither
+2255,germany,neither,neither,Neither
+2256,united_kingdom,neither,yes,Yes
+2257,australia,neither,neither,Neither
+2258,australia,neither,neither,Neither
+2259,papua_new_guinea,neither,neither,"Neither
+
+In Papua New Guinea, the social norms regarding footwear and behavior in someone's"
+2260,taiwan,neither,neither,Neither
+2261,taiwan,neither,neither,Neither
+2262,taiwan,neither,neither,"Neither
+
+In Taiwan, staying up late to watch a movie is not inherently socially unacceptable. However"
+2263,iraq,neither,neither,"Neither
+
+In the given context, it is not possible to determine if the action in the story"
+2264,iraq,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Iraq"
+2265,iraq,neither,neither,"Neither
+
+In the context of the story, Alex's action of surprising everyone with a homemade dessert"
+2266,hong_kong,neither,neither,Neither
+2267,germany,neither,neither,Neither
+2268,north_macedonia,neither,yes,Yes
+2269,laos,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in La"
+2270,ukraine,neither,yes,Yes
+2271,chile,neither,neither,"Neither
+
+In the given context, Emily's action of introducing her brother to her friend Sarah without"
+2272,argentina,neither,neither,Neither
+2273,argentina,neither,neither,Neither
+2274,argentina,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Argentina"
+2275,north_macedonia,neither,yes,Yes
+2276,italy,neither,neither,Neither
+2277,south_korea,neither,yes,Yes
+2278,united_kingdom,neither,neither,Neither
+2279,greece,neither,neither,Neither
+2280,israel,neither,yes,Yes
+2281,canada,neither,neither,Neither
+2282,canada,neither,yes,Yes
+2283,italy,neither,neither,Neither
+2284,cambodia,neither,neither,"Neither
+
+In Cambodia, it is considered polite to accept a second serving of coffee or any other"
+2285,palestinian_territories,neither,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in the"
+2286,serbia,neither,neither,Neither
+2287,mexico,neither,neither,"Neither
+
+In Mexico, reaching across the table to grab a dish of food before others have started"
+2288,romania,neither,neither,Neither
+2289,malta,neither,neither,Neither
+2290,iraq,neither,neither,"Neither
+
+In Iraq, as in many cultures, table manners are generally respected and followed."
+2291,malta,neither,neither,"Neither
+
+In Malta, as in many other cultures, the use of utensils to eat"
+2292,spain,neither,neither,Neither
+2293,spain,neither,neither,Neither
+2294,spain,neither,neither,Neither
+2295,portugal,neither,neither,"Neither
+
+Explanation: In Portugal, it is generally considered socially acceptable to bring a gift,"
+2296,france,neither,neither,Neither
+2297,france,neither,neither,Neither
+2298,romania,neither,yes,Yes
+2299,hungary,neither,neither,Neither
+2300,romania,neither,yes,Yes
+2301,sweden,neither,neither,Neither
+2302,cambodia,neither,neither,"Neither
+
+In Cambodia, the action of Amir letting the dog inside to join them might be"
+2303,cambodia,neither,neither,"Neither
+
+In Cambodia, petting a dog in someone's home is generally considered socially acceptable,"
+2304,poland,neither,neither,"Neither
+
+In Poland, sitting on the floor and eating with hands using naan bread is not"
+2305,poland,neither,yes,Yes
+2306,hungary,neither,neither,Neither
+2307,singapore,neither,yes,Yes
+2308,philippines,neither,yes,Yes
+2309,singapore,neither,no,No
+2310,palestinian_territories,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in the"
+2311,samoa,neither,neither,"Neither
+
+In Samoa, the act of opening a gift immediately upon receiving it might not be"
+2312,samoa,neither,yes,Yes
+2313,samoa,neither,yes,Yes
+2314,mexico,neither,neither,Neither
+2315,france,neither,neither,Neither
+2316,france,neither,neither,Neither
+2317,greece,neither,neither,Neither
+2318,south_korea,neither,yes,Yes
+2319,afghanistan,neither,neither,Neither
+2320,afghanistan,neither,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social practices in Afghanistan to"
+2321,afghanistan,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Afghanistan"
+2322,netherlands,neither,neither,"Neither
+
+In the Netherlands, casual attire like shorts and a t-shirt can be acceptable for"
+2323,south_korea,neither,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in South"
+2324,greece,neither,neither,Neither
+2325,austria,neither,yes,Yes
+2327,china,neither,neither,"Neither
+
+In the given context, Sarah's actions are not clearly defined as socially acceptable or unacceptable"
+2329,mauritius,neither,yes,Yes
+2330,south_korea,neither,neither,"Neither
+
+In the given context, there is no specific information about South Korean social norms regarding the"
+2331,south_korea,neither,yes,Yes
+2332,south_korea,neither,neither,"Neither
+
+In South Korea, bringing a homemade jam as a gift to a dinner party is generally"
+2333,peru,neither,no,No
+2334,peru,neither,yes,Yes
+2335,peru,neither,no,No
+2336,canada,neither,neither,Neither
+2337,sudan,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action in Sudan is socially acceptable"
+2338,sudan,neither,yes,Yes
+2339,canada,neither,yes,Yes
+2340,south_korea,neither,neither,"Neither
+
+In South Korea, it is generally considered polite to ask for a second helping when offered"
+2341,japan,neither,yes,Yes
+2343,australia,neither,neither,Neither
+2344,australia,neither,neither,Neither
+2345,new_zealand,neither,neither,"Neither
+
+In the context of the story, Alex's action of sitting alone in the corner to"
+2346,hong_kong,neither,neither,Neither
+2347,vietnam,neither,neither,Neither
+2348,hong_kong,neither,neither,Neither
+2349,sudan,neither,neither,"Neither
+
+In the given context, it is not explicitly stated whether the action is socially acceptable in"
+2350,france,neither,neither,Neither
+2351,united_states_of_america,neither,neither,Neither
+2352,germany,neither,neither,"Neither
+
+In Germany, it is generally considered polite to present gifts with both hands, showing respect"
+2353,brazil,neither,neither,Neither
+2354,south_korea,neither,neither,"Neither
+
+In South Korea, it is considered impolite to bypass the host without greeting them"
+2355,france,neither,neither,Neither
+2356,france,neither,yes,Yes
+2357,romania,neither,neither,Neither
+2358,samoa,neither,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social expectations in Sam"
+2359,hong_kong,neither,neither,"Neither
+
+In Hong Kong, it is generally considered polite to wait for the host to begin eating"
+2360,philippines,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in the"
+2361,austria,neither,neither,Neither
+2362,austria,neither,yes,Yes
+2363,austria,neither,yes,Yes
+2364,hungary,neither,neither,Neither
+2365,hungary,neither,neither,Neither
+2366,hungary,neither,neither,Neither
+2367,japan,neither,neither,"Neither
+
+The story does not provide enough context to determine if the actions described are socially acceptable in"
+2368,malta,neither,neither,Neither
+2369,ukraine,neither,neither,Neither
+2370,germany,neither,yes,Yes
+2371,taiwan,neither,neither,Neither
+2372,bosnia_and_herzegovina,neither,yes,Yes
+2373,china,neither,neither,Neither
+2374,japan,neither,neither,"Neither
+
+In Japan, it is generally considered polite to ask before touching or moving someone else's"
+2375,japan,neither,neither,"Neither
+
+The story does not provide enough information to determine if lighting a scented candle in a"
+2376,japan,neither,neither,Neither
+2377,egypt,neither,yes,Yes
+2378,egypt,neither,yes,Yes
+2379,egypt,neither,neither,"Neither
+
+In the given context, it is not explicitly stated that Emily's actions are socially unacceptable"
+2380,peru,neither,neither,"Neither
+
+In Peru, it is generally socially acceptable to bring a gift to a dinner party."
+2381,romania,neither,neither,Neither
+2382,romania,neither,yes,Yes
+2383,colombia,neither,neither,Neither
+2384,colombia,neither,neither,"Neither
+
+In Colombia, it is socially acceptable to bring a gift when visiting a friend's house"
+2385,colombia,neither,yes,Yes
+2387,bosnia_and_herzegovina,neither,neither,Neither
+2389,united_states_of_america,neither,yes,Yes
+2390,austria,neither,yes,Yes
+2391,china,neither,neither,"Neither
+
+In China, it is considered polite to wait for the host to begin eating before starting"
+2392,china,neither,neither,Neither
+2393,china,neither,neither,Neither
+2394,south_korea,neither,neither,"Neither
+
+In South Korea, the act of giving a gift is an important social practice, and"
+2395,south_korea,neither,yes,Yes
+2396,south_korea,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in South"
+2397,austria,neither,yes,Yes
+2398,france,neither,neither,Neither
+2399,australia,neither,neither,Neither
+2400,lebanon,neither,neither,"Neither
+
+The story describes a scenario where a group of friends are enjoying a late dinner and decide"
+2401,syria,neither,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social expectations in Syria regarding"
+2402,ethiopia,neither,neither,"Neither
+
+In the given story, Sarah's actions are not explicitly stated as socially unacceptable in Ethiopia"
+2403,colombia,neither,neither,Neither
+2404,austria,neither,yes,Yes
+2405,australia,neither,yes,Yes
+2406,spain,neither,yes,Yes
+2407,south_sudan,neither,neither,Neither
+2408,malaysia,neither,neither,"Neither
+
+In Malaysia, it is generally considered polite to wait until after dinner or until a more"
+2409,greece,neither,yes,Yes
+2410,greece,neither,neither,Neither
+2411,colombia,neither,neither,Neither
+2412,taiwan,neither,neither,"Neither
+
+In Taiwan, it is generally considered polite to express curiosity about the interior design of someone"
+2413,taiwan,neither,neither,Neither
+2414,laos,neither,yes,Yes
+2415,china,neither,neither,Neither
+2416,italy,neither,neither,Neither
+2417,sweden,neither,neither,Neither
+2418,tonga,neither,neither,"Neither
+
+The story does not provide enough information about the specific cultural norms and social practices in Tong"
+2419,poland,neither,yes,Yes
+2420,hungary,neither,yes,Yes
+2421,sweden,neither,neither,Neither
+2422,philippines,neither,yes,Yes
+2423,sweden,neither,neither,Neither
+2424,china,neither,neither,Neither
+2425,israel,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Israel"
+2426,brazil,neither,neither,Neither
+2427,laos,neither,neither,Neither
+2428,laos,neither,neither,"Neither
+
+In Laos, it is considered polite to wait until everyone at the table has finished"
+2429,hungary,neither,neither,Neither
+2430,hungary,neither,neither,Neither
+2431,tonga,neither,neither,Neither
+2432,tonga,neither,neither,"Neither
+
+In Tonga, the social norms and expectations regarding attire can vary depending on the"
+2433,tonga,neither,yes,Yes
+2434,greece,neither,neither,Neither
+2435,cambodia,neither,neither,"Neither
+
+In Cambodia, giving a gift of flowers, especially white flowers, can be seen as"
+2436,south_korea,neither,neither,"Neither
+
+In South Korea, singing at a dinner party is generally considered socially acceptable, especially if"
+2437,germany,neither,neither,Neither
+2438,greece,neither,neither,"Neither
+
+In Greece, while it is not uncommon for friends to drop by unannounced,"
+2439,greece,neither,neither,Neither
+2440,singapore,neither,neither,Neither
+2442,hungary,neither,neither,Neither
+2443,australia,neither,neither,Neither
+2444,australia,neither,neither,Neither
+2445,australia,neither,neither,Neither
+2446,new_zealand,neither,neither,Neither
+2447,taiwan,neither,yes,Yes
+2448,cambodia,neither,yes,Yes
+2449,united_kingdom,neither,yes,Yes
+2450,united_states_of_america,neither,yes,Yes
+2451,russia,neither,neither,Neither
+2452,serbia,neither,neither,Neither
+2453,croatia,neither,yes,Yes
+2454,croatia,neither,neither,Neither
+2455,chile,neither,neither,Neither
+2456,philippines,neither,yes,Yes
+2457,chile,neither,neither,"Neither
+
+In the context of the story, Alex's action of declining the offer of tea upon"
+2458,venezuela,neither,yes,Yes
+2459,greece,neither,neither,Neither
+2460,venezuela,neither,neither,Neither
+2461,sri_lanka,neither,neither,"Neither
+
+In the context of the story, Emily's action of declining a second serving of dessert"
+2462,sri_lanka,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action is socially acceptable in Sri"
+2463,sri_lanka,neither,neither,Neither
+2464,timor-leste,neither,neither,Neither
+2465,nepal,neither,yes,Yes
+2466,portugal,neither,neither,Neither
+2467,taiwan,neither,neither,"Neither
+
+In Taiwan, leaving a bit of food on your plate after finishing your meal is generally"
+2468,türkiye,neither,neither,Neither
+2469,türkiye,neither,neither,Neither
+2470,south_korea,neither,neither,"Neither
+
+In South Korea, the act of giving a gift is generally considered socially acceptable. However"
+2471,south_korea,neither,neither,"Neither
+
+The story does not provide enough context to determine if the action of giving an expensive watch"
+2472,hungary,neither,yes,Yes
+2473,hungary,neither,yes,Yes
+2474,hungary,neither,yes,Yes
+2475,united_states_of_america,neither,neither,Neither
+2476,zimbabwe,neither,neither,Neither
+2477,philippines,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in the"
+2478,sweden,neither,neither,Neither
+2479,sweden,neither,neither,Neither
+2480,sweden,neither,neither,Neither
+2481,ukraine,neither,neither,Neither
+2482,ukraine,neither,neither,Neither
+2483,bosnia_and_herzegovina,neither,neither,"Neither
+
+In Bosnia and Herzegovina, the use of the left hand for passing"
+2484,italy,neither,neither,Neither
+2485,japan,neither,yes,Yes
+2486,taiwan,neither,neither,Neither
+2487,croatia,neither,neither,Neither
+2488,united_states_of_america,neither,neither,Neither
+2489,mexico,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action in the story is socially"
+2490,kenya,neither,yes,Yes
+2491,kenya,neither,neither,"Neither
+
+In the given story, László's actions are not explicitly stated to"
+2492,kenya,neither,neither,Neither
+2493,sweden,neither,neither,Neither
+2494,sweden,neither,neither,Neither
+2495,sweden,neither,neither,Neither
+2496,somalia,neither,yes,Yes
+2497,united_kingdom,neither,neither,Neither
+2498,france,neither,neither,Neither
+2499,netherlands,neither,yes,Yes
+2500,iran,neither,neither,"Neither
+
+In the given context, it is not explicitly stated that Alex's action is socially unacceptable"
+2501,malaysia,neither,yes,Yes
+2502,malaysia,neither,yes,Yes
+2503,malaysia,neither,yes,Yes
+2504,china,neither,neither,Neither
+2505,france,neither,yes,Yes
+2506,france,neither,neither,Neither
+2507,china,neither,neither,Neither
+2508,venezuela,neither,neither,"Neither
+
+In Venezuela, as in many cultures, it is generally considered polite to wait for the"
+2509,taiwan,neither,yes,Yes
+2510,netherlands,neither,neither,Neither
+2511,netherlands,neither,neither,Neither
+2512,netherlands,neither,neither,Neither
+2513,russia,neither,yes,Yes
+2514,russia,neither,neither,Neither
+2515,russia,neither,neither,Neither
+2516,china,neither,neither,"Neither
+
+In the given context, Emily's actions are not explicitly stated to be socially unacceptable in"
+2517,myanmar,neither,yes,Yes
+2518,mexico,neither,yes,Yes
+2519,croatia,neither,neither,Neither
+2520,poland,neither,neither,Neither
+2521,poland,neither,neither,Neither
+2522,bosnia_and_herzegovina,neither,neither,Neither
+2523,canada,neither,neither,Neither
+2524,bosnia_and_herzegovina,neither,neither,Neither
+2525,laos,neither,neither,"Neither
+
+In Laos, finishing all the food on one's plate is generally considered a sign"
+2526,laos,neither,yes,Yes
+2527,laos,neither,neither,Neither
+2530,indonesia,neither,neither,Neither
+2531,indonesia,neither,neither,Neither
+2532,indonesia,neither,neither,Neither
+2533,cyprus,neither,yes,Yes
+2534,cyprus,neither,yes,Yes
+2535,cyprus,neither,yes,Yes
+2536,italy,neither,yes,Yes
+2537,italy,neither,yes,Yes
+2538,cambodia,neither,neither,Neither
+2539,iran,neither,neither,"Neither
+
+In the context of Iran, the action described in the story is not clearly defined as"
+2540,france,neither,neither,Neither
+2541,france,neither,neither,Neither
+2542,united_kingdom,neither,neither,"Neither
+
+In the United Kingdom, it is generally considered polite to stand up when an elder person"
+2543,united_kingdom,neither,yes,Yes
+2544,united_kingdom,neither,yes,Yes
+2545,poland,neither,yes,Yes
+2546,sweden,neither,neither,Neither
+2547,sweden,neither,neither,Neither
+2548,poland,neither,neither,Neither
+2549,netherlands,neither,yes,Yes
+2550,china,neither,neither,Neither
+2551,poland,neither,neither,Neither
+2552,poland,neither,neither,Neither
+2553,poland,neither,neither,Neither
+2554,germany,neither,neither,Neither
+2555,germany,neither,neither,Neither
+2556,taiwan,neither,neither,"Neither
+
+In Taiwan, it is considered polite to leave a small amount of food on your plate"
+2557,japan,neither,yes,Yes
+2558,japan,neither,neither,Neither
+2559,japan,neither,yes,Yes
+2560,india,neither,neither,Neither
+2561,türkiye,neither,yes,Yes
+2562,netherlands,neither,yes,Yes
+2563,chile,neither,neither,Neither
+2564,peru,neither,neither,"Neither
+
+In Peru, as in many cultures, it is generally considered polite to announce a visit"
+2565,romania,neither,yes,Yes
+2566,malta,neither,yes,Yes
+2567,bangladesh,neither,neither,"Neither
+
+In Bangladesh, giving flowers as a gift and accepting them with gratitude are generally socially acceptable"
+2568,south_korea,neither,neither,"Neither
+
+In South Korea, the act of sharing a bottle of wine at a dinner party is"
+2569,hong_kong,neither,neither,Neither
+2570,italy,neither,neither,Neither
+2571,singapore,neither,yes,Yes
+2572,spain,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Spain"
+2573,spain,neither,neither,Neither
+2574,spain,neither,neither,Neither
+2575,bangladesh,neither,neither,"Neither
+
+In the context of the story, Sarah's action of using two sets of cutl"
+2576,bangladesh,neither,neither,"Neither
+
+In Bangladesh, the consumption of meat and dairy products together is generally not socially acceptable due"
+2577,bangladesh,neither,neither,Neither
+2578,palestinian_territories,neither,neither,"Neither
+
+The story does not provide enough information about the specific context or cultural norms in the Palestinian"
+2579,serbia,neither,neither,Neither
+2580,serbia,neither,neither,Neither
+2581,iraq,neither,neither,"Neither
+
+In the context of the story, Daniel's actions are not clearly indicative of social"
+2582,hungary,neither,yes,Yes
+2583,hungary,neither,yes,Yes
+2584,hungary,neither,yes,Yes
+2585,greece,neither,neither,Neither
+2586,chile,neither,neither,"Neither
+
+In Chile, the social norms regarding wearing hats indoors can vary depending on the context and"
+2587,iran,neither,neither,"Neither
+
+The story does not provide enough information about the cultural norms and social expectations in Iran to"
+2588,japan,neither,neither,Neither
+2589,papua_new_guinea,neither,neither,"Neither
+
+In Papua New Guinea, it is considered polite to wait for the host to invite"
+2591,bangladesh,neither,neither,"Neither
+
+In Bangladesh, it is generally socially acceptable to give flowers as a gift at a dinner"
+2592,singapore,neither,yes,Yes
+2593,singapore,neither,neither,Neither
+2594,singapore,neither,yes,Yes
+2595,cambodia,neither,neither,"Neither
+
+In Cambodia, the act of gifting a painting to a guest based on their adm"
+2596,mauritius,neither,yes,Yes
+2597,cambodia,neither,neither,"Neither
+
+In Cambodia, it is not common for someone to offer a piece of artwork to a"
+2598,new_zealand,neither,neither,Neither
+2599,new_zealand,neither,neither,Neither
+2600,new_zealand,neither,neither,"Neither
+
+In the context of the story, Sarah's action of declining a cup of tea upon"
+2601,italy,neither,neither,Neither
+2602,italy,neither,neither,Neither
+2603,ireland,neither,yes,Yes
+2604,ireland,neither,neither,Neither
+2605,australia,neither,neither,Neither
+2606,germany,neither,neither,Neither
+2607,australia,neither,yes,Yes
+2608,croatia,neither,neither,Neither
+2610,croatia,neither,yes,Yes
+2611,japan,neither,neither,Neither
+2612,japan,neither,neither,"Neither
+
+In Japan, it is considered polite to wait for the host to offer more food before"
+2613,japan,neither,neither,Neither
+2614,china,neither,neither,Neither
+2615,china,neither,yes,Yes
+2616,poland,neither,neither,"Neither
+
+The story does not provide enough information to determine if the action is socially acceptable in Poland"
+2617,poland,neither,neither,Neither
+2618,poland,neither,neither,Neither
+2619,brazil,neither,neither,"Neither
+
+In Brazil, visiting someone's house without prior notice is generally considered impolite."
+2620,brazil,neither,neither,"Neither
+
+In Brazil, while spontaneous visits are not uncommon, it is considered polite to call ahead"
+2621,brazil,neither,neither,"Neither
+
+In Brazil, it is common for friends to visit each other without prior notice, especially"
+2622,spain,neither,neither,Neither
+2623,spain,neither,neither,Neither
+2624,greece,neither,neither,Neither
+2625,france,neither,neither,Neither
+2626,philippines,neither,yes,Yes
+2627,netherlands,neither,yes,Yes
+2628,france,neither,neither,Neither
+2629,serbia,neither,neither,"Neither
+
+In the context of the story, it is not explicitly stated whether Alex's action of"
+2630,syria,neither,neither,"Neither
+
+The story does not provide enough context about the cultural norms and social practices in Syria to"
+2631,new_zealand,neither,neither,"Neither
+
+In New Zealand, it is generally considered polite to wait for the host to indicate that"
+2632,new_zealand,neither,no,No
