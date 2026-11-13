@@ -130,10 +130,6 @@ python src/score_llms.py
 
 **LLM question ablation.** Set `STRIP_QUESTION = True` in the InternLM notebook to strip the final question (same regex as the `baselines.py` ablation).
 
-| Model | Rule-of-Thumb | CV Macro-F1 | Test Accuracy | Test Macro-F1 |
-|---|---|---:|---:|---:|
-| InternLM2.5-7B-chat (8-bit) | Without | 0.3869 ± 0.0207 | 0.4050 | 0.3543 |
-| InternLM2.5-7B-chat (8-bit) | With | 0.6086 ± 0.0368 | 0.6507 | 0.6273 |
 | Model | Rule-of-Thumb | Question | CV Macro-F1 | Test Accuracy | Test Macro-F1 |
 |---|---|---|---:|---:|---:|
 | InternLM2.5-7B-chat (8-bit) | Without | kept | 0.3869 ± 0.0207 | 0.4050 | 0.3543 |
