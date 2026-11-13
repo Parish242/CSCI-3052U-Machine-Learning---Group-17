@@ -21,8 +21,7 @@ results/
   llm_test_scores.csv    LLM scores on the 521-item test set (src/score_llms.py)
   llm_cv_scores.csv      LLM scores per CV fold (src/score_llms.py)
   <model>/<run>/         LLM outputs per model (not part of the baseline milestone);
-                         run = trial (50 rows), full, or no-question (full run, final
-                         question removed); each holds predictions with and
+                         run = trial (50 rows) or full (includes question-ablation runs); each holds predictions with and
                          without the rule-of-thumb, classification reports, and run notes
 requirements.txt
 ```
@@ -135,8 +134,16 @@ python src/score_llms.py
 |---|---|---:|---:|---:|
 | InternLM2.5-7B-chat (8-bit) | Without | 0.3869 ± 0.0207 | 0.4050 | 0.3543 |
 | InternLM2.5-7B-chat (8-bit) | With | 0.6086 ± 0.0368 | 0.6507 | 0.6273 |
-| Gemma-2-27B-it (4-bit) | Without | 0.4399 ± 0.0307 | 0.4319 | 0.4218 |
-| Gemma-2-27B-it (4-bit) | With | 0.5708 ± 0.0211 | 0.5374 | 0.5470 |
+| Model | Rule-of-Thumb | Question | CV Macro-F1 | Test Accuracy | Test Macro-F1 |
+|---|---|---|---:|---:|---:|
+| InternLM2.5-7B-chat (8-bit) | Without | kept | 0.3869 ± 0.0207 | 0.4050 | 0.3543 |
+| InternLM2.5-7B-chat (8-bit) | With | kept | 0.6086 ± 0.0368 | 0.6507 | 0.6273 |
+| InternLM2.5-7B-chat (8-bit) | Without | removed | 0.3707 ± 0.0205 | 0.4012 | 0.3356 |
+| InternLM2.5-7B-chat (8-bit) | With | removed | 0.5846 ± 0.0292 | 0.6411 | 0.5985 |
+| Gemma-2-27B-it (4-bit) | Without | kept | 0.4399 ± 0.0307 | 0.4319 | 0.4218 |
+| Gemma-2-27B-it (4-bit) | With | kept | 0.5708 ± 0.0211 | 0.5374 | 0.5470 |
+
+Removing the question lowers InternLM by only 0.02–0.03 test macro-F1, compared with 0.13 for Logistic Regression, so the question wording inflates the classical baselines much more than the LLM.
 
 ### Reproducibility
 
