@@ -13,10 +13,15 @@ from baselines import format_input
 RESULTS = Path(__file__).resolve().parents[1] / "results"
 
 CONFIGS = [
-    ("Logistic Regression", False, 10.0),
-    ("Logistic Regression", True, 10.0),
-    ("Naive Bayes", False, 0.5),
-    ("Naive Bayes", True, 1.0),
+    ("Logistic Regression", False, False, 10.0),
+    ("Logistic Regression", True, False, 10.0),
+    ("Naive Bayes", False, False, 0.5),
+    ("Naive Bayes", True, False, 1.0),
+
+    ("Logistic Regression", False, True, 10.0),
+    ("Logistic Regression", True, True, 10.0),
+    ("Naive Bayes", False, True, 0.5),
+    ("Naive Bayes", True, True, 0.5),
 ]
 
 
@@ -24,7 +29,7 @@ def main():
     train, test, _ = get_grouped_splits()
     outputs = []
 
-    for name, with_rule, param in CONFIGS:
+    for name, with_rule, strip_question, param in CONFIGS:
         if name == "Logistic Regression":
             clf = LogisticRegression(
                 C=param, max_iter=1000, random_state=42
@@ -41,12 +46,20 @@ def main():
         ])
 
         model.fit(
-            format_input(train, with_rule=with_rule),
+            format_input(
+                train,
+                with_rule=with_rule,
+                strip_question=strip_question,
+            ),
             train["gold_label"],
         )
 
         predictions = model.predict(
-            format_input(test, with_rule=with_rule)
+            format_input(
+                test,
+                with_rule=with_rule,
+                strip_question=strip_question,
+            )
         )
 
         output = pd.DataFrame({
@@ -58,6 +71,7 @@ def main():
                 "With Rule-of-Thumb"
                 if with_rule else "Without Rule-of-Thumb"
             ),
+            "question": "removed" if strip_question else "kept",
         })
         outputs.append(output)
 
@@ -70,7 +84,7 @@ def main():
     )
 
     print(result.groupby(
-        ["model", "condition"]
+    ["model", "condition", "question"]
     ).size())
     print("Saved classical_test_predictions.csv")
 

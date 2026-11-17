@@ -17,6 +17,10 @@ LLM_FILES = {
         "internlm2.5-7b/full/internlm2.5-7b_without-rule.csv",
     "InternLM | With RoT":
         "internlm2.5-7b/full/internlm2.5-7b_with-rule.csv",
+    "InternLM | Without RoT | No Question":
+        "internlm2.5-7b/full/internlm2.5-7b_without-rule_no-question.csv",
+    "InternLM | With RoT | No Question":
+        "internlm2.5-7b/full/internlm2.5-7b_with-rule_no-question.csv",
     "Gemma | Without RoT":
         "gemma-2-27b/full/gemma-2-27b_full_without_rule.csv",
     "Gemma | With RoT":
@@ -43,8 +47,8 @@ def load_and_align():
     classical["pred"] = normalize(classical["pred"])
 
     merged = None
-    for (model, condition), group in classical.groupby(
-        ["model", "condition"]
+    for (model, condition, question), group in classical.groupby(
+        ["model", "condition", "question"]
     ):
         suffix = (
             "With RoT"
@@ -52,6 +56,9 @@ def load_and_align():
             else "Without RoT"
         )
         label = f"{model} | {suffix}"
+
+        if question == "removed":
+            label += " | No Question"
 
         part = group[["ID", "gold", "pred"]].copy()
         assert part["ID"].is_unique
@@ -196,6 +203,30 @@ def main():
         (
             "Logistic Regression | Without RoT",
             "InternLM | With RoT",
+        ),
+        (
+            "Logistic Regression | Without RoT",
+            "Logistic Regression | Without RoT | No Question",
+        ),
+        (
+            "Logistic Regression | With RoT",
+            "Logistic Regression | With RoT | No Question",
+        ),
+        (
+            "Naive Bayes | Without RoT",
+            "Naive Bayes | Without RoT | No Question",
+        ),
+        (
+            "Naive Bayes | With RoT",
+            "Naive Bayes | With RoT | No Question",
+        ),
+        (
+            "InternLM | Without RoT",
+            "InternLM | Without RoT | No Question",
+        ),
+        (
+            "InternLM | With RoT",
+            "InternLM | With RoT | No Question",
         ),
     ]
 
