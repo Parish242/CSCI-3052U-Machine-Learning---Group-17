@@ -228,6 +228,19 @@ def main():
             "InternLM | With RoT",
             "InternLM | With RoT | No Question",
         ),
+        (
+            "Logistic Regression | Without RoT | No Question",
+            "InternLM | Without RoT | No Question",
+        ),
+        (
+            "Logistic Regression | With RoT | No Question",
+            "InternLM | With RoT | No Question",
+        ),
+        # Does the rule help LR once the question is removed?
+        (
+            "Logistic Regression | With RoT | No Question",
+            "Logistic Regression | Without RoT | No Question",
+        ),
     ]
 
     diff_rows = []

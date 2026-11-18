@@ -54,8 +54,11 @@ def make_model(model_name):
     return pipeline, params
 
 
-def evaluate_protocol(data, group_column, model_name, with_rule):
-    X = format_input(data, with_rule=with_rule).reset_index(drop=True)
+def evaluate_protocol(data, group_column, model_name, with_rule,
+                      strip_question=False):
+    X = format_input(
+        data, with_rule=with_rule, strip_question=strip_question
+    ).reset_index(drop=True)
     y = data["gold_label"].reset_index(drop=True)
     groups = data[group_column].reset_index(drop=True)
 
@@ -130,6 +133,7 @@ def evaluate_protocol(data, group_column, model_name, with_rule):
                 "With Rule-of-Thumb"
                 if with_rule else "Without Rule-of-Thumb"
             ),
+            "question": "removed" if strip_question else "kept",
             "fold": fold,
             "train_n": len(train_idx),
             "val_n": len(val_idx),
@@ -143,7 +147,9 @@ def evaluate_protocol(data, group_column, model_name, with_rule):
 
         print(
             f"{group_column} | {model_name} | "
-            f"RoT={with_rule} | Fold {fold}: "
+            f"RoT={with_rule} | "
+            f"question={'removed' if strip_question else 'kept'} | "
+            f"Fold {fold}: "
             f"F1={score:.4f}, "
             f"country overlap={country_overlap}, "
             f"background overlap={background_overlap}"
@@ -166,20 +172,25 @@ def main():
             "Naive Bayes",
         ]:
             for with_rule in [False, True]:
-                rows = evaluate_protocol(
-                    train_val,
-                    group_column,
-                    model_name,
-                    with_rule,
-                )
-                all_rows.extend(rows)
+                # Question removed: without the template shortcut,
+                # does the classical model generalize to unseen countries?
+                for strip_question in [False, True]:
+                    rows = evaluate_protocol(
+                        train_val,
+                        group_column,
+                        model_name,
+                        with_rule,
+                        strip_question,
+                    )
+                    all_rows.extend(rows)
 
     fold_df = pd.DataFrame(all_rows)
 
     summary = (
         fold_df.groupby(
-            ["protocol", "model", "condition"],
+            ["protocol", "model", "condition", "question"],
             as_index=False,
+            sort=False,
         )
         .agg(
             mean_macro_f1=("macro_f1", "mean"),
