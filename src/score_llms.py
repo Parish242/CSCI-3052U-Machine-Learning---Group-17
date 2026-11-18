@@ -15,8 +15,8 @@ LLM_RUNS = [
     ("internlm2.5-7b", "With Rule-of-Thumb", "kept", "internlm2.5-7b/full/internlm2.5-7b_with-rule.csv"),
     ("gemma-2-27b", "Without Rule-of-Thumb", "kept", "gemma-2-27b/full/gemma-2-27b_full_without_rule.csv"),
     ("gemma-2-27b", "With Rule-of-Thumb", "kept", "gemma-2-27b/full/gemma-2-27b_full_with_rule.csv"),
-    ("internlm2.5-7b", "Without Rule-of-Thumb", "removed", "internlm2.5-7b/no-question/internlm2.5-7b_without-rule_no-question.csv"),
-    ("internlm2.5-7b", "With Rule-of-Thumb", "removed", "internlm2.5-7b/no-question/internlm2.5-7b_with-rule_no-question.csv"),
+    ("internlm2.5-7b", "Without Rule-of-Thumb", "removed", "internlm2.5-7b/full/internlm2.5-7b_without-rule_no-question.csv"),
+    ("internlm2.5-7b", "With Rule-of-Thumb", "removed", "internlm2.5-7b/full/internlm2.5-7b_with-rule_no-question.csv"),
 ]
 
 # Load predictions and map neutral -> neither; anything else outside LABELS counts as unparseable
