@@ -158,3 +158,11 @@ The dataset is loaded from Hugging Face:
 [akhilayerukola/NormAd](https://huggingface.co/datasets/akhilayerukola/NormAd), pinned to revision `bb1a2997b6ab74b1f901493b15a67c2250a366c9` in `src/data_pipeline.py`. Rerunning `src/baselines.py` with this revision reproduces every value in `results/baseline_results.csv` exactly.
 
 The random seed, splitting strategy, cross-validation procedure, and hyperparameter search spaces are defined in `src/data_pipeline.py` and `src/baselines.py`.
+
+## Milestone 5 error analysis
+
+The [error analysis](results/error_analysis/README.md) compares all available models on the same 521 test stories. It links the confusion matrices, country and norm breakdowns, and eight examples traced to the prediction CSVs. Run `python src/error_analysis.py` from the repository root to regenerate the figures and tables.
+
+## License and contributions
+
+The project's original code is licensed under the [MIT License](LICENSE). The [NormAd dataset](https://huggingface.co/datasets/akhilayerukola/NormAd) retains its CC BY 4.0 license. See [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for individual contributions.
