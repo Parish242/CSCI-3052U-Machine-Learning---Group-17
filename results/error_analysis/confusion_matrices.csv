@@ -1,0 +1,49 @@
+model,rule,question,gold,n_stories,n_predictions,pred_yes,pred_no,pred_neither,pred_unparseable
+Dummy most_frequent,n/a,n/a,yes,190,190,190,0,0,0
+Dummy most_frequent,n/a,n/a,no,174,174,174,0,0,0
+Dummy most_frequent,n/a,n/a,neither,157,157,157,0,0,0
+Dummy stratified,n/a,n/a,yes,190,1900,692,629,579,0
+Dummy stratified,n/a,n/a,no,174,1740,605,600,535,0
+Dummy stratified,n/a,n/a,neither,157,1570,601,528,441,0
+Gemma,with,kept,yes,190,190,101,13,74,2
+Gemma,with,kept,no,174,174,5,83,85,1
+Gemma,with,kept,neither,157,157,29,30,96,2
+Gemma,without,kept,yes,190,190,68,1,120,1
+Gemma,without,kept,no,174,174,12,40,122,0
+Gemma,without,kept,neither,157,157,28,10,117,2
+InternLM,with,kept,yes,190,190,171,0,19,0
+InternLM,with,kept,no,174,174,2,57,115,0
+InternLM,with,kept,neither,157,157,44,2,111,0
+InternLM,with,removed,yes,190,190,175,0,15,0
+InternLM,with,removed,no,174,174,4,39,131,0
+InternLM,with,removed,neither,157,157,37,0,120,0
+InternLM,without,kept,yes,190,190,99,0,91,0
+InternLM,without,kept,no,174,174,9,8,157,0
+InternLM,without,kept,neither,157,157,51,2,104,0
+InternLM,without,removed,yes,190,190,98,0,92,0
+InternLM,without,removed,no,174,174,12,2,160,0
+InternLM,without,removed,neither,157,157,48,0,109,0
+Logistic Regression,with,kept,yes,190,190,170,7,13,0
+Logistic Regression,with,kept,no,174,174,5,165,4,0
+Logistic Regression,with,kept,neither,157,157,18,1,138,0
+Logistic Regression,with,removed,yes,190,190,152,23,15,0
+Logistic Regression,with,removed,no,174,174,21,143,10,0
+Logistic Regression,with,removed,neither,157,157,16,15,126,0
+Logistic Regression,without,kept,yes,190,190,169,7,14,0
+Logistic Regression,without,kept,no,174,174,3,169,2,0
+Logistic Regression,without,kept,neither,157,157,14,2,141,0
+Logistic Regression,without,removed,yes,190,190,158,17,15,0
+Logistic Regression,without,removed,no,174,174,17,132,25,0
+Logistic Regression,without,removed,neither,157,157,13,22,122,0
+Naive Bayes,with,kept,yes,190,190,155,11,24,0
+Naive Bayes,with,kept,no,174,174,21,141,12,0
+Naive Bayes,with,kept,neither,157,157,26,15,116,0
+Naive Bayes,with,removed,yes,190,190,144,17,29,0
+Naive Bayes,with,removed,no,174,174,22,129,23,0
+Naive Bayes,with,removed,neither,157,157,21,23,113,0
+Naive Bayes,without,kept,yes,190,190,160,10,20,0
+Naive Bayes,without,kept,no,174,174,20,144,10,0
+Naive Bayes,without,kept,neither,157,157,22,17,118,0
+Naive Bayes,without,removed,yes,190,190,150,17,23,0
+Naive Bayes,without,removed,no,174,174,19,138,17,0
+Naive Bayes,without,removed,neither,157,157,23,24,110,0

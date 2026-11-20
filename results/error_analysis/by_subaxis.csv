@@ -1,0 +1,209 @@
+model,rule,question,subaxis,n_stories,n_backgrounds,n_predictions,errors,unparseable,error_rate
+Dummy most_frequent,n/a,n/a,basic_etiquette,129,15,129,80,0,0.620155
+Dummy most_frequent,n/a,n/a,cleanliness,6,1,6,3,0,0.500000
+Dummy most_frequent,n/a,n/a,direct_manners,7,2,7,4,0,0.571429
+Dummy most_frequent,n/a,n/a,drinking,6,1,6,3,0,0.500000
+Dummy most_frequent,n/a,n/a,eating,118,13,118,79,0,0.669492
+Dummy most_frequent,n/a,n/a,gift_giving,113,18,113,67,0,0.592920
+Dummy most_frequent,n/a,n/a,gifts,4,2,4,4,0,1.000000
+Dummy most_frequent,n/a,n/a,offering_and_complimenting_items,18,5,18,12,0,0.666667
+Dummy most_frequent,n/a,n/a,religious_dietary_laws,6,1,6,3,0,0.500000
+Dummy most_frequent,n/a,n/a,tipping,3,1,3,3,0,1.000000
+Dummy most_frequent,n/a,n/a,visiting,104,14,104,69,0,0.663462
+Dummy most_frequent,n/a,n/a,visiting_a_village,6,1,6,3,0,0.500000
+Dummy most_frequent,n/a,n/a,visiting_and_eating,1,1,1,1,0,1.000000
+Dummy stratified,n/a,n/a,basic_etiquette,129,15,1290,881,0,0.682946
+Dummy stratified,n/a,n/a,cleanliness,6,1,60,39,0,0.650000
+Dummy stratified,n/a,n/a,direct_manners,7,2,70,49,0,0.700000
+Dummy stratified,n/a,n/a,drinking,6,1,60,44,0,0.733333
+Dummy stratified,n/a,n/a,eating,118,13,1180,792,0,0.671186
+Dummy stratified,n/a,n/a,gift_giving,113,18,1130,730,0,0.646018
+Dummy stratified,n/a,n/a,gifts,4,2,40,26,0,0.650000
+Dummy stratified,n/a,n/a,offering_and_complimenting_items,18,5,180,121,0,0.672222
+Dummy stratified,n/a,n/a,religious_dietary_laws,6,1,60,38,0,0.633333
+Dummy stratified,n/a,n/a,tipping,3,1,30,19,0,0.633333
+Dummy stratified,n/a,n/a,visiting,104,14,1040,690,0,0.663462
+Dummy stratified,n/a,n/a,visiting_a_village,6,1,60,40,0,0.666667
+Dummy stratified,n/a,n/a,visiting_and_eating,1,1,10,8,0,0.800000
+Gemma,with,kept,basic_etiquette,129,15,129,58,2,0.449612
+Gemma,with,kept,cleanliness,6,1,6,0,0,0.000000
+Gemma,with,kept,direct_manners,7,2,7,3,0,0.428571
+Gemma,with,kept,drinking,6,1,6,2,0,0.333333
+Gemma,with,kept,eating,118,13,118,57,2,0.483051
+Gemma,with,kept,gift_giving,113,18,113,59,0,0.522124
+Gemma,with,kept,gifts,4,2,4,1,0,0.250000
+Gemma,with,kept,offering_and_complimenting_items,18,5,18,9,0,0.500000
+Gemma,with,kept,religious_dietary_laws,6,1,6,2,0,0.333333
+Gemma,with,kept,tipping,3,1,3,0,0,0.000000
+Gemma,with,kept,visiting,104,14,104,46,1,0.442308
+Gemma,with,kept,visiting_a_village,6,1,6,3,0,0.500000
+Gemma,with,kept,visiting_and_eating,1,1,1,1,0,1.000000
+Gemma,without,kept,basic_etiquette,129,15,129,76,1,0.589147
+Gemma,without,kept,cleanliness,6,1,6,0,0,0.000000
+Gemma,without,kept,direct_manners,7,2,7,3,0,0.428571
+Gemma,without,kept,drinking,6,1,6,3,0,0.500000
+Gemma,without,kept,eating,118,13,118,61,2,0.516949
+Gemma,without,kept,gift_giving,113,18,113,68,0,0.601770
+Gemma,without,kept,gifts,4,2,4,0,0,0.000000
+Gemma,without,kept,offering_and_complimenting_items,18,5,18,12,0,0.666667
+Gemma,without,kept,religious_dietary_laws,6,1,6,3,0,0.500000
+Gemma,without,kept,tipping,3,1,3,0,0,0.000000
+Gemma,without,kept,visiting,104,14,104,66,0,0.634615
+Gemma,without,kept,visiting_a_village,6,1,6,4,0,0.666667
+Gemma,without,kept,visiting_and_eating,1,1,1,0,0,0.000000
+InternLM,with,kept,basic_etiquette,129,15,129,39,0,0.302326
+InternLM,with,kept,cleanliness,6,1,6,3,0,0.500000
+InternLM,with,kept,direct_manners,7,2,7,0,0,0.000000
+InternLM,with,kept,drinking,6,1,6,3,0,0.500000
+InternLM,with,kept,eating,118,13,118,28,0,0.237288
+InternLM,with,kept,gift_giving,113,18,113,48,0,0.424779
+InternLM,with,kept,gifts,4,2,4,0,0,0.000000
+InternLM,with,kept,offering_and_complimenting_items,18,5,18,9,0,0.500000
+InternLM,with,kept,religious_dietary_laws,6,1,6,2,0,0.333333
+InternLM,with,kept,tipping,3,1,3,2,0,0.666667
+InternLM,with,kept,visiting,104,14,104,45,0,0.432692
+InternLM,with,kept,visiting_a_village,6,1,6,3,0,0.500000
+InternLM,with,kept,visiting_and_eating,1,1,1,0,0,0.000000
+InternLM,with,removed,basic_etiquette,129,15,129,47,0,0.364341
+InternLM,with,removed,cleanliness,6,1,6,3,0,0.500000
+InternLM,with,removed,direct_manners,7,2,7,2,0,0.285714
+InternLM,with,removed,drinking,6,1,6,3,0,0.500000
+InternLM,with,removed,eating,118,13,118,30,0,0.254237
+InternLM,with,removed,gift_giving,113,18,113,45,0,0.398230
+InternLM,with,removed,gifts,4,2,4,0,0,0.000000
+InternLM,with,removed,offering_and_complimenting_items,18,5,18,6,0,0.333333
+InternLM,with,removed,religious_dietary_laws,6,1,6,2,0,0.333333
+InternLM,with,removed,tipping,3,1,3,0,0,0.000000
+InternLM,with,removed,visiting,104,14,104,45,0,0.432692
+InternLM,with,removed,visiting_a_village,6,1,6,3,0,0.500000
+InternLM,with,removed,visiting_and_eating,1,1,1,1,0,1.000000
+InternLM,without,kept,basic_etiquette,129,15,129,76,0,0.589147
+InternLM,without,kept,cleanliness,6,1,6,3,0,0.500000
+InternLM,without,kept,direct_manners,7,2,7,3,0,0.428571
+InternLM,without,kept,drinking,6,1,6,6,0,1.000000
+InternLM,without,kept,eating,118,13,118,67,0,0.567797
+InternLM,without,kept,gift_giving,113,18,113,73,0,0.646018
+InternLM,without,kept,gifts,4,2,4,0,0,0.000000
+InternLM,without,kept,offering_and_complimenting_items,18,5,18,15,0,0.833333
+InternLM,without,kept,religious_dietary_laws,6,1,6,2,0,0.333333
+InternLM,without,kept,tipping,3,1,3,2,0,0.666667
+InternLM,without,kept,visiting,104,14,104,58,0,0.557692
+InternLM,without,kept,visiting_a_village,6,1,6,4,0,0.666667
+InternLM,without,kept,visiting_and_eating,1,1,1,1,0,1.000000
+InternLM,without,removed,basic_etiquette,129,15,129,79,0,0.612403
+InternLM,without,removed,cleanliness,6,1,6,4,0,0.666667
+InternLM,without,removed,direct_manners,7,2,7,3,0,0.428571
+InternLM,without,removed,drinking,6,1,6,6,0,1.000000
+InternLM,without,removed,eating,118,13,118,66,0,0.559322
+InternLM,without,removed,gift_giving,113,18,113,72,0,0.637168
+InternLM,without,removed,gifts,4,2,4,0,0,0.000000
+InternLM,without,removed,offering_and_complimenting_items,18,5,18,14,0,0.777778
+InternLM,without,removed,religious_dietary_laws,6,1,6,2,0,0.333333
+InternLM,without,removed,tipping,3,1,3,2,0,0.666667
+InternLM,without,removed,visiting,104,14,104,59,0,0.567308
+InternLM,without,removed,visiting_a_village,6,1,6,4,0,0.666667
+InternLM,without,removed,visiting_and_eating,1,1,1,1,0,1.000000
+Logistic Regression,with,kept,basic_etiquette,129,15,129,15,0,0.116279
+Logistic Regression,with,kept,cleanliness,6,1,6,0,0,0.000000
+Logistic Regression,with,kept,direct_manners,7,2,7,0,0,0.000000
+Logistic Regression,with,kept,drinking,6,1,6,0,0,0.000000
+Logistic Regression,with,kept,eating,118,13,118,8,0,0.067797
+Logistic Regression,with,kept,gift_giving,113,18,113,11,0,0.097345
+Logistic Regression,with,kept,gifts,4,2,4,0,0,0.000000
+Logistic Regression,with,kept,offering_and_complimenting_items,18,5,18,3,0,0.166667
+Logistic Regression,with,kept,religious_dietary_laws,6,1,6,2,0,0.333333
+Logistic Regression,with,kept,tipping,3,1,3,0,0,0.000000
+Logistic Regression,with,kept,visiting,104,14,104,9,0,0.086538
+Logistic Regression,with,kept,visiting_a_village,6,1,6,0,0,0.000000
+Logistic Regression,with,kept,visiting_and_eating,1,1,1,0,0,0.000000
+Logistic Regression,with,removed,basic_etiquette,129,15,129,25,0,0.193798
+Logistic Regression,with,removed,cleanliness,6,1,6,0,0,0.000000
+Logistic Regression,with,removed,direct_manners,7,2,7,2,0,0.285714
+Logistic Regression,with,removed,drinking,6,1,6,2,0,0.333333
+Logistic Regression,with,removed,eating,118,13,118,17,0,0.144068
+Logistic Regression,with,removed,gift_giving,113,18,113,30,0,0.265487
+Logistic Regression,with,removed,gifts,4,2,4,0,0,0.000000
+Logistic Regression,with,removed,offering_and_complimenting_items,18,5,18,5,0,0.277778
+Logistic Regression,with,removed,religious_dietary_laws,6,1,6,2,0,0.333333
+Logistic Regression,with,removed,tipping,3,1,3,0,0,0.000000
+Logistic Regression,with,removed,visiting,104,14,104,17,0,0.163462
+Logistic Regression,with,removed,visiting_a_village,6,1,6,0,0,0.000000
+Logistic Regression,with,removed,visiting_and_eating,1,1,1,0,0,0.000000
+Logistic Regression,without,kept,basic_etiquette,129,15,129,13,0,0.100775
+Logistic Regression,without,kept,cleanliness,6,1,6,0,0,0.000000
+Logistic Regression,without,kept,direct_manners,7,2,7,0,0,0.000000
+Logistic Regression,without,kept,drinking,6,1,6,1,0,0.166667
+Logistic Regression,without,kept,eating,118,13,118,11,0,0.093220
+Logistic Regression,without,kept,gift_giving,113,18,113,5,0,0.044248
+Logistic Regression,without,kept,gifts,4,2,4,0,0,0.000000
+Logistic Regression,without,kept,offering_and_complimenting_items,18,5,18,3,0,0.166667
+Logistic Regression,without,kept,religious_dietary_laws,6,1,6,1,0,0.166667
+Logistic Regression,without,kept,tipping,3,1,3,0,0,0.000000
+Logistic Regression,without,kept,visiting,104,14,104,8,0,0.076923
+Logistic Regression,without,kept,visiting_a_village,6,1,6,0,0,0.000000
+Logistic Regression,without,kept,visiting_and_eating,1,1,1,0,0,0.000000
+Logistic Regression,without,removed,basic_etiquette,129,15,129,31,0,0.240310
+Logistic Regression,without,removed,cleanliness,6,1,6,0,0,0.000000
+Logistic Regression,without,removed,direct_manners,7,2,7,3,0,0.428571
+Logistic Regression,without,removed,drinking,6,1,6,3,0,0.500000
+Logistic Regression,without,removed,eating,118,13,118,20,0,0.169492
+Logistic Regression,without,removed,gift_giving,113,18,113,23,0,0.203540
+Logistic Regression,without,removed,gifts,4,2,4,2,0,0.500000
+Logistic Regression,without,removed,offering_and_complimenting_items,18,5,18,5,0,0.277778
+Logistic Regression,without,removed,religious_dietary_laws,6,1,6,1,0,0.166667
+Logistic Regression,without,removed,tipping,3,1,3,1,0,0.333333
+Logistic Regression,without,removed,visiting,104,14,104,19,0,0.182692
+Logistic Regression,without,removed,visiting_a_village,6,1,6,1,0,0.166667
+Logistic Regression,without,removed,visiting_and_eating,1,1,1,0,0,0.000000
+Naive Bayes,with,kept,basic_etiquette,129,15,129,27,0,0.209302
+Naive Bayes,with,kept,cleanliness,6,1,6,1,0,0.166667
+Naive Bayes,with,kept,direct_manners,7,2,7,2,0,0.285714
+Naive Bayes,with,kept,drinking,6,1,6,4,0,0.666667
+Naive Bayes,with,kept,eating,118,13,118,20,0,0.169492
+Naive Bayes,with,kept,gift_giving,113,18,113,29,0,0.256637
+Naive Bayes,with,kept,gifts,4,2,4,3,0,0.750000
+Naive Bayes,with,kept,offering_and_complimenting_items,18,5,18,9,0,0.500000
+Naive Bayes,with,kept,religious_dietary_laws,6,1,6,1,0,0.166667
+Naive Bayes,with,kept,tipping,3,1,3,0,0,0.000000
+Naive Bayes,with,kept,visiting,104,14,104,13,0,0.125000
+Naive Bayes,with,kept,visiting_a_village,6,1,6,0,0,0.000000
+Naive Bayes,with,kept,visiting_and_eating,1,1,1,0,0,0.000000
+Naive Bayes,with,removed,basic_etiquette,129,15,129,37,0,0.286822
+Naive Bayes,with,removed,cleanliness,6,1,6,1,0,0.166667
+Naive Bayes,with,removed,direct_manners,7,2,7,3,0,0.428571
+Naive Bayes,with,removed,drinking,6,1,6,6,0,1.000000
+Naive Bayes,with,removed,eating,118,13,118,24,0,0.203390
+Naive Bayes,with,removed,gift_giving,113,18,113,31,0,0.274336
+Naive Bayes,with,removed,gifts,4,2,4,3,0,0.750000
+Naive Bayes,with,removed,offering_and_complimenting_items,18,5,18,9,0,0.500000
+Naive Bayes,with,removed,religious_dietary_laws,6,1,6,2,0,0.333333
+Naive Bayes,with,removed,tipping,3,1,3,0,0,0.000000
+Naive Bayes,with,removed,visiting,104,14,104,19,0,0.182692
+Naive Bayes,with,removed,visiting_a_village,6,1,6,0,0,0.000000
+Naive Bayes,with,removed,visiting_and_eating,1,1,1,0,0,0.000000
+Naive Bayes,without,kept,basic_etiquette,129,15,129,28,0,0.217054
+Naive Bayes,without,kept,cleanliness,6,1,6,0,0,0.000000
+Naive Bayes,without,kept,direct_manners,7,2,7,3,0,0.428571
+Naive Bayes,without,kept,drinking,6,1,6,4,0,0.666667
+Naive Bayes,without,kept,eating,118,13,118,18,0,0.152542
+Naive Bayes,without,kept,gift_giving,113,18,113,22,0,0.194690
+Naive Bayes,without,kept,gifts,4,2,4,3,0,0.750000
+Naive Bayes,without,kept,offering_and_complimenting_items,18,5,18,6,0,0.333333
+Naive Bayes,without,kept,religious_dietary_laws,6,1,6,1,0,0.166667
+Naive Bayes,without,kept,tipping,3,1,3,1,0,0.333333
+Naive Bayes,without,kept,visiting,104,14,104,13,0,0.125000
+Naive Bayes,without,kept,visiting_a_village,6,1,6,0,0,0.000000
+Naive Bayes,without,kept,visiting_and_eating,1,1,1,0,0,0.000000
+Naive Bayes,without,removed,basic_etiquette,129,15,129,31,0,0.240310
+Naive Bayes,without,removed,cleanliness,6,1,6,0,0,0.000000
+Naive Bayes,without,removed,direct_manners,7,2,7,4,0,0.571429
+Naive Bayes,without,removed,drinking,6,1,6,6,0,1.000000
+Naive Bayes,without,removed,eating,118,13,118,26,0,0.220339
+Naive Bayes,without,removed,gift_giving,113,18,113,24,0,0.212389
+Naive Bayes,without,removed,gifts,4,2,4,4,0,1.000000
+Naive Bayes,without,removed,offering_and_complimenting_items,18,5,18,6,0,0.333333
+Naive Bayes,without,removed,religious_dietary_laws,6,1,6,1,0,0.166667
+Naive Bayes,without,removed,tipping,3,1,3,1,0,0.333333
+Naive Bayes,without,removed,visiting,104,14,104,20,0,0.192308
+Naive Bayes,without,removed,visiting_a_village,6,1,6,0,0,0.000000
+Naive Bayes,without,removed,visiting_and_eating,1,1,1,0,0,0.000000

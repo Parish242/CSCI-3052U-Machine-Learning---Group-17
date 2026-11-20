@@ -1,0 +1,689 @@
+model,rule,question,country,n_stories,n_backgrounds,n_predictions,errors,unparseable,error_rate
+Dummy most_frequent,n/a,n/a,Afghanistan,10,1,10,7,0,0.700000
+Dummy most_frequent,n/a,n/a,Austria,21,2,21,15,0,0.714286
+Dummy most_frequent,n/a,n/a,Bangladesh,6,1,6,3,0,0.500000
+Dummy most_frequent,n/a,n/a,Brazil,20,3,20,8,0,0.400000
+Dummy most_frequent,n/a,n/a,Cambodia,19,2,19,13,0,0.684211
+Dummy most_frequent,n/a,n/a,Chile,6,1,6,3,0,0.500000
+Dummy most_frequent,n/a,n/a,Colombia,16,2,16,10,0,0.625000
+Dummy most_frequent,n/a,n/a,Fiji,12,2,12,6,0,0.500000
+Dummy most_frequent,n/a,n/a,Germany,6,1,6,3,0,0.500000
+Dummy most_frequent,n/a,n/a,India,3,1,3,3,0,1.000000
+Dummy most_frequent,n/a,n/a,Iran,7,1,7,4,0,0.571429
+Dummy most_frequent,n/a,n/a,Iraq,9,1,9,6,0,0.666667
+Dummy most_frequent,n/a,n/a,Ireland,8,1,8,5,0,0.625000
+Dummy most_frequent,n/a,n/a,Israel,11,2,11,6,0,0.545455
+Dummy most_frequent,n/a,n/a,Italy,19,2,19,13,0,0.684211
+Dummy most_frequent,n/a,n/a,Japan,26,2,26,20,0,0.769231
+Dummy most_frequent,n/a,n/a,Kenya,6,1,6,3,0,0.500000
+Dummy most_frequent,n/a,n/a,Laos,7,1,7,4,0,0.571429
+Dummy most_frequent,n/a,n/a,Malaysia,11,1,11,8,0,0.727273
+Dummy most_frequent,n/a,n/a,Mauritius,18,2,18,10,0,0.555556
+Dummy most_frequent,n/a,n/a,Mexico,7,1,7,4,0,0.571429
+Dummy most_frequent,n/a,n/a,Myanmar,13,2,13,7,0,0.538462
+Dummy most_frequent,n/a,n/a,Nepal,14,2,14,8,0,0.571429
+Dummy most_frequent,n/a,n/a,Netherlands,17,1,17,14,0,0.823529
+Dummy most_frequent,n/a,n/a,New Zealand,8,1,8,4,0,0.500000
+Dummy most_frequent,n/a,n/a,North Macedonia,10,1,10,7,0,0.700000
+Dummy most_frequent,n/a,n/a,Palestinian Territories,14,2,14,8,0,0.571429
+Dummy most_frequent,n/a,n/a,Papua New Guinea,6,1,6,2,0,0.333333
+Dummy most_frequent,n/a,n/a,Philippines,20,2,20,14,0,0.700000
+Dummy most_frequent,n/a,n/a,Poland,14,1,14,11,0,0.785714
+Dummy most_frequent,n/a,n/a,Russia,22,3,22,12,0,0.545455
+Dummy most_frequent,n/a,n/a,Saudi Arabia,6,1,6,3,0,0.500000
+Dummy most_frequent,n/a,n/a,Somalia,8,1,8,5,0,0.625000
+Dummy most_frequent,n/a,n/a,South Africa,6,1,6,3,0,0.500000
+Dummy most_frequent,n/a,n/a,South Korea,20,2,20,14,0,0.700000
+Dummy most_frequent,n/a,n/a,Spain,7,1,7,4,0,0.571429
+Dummy most_frequent,n/a,n/a,Sudan,16,2,16,10,0,0.625000
+Dummy most_frequent,n/a,n/a,Sweden,9,1,9,6,0,0.666667
+Dummy most_frequent,n/a,n/a,Taiwan,26,2,26,20,0,0.769231
+Dummy most_frequent,n/a,n/a,Timor-Leste,7,1,7,4,0,0.571429
+Dummy most_frequent,n/a,n/a,United States Of America,4,1,4,4,0,1.000000
+Dummy most_frequent,n/a,n/a,Venezuela,19,2,19,13,0,0.684211
+Dummy most_frequent,n/a,n/a,Vietnam,7,1,7,4,0,0.571429
+Dummy stratified,n/a,n/a,Afghanistan,10,1,100,68,0,0.680000
+Dummy stratified,n/a,n/a,Austria,21,2,210,137,0,0.652381
+Dummy stratified,n/a,n/a,Bangladesh,6,1,60,39,0,0.650000
+Dummy stratified,n/a,n/a,Brazil,20,3,200,127,0,0.635000
+Dummy stratified,n/a,n/a,Cambodia,19,2,190,130,0,0.684211
+Dummy stratified,n/a,n/a,Chile,6,1,60,33,0,0.550000
+Dummy stratified,n/a,n/a,Colombia,16,2,160,109,0,0.681250
+Dummy stratified,n/a,n/a,Fiji,12,2,120,82,0,0.683333
+Dummy stratified,n/a,n/a,Germany,6,1,60,42,0,0.700000
+Dummy stratified,n/a,n/a,India,3,1,30,22,0,0.733333
+Dummy stratified,n/a,n/a,Iran,7,1,70,44,0,0.628571
+Dummy stratified,n/a,n/a,Iraq,9,1,90,56,0,0.622222
+Dummy stratified,n/a,n/a,Ireland,8,1,80,58,0,0.725000
+Dummy stratified,n/a,n/a,Israel,11,2,110,69,0,0.627273
+Dummy stratified,n/a,n/a,Italy,19,2,190,126,0,0.663158
+Dummy stratified,n/a,n/a,Japan,26,2,260,174,0,0.669231
+Dummy stratified,n/a,n/a,Kenya,6,1,60,36,0,0.600000
+Dummy stratified,n/a,n/a,Laos,7,1,70,44,0,0.628571
+Dummy stratified,n/a,n/a,Malaysia,11,1,110,74,0,0.672727
+Dummy stratified,n/a,n/a,Mauritius,18,2,180,111,0,0.616667
+Dummy stratified,n/a,n/a,Mexico,7,1,70,45,0,0.642857
+Dummy stratified,n/a,n/a,Myanmar,13,2,130,85,0,0.653846
+Dummy stratified,n/a,n/a,Nepal,14,2,140,90,0,0.642857
+Dummy stratified,n/a,n/a,Netherlands,17,1,170,118,0,0.694118
+Dummy stratified,n/a,n/a,New Zealand,8,1,80,54,0,0.675000
+Dummy stratified,n/a,n/a,North Macedonia,10,1,100,71,0,0.710000
+Dummy stratified,n/a,n/a,Palestinian Territories,14,2,140,97,0,0.692857
+Dummy stratified,n/a,n/a,Papua New Guinea,6,1,60,43,0,0.716667
+Dummy stratified,n/a,n/a,Philippines,20,2,200,140,0,0.700000
+Dummy stratified,n/a,n/a,Poland,14,1,140,102,0,0.728571
+Dummy stratified,n/a,n/a,Russia,22,3,220,137,0,0.622727
+Dummy stratified,n/a,n/a,Saudi Arabia,6,1,60,41,0,0.683333
+Dummy stratified,n/a,n/a,Somalia,8,1,80,52,0,0.650000
+Dummy stratified,n/a,n/a,South Africa,6,1,60,37,0,0.616667
+Dummy stratified,n/a,n/a,South Korea,20,2,200,136,0,0.680000
+Dummy stratified,n/a,n/a,Spain,7,1,70,49,0,0.700000
+Dummy stratified,n/a,n/a,Sudan,16,2,160,109,0,0.681250
+Dummy stratified,n/a,n/a,Sweden,9,1,90,56,0,0.622222
+Dummy stratified,n/a,n/a,Taiwan,26,2,260,185,0,0.711538
+Dummy stratified,n/a,n/a,Timor-Leste,7,1,70,41,0,0.585714
+Dummy stratified,n/a,n/a,United States Of America,4,1,40,28,0,0.700000
+Dummy stratified,n/a,n/a,Venezuela,19,2,190,128,0,0.673684
+Dummy stratified,n/a,n/a,Vietnam,7,1,70,52,0,0.742857
+Gemma,with,kept,Afghanistan,10,1,10,7,0,0.700000
+Gemma,with,kept,Austria,21,2,21,9,1,0.428571
+Gemma,with,kept,Bangladesh,6,1,6,1,0,0.166667
+Gemma,with,kept,Brazil,20,3,20,14,0,0.700000
+Gemma,with,kept,Cambodia,19,2,19,7,1,0.368421
+Gemma,with,kept,Chile,6,1,6,4,0,0.666667
+Gemma,with,kept,Colombia,16,2,16,5,0,0.312500
+Gemma,with,kept,Fiji,12,2,12,7,0,0.583333
+Gemma,with,kept,Germany,6,1,6,3,0,0.500000
+Gemma,with,kept,India,3,1,3,2,0,0.666667
+Gemma,with,kept,Iran,7,1,7,4,0,0.571429
+Gemma,with,kept,Iraq,9,1,9,8,0,0.888889
+Gemma,with,kept,Ireland,8,1,8,5,0,0.625000
+Gemma,with,kept,Israel,11,2,11,3,0,0.272727
+Gemma,with,kept,Italy,19,2,19,7,0,0.368421
+Gemma,with,kept,Japan,26,2,26,10,0,0.384615
+Gemma,with,kept,Kenya,6,1,6,3,0,0.500000
+Gemma,with,kept,Laos,7,1,7,4,0,0.571429
+Gemma,with,kept,Malaysia,11,1,11,6,0,0.545455
+Gemma,with,kept,Mauritius,18,2,18,7,0,0.388889
+Gemma,with,kept,Mexico,7,1,7,5,0,0.714286
+Gemma,with,kept,Myanmar,13,2,13,2,0,0.153846
+Gemma,with,kept,Nepal,14,2,14,5,0,0.357143
+Gemma,with,kept,Netherlands,17,1,17,5,0,0.294118
+Gemma,with,kept,New Zealand,8,1,8,4,0,0.500000
+Gemma,with,kept,North Macedonia,10,1,10,4,0,0.400000
+Gemma,with,kept,Palestinian Territories,14,2,14,8,0,0.571429
+Gemma,with,kept,Papua New Guinea,6,1,6,2,0,0.333333
+Gemma,with,kept,Philippines,20,2,20,14,1,0.700000
+Gemma,with,kept,Poland,14,1,14,3,0,0.214286
+Gemma,with,kept,Russia,22,3,22,14,0,0.636364
+Gemma,with,kept,Saudi Arabia,6,1,6,2,0,0.333333
+Gemma,with,kept,Somalia,8,1,8,3,0,0.375000
+Gemma,with,kept,South Africa,6,1,6,4,0,0.666667
+Gemma,with,kept,South Korea,20,2,20,6,0,0.300000
+Gemma,with,kept,Spain,7,1,7,5,0,0.714286
+Gemma,with,kept,Sudan,16,2,16,9,0,0.562500
+Gemma,with,kept,Sweden,9,1,9,3,0,0.333333
+Gemma,with,kept,Taiwan,26,2,26,9,1,0.346154
+Gemma,with,kept,Timor-Leste,7,1,7,4,0,0.571429
+Gemma,with,kept,United States Of America,4,1,4,0,0,0.000000
+Gemma,with,kept,Venezuela,19,2,19,11,1,0.578947
+Gemma,with,kept,Vietnam,7,1,7,3,0,0.428571
+Gemma,without,kept,Afghanistan,10,1,10,6,0,0.600000
+Gemma,without,kept,Austria,21,2,21,12,0,0.571429
+Gemma,without,kept,Bangladesh,6,1,6,1,0,0.166667
+Gemma,without,kept,Brazil,20,3,20,19,1,0.950000
+Gemma,without,kept,Cambodia,19,2,19,6,0,0.315789
+Gemma,without,kept,Chile,6,1,6,4,0,0.666667
+Gemma,without,kept,Colombia,16,2,16,7,0,0.437500
+Gemma,without,kept,Fiji,12,2,12,7,0,0.583333
+Gemma,without,kept,Germany,6,1,6,3,0,0.500000
+Gemma,without,kept,India,3,1,3,2,0,0.666667
+Gemma,without,kept,Iran,7,1,7,7,0,1.000000
+Gemma,without,kept,Iraq,9,1,9,6,0,0.666667
+Gemma,without,kept,Ireland,8,1,8,6,0,0.750000
+Gemma,without,kept,Israel,11,2,11,7,0,0.636364
+Gemma,without,kept,Italy,19,2,19,13,0,0.684211
+Gemma,without,kept,Japan,26,2,26,12,0,0.461538
+Gemma,without,kept,Kenya,6,1,6,6,0,1.000000
+Gemma,without,kept,Laos,7,1,7,4,0,0.571429
+Gemma,without,kept,Malaysia,11,1,11,8,0,0.727273
+Gemma,without,kept,Mauritius,18,2,18,10,0,0.555556
+Gemma,without,kept,Mexico,7,1,7,7,0,1.000000
+Gemma,without,kept,Myanmar,13,2,13,4,0,0.307692
+Gemma,without,kept,Nepal,14,2,14,8,0,0.571429
+Gemma,without,kept,Netherlands,17,1,17,5,0,0.294118
+Gemma,without,kept,New Zealand,8,1,8,6,0,0.750000
+Gemma,without,kept,North Macedonia,10,1,10,5,0,0.500000
+Gemma,without,kept,Palestinian Territories,14,2,14,7,0,0.500000
+Gemma,without,kept,Papua New Guinea,6,1,6,4,0,0.666667
+Gemma,without,kept,Philippines,20,2,20,15,0,0.750000
+Gemma,without,kept,Poland,14,1,14,8,0,0.571429
+Gemma,without,kept,Russia,22,3,22,14,0,0.636364
+Gemma,without,kept,Saudi Arabia,6,1,6,4,0,0.666667
+Gemma,without,kept,Somalia,8,1,8,5,0,0.625000
+Gemma,without,kept,South Africa,6,1,6,6,0,1.000000
+Gemma,without,kept,South Korea,20,2,20,5,0,0.250000
+Gemma,without,kept,Spain,7,1,7,5,0,0.714286
+Gemma,without,kept,Sudan,16,2,16,13,0,0.812500
+Gemma,without,kept,Sweden,9,1,9,4,0,0.444444
+Gemma,without,kept,Taiwan,26,2,26,5,1,0.192308
+Gemma,without,kept,Timor-Leste,7,1,7,5,0,0.714286
+Gemma,without,kept,United States Of America,4,1,4,1,0,0.250000
+Gemma,without,kept,Venezuela,19,2,19,10,1,0.526316
+Gemma,without,kept,Vietnam,7,1,7,4,0,0.571429
+InternLM,with,kept,Afghanistan,10,1,10,3,0,0.300000
+InternLM,with,kept,Austria,21,2,21,8,0,0.380952
+InternLM,with,kept,Bangladesh,6,1,6,2,0,0.333333
+InternLM,with,kept,Brazil,20,3,20,9,0,0.450000
+InternLM,with,kept,Cambodia,19,2,19,9,0,0.473684
+InternLM,with,kept,Chile,6,1,6,3,0,0.500000
+InternLM,with,kept,Colombia,16,2,16,5,0,0.312500
+InternLM,with,kept,Fiji,12,2,12,3,0,0.250000
+InternLM,with,kept,Germany,6,1,6,0,0,0.000000
+InternLM,with,kept,India,3,1,3,2,0,0.666667
+InternLM,with,kept,Iran,7,1,7,5,0,0.714286
+InternLM,with,kept,Iraq,9,1,9,3,0,0.333333
+InternLM,with,kept,Ireland,8,1,8,2,0,0.250000
+InternLM,with,kept,Israel,11,2,11,4,0,0.363636
+InternLM,with,kept,Italy,19,2,19,2,0,0.105263
+InternLM,with,kept,Japan,26,2,26,7,0,0.269231
+InternLM,with,kept,Kenya,6,1,6,4,0,0.666667
+InternLM,with,kept,Laos,7,1,7,4,0,0.571429
+InternLM,with,kept,Malaysia,11,1,11,5,0,0.454545
+InternLM,with,kept,Mauritius,18,2,18,6,0,0.333333
+InternLM,with,kept,Mexico,7,1,7,4,0,0.571429
+InternLM,with,kept,Myanmar,13,2,13,6,0,0.461538
+InternLM,with,kept,Nepal,14,2,14,5,0,0.357143
+InternLM,with,kept,Netherlands,17,1,17,5,0,0.294118
+InternLM,with,kept,New Zealand,8,1,8,2,0,0.250000
+InternLM,with,kept,North Macedonia,10,1,10,6,0,0.600000
+InternLM,with,kept,Palestinian Territories,14,2,14,5,0,0.357143
+InternLM,with,kept,Papua New Guinea,6,1,6,2,0,0.333333
+InternLM,with,kept,Philippines,20,2,20,10,0,0.500000
+InternLM,with,kept,Poland,14,1,14,6,0,0.428571
+InternLM,with,kept,Russia,22,3,22,7,0,0.318182
+InternLM,with,kept,Saudi Arabia,6,1,6,0,0,0.000000
+InternLM,with,kept,Somalia,8,1,8,4,0,0.500000
+InternLM,with,kept,South Africa,6,1,6,3,0,0.500000
+InternLM,with,kept,South Korea,20,2,20,4,0,0.200000
+InternLM,with,kept,Spain,7,1,7,2,0,0.285714
+InternLM,with,kept,Sudan,16,2,16,10,0,0.625000
+InternLM,with,kept,Sweden,9,1,9,1,0,0.111111
+InternLM,with,kept,Taiwan,26,2,26,2,0,0.076923
+InternLM,with,kept,Timor-Leste,7,1,7,1,0,0.142857
+InternLM,with,kept,United States Of America,4,1,4,1,0,0.250000
+InternLM,with,kept,Venezuela,19,2,19,7,0,0.368421
+InternLM,with,kept,Vietnam,7,1,7,3,0,0.428571
+InternLM,with,removed,Afghanistan,10,1,10,3,0,0.300000
+InternLM,with,removed,Austria,21,2,21,6,0,0.285714
+InternLM,with,removed,Bangladesh,6,1,6,2,0,0.333333
+InternLM,with,removed,Brazil,20,3,20,9,0,0.450000
+InternLM,with,removed,Cambodia,19,2,19,8,0,0.421053
+InternLM,with,removed,Chile,6,1,6,3,0,0.500000
+InternLM,with,removed,Colombia,16,2,16,4,0,0.250000
+InternLM,with,removed,Fiji,12,2,12,3,0,0.250000
+InternLM,with,removed,Germany,6,1,6,2,0,0.333333
+InternLM,with,removed,India,3,1,3,2,0,0.666667
+InternLM,with,removed,Iran,7,1,7,3,0,0.428571
+InternLM,with,removed,Iraq,9,1,9,3,0,0.333333
+InternLM,with,removed,Ireland,8,1,8,1,0,0.125000
+InternLM,with,removed,Israel,11,2,11,4,0,0.363636
+InternLM,with,removed,Italy,19,2,19,3,0,0.157895
+InternLM,with,removed,Japan,26,2,26,7,0,0.269231
+InternLM,with,removed,Kenya,6,1,6,4,0,0.666667
+InternLM,with,removed,Laos,7,1,7,4,0,0.571429
+InternLM,with,removed,Malaysia,11,1,11,6,0,0.545455
+InternLM,with,removed,Mauritius,18,2,18,6,0,0.333333
+InternLM,with,removed,Mexico,7,1,7,4,0,0.571429
+InternLM,with,removed,Myanmar,13,2,13,5,0,0.384615
+InternLM,with,removed,Nepal,14,2,14,6,0,0.428571
+InternLM,with,removed,Netherlands,17,1,17,4,0,0.235294
+InternLM,with,removed,New Zealand,8,1,8,3,0,0.375000
+InternLM,with,removed,North Macedonia,10,1,10,6,0,0.600000
+InternLM,with,removed,Palestinian Territories,14,2,14,5,0,0.357143
+InternLM,with,removed,Papua New Guinea,6,1,6,2,0,0.333333
+InternLM,with,removed,Philippines,20,2,20,12,0,0.600000
+InternLM,with,removed,Poland,14,1,14,6,0,0.428571
+InternLM,with,removed,Russia,22,3,22,9,0,0.409091
+InternLM,with,removed,Saudi Arabia,6,1,6,3,0,0.500000
+InternLM,with,removed,Somalia,8,1,8,4,0,0.500000
+InternLM,with,removed,South Africa,6,1,6,3,0,0.500000
+InternLM,with,removed,South Korea,20,2,20,5,0,0.250000
+InternLM,with,removed,Spain,7,1,7,2,0,0.285714
+InternLM,with,removed,Sudan,16,2,16,9,0,0.562500
+InternLM,with,removed,Sweden,9,1,9,1,0,0.111111
+InternLM,with,removed,Taiwan,26,2,26,3,0,0.115385
+InternLM,with,removed,Timor-Leste,7,1,7,1,0,0.142857
+InternLM,with,removed,United States Of America,4,1,4,0,0,0.000000
+InternLM,with,removed,Venezuela,19,2,19,8,0,0.421053
+InternLM,with,removed,Vietnam,7,1,7,3,0,0.428571
+InternLM,without,kept,Afghanistan,10,1,10,6,0,0.600000
+InternLM,without,kept,Austria,21,2,21,13,0,0.619048
+InternLM,without,kept,Bangladesh,6,1,6,4,0,0.666667
+InternLM,without,kept,Brazil,20,3,20,16,0,0.800000
+InternLM,without,kept,Cambodia,19,2,19,12,0,0.631579
+InternLM,without,kept,Chile,6,1,6,4,0,0.666667
+InternLM,without,kept,Colombia,16,2,16,7,0,0.437500
+InternLM,without,kept,Fiji,12,2,12,8,0,0.666667
+InternLM,without,kept,Germany,6,1,6,3,0,0.500000
+InternLM,without,kept,India,3,1,3,2,0,0.666667
+InternLM,without,kept,Iran,7,1,7,6,0,0.857143
+InternLM,without,kept,Iraq,9,1,9,6,0,0.666667
+InternLM,without,kept,Ireland,8,1,8,4,0,0.500000
+InternLM,without,kept,Israel,11,2,11,6,0,0.545455
+InternLM,without,kept,Italy,19,2,19,6,0,0.315789
+InternLM,without,kept,Japan,26,2,26,14,0,0.538462
+InternLM,without,kept,Kenya,6,1,6,6,0,1.000000
+InternLM,without,kept,Laos,7,1,7,6,0,0.857143
+InternLM,without,kept,Malaysia,11,1,11,6,0,0.545455
+InternLM,without,kept,Mauritius,18,2,18,7,0,0.388889
+InternLM,without,kept,Mexico,7,1,7,5,0,0.714286
+InternLM,without,kept,Myanmar,13,2,13,9,0,0.692308
+InternLM,without,kept,Nepal,14,2,14,11,0,0.785714
+InternLM,without,kept,Netherlands,17,1,17,9,0,0.529412
+InternLM,without,kept,New Zealand,8,1,8,4,0,0.500000
+InternLM,without,kept,North Macedonia,10,1,10,6,0,0.600000
+InternLM,without,kept,Palestinian Territories,14,2,14,10,0,0.714286
+InternLM,without,kept,Papua New Guinea,6,1,6,2,0,0.333333
+InternLM,without,kept,Philippines,20,2,20,12,0,0.600000
+InternLM,without,kept,Poland,14,1,14,7,0,0.500000
+InternLM,without,kept,Russia,22,3,22,16,0,0.727273
+InternLM,without,kept,Saudi Arabia,6,1,6,3,0,0.500000
+InternLM,without,kept,Somalia,8,1,8,5,0,0.625000
+InternLM,without,kept,South Africa,6,1,6,3,0,0.500000
+InternLM,without,kept,South Korea,20,2,20,14,0,0.700000
+InternLM,without,kept,Spain,7,1,7,6,0,0.857143
+InternLM,without,kept,Sudan,16,2,16,13,0,0.812500
+InternLM,without,kept,Sweden,9,1,9,4,0,0.444444
+InternLM,without,kept,Taiwan,26,2,26,8,0,0.307692
+InternLM,without,kept,Timor-Leste,7,1,7,4,0,0.571429
+InternLM,without,kept,United States Of America,4,1,4,3,0,0.750000
+InternLM,without,kept,Venezuela,19,2,19,9,0,0.473684
+InternLM,without,kept,Vietnam,7,1,7,5,0,0.714286
+InternLM,without,removed,Afghanistan,10,1,10,5,0,0.500000
+InternLM,without,removed,Austria,21,2,21,13,0,0.619048
+InternLM,without,removed,Bangladesh,6,1,6,4,0,0.666667
+InternLM,without,removed,Brazil,20,3,20,16,0,0.800000
+InternLM,without,removed,Cambodia,19,2,19,13,0,0.684211
+InternLM,without,removed,Chile,6,1,6,4,0,0.666667
+InternLM,without,removed,Colombia,16,2,16,6,0,0.375000
+InternLM,without,removed,Fiji,12,2,12,9,0,0.750000
+InternLM,without,removed,Germany,6,1,6,3,0,0.500000
+InternLM,without,removed,India,3,1,3,2,0,0.666667
+InternLM,without,removed,Iran,7,1,7,6,0,0.857143
+InternLM,without,removed,Iraq,9,1,9,6,0,0.666667
+InternLM,without,removed,Ireland,8,1,8,4,0,0.500000
+InternLM,without,removed,Israel,11,2,11,6,0,0.545455
+InternLM,without,removed,Italy,19,2,19,7,0,0.368421
+InternLM,without,removed,Japan,26,2,26,14,0,0.538462
+InternLM,without,removed,Kenya,6,1,6,6,0,1.000000
+InternLM,without,removed,Laos,7,1,7,6,0,0.857143
+InternLM,without,removed,Malaysia,11,1,11,7,0,0.636364
+InternLM,without,removed,Mauritius,18,2,18,8,0,0.444444
+InternLM,without,removed,Mexico,7,1,7,4,0,0.571429
+InternLM,without,removed,Myanmar,13,2,13,9,0,0.692308
+InternLM,without,removed,Nepal,14,2,14,10,0,0.714286
+InternLM,without,removed,Netherlands,17,1,17,8,0,0.470588
+InternLM,without,removed,New Zealand,8,1,8,6,0,0.750000
+InternLM,without,removed,North Macedonia,10,1,10,6,0,0.600000
+InternLM,without,removed,Palestinian Territories,14,2,14,12,0,0.857143
+InternLM,without,removed,Papua New Guinea,6,1,6,3,0,0.500000
+InternLM,without,removed,Philippines,20,2,20,13,0,0.650000
+InternLM,without,removed,Poland,14,1,14,6,0,0.428571
+InternLM,without,removed,Russia,22,3,22,15,0,0.681818
+InternLM,without,removed,Saudi Arabia,6,1,6,4,0,0.666667
+InternLM,without,removed,Somalia,8,1,8,4,0,0.500000
+InternLM,without,removed,South Africa,6,1,6,3,0,0.500000
+InternLM,without,removed,South Korea,20,2,20,12,0,0.600000
+InternLM,without,removed,Spain,7,1,7,4,0,0.571429
+InternLM,without,removed,Sudan,16,2,16,12,0,0.750000
+InternLM,without,removed,Sweden,9,1,9,4,0,0.444444
+InternLM,without,removed,Taiwan,26,2,26,10,0,0.384615
+InternLM,without,removed,Timor-Leste,7,1,7,4,0,0.571429
+InternLM,without,removed,United States Of America,4,1,4,3,0,0.750000
+InternLM,without,removed,Venezuela,19,2,19,10,0,0.526316
+InternLM,without,removed,Vietnam,7,1,7,5,0,0.714286
+Logistic Regression,with,kept,Afghanistan,10,1,10,1,0,0.100000
+Logistic Regression,with,kept,Austria,21,2,21,3,0,0.142857
+Logistic Regression,with,kept,Bangladesh,6,1,6,1,0,0.166667
+Logistic Regression,with,kept,Brazil,20,3,20,3,0,0.150000
+Logistic Regression,with,kept,Cambodia,19,2,19,3,0,0.157895
+Logistic Regression,with,kept,Chile,6,1,6,0,0,0.000000
+Logistic Regression,with,kept,Colombia,16,2,16,2,0,0.125000
+Logistic Regression,with,kept,Fiji,12,2,12,0,0,0.000000
+Logistic Regression,with,kept,Germany,6,1,6,0,0,0.000000
+Logistic Regression,with,kept,India,3,1,3,0,0,0.000000
+Logistic Regression,with,kept,Iran,7,1,7,0,0,0.000000
+Logistic Regression,with,kept,Iraq,9,1,9,1,0,0.111111
+Logistic Regression,with,kept,Ireland,8,1,8,1,0,0.125000
+Logistic Regression,with,kept,Israel,11,2,11,2,0,0.181818
+Logistic Regression,with,kept,Italy,19,2,19,0,0,0.000000
+Logistic Regression,with,kept,Japan,26,2,26,2,0,0.076923
+Logistic Regression,with,kept,Kenya,6,1,6,1,0,0.166667
+Logistic Regression,with,kept,Laos,7,1,7,2,0,0.285714
+Logistic Regression,with,kept,Malaysia,11,1,11,0,0,0.000000
+Logistic Regression,with,kept,Mauritius,18,2,18,2,0,0.111111
+Logistic Regression,with,kept,Mexico,7,1,7,0,0,0.000000
+Logistic Regression,with,kept,Myanmar,13,2,13,1,0,0.076923
+Logistic Regression,with,kept,Nepal,14,2,14,1,0,0.071429
+Logistic Regression,with,kept,Netherlands,17,1,17,2,0,0.117647
+Logistic Regression,with,kept,New Zealand,8,1,8,1,0,0.125000
+Logistic Regression,with,kept,North Macedonia,10,1,10,3,0,0.300000
+Logistic Regression,with,kept,Palestinian Territories,14,2,14,0,0,0.000000
+Logistic Regression,with,kept,Papua New Guinea,6,1,6,1,0,0.166667
+Logistic Regression,with,kept,Philippines,20,2,20,2,0,0.100000
+Logistic Regression,with,kept,Poland,14,1,14,3,0,0.214286
+Logistic Regression,with,kept,Russia,22,3,22,3,0,0.136364
+Logistic Regression,with,kept,Saudi Arabia,6,1,6,0,0,0.000000
+Logistic Regression,with,kept,Somalia,8,1,8,0,0,0.000000
+Logistic Regression,with,kept,South Africa,6,1,6,0,0,0.000000
+Logistic Regression,with,kept,South Korea,20,2,20,1,0,0.050000
+Logistic Regression,with,kept,Spain,7,1,7,1,0,0.142857
+Logistic Regression,with,kept,Sudan,16,2,16,1,0,0.062500
+Logistic Regression,with,kept,Sweden,9,1,9,1,0,0.111111
+Logistic Regression,with,kept,Taiwan,26,2,26,1,0,0.038462
+Logistic Regression,with,kept,Timor-Leste,7,1,7,0,0,0.000000
+Logistic Regression,with,kept,United States Of America,4,1,4,1,0,0.250000
+Logistic Regression,with,kept,Venezuela,19,2,19,0,0,0.000000
+Logistic Regression,with,kept,Vietnam,7,1,7,1,0,0.142857
+Logistic Regression,with,removed,Afghanistan,10,1,10,1,0,0.100000
+Logistic Regression,with,removed,Austria,21,2,21,5,0,0.238095
+Logistic Regression,with,removed,Bangladesh,6,1,6,1,0,0.166667
+Logistic Regression,with,removed,Brazil,20,3,20,5,0,0.250000
+Logistic Regression,with,removed,Cambodia,19,2,19,3,0,0.157895
+Logistic Regression,with,removed,Chile,6,1,6,1,0,0.166667
+Logistic Regression,with,removed,Colombia,16,2,16,5,0,0.312500
+Logistic Regression,with,removed,Fiji,12,2,12,0,0,0.000000
+Logistic Regression,with,removed,Germany,6,1,6,2,0,0.333333
+Logistic Regression,with,removed,India,3,1,3,3,0,1.000000
+Logistic Regression,with,removed,Iran,7,1,7,0,0,0.000000
+Logistic Regression,with,removed,Iraq,9,1,9,2,0,0.222222
+Logistic Regression,with,removed,Ireland,8,1,8,2,0,0.250000
+Logistic Regression,with,removed,Israel,11,2,11,2,0,0.181818
+Logistic Regression,with,removed,Italy,19,2,19,3,0,0.157895
+Logistic Regression,with,removed,Japan,26,2,26,3,0,0.115385
+Logistic Regression,with,removed,Kenya,6,1,6,4,0,0.666667
+Logistic Regression,with,removed,Laos,7,1,7,6,0,0.857143
+Logistic Regression,with,removed,Malaysia,11,1,11,0,0,0.000000
+Logistic Regression,with,removed,Mauritius,18,2,18,5,0,0.277778
+Logistic Regression,with,removed,Mexico,7,1,7,2,0,0.285714
+Logistic Regression,with,removed,Myanmar,13,2,13,2,0,0.153846
+Logistic Regression,with,removed,Nepal,14,2,14,1,0,0.071429
+Logistic Regression,with,removed,Netherlands,17,1,17,2,0,0.117647
+Logistic Regression,with,removed,New Zealand,8,1,8,3,0,0.375000
+Logistic Regression,with,removed,North Macedonia,10,1,10,4,0,0.400000
+Logistic Regression,with,removed,Palestinian Territories,14,2,14,0,0,0.000000
+Logistic Regression,with,removed,Papua New Guinea,6,1,6,0,0,0.000000
+Logistic Regression,with,removed,Philippines,20,2,20,5,0,0.250000
+Logistic Regression,with,removed,Poland,14,1,14,5,0,0.357143
+Logistic Regression,with,removed,Russia,22,3,22,7,0,0.318182
+Logistic Regression,with,removed,Saudi Arabia,6,1,6,0,0,0.000000
+Logistic Regression,with,removed,Somalia,8,1,8,0,0,0.000000
+Logistic Regression,with,removed,South Africa,6,1,6,1,0,0.166667
+Logistic Regression,with,removed,South Korea,20,2,20,3,0,0.150000
+Logistic Regression,with,removed,Spain,7,1,7,1,0,0.142857
+Logistic Regression,with,removed,Sudan,16,2,16,2,0,0.125000
+Logistic Regression,with,removed,Sweden,9,1,9,2,0,0.222222
+Logistic Regression,with,removed,Taiwan,26,2,26,4,0,0.153846
+Logistic Regression,with,removed,Timor-Leste,7,1,7,0,0,0.000000
+Logistic Regression,with,removed,United States Of America,4,1,4,1,0,0.250000
+Logistic Regression,with,removed,Venezuela,19,2,19,1,0,0.052632
+Logistic Regression,with,removed,Vietnam,7,1,7,1,0,0.142857
+Logistic Regression,without,kept,Afghanistan,10,1,10,1,0,0.100000
+Logistic Regression,without,kept,Austria,21,2,21,3,0,0.142857
+Logistic Regression,without,kept,Bangladesh,6,1,6,0,0,0.000000
+Logistic Regression,without,kept,Brazil,20,3,20,3,0,0.150000
+Logistic Regression,without,kept,Cambodia,19,2,19,2,0,0.105263
+Logistic Regression,without,kept,Chile,6,1,6,0,0,0.000000
+Logistic Regression,without,kept,Colombia,16,2,16,2,0,0.125000
+Logistic Regression,without,kept,Fiji,12,2,12,0,0,0.000000
+Logistic Regression,without,kept,Germany,6,1,6,0,0,0.000000
+Logistic Regression,without,kept,India,3,1,3,0,0,0.000000
+Logistic Regression,without,kept,Iran,7,1,7,0,0,0.000000
+Logistic Regression,without,kept,Iraq,9,1,9,1,0,0.111111
+Logistic Regression,without,kept,Ireland,8,1,8,1,0,0.125000
+Logistic Regression,without,kept,Israel,11,2,11,1,0,0.090909
+Logistic Regression,without,kept,Italy,19,2,19,1,0,0.052632
+Logistic Regression,without,kept,Japan,26,2,26,2,0,0.076923
+Logistic Regression,without,kept,Kenya,6,1,6,0,0,0.000000
+Logistic Regression,without,kept,Laos,7,1,7,0,0,0.000000
+Logistic Regression,without,kept,Malaysia,11,1,11,0,0,0.000000
+Logistic Regression,without,kept,Mauritius,18,2,18,2,0,0.111111
+Logistic Regression,without,kept,Mexico,7,1,7,0,0,0.000000
+Logistic Regression,without,kept,Myanmar,13,2,13,0,0,0.000000
+Logistic Regression,without,kept,Nepal,14,2,14,1,0,0.071429
+Logistic Regression,without,kept,Netherlands,17,1,17,1,0,0.058824
+Logistic Regression,without,kept,New Zealand,8,1,8,1,0,0.125000
+Logistic Regression,without,kept,North Macedonia,10,1,10,2,0,0.200000
+Logistic Regression,without,kept,Palestinian Territories,14,2,14,0,0,0.000000
+Logistic Regression,without,kept,Papua New Guinea,6,1,6,0,0,0.000000
+Logistic Regression,without,kept,Philippines,20,2,20,2,0,0.100000
+Logistic Regression,without,kept,Poland,14,1,14,2,0,0.142857
+Logistic Regression,without,kept,Russia,22,3,22,3,0,0.136364
+Logistic Regression,without,kept,Saudi Arabia,6,1,6,0,0,0.000000
+Logistic Regression,without,kept,Somalia,8,1,8,0,0,0.000000
+Logistic Regression,without,kept,South Africa,6,1,6,0,0,0.000000
+Logistic Regression,without,kept,South Korea,20,2,20,4,0,0.200000
+Logistic Regression,without,kept,Spain,7,1,7,1,0,0.142857
+Logistic Regression,without,kept,Sudan,16,2,16,1,0,0.062500
+Logistic Regression,without,kept,Sweden,9,1,9,0,0,0.000000
+Logistic Regression,without,kept,Taiwan,26,2,26,3,0,0.115385
+Logistic Regression,without,kept,Timor-Leste,7,1,7,1,0,0.142857
+Logistic Regression,without,kept,United States Of America,4,1,4,0,0,0.000000
+Logistic Regression,without,kept,Venezuela,19,2,19,0,0,0.000000
+Logistic Regression,without,kept,Vietnam,7,1,7,1,0,0.142857
+Logistic Regression,without,removed,Afghanistan,10,1,10,1,0,0.100000
+Logistic Regression,without,removed,Austria,21,2,21,8,0,0.380952
+Logistic Regression,without,removed,Bangladesh,6,1,6,0,0,0.000000
+Logistic Regression,without,removed,Brazil,20,3,20,7,0,0.350000
+Logistic Regression,without,removed,Cambodia,19,2,19,5,0,0.263158
+Logistic Regression,without,removed,Chile,6,1,6,0,0,0.000000
+Logistic Regression,without,removed,Colombia,16,2,16,7,0,0.437500
+Logistic Regression,without,removed,Fiji,12,2,12,2,0,0.166667
+Logistic Regression,without,removed,Germany,6,1,6,2,0,0.333333
+Logistic Regression,without,removed,India,3,1,3,1,0,0.333333
+Logistic Regression,without,removed,Iran,7,1,7,0,0,0.000000
+Logistic Regression,without,removed,Iraq,9,1,9,1,0,0.111111
+Logistic Regression,without,removed,Ireland,8,1,8,1,0,0.125000
+Logistic Regression,without,removed,Israel,11,2,11,2,0,0.181818
+Logistic Regression,without,removed,Italy,19,2,19,5,0,0.263158
+Logistic Regression,without,removed,Japan,26,2,26,6,0,0.230769
+Logistic Regression,without,removed,Kenya,6,1,6,2,0,0.333333
+Logistic Regression,without,removed,Laos,7,1,7,3,0,0.428571
+Logistic Regression,without,removed,Malaysia,11,1,11,0,0,0.000000
+Logistic Regression,without,removed,Mauritius,18,2,18,4,0,0.222222
+Logistic Regression,without,removed,Mexico,7,1,7,2,0,0.285714
+Logistic Regression,without,removed,Myanmar,13,2,13,1,0,0.076923
+Logistic Regression,without,removed,Nepal,14,2,14,2,0,0.142857
+Logistic Regression,without,removed,Netherlands,17,1,17,3,0,0.176471
+Logistic Regression,without,removed,New Zealand,8,1,8,2,0,0.250000
+Logistic Regression,without,removed,North Macedonia,10,1,10,5,0,0.500000
+Logistic Regression,without,removed,Palestinian Territories,14,2,14,0,0,0.000000
+Logistic Regression,without,removed,Papua New Guinea,6,1,6,0,0,0.000000
+Logistic Regression,without,removed,Philippines,20,2,20,3,0,0.150000
+Logistic Regression,without,removed,Poland,14,1,14,3,0,0.214286
+Logistic Regression,without,removed,Russia,22,3,22,4,0,0.181818
+Logistic Regression,without,removed,Saudi Arabia,6,1,6,0,0,0.000000
+Logistic Regression,without,removed,Somalia,8,1,8,1,0,0.125000
+Logistic Regression,without,removed,South Africa,6,1,6,1,0,0.166667
+Logistic Regression,without,removed,South Korea,20,2,20,7,0,0.350000
+Logistic Regression,without,removed,Spain,7,1,7,1,0,0.142857
+Logistic Regression,without,removed,Sudan,16,2,16,1,0,0.062500
+Logistic Regression,without,removed,Sweden,9,1,9,3,0,0.333333
+Logistic Regression,without,removed,Taiwan,26,2,26,4,0,0.153846
+Logistic Regression,without,removed,Timor-Leste,7,1,7,1,0,0.142857
+Logistic Regression,without,removed,United States Of America,4,1,4,2,0,0.500000
+Logistic Regression,without,removed,Venezuela,19,2,19,3,0,0.157895
+Logistic Regression,without,removed,Vietnam,7,1,7,3,0,0.428571
+Naive Bayes,with,kept,Afghanistan,10,1,10,6,0,0.600000
+Naive Bayes,with,kept,Austria,21,2,21,8,0,0.380952
+Naive Bayes,with,kept,Bangladesh,6,1,6,0,0,0.000000
+Naive Bayes,with,kept,Brazil,20,3,20,6,0,0.300000
+Naive Bayes,with,kept,Cambodia,19,2,19,4,0,0.210526
+Naive Bayes,with,kept,Chile,6,1,6,0,0,0.000000
+Naive Bayes,with,kept,Colombia,16,2,16,4,0,0.250000
+Naive Bayes,with,kept,Fiji,12,2,12,0,0,0.000000
+Naive Bayes,with,kept,Germany,6,1,6,2,0,0.333333
+Naive Bayes,with,kept,India,3,1,3,1,0,0.333333
+Naive Bayes,with,kept,Iran,7,1,7,0,0,0.000000
+Naive Bayes,with,kept,Iraq,9,1,9,2,0,0.222222
+Naive Bayes,with,kept,Ireland,8,1,8,2,0,0.250000
+Naive Bayes,with,kept,Israel,11,2,11,1,0,0.090909
+Naive Bayes,with,kept,Italy,19,2,19,3,0,0.157895
+Naive Bayes,with,kept,Japan,26,2,26,4,0,0.153846
+Naive Bayes,with,kept,Kenya,6,1,6,2,0,0.333333
+Naive Bayes,with,kept,Laos,7,1,7,3,0,0.428571
+Naive Bayes,with,kept,Malaysia,11,1,11,1,0,0.090909
+Naive Bayes,with,kept,Mauritius,18,2,18,5,0,0.277778
+Naive Bayes,with,kept,Mexico,7,1,7,3,0,0.428571
+Naive Bayes,with,kept,Myanmar,13,2,13,2,0,0.153846
+Naive Bayes,with,kept,Nepal,14,2,14,2,0,0.142857
+Naive Bayes,with,kept,Netherlands,17,1,17,3,0,0.176471
+Naive Bayes,with,kept,New Zealand,8,1,8,3,0,0.375000
+Naive Bayes,with,kept,North Macedonia,10,1,10,3,0,0.300000
+Naive Bayes,with,kept,Palestinian Territories,14,2,14,1,0,0.071429
+Naive Bayes,with,kept,Papua New Guinea,6,1,6,1,0,0.166667
+Naive Bayes,with,kept,Philippines,20,2,20,5,0,0.250000
+Naive Bayes,with,kept,Poland,14,1,14,0,0,0.000000
+Naive Bayes,with,kept,Russia,22,3,22,6,0,0.272727
+Naive Bayes,with,kept,Saudi Arabia,6,1,6,0,0,0.000000
+Naive Bayes,with,kept,Somalia,8,1,8,0,0,0.000000
+Naive Bayes,with,kept,South Africa,6,1,6,2,0,0.333333
+Naive Bayes,with,kept,South Korea,20,2,20,7,0,0.350000
+Naive Bayes,with,kept,Spain,7,1,7,1,0,0.142857
+Naive Bayes,with,kept,Sudan,16,2,16,4,0,0.250000
+Naive Bayes,with,kept,Sweden,9,1,9,1,0,0.111111
+Naive Bayes,with,kept,Taiwan,26,2,26,3,0,0.115385
+Naive Bayes,with,kept,Timor-Leste,7,1,7,1,0,0.142857
+Naive Bayes,with,kept,United States Of America,4,1,4,3,0,0.750000
+Naive Bayes,with,kept,Venezuela,19,2,19,2,0,0.105263
+Naive Bayes,with,kept,Vietnam,7,1,7,2,0,0.285714
+Naive Bayes,with,removed,Afghanistan,10,1,10,6,0,0.600000
+Naive Bayes,with,removed,Austria,21,2,21,9,0,0.428571
+Naive Bayes,with,removed,Bangladesh,6,1,6,1,0,0.166667
+Naive Bayes,with,removed,Brazil,20,3,20,6,0,0.300000
+Naive Bayes,with,removed,Cambodia,19,2,19,5,0,0.263158
+Naive Bayes,with,removed,Chile,6,1,6,0,0,0.000000
+Naive Bayes,with,removed,Colombia,16,2,16,6,0,0.375000
+Naive Bayes,with,removed,Fiji,12,2,12,0,0,0.000000
+Naive Bayes,with,removed,Germany,6,1,6,3,0,0.500000
+Naive Bayes,with,removed,India,3,1,3,2,0,0.666667
+Naive Bayes,with,removed,Iran,7,1,7,0,0,0.000000
+Naive Bayes,with,removed,Iraq,9,1,9,2,0,0.222222
+Naive Bayes,with,removed,Ireland,8,1,8,2,0,0.250000
+Naive Bayes,with,removed,Israel,11,2,11,3,0,0.272727
+Naive Bayes,with,removed,Italy,19,2,19,5,0,0.263158
+Naive Bayes,with,removed,Japan,26,2,26,7,0,0.269231
+Naive Bayes,with,removed,Kenya,6,1,6,2,0,0.333333
+Naive Bayes,with,removed,Laos,7,1,7,3,0,0.428571
+Naive Bayes,with,removed,Malaysia,11,1,11,1,0,0.090909
+Naive Bayes,with,removed,Mauritius,18,2,18,5,0,0.277778
+Naive Bayes,with,removed,Mexico,7,1,7,3,0,0.428571
+Naive Bayes,with,removed,Myanmar,13,2,13,2,0,0.153846
+Naive Bayes,with,removed,Nepal,14,2,14,1,0,0.071429
+Naive Bayes,with,removed,Netherlands,17,1,17,3,0,0.176471
+Naive Bayes,with,removed,New Zealand,8,1,8,5,0,0.625000
+Naive Bayes,with,removed,North Macedonia,10,1,10,4,0,0.400000
+Naive Bayes,with,removed,Palestinian Territories,14,2,14,1,0,0.071429
+Naive Bayes,with,removed,Papua New Guinea,6,1,6,0,0,0.000000
+Naive Bayes,with,removed,Philippines,20,2,20,6,0,0.300000
+Naive Bayes,with,removed,Poland,14,1,14,1,0,0.071429
+Naive Bayes,with,removed,Russia,22,3,22,6,0,0.272727
+Naive Bayes,with,removed,Saudi Arabia,6,1,6,1,0,0.166667
+Naive Bayes,with,removed,Somalia,8,1,8,0,0,0.000000
+Naive Bayes,with,removed,South Africa,6,1,6,2,0,0.333333
+Naive Bayes,with,removed,South Korea,20,2,20,9,0,0.450000
+Naive Bayes,with,removed,Spain,7,1,7,1,0,0.142857
+Naive Bayes,with,removed,Sudan,16,2,16,5,0,0.312500
+Naive Bayes,with,removed,Sweden,9,1,9,2,0,0.222222
+Naive Bayes,with,removed,Taiwan,26,2,26,4,0,0.153846
+Naive Bayes,with,removed,Timor-Leste,7,1,7,1,0,0.142857
+Naive Bayes,with,removed,United States Of America,4,1,4,2,0,0.500000
+Naive Bayes,with,removed,Venezuela,19,2,19,6,0,0.315789
+Naive Bayes,with,removed,Vietnam,7,1,7,2,0,0.285714
+Naive Bayes,without,kept,Afghanistan,10,1,10,2,0,0.200000
+Naive Bayes,without,kept,Austria,21,2,21,8,0,0.380952
+Naive Bayes,without,kept,Bangladesh,6,1,6,0,0,0.000000
+Naive Bayes,without,kept,Brazil,20,3,20,5,0,0.250000
+Naive Bayes,without,kept,Cambodia,19,2,19,4,0,0.210526
+Naive Bayes,without,kept,Chile,6,1,6,0,0,0.000000
+Naive Bayes,without,kept,Colombia,16,2,16,5,0,0.312500
+Naive Bayes,without,kept,Fiji,12,2,12,0,0,0.000000
+Naive Bayes,without,kept,Germany,6,1,6,3,0,0.500000
+Naive Bayes,without,kept,India,3,1,3,1,0,0.333333
+Naive Bayes,without,kept,Iran,7,1,7,0,0,0.000000
+Naive Bayes,without,kept,Iraq,9,1,9,1,0,0.111111
+Naive Bayes,without,kept,Ireland,8,1,8,1,0,0.125000
+Naive Bayes,without,kept,Israel,11,2,11,2,0,0.181818
+Naive Bayes,without,kept,Italy,19,2,19,6,0,0.315789
+Naive Bayes,without,kept,Japan,26,2,26,5,0,0.192308
+Naive Bayes,without,kept,Kenya,6,1,6,2,0,0.333333
+Naive Bayes,without,kept,Laos,7,1,7,2,0,0.285714
+Naive Bayes,without,kept,Malaysia,11,1,11,1,0,0.090909
+Naive Bayes,without,kept,Mauritius,18,2,18,4,0,0.222222
+Naive Bayes,without,kept,Mexico,7,1,7,3,0,0.428571
+Naive Bayes,without,kept,Myanmar,13,2,13,1,0,0.076923
+Naive Bayes,without,kept,Nepal,14,2,14,2,0,0.142857
+Naive Bayes,without,kept,Netherlands,17,1,17,2,0,0.117647
+Naive Bayes,without,kept,New Zealand,8,1,8,2,0,0.250000
+Naive Bayes,without,kept,North Macedonia,10,1,10,3,0,0.300000
+Naive Bayes,without,kept,Palestinian Territories,14,2,14,0,0,0.000000
+Naive Bayes,without,kept,Papua New Guinea,6,1,6,0,0,0.000000
+Naive Bayes,without,kept,Philippines,20,2,20,6,0,0.300000
+Naive Bayes,without,kept,Poland,14,1,14,0,0,0.000000
+Naive Bayes,without,kept,Russia,22,3,22,4,0,0.181818
+Naive Bayes,without,kept,Saudi Arabia,6,1,6,0,0,0.000000
+Naive Bayes,without,kept,Somalia,8,1,8,1,0,0.125000
+Naive Bayes,without,kept,South Africa,6,1,6,2,0,0.333333
+Naive Bayes,without,kept,South Korea,20,2,20,7,0,0.350000
+Naive Bayes,without,kept,Spain,7,1,7,1,0,0.142857
+Naive Bayes,without,kept,Sudan,16,2,16,2,0,0.125000
+Naive Bayes,without,kept,Sweden,9,1,9,0,0,0.000000
+Naive Bayes,without,kept,Taiwan,26,2,26,4,0,0.153846
+Naive Bayes,without,kept,Timor-Leste,7,1,7,1,0,0.142857
+Naive Bayes,without,kept,United States Of America,4,1,4,2,0,0.500000
+Naive Bayes,without,kept,Venezuela,19,2,19,2,0,0.105263
+Naive Bayes,without,kept,Vietnam,7,1,7,2,0,0.285714
+Naive Bayes,without,removed,Afghanistan,10,1,10,2,0,0.200000
+Naive Bayes,without,removed,Austria,21,2,21,9,0,0.428571
+Naive Bayes,without,removed,Bangladesh,6,1,6,1,0,0.166667
+Naive Bayes,without,removed,Brazil,20,3,20,5,0,0.250000
+Naive Bayes,without,removed,Cambodia,19,2,19,4,0,0.210526
+Naive Bayes,without,removed,Chile,6,1,6,0,0,0.000000
+Naive Bayes,without,removed,Colombia,16,2,16,5,0,0.312500
+Naive Bayes,without,removed,Fiji,12,2,12,1,0,0.083333
+Naive Bayes,without,removed,Germany,6,1,6,3,0,0.500000
+Naive Bayes,without,removed,India,3,1,3,1,0,0.333333
+Naive Bayes,without,removed,Iran,7,1,7,0,0,0.000000
+Naive Bayes,without,removed,Iraq,9,1,9,2,0,0.222222
+Naive Bayes,without,removed,Ireland,8,1,8,1,0,0.125000
+Naive Bayes,without,removed,Israel,11,2,11,2,0,0.181818
+Naive Bayes,without,removed,Italy,19,2,19,7,0,0.368421
+Naive Bayes,without,removed,Japan,26,2,26,7,0,0.269231
+Naive Bayes,without,removed,Kenya,6,1,6,2,0,0.333333
+Naive Bayes,without,removed,Laos,7,1,7,2,0,0.285714
+Naive Bayes,without,removed,Malaysia,11,1,11,1,0,0.090909
+Naive Bayes,without,removed,Mauritius,18,2,18,5,0,0.277778
+Naive Bayes,without,removed,Mexico,7,1,7,3,0,0.428571
+Naive Bayes,without,removed,Myanmar,13,2,13,1,0,0.076923
+Naive Bayes,without,removed,Nepal,14,2,14,2,0,0.142857
+Naive Bayes,without,removed,Netherlands,17,1,17,4,0,0.235294
+Naive Bayes,without,removed,New Zealand,8,1,8,2,0,0.250000
+Naive Bayes,without,removed,North Macedonia,10,1,10,4,0,0.400000
+Naive Bayes,without,removed,Palestinian Territories,14,2,14,1,0,0.071429
+Naive Bayes,without,removed,Papua New Guinea,6,1,6,1,0,0.166667
+Naive Bayes,without,removed,Philippines,20,2,20,6,0,0.300000
+Naive Bayes,without,removed,Poland,14,1,14,1,0,0.071429
+Naive Bayes,without,removed,Russia,22,3,22,5,0,0.227273
+Naive Bayes,without,removed,Saudi Arabia,6,1,6,0,0,0.000000
+Naive Bayes,without,removed,Somalia,8,1,8,1,0,0.125000
+Naive Bayes,without,removed,South Africa,6,1,6,2,0,0.333333
+Naive Bayes,without,removed,South Korea,20,2,20,9,0,0.450000
+Naive Bayes,without,removed,Spain,7,1,7,1,0,0.142857
+Naive Bayes,without,removed,Sudan,16,2,16,2,0,0.125000
+Naive Bayes,without,removed,Sweden,9,1,9,1,0,0.111111
+Naive Bayes,without,removed,Taiwan,26,2,26,6,0,0.230769
+Naive Bayes,without,removed,Timor-Leste,7,1,7,1,0,0.142857
+Naive Bayes,without,removed,United States Of America,4,1,4,3,0,0.750000
+Naive Bayes,without,removed,Venezuela,19,2,19,5,0,0.263158
+Naive Bayes,without,removed,Vietnam,7,1,7,2,0,0.285714

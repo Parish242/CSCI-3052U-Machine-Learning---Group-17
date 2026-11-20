@@ -1,0 +1,32 @@
+model,rule,question,group_type,ranked_by,group,n_stories,n_backgrounds,errors,error_rate
+Gemma,with,kept,country,most_errors,Brazil,20,3,14,0.700000
+Gemma,with,kept,country,most_errors,Philippines,20,2,14,0.700000
+Gemma,with,kept,country,most_errors,Russia,22,3,14,0.636364
+Gemma,with,kept,country,highest_rate,Afghanistan,10,1,7,0.700000
+Gemma,with,kept,country,highest_rate,Brazil,20,3,14,0.700000
+Gemma,with,kept,country,highest_rate,Philippines,20,2,14,0.700000
+Gemma,without,kept,country,most_errors,Brazil,20,3,19,0.950000
+Gemma,without,kept,country,highest_rate,Brazil,20,3,19,0.950000
+InternLM,with,kept,country,most_errors,Philippines,20,2,10,0.500000
+InternLM,with,kept,country,most_errors,Sudan,16,2,10,0.625000
+InternLM,with,kept,country,highest_rate,Sudan,16,2,10,0.625000
+InternLM,with,removed,country,most_errors,Philippines,20,2,12,0.600000
+InternLM,with,removed,country,highest_rate,North Macedonia,10,1,6,0.600000
+InternLM,with,removed,country,highest_rate,Philippines,20,2,12,0.600000
+InternLM,without,kept,country,most_errors,Brazil,20,3,16,0.800000
+InternLM,without,kept,country,most_errors,Russia,22,3,16,0.727273
+InternLM,without,kept,country,highest_rate,Sudan,16,2,13,0.812500
+InternLM,without,removed,country,most_errors,Brazil,20,3,16,0.800000
+InternLM,without,removed,country,highest_rate,Palestinian Territories,14,2,12,0.857143
+Gemma,with,kept,subaxis,most_errors,gift_giving,113,18,59,0.522124
+Gemma,with,kept,subaxis,highest_rate,gift_giving,113,18,59,0.522124
+Gemma,without,kept,subaxis,most_errors,basic_etiquette,129,15,76,0.589147
+Gemma,without,kept,subaxis,highest_rate,offering_and_complimenting_items,18,5,12,0.666667
+InternLM,with,kept,subaxis,most_errors,gift_giving,113,18,48,0.424779
+InternLM,with,kept,subaxis,highest_rate,offering_and_complimenting_items,18,5,9,0.500000
+InternLM,with,removed,subaxis,most_errors,basic_etiquette,129,15,47,0.364341
+InternLM,with,removed,subaxis,highest_rate,visiting,104,14,45,0.432692
+InternLM,without,kept,subaxis,most_errors,basic_etiquette,129,15,76,0.589147
+InternLM,without,kept,subaxis,highest_rate,offering_and_complimenting_items,18,5,15,0.833333
+InternLM,without,removed,subaxis,most_errors,basic_etiquette,129,15,79,0.612403
+InternLM,without,removed,subaxis,highest_rate,offering_and_complimenting_items,18,5,14,0.777778
