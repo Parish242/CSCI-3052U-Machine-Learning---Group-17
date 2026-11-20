@@ -241,6 +241,14 @@ def main():
             "Logistic Regression | With RoT | No Question",
             "Logistic Regression | Without RoT | No Question",
         ),
+        (
+            "Gemma | Without RoT",
+            "InternLM | Without RoT",
+        ),
+        (
+            "Gemma | With RoT",
+            "InternLM | With RoT",
+        ),
     ]
 
     diff_rows = []
