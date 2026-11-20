@@ -38,9 +38,18 @@ def evaluate(y_true, y_pred):
     return accuracy, precision, recall, f1
 
 # Grid search hyperparameter tuning
-def run_grid_search(pipeline, param_grid, X_train, y_train, X_test, y_test, cv_folds):
+def run_grid_search(pipeline, param_grid, X_train, y_train, X_test, y_test, cv_folds, tuning_name=None):
     grid_search = GridSearchCV(pipeline, param_grid, scoring="f1_macro", cv=cv_folds, n_jobs=-1)
     grid_search.fit(X_train, y_train)
+
+    # Tuning record: every configuration along with its mean/SD CV macro-F1 and rank
+    if tuning_name:
+        tuning_dir = RESULTS_DIR / "tuning"
+        tuning_dir.mkdir(parents=True, exist_ok=True)
+        cv_results = pd.DataFrame(grid_search.cv_results_)
+        keep = ["params", "mean_test_score", "std_test_score", "rank_test_score"]
+        keep += [c for c in cv_results.columns if c.startswith("split") and c.endswith("_test_score")]
+        cv_results[keep].sort_values("rank_test_score").to_csv(tuning_dir / f"{tuning_name}.csv", index=False)
 
     print(f"Best parameters: {grid_search.best_params_}")
     print(f"Best CV Macro F1: {grid_search.best_score_:.4f}")
@@ -160,7 +169,8 @@ def run_baselines():
         lr_result = run_grid_search(
             lr_pipeline, lr_param_grid,
             X_train_text, y_train,
-            X_test_text, y_test, cv_folds
+            X_test_text, y_test, cv_folds,
+            tuning_name=f"lr_{'with' if include_rule else 'without'}-rule_question-kept"
         )
 
         lr_result["model"] = "Logistic Regression"
@@ -179,7 +189,8 @@ def run_baselines():
         nb_result = run_grid_search(
             nb_pipeline, nb_param_grid,
             X_train_text, y_train,
-            X_test_text, y_test, cv_folds
+            X_test_text, y_test, cv_folds,
+            tuning_name=f"nb_{'with' if include_rule else 'without'}-rule_question-kept"
         )
 
         nb_result["model"] = "Naive Bayes"
@@ -232,7 +243,8 @@ def run_question_ablation():
         lr_result = run_grid_search(
             lr_pipeline, lr_param_grid,
             X_train_text, y_train,
-            X_test_text, y_test, cv_folds
+            X_test_text, y_test, cv_folds,
+            tuning_name=f"lr_{'with' if include_rule else 'without'}-rule_question-removed"
         )
 
         lr_result["model"] = "Logistic Regression"
@@ -251,7 +263,8 @@ def run_question_ablation():
         nb_result = run_grid_search(
             nb_pipeline, nb_param_grid,
             X_train_text, y_train,
-            X_test_text, y_test, cv_folds
+            X_test_text, y_test, cv_folds,
+            tuning_name=f"nb_{'with' if include_rule else 'without'}-rule_question-removed"
         )
 
         nb_result["model"] = "Naive Bayes"
