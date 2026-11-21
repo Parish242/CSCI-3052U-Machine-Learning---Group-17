@@ -10,19 +10,45 @@ notebooks/
   normad_eda.ipynb       Exploratory data analysis
   normad_internlm2_5_7b_inference.ipynb
                          InternLM-2.5-7B inference on NormAd (Colab T4)
+  Gemma-27B.ipynb        Gemma-2-27B inference, v2: paper prompts, same as InternLM (Kaggle, 2 GPUs; not run yet)
+  Gemma-27B_v1-prompt.ipynb
+                         Gemma-2-27B v1 prompt: closest code to the reported Gemma results (see its header)
 src/
   data_pipeline.py       Load NormAd (pinned revision) and build the train/val/test split
   baselines.py           Naive and TF-IDF baselines + grid search + question ablation
   score_llms.py          Score LLM predictions on the baseline test set and CV folds
+  export_test_predictions.py
+                         Per-item test predictions of the tuned classical models
+  paired_bootstrap.py    95% bootstrap CIs per model and paired differences between models
+  cluster_bootstrap_check.py
+                         Same differences, resampling whole Background passages instead of items
+  country_grouped_cv.py  Robustness: CV grouped by country (unseen countries) vs by Background
+  make_results.py        Main results table and Figures 1-2
+  error_analysis.py      Confusion matrices, per-country/subaxis errors, eight documented error cases
+  plot_style.py          Shared figure colors and style
 results/
   baseline_results.csv   Baseline table (written by src/baselines.py)
   baseline_results_no_question.csv
                          TF-IDF baselines with the final question removed (src/baselines.py)
+  tuning/                Every grid-search configuration and its per-fold CV scores (src/baselines.py)
   llm_test_scores.csv    LLM scores on the 521-item test set (src/score_llms.py)
   llm_cv_scores.csv      LLM scores per CV fold (src/score_llms.py)
-  <model>/<run>/         LLM outputs per model (not part of the baseline milestone);
-                         run = trial (50 rows) or full (includes question-ablation runs); each holds predictions with and
-                         without the rule-of-thumb, classification reports, and run notes
+  classical_test_predictions.csv
+                         Per-item classical test predictions (src/export_test_predictions.py)
+  bootstrap_ci.csv       95% test CIs per model (src/paired_bootstrap.py)
+  bootstrap_differences.csv
+                         Paired differences between models with 95% CIs (src/paired_bootstrap.py)
+  cluster_bootstrap_check.csv
+                         Item vs Background-cluster bootstrap CIs (src/cluster_bootstrap_check.py)
+  country_grouped_cv.csv, country_grouped_cv_folds.csv
+                         Country- vs Background-grouped CV, summary and per fold (src/country_grouped_cv.py)
+  main_table.csv, main_table.md
+                         Main results table (src/make_results.py)
+  figures/               Figures 1-2 (src/make_results.py)
+  error_analysis/        Error-analysis tables, confusion-matrix SVGs, and write-up (src/error_analysis.py)
+  <model>/<run>/         LLM outputs per model; run = trial (50 rows) or full (includes question-ablation
+                         runs); each holds predictions with and without the rule-of-thumb, classification
+                         reports, and run notes
 requirements.txt
 ```
 
@@ -107,19 +133,6 @@ Including rule-of-thumb information slightly reduced performance for both classi
 
 These findings suggest that adding rule-of-thumb information did not improve the classical TF-IDF baselines under the current experimental setup.
 
-### Exploratory Question Ablation (for Milestone 4)
-
-This ablation covers the TF-IDF baselines only. Rerunning both LLMs with the question removed or fixed to one wording is planned for Milestone 5.
-
-| Model | Rule-of-Thumb | CV Macro-F1 | Test Accuracy | Test Macro-F1 |
-|---|---|---:|---:|---:|
-| TF-IDF + Logistic Regression | Without | 0.7978 ± 0.0192 | 0.7908 | 0.7887 |
-| TF-IDF + Logistic Regression | With | 0.7974 ± 0.0155 | 0.8081 | 0.8086 |
-| TF-IDF + Multinomial Naive Bayes | Without | 0.7626 ± 0.0240 | 0.7639 | 0.7613 |
-| TF-IDF + Multinomial Naive Bayes | With | 0.7278 ± 0.0158 | 0.7409 | 0.7393 |
-
-Removing the question lowers Logistic Regression from 0.9191 to 0.7887 macro-F1, so part of the baseline score comes from the question template. With the question removed, the rule-of-thumb now helps Logistic Regression (0.7887 to 0.8086).
-
 ### LLM Scores on the Baseline Split
 
 `src/score_llms.py` scores the full-run LLM predictions in `results/<model>/full/` on the same 521-item test set and 5 CV folds as the baselines (`neutral` is mapped to `neither`; unparseable outputs count as errors):
@@ -141,9 +154,40 @@ python src/score_llms.py
 
 Removing the question lowers InternLM by only 0.02–0.03 test macro-F1, compared with 0.13 for Logistic Regression, so the question wording inflates the classical baselines much more than the LLM.
 
-### Reproducibility
+**Gemma prompt.** The reported Gemma results come from the v1 prompt, not the paper prompts InternLM uses, so the Gemma vs InternLM comparison mixes model and prompt.
 
-The classical baselines were executed using the following environment:
+### Uncertainty and Robustness
+
+```bash
+python src/export_test_predictions.py
+python src/paired_bootstrap.py
+python src/cluster_bootstrap_check.py
+python src/country_grouped_cv.py
+```
+
+- **Bootstrap CIs.** `paired_bootstrap.py` resamples the 521 test items to give a 95% percentile CI for each model's macro-F1 and for the paired difference between two models on the same items.
+- **Cluster check.** Test items come from 63 Background passages, so they are not independent. `cluster_bootstrap_check.py` resamples whole passages instead. CI bounds move by at most 0.0198, and only one conclusion changes: Gemma vs InternLM without the rule (+0.0675). Its item CI [0.0176, 0.1165] excludes 0, but its cluster CI [−0.0009, 0.1363] does not, so that difference is not significant.
+- **Unseen countries.** `country_grouped_cv.py` reruns the classical CV with folds grouped by country, so validation countries never appear in training. Logistic Regression keeps its score (0.9031 without the rule, 0.9124 with, question kept), so its accuracy is not a country lookup.
+
+### Main Results Table and Figures
+
+```bash
+python src/make_results.py
+```
+
+Reads whichever result CSVs exist and writes `results/main_table.csv` / `main_table.md` (CV mean ± SD, test accuracy, test macro-F1 with its 95% CI for every model and condition), `results/figures/fig1_test_macro_f1.png` and `results/figures/fig2_question_ablation.png`.
+
+### Error Analysis
+
+```bash
+python src/error_analysis.py
+```
+
+Uses the committed test predictions only. Writes per-model error summaries, confusion matrices (CSV plus `confusion_baselines.svg` and `confusion_llms.svg`), per-country and per-subaxis errors, LLM error hotspots, and eight hand-picked error cases (`example_errors.csv`) to `results/error_analysis/`. The script checks that each case is still an error. Per-country scores rest on 3–26 items per country, so read them with care. See the [error-analysis write-up](results/error_analysis/README.md) for the findings.
+
+### Reproducing Everything
+
+Run from the repository root, in this order: `baselines.py`, `score_llms.py`, `export_test_predictions.py`, `paired_bootstrap.py`, `cluster_bootstrap_check.py`, `country_grouped_cv.py`, `make_results.py`, `error_analysis.py`. LLM inference itself runs in the notebooks (GPU), not in these scripts; the scripts score the saved predictions.
 
 | Software | Version |
 |---|---|
@@ -151,17 +195,12 @@ The classical baselines were executed using the following environment:
 | scikit-learn | 1.9.1 |
 | pandas | 3.0.6 |
 | Hugging Face Datasets | 5.0.1 |
+| matplotlib | 3.11.2 |
 
-Dependencies are specified in `requirements.txt`.
+All dependencies are pinned in `requirements.txt`.
 
 The dataset is loaded from Hugging Face:
 [akhilayerukola/NormAd](https://huggingface.co/datasets/akhilayerukola/NormAd), pinned to revision `bb1a2997b6ab74b1f901493b15a67c2250a366c9` in `src/data_pipeline.py`. Rerunning `src/baselines.py` with this revision reproduces every value in `results/baseline_results.csv` exactly.
-
-The random seed, splitting strategy, cross-validation procedure, and hyperparameter search spaces are defined in `src/data_pipeline.py` and `src/baselines.py`.
-
-## Milestone 5 error analysis
-
-The [error analysis](results/error_analysis/README.md) compares all available models on the same 521 test stories. It links the confusion matrices, country and norm breakdowns, and eight examples traced to the prediction CSVs. Run `python src/error_analysis.py` from the repository root to regenerate the figures and tables.
 
 ## License and contributions
 
