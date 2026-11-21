@@ -11,7 +11,9 @@ With the original question kept, the two LLMs often answered **neither** when th
 | InternLM 2.5 7B | 310/521 | 182/521 | 157/174 | 115/174 |
 | Gemma 2 27B | 296/521 | 241/521 | 122/174 | 85/174 |
 
-Gemma also answered **neither** for 120/190 gold **yes** stories without the rule, versus 74/190 with it. Its unparseable replies (3 without the rule, 5 with it) are a separate column in the matrices. For comparison, logistic regression without the rule made 42/521 errors with the original question and 109/521 after the question was removed. Those are different input conditions; the 42-error result should not be read as performance without the question wording.
+The two LLM rows are not a controlled comparison between models. InternLM used the NormAd paper's prompts with 8-bit weights. Gemma's saved run used a custom prompt (answer “yes, no, or neutral”), 4-bit weights, and a 5-new-token reply limit (see its [run notes](../gemma-2-27b/full/gemma-2-27b_run-notes_full.txt)). The with/without-rule change within each model is the like-for-like comparison.
+
+Gemma also answered **neither** for 120/190 gold **yes** stories without the rule, versus 74/190 with it. Its unparseable replies (3 without the rule, 5 with it) are a separate column in the matrices. All 8 stop mid-sentence because Gemma's run capped replies at 5 new tokens. For comparison, logistic regression without the rule made 42/521 errors with the original question and 109/521 after the question was removed. Those are different input conditions; the 42-error result should not be read as performance without the question wording.
 
 [LLM confusion matrices](confusion_llms.svg) · [Classical and dummy matrices](confusion_baselines.svg) · [Exact counts for every matrix](confusion_matrices.csv) · [Scores and error totals](model_summary.csv)
 
@@ -37,7 +39,7 @@ Each cell shows **errors / test stories**. To avoid picking a group just because
 The [eight checked examples](example_errors.csv) include the story ID, configuration, gold and predicted labels, source prediction file, and a possible reason for each mistake. IDs can be looked up in [the cleaned dataset](../../data/normad_clean.csv).
 
 - **Missing context (ID 1403, Fiji):** A guest starts eating when the food arrives. InternLM answered **neither** without the rule; with the instruction to wait for the group and the blessing, it correctly answered **no**.
-- **Incomplete response (ID 889, Cambodia):** The story describes returning a scarf with both hands. Gemma's entire saved reply was “Mike's action is”. It gave no label, so the intended answer is unknown.
+- **Truncated response (ID 889, Cambodia):** The story describes returning a scarf with both hands. Gemma's entire saved reply was “Mike's action is”: the run capped replies at 5 new tokens, so a reply that did not open with the label was cut off. The intended answer is unknown.
 - **Conflicting annotation (ID 1609, New Zealand):** Logistic regression predicted **no** and the recorded gold label is **yes**, but the dataset's own explanation concludes that the action was unacceptable. We kept the published label for scoring and flagged the disagreement.
 
 These cases illustrate different error types; their frequency in this small selection is not a prevalence estimate. The explanations are interpretations of the text and outputs, not claims about a model's internal reasoning.

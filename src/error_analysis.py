@@ -144,7 +144,7 @@ CASES = [
      "The rule cannot settle the seating question. The negative answer may judge the guest's manners instead; without the rule Gemma answers neither."),
     ("889", "Gemma", "with", "kept", "yes", "unparseable",
      "Mike returns a scarf using both hands, which follows the supplied rule.",
-     "The saved output stops at \"Mike's action is\" and gives no label. This is a response-format failure; the intended label is unknown."),
+     "Gemma's run capped replies at 5 new tokens, so a reply that did not open with the label was cut off at \"Mike's action is\". The intended label is unknown."),
     ("1607", "Naive Bayes", "with", "kept", "no", "yes",
      "A guest returns a gift bag without putting anything inside.",
      "The return itself matches much of the rule's wording, but leaving the bag empty violates it. A word-based classifier can miss that negation."),
