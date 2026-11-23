@@ -13,3 +13,5 @@ Claude was used to suggest the code structure of `run_question_ablation`, using 
 Claude was used to suggest the code structure and template of `cluster_bootstrap_check.py` for the M5 robustness requirement. We wrote the code and reviewed its output in `cluster_bootstrap_test.csv`.
 
 ChatGPT was used to suggest the figures style and code structure of `plot_style.py`. We wrote the code and verified the look ourselves.
+
+Claude was used to organize our model runs and settings into an Experiment Log table for the report. We verified every row ourselves.
